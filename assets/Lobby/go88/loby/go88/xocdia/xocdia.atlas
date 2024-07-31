@@ -1,0 +1,83 @@
+
+xocdia.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 270, 1
+  size: 235, 373
+  orig: 235, 373
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 745, 1
+  size: 235, 151
+  orig: 235, 151
+  offset: 0, 0
+  index: -1
+KHUng
+  rotate: false
+  xy: 1, 1
+  size: 267, 399
+  orig: 267, 399
+  offset: 0, 0
+  index: -1
+coin 1
+  rotate: false
+  xy: 745, 154
+  size: 176, 180
+  orig: 176, 180
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 507, 227
+  size: 212, 137
+  orig: 212, 137
+  offset: 0, 0
+  index: -1
+bat up
+  rotate: false
+  xy: 507, 366
+  size: 192, 75
+  orig: 192, 75
+  offset: 0, 0
+  index: -1
+bat
+  rotate: false
+  xy: 849, 336
+  size: 141, 107
+  orig: 141, 107
+  offset: 0, 0
+  index: -1
+nut 1
+  rotate: false
+  xy: 849, 478
+  size: 77, 30
+  orig: 77, 30
+  offset: 0, 0
+  index: -1
+nut 2
+  rotate: false
+  xy: 849, 445
+  size: 77, 31
+  orig: 77, 31
+  offset: 0, 0
+  index: -1
+coin 2
+  rotate: false
+  xy: 721, 336
+  size: 126, 144
+  orig: 126, 144
+  offset: 0, 0
+  index: -1
+LIGHT1
+  rotate: false
+  xy: 507, 1
+  size: 236, 224
+  orig: 236, 224
+  offset: 0, 0
+  index: -1

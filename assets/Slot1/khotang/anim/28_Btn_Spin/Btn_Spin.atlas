@@ -1,0 +1,55 @@
+
+Btn_Spin.png
+size: 428,319
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ellipse 1
+  rotate: false
+  xy: 343, 243
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+dissible
+  rotate: false
+  xy: 2, 2
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+green
+  rotate: false
+  xy: 144, 2
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+green_eff
+  rotate: false
+  xy: 177, 153
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+red
+  rotate: false
+  xy: 286, 11
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+stop_icon
+  rotate: false
+  xy: 343, 168
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+texture_glow
+  rotate: false
+  xy: 2, 144
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1

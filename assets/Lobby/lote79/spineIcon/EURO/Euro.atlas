@@ -1,0 +1,55 @@
+
+Euro.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 661, 118
+  size: 184, 98
+  orig: 184, 98
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 356, 218
+  size: 282, 515
+  orig: 282, 515
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 356, 75
+  size: 303, 141
+  orig: 303, 141
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 873, 242
+  size: 258, 491
+  orig: 258, 491
+  offset: 0, 0
+  index: -1
+8d0337844d0e73b3a91c510a22192231a65b7d00cefb-suuUlb
+  rotate: false
+  xy: 1366, 246
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+Group 31213
+  rotate: false
+  xy: 1366, 374
+  size: 314, 126
+  orig: 314, 126
+  offset: 0, 0
+  index: -1
+Group 31244
+  rotate: false
+  xy: 2, 2
+  size: 352, 498
+  orig: 352, 498
+  offset: 0, 0
+  index: -1

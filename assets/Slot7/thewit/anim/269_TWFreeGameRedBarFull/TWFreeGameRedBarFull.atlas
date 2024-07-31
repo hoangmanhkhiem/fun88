@@ -1,0 +1,195 @@
+
+TWFreeGameRedBarFull.png
+size: 697,518
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bubble
+  rotate: true
+  xy: 494, 13
+  size: 156, 51
+  orig: 156, 51
+  offset: 0, 0
+  index: -1
+Gem Center
+  rotate: false
+  xy: 529, 242
+  size: 166, 104
+  orig: 166, 104
+  offset: 0, 0
+  index: -1
+Gem Center Glow
+  rotate: false
+  xy: 224, 103
+  size: 196, 136
+  orig: 196, 136
+  offset: 0, 0
+  index: -1
+Magic Bar Crop/Magic Bar Export_01
+  rotate: false
+  xy: 224, 315
+  size: 206, 25
+  orig: 206, 25
+  offset: 0, 0
+  index: -1
+Magic Bar Crop/Magic Bar Export_02
+  rotate: false
+  xy: 224, 342
+  size: 211, 33
+  orig: 211, 33
+  offset: 0, 0
+  index: -1
+Magic Bar Crop/Magic Bar Export_03
+  rotate: false
+  xy: 463, 348
+  size: 217, 38
+  orig: 217, 38
+  offset: 0, 0
+  index: -1
+Magic Bar Crop/Magic Bar Export_04
+  rotate: false
+  xy: 463, 388
+  size: 227, 54
+  orig: 227, 54
+  offset: 0, 0
+  index: -1
+Magic Bar Crop/Magic Bar Export_05
+  rotate: false
+  xy: 224, 451
+  size: 243, 65
+  orig: 243, 65
+  offset: 0, 0
+  index: -1
+Magic Bar Crop/Magic Bar Export_06
+  rotate: true
+  xy: 2, 266
+  size: 250, 72
+  orig: 250, 72
+  offset: 0, 0
+  index: -1
+Magic Bar Crop/Magic Bar Export_07
+  rotate: true
+  xy: 2, 14
+  size: 250, 72
+  orig: 250, 72
+  offset: 0, 0
+  index: -1
+Magic Bar Crop/Magic Bar Export_08
+  rotate: true
+  xy: 76, 266
+  size: 250, 72
+  orig: 250, 72
+  offset: 0, 0
+  index: -1
+Magic Bar Crop/Magic Bar Export_09
+  rotate: true
+  xy: 76, 14
+  size: 250, 72
+  orig: 250, 72
+  offset: 0, 0
+  index: -1
+Magic Bar Crop/Magic Bar Export_10
+  rotate: true
+  xy: 150, 266
+  size: 250, 72
+  orig: 250, 72
+  offset: 0, 0
+  index: -1
+Magic Bar Crop/Magic Bar Export_11
+  rotate: true
+  xy: 150, 14
+  size: 250, 72
+  orig: 250, 72
+  offset: 0, 0
+  index: -1
+Magic Bar Crop/Magic Bar Export_12
+  rotate: false
+  xy: 224, 377
+  size: 237, 72
+  orig: 237, 72
+  offset: 0, 0
+  index: -1
+Magic Bar Crop/Magic Bar Export_13
+  rotate: false
+  xy: 469, 444
+  size: 219, 72
+  orig: 219, 72
+  offset: 0, 0
+  index: -1
+Magic Bar Crop/Magic Bar Export_14
+  rotate: false
+  xy: 224, 241
+  size: 202, 72
+  orig: 202, 72
+  offset: 0, 0
+  index: -1
+Magic Bar Crop/Magic Bar Export_15
+  rotate: true
+  xy: 422, 24
+  size: 185, 70
+  orig: 185, 70
+  offset: 0, 0
+  index: -1
+Magic Bar Crop/Magic Bar Export_16
+  rotate: false
+  xy: 529, 171
+  size: 166, 69
+  orig: 166, 69
+  offset: 0, 0
+  index: -1
+Magic Bar Crop/Magic Bar Export_17
+  rotate: true
+  xy: 547, 19
+  size: 150, 68
+  orig: 150, 68
+  offset: 0, 0
+  index: -1
+Magic Bar Crop/Magic Bar Export_18
+  rotate: true
+  xy: 459, 212
+  size: 134, 68
+  orig: 134, 68
+  offset: 0, 0
+  index: -1
+Magic Bar Crop/Magic Bar Export_19
+  rotate: true
+  xy: 617, 51
+  size: 118, 68
+  orig: 118, 68
+  offset: 0, 0
+  index: -1
+Magic Bar Crop/Magic Bar Export_20
+  rotate: true
+  xy: 224, 3
+  size: 98, 67
+  orig: 98, 67
+  offset: 0, 0
+  index: -1
+Magic Bar Crop/Magic Bar Export_21
+  rotate: true
+  xy: 293, 24
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+Red Bar
+  rotate: true
+  xy: 437, 211
+  size: 164, 20
+  orig: 164, 20
+  offset: 0, 0
+  index: -1
+Red Bar Blur
+  rotate: true
+  xy: 360, 27
+  size: 74, 20
+  orig: 74, 20
+  offset: 0, 0
+  index: -1
+Red Bar Bright
+  rotate: false
+  xy: 293, 2
+  size: 164, 20
+  orig: 164, 20
+  offset: 0, 0
+  index: -1

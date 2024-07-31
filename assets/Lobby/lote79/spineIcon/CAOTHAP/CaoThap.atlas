@@ -1,0 +1,55 @@
+
+CaoThap.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 261, 250
+  orig: 261, 250
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 265, 26
+  size: 237, 226
+  orig: 237, 226
+  offset: 0, 0
+  index: -1
+CAOThap
+  rotate: false
+  xy: 711, 191
+  size: 217, 61
+  orig: 217, 61
+  offset: 0, 0
+  index: -1
+Group 31230
+  rotate: false
+  xy: 504, 92
+  size: 205, 160
+  orig: 205, 160
+  offset: 0, 0
+  index: -1
+Group 31231
+  rotate: true
+  xy: 711, 123
+  size: 66, 115
+  orig: 66, 115
+  offset: 0, 0
+  index: -1
+Group 31283
+  rotate: true
+  xy: 828, 113
+  size: 76, 95
+  orig: 76, 95
+  offset: 0, 0
+  index: -1
+MINI
+  rotate: false
+  xy: 504, 56
+  size: 93, 34
+  orig: 93, 34
+  offset: 0, 0
+  index: -1

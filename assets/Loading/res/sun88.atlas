@@ -1,0 +1,83 @@
+
+sun88.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+đèn oke-01
+  rotate: false
+  xy: 1, 1
+  size: 460, 463
+  orig: 665, 625
+  offset: 106, 63
+  index: -1
+sao 2-01
+  rotate: false
+  xy: 521, 847
+  size: 242, 160
+  orig: 257, 167
+  offset: 5, 1
+  index: -1
+sao 3-01
+  rotate: false
+  xy: 521, 684
+  size: 260, 161
+  orig: 272, 167
+  offset: 5, 4
+  index: -1
+khung-01
+  rotate: false
+  xy: 1, 466
+  size: 619, 216
+  orig: 625, 238
+  offset: 1, 16
+  index: -1
+bài-01
+  rotate: false
+  xy: 463, 1
+  size: 403, 261
+  orig: 411, 266
+  offset: 5, 0
+  index: -1
+bóng-01
+  rotate: false
+  xy: 463, 264
+  size: 556, 178
+  orig: 649, 232
+  offset: 44, 32
+  index: -1
+xúc xắc-01
+  rotate: false
+  xy: 868, 170
+  size: 78, 79
+  orig: 124, 107
+  offset: 24, 10
+  index: -1
+sun88-01
+  rotate: false
+  xy: 1, 684
+  size: 518, 151
+  orig: 649, 232
+  offset: 69, 44
+  index: -1
+sao 1-01
+  rotate: false
+  xy: 868, 108
+  size: 147, 60
+  orig: 203, 86
+  offset: 27, 7
+  index: -1
+sun88 trắng
+  rotate: false
+  xy: 1, 837
+  size: 518, 151
+  orig: 649, 232
+  offset: 69, 44
+  index: -1
+light-01
+  rotate: false
+  xy: 868, 1
+  size: 106, 105
+  orig: 106, 106
+  offset: 0, 0
+  index: -1

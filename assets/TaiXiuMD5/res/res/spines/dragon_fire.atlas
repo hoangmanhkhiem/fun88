@@ -1,0 +1,356 @@
+
+dragon_fire.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0013 shot
+  rotate: false
+  xy: 1, 1765
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0043 shot
+  rotate: false
+  xy: 505, 1261
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0009 shot
+  rotate: false
+  xy: 505, 1765
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0036 shot
+  rotate: false
+  xy: 253, 1261
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0002 shot
+  rotate: false
+  xy: 1513, 253
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0031 shot
+  rotate: false
+  xy: 1513, 757
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0040 shot
+  rotate: false
+  xy: 1009, 505
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0018 shot
+  rotate: false
+  xy: 757, 253
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0042 shot
+  rotate: false
+  xy: 1, 253
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0001 shot
+  rotate: false
+  xy: 757, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0046 shot
+  rotate: false
+  xy: 1765, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0007 shot
+  rotate: false
+  xy: 1009, 253
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0015 shot
+  rotate: false
+  xy: 757, 1513
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0017 shot
+  rotate: false
+  xy: 1, 1261
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0049 shot
+  rotate: false
+  xy: 1009, 1261
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0021 shot
+  rotate: false
+  xy: 757, 1261
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0037 shot
+  rotate: false
+  xy: 505, 505
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0028 shot
+  rotate: false
+  xy: 505, 757
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0050 shot
+  rotate: false
+  xy: 1765, 757
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0026 shot
+  rotate: false
+  xy: 1009, 757
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0033 shot
+  rotate: false
+  xy: 1, 1009
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0008 shot
+  rotate: false
+  xy: 1513, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0038 shot
+  rotate: false
+  xy: 253, 1009
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0041 shot
+  rotate: false
+  xy: 1765, 253
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0029 shot
+  rotate: false
+  xy: 1009, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0005 shot
+  rotate: false
+  xy: 1261, 505
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0047 shot
+  rotate: false
+  xy: 1, 757
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0019 shot
+  rotate: false
+  xy: 505, 1513
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0020 shot
+  rotate: false
+  xy: 757, 505
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0014 shot
+  rotate: false
+  xy: 253, 1513
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0039 shot
+  rotate: false
+  xy: 1261, 253
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0024 shot
+  rotate: false
+  xy: 505, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0023 shot
+  rotate: false
+  xy: 1261, 757
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0010 shot
+  rotate: false
+  xy: 253, 253
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0003 shot
+  rotate: false
+  xy: 253, 505
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0016 shot
+  rotate: false
+  xy: 505, 253
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0032 shot
+  rotate: false
+  xy: 757, 1765
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0022 shot
+  rotate: false
+  xy: 757, 1009
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0035 shot
+  rotate: false
+  xy: 1, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0011 shot
+  rotate: false
+  xy: 1009, 1009
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0006 shot
+  rotate: false
+  xy: 1, 1513
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0045 shot
+  rotate: false
+  xy: 757, 757
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0012 shot
+  rotate: false
+  xy: 253, 1765
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0025 shot
+  rotate: false
+  xy: 1513, 505
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0048 shot
+  rotate: false
+  xy: 1, 505
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0027 shot
+  rotate: false
+  xy: 253, 757
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0030 shot
+  rotate: false
+  xy: 1261, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0034 shot
+  rotate: false
+  xy: 253, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0044 shot
+  rotate: false
+  xy: 505, 1009
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+0004 shot
+  rotate: false
+  xy: 1765, 505
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1

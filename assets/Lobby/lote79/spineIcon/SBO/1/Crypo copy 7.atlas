@@ -1,0 +1,48 @@
+
+Crypo copy 7.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: true
+  xy: 2, 288
+  size: 711, 1292
+  orig: 711, 1292
+  offset: 0, 0
+  index: -1
+A
+  rotate: false
+  xy: 1296, 749
+  size: 261, 250
+  orig: 261, 250
+  offset: 0, 0
+  index: -1
+B
+  rotate: false
+  xy: 2, 2
+  size: 237, 226
+  orig: 237, 226
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 1296, 695
+  size: 92, 52
+  orig: 92, 52
+  offset: 0, 0
+  index: -1
+sbobet
+  rotate: false
+  xy: 2, 230
+  size: 283, 56
+  orig: 283, 56
+  offset: 0, 0
+  index: -1
+sport
+  rotate: false
+  xy: 287, 231
+  size: 229, 55
+  orig: 229, 55
+  offset: 0, 0
+  index: -1

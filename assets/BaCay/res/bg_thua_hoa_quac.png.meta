@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "6f009838-53c9-47c2-825b-0c5e7e957a06",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 182,
+  "height": 40,
+  "platformSettings": {},
+  "subMetas": {
+    "bg_thua_hoa_quac": {
+      "ver": "1.0.4",
+      "uuid": "ddfca57c-fc90-42bf-800b-fc3c6048e505",
+      "rawTextureUuid": "6f009838-53c9-47c2-825b-0c5e7e957a06",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 182,
+      "height": 40,
+      "rawWidth": 182,
+      "rawHeight": 40,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

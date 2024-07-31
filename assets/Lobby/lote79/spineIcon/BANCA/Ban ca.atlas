@@ -1,0 +1,48 @@
+
+Ban ca.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 80
+  rotate: false
+  xy: 2, 58
+  size: 234, 119
+  orig: 234, 119
+  offset: 0, 0
+  index: -1
+H
+  rotate: true
+  xy: 519, 203
+  size: 258, 491
+  orig: 258, 491
+  offset: 0, 0
+  index: -1
+K
+  rotate: true
+  xy: 2, 179
+  size: 282, 515
+  orig: 282, 515
+  offset: 0, 0
+  index: -1
+a
+  rotate: false
+  xy: 1350, 337
+  size: 198, 124
+  orig: 198, 124
+  offset: 0, 0
+  index: -1
+b
+  rotate: false
+  xy: 2, 2
+  size: 68, 54
+  orig: 68, 54
+  offset: 0, 0
+  index: -1
+c
+  rotate: true
+  xy: 1012, 149
+  size: 312, 336
+  orig: 312, 336
+  offset: 0, 0
+  index: -1

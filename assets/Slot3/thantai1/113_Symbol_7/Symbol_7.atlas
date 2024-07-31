@@ -1,0 +1,20 @@
+
+Symbol_7.png
+size: 118,100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Paper
+  rotate: true
+  xy: 2, 2
+  size: 96, 87
+  orig: 96, 87
+  offset: 0, 0
+  index: -1
+Scroll
+  rotate: true
+  xy: 91, 2
+  size: 96, 25
+  orig: 96, 25
+  offset: 0, 0
+  index: -1

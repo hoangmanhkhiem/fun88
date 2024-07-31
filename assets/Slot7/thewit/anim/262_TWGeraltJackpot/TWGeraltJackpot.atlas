@@ -1,0 +1,111 @@
+
+TWGeraltJackpot.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 148
+  size: 359, 574
+  orig: 359, 574
+  offset: 0, 0
+  index: -1
+Hair1
+  rotate: true
+  xy: 472, 73
+  size: 28, 81
+  orig: 28, 81
+  offset: 0, 0
+  index: -1
+Hair2
+  rotate: true
+  xy: 2, 2
+  size: 27, 84
+  orig: 27, 84
+  offset: 0, 0
+  index: -1
+Hair3
+  rotate: false
+  xy: 555, 23
+  size: 21, 78
+  orig: 21, 78
+  offset: 0, 0
+  index: -1
+Hair4
+  rotate: true
+  xy: 472, 40
+  size: 31, 57
+  orig: 31, 57
+  offset: 0, 0
+  index: -1
+Hair5
+  rotate: false
+  xy: 815, 139
+  size: 29, 83
+  orig: 29, 83
+  offset: 0, 0
+  index: -1
+Hair6
+  rotate: true
+  xy: 88, 7
+  size: 22, 74
+  orig: 22, 74
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: false
+  xy: 578, 17
+  size: 177, 85
+  orig: 177, 85
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: true
+  xy: 2, 31
+  size: 115, 468
+  orig: 115, 468
+  offset: 0, 0
+  index: -1
+fire_dust2
+  rotate: false
+  xy: 757, 47
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+kikimura
+  rotate: false
+  xy: 578, 224
+  size: 271, 283
+  orig: 271, 283
+  offset: 0, 0
+  index: -1
+kikimura_leg
+  rotate: true
+  xy: 578, 104
+  size: 118, 235
+  orig: 118, 235
+  offset: 0, 0
+  index: -1
+kikimura_leg1
+  rotate: false
+  xy: 472, 103
+  size: 104, 43
+  orig: 104, 43
+  offset: 0, 0
+  index: -1
+kikimura_shadow
+  rotate: false
+  xy: 851, 126
+  size: 165, 381
+  orig: 165, 381
+  offset: 0, 0
+  index: -1
+kikimura_tail
+  rotate: true
+  xy: 757, 54
+  size: 48, 115
+  orig: 48, 115
+  offset: 0, 0
+  index: -1

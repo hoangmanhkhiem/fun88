@@ -1,0 +1,90 @@
+
+ThanTai.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: false
+  xy: 464, 1
+  size: 273, 435
+  orig: 273, 435
+  offset: 0, 0
+  index: -1
+money
+  rotate: false
+  xy: 739, 1
+  size: 273, 259
+  orig: 273, 259
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 262, 438
+  size: 215, 209
+  orig: 215, 209
+  offset: 0, 0
+  index: -1
+thantai
+  rotate: false
+  xy: 739, 262
+  size: 259, 259
+  orig: 259, 259
+  offset: 0, 0
+  index: -1
+thantai2
+  rotate: false
+  xy: 1, 366
+  size: 259, 259
+  orig: 259, 259
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 1, 627
+  size: 216, 168
+  orig: 216, 168
+  offset: 0, 0
+  index: -1
+cai shen slots
+  rotate: false
+  xy: 219, 649
+  size: 272, 90
+  orig: 272, 90
+  offset: 0, 0
+  index: -1
+cai shen slots light
+  rotate: false
+  xy: 1, 797
+  size: 272, 90
+  orig: 272, 90
+  offset: 0, 0
+  index: -1
+c
+  rotate: false
+  xy: 262, 409
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 305, 366
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+par
+  rotate: false
+  xy: 262, 366
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+logo-casino-chung-phat
+  rotate: false
+  xy: 1, 1
+  size: 461, 363
+  orig: 600, 400
+  offset: 65, 25
+  index: -1

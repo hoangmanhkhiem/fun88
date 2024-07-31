@@ -1,0 +1,174 @@
+
+Voi-Ga-Ngua.png
+size: 157,1022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G-body
+  rotate: false
+  xy: 4, 444
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: -1
+G-bongcanh
+  rotate: true
+  xy: 89, 228
+  size: 103, 53
+  orig: 103, 53
+  offset: 0, 0
+  index: -1
+G-canhsau
+  rotate: true
+  xy: 85, 96
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+G-canhtruoc
+  rotate: false
+  xy: 88, 39
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+G-dau
+  rotate: true
+  xy: 106, 540
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+G-duoi
+  rotate: false
+  xy: 106, 585
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1
+N-dau
+  rotate: true
+  xy: 4, 18
+  size: 73, 80
+  orig: 73, 80
+  offset: 0, 0
+  index: -1
+N-hamduoi
+  rotate: true
+  xy: 123, 832
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+N-long1
+  rotate: false
+  xy: 88, 4
+  size: 60, 31
+  orig: 60, 31
+  offset: 0, 0
+  index: -1
+N-long2
+  rotate: false
+  xy: 107, 648
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1
+N-long3
+  rotate: true
+  xy: 107, 705
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+N-than
+  rotate: false
+  xy: 4, 642
+  size: 99, 106
+  orig: 99, 106
+  offset: 0, 0
+  index: -1
+Nbong1
+  rotate: true
+  xy: 130, 108
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+bongduoi
+  rotate: false
+  xy: 4, 335
+  size: 83, 105
+  orig: 83, 105
+  offset: 0, 0
+  index: -1
+khungtron
+  rotate: false
+  xy: 4, 752
+  size: 115, 116
+  orig: 115, 116
+  offset: 0, 0
+  index: -1
+sangtron
+  rotate: true
+  xy: 4, 872
+  size: 146, 140
+  orig: 146, 140
+  offset: 0, 0
+  index: -1
+sangvien
+  rotate: false
+  xy: 140, 68
+  size: 11, 36
+  orig: 11, 36
+  offset: 0, 0
+  index: -1
+v-body
+  rotate: false
+  xy: 4, 223
+  size: 81, 108
+  orig: 81, 108
+  offset: 0, 0
+  index: -1
+v-bongtai
+  rotate: false
+  xy: 123, 796
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+v-bongtren
+  rotate: false
+  xy: 91, 339
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+v-dau
+  rotate: false
+  xy: 4, 95
+  size: 77, 124
+  orig: 77, 124
+  offset: 0, 0
+  index: -1
+v-lotai
+  rotate: false
+  xy: 85, 139
+  size: 56, 80
+  orig: 56, 80
+  offset: 0, 0
+  index: -1
+v-voivoi
+  rotate: false
+  xy: 93, 458
+  size: 52, 78
+  orig: 52, 78
+  offset: 0, 0
+  index: -1
+vongton
+  rotate: false
+  xy: 4, 540
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1

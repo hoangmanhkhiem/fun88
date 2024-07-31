@@ -1,0 +1,181 @@
+
+TL_Symbol_Turtle_Gold.png
+size: 225,357
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 233
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 126, 292
+  size: 97, 63
+  orig: 97, 63
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: false
+  xy: 126, 224
+  size: 86, 66
+  orig: 86, 66
+  offset: 0, 0
+  index: -1
+Fx/Comp 1_00002
+  rotate: false
+  xy: 2, 200
+  size: 93, 31
+  orig: 93, 31
+  offset: 0, 0
+  index: -1
+Fx/Comp 1_00003
+  rotate: false
+  xy: 2, 167
+  size: 93, 31
+  orig: 93, 31
+  offset: 0, 0
+  index: -1
+Fx/Comp 1_00004
+  rotate: false
+  xy: 124, 191
+  size: 93, 31
+  orig: 93, 31
+  offset: 0, 0
+  index: -1
+Fx/Comp 1_00005
+  rotate: false
+  xy: 2, 134
+  size: 93, 31
+  orig: 93, 31
+  offset: 0, 0
+  index: -1
+Fx/Comp 1_00007
+  rotate: false
+  xy: 97, 123
+  size: 93, 31
+  orig: 93, 31
+  offset: 0, 0
+  index: -1
+Fx/Comp 1_00009
+  rotate: false
+  xy: 118, 158
+  size: 93, 31
+  orig: 93, 31
+  offset: 0, 0
+  index: -1
+Fx/Comp 1_00011
+  rotate: true
+  xy: 192, 63
+  size: 93, 31
+  orig: 93, 31
+  offset: 0, 0
+  index: -1
+Fx/Comp 1_00013
+  rotate: false
+  xy: 2, 101
+  size: 93, 31
+  orig: 93, 31
+  offset: 0, 0
+  index: -1
+Fx/Comp 1_00015
+  rotate: false
+  xy: 97, 90
+  size: 93, 31
+  orig: 93, 31
+  offset: 0, 0
+  index: -1
+Fx/Comp 1_00017
+  rotate: false
+  xy: 2, 68
+  size: 93, 31
+  orig: 93, 31
+  offset: 0, 0
+  index: -1
+Fx/Comp 1_00019
+  rotate: false
+  xy: 97, 57
+  size: 93, 31
+  orig: 93, 31
+  offset: 0, 0
+  index: -1
+Fx/Comp 1_00021
+  rotate: false
+  xy: 2, 35
+  size: 93, 31
+  orig: 93, 31
+  offset: 0, 0
+  index: -1
+Head_Turtle
+  rotate: false
+  xy: 2, 4
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+Head_Turtle_B
+  rotate: true
+  xy: 97, 156
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+Leg1
+  rotate: true
+  xy: 145, 19
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+Leg1_B
+  rotate: false
+  xy: 192, 2
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+Leg2
+  rotate: false
+  xy: 41, 6
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+Leg3
+  rotate: false
+  xy: 97, 192
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: true
+  xy: 192, 23
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+Sparkle
+  rotate: false
+  xy: 97, 6
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+Tail_L
+  rotate: false
+  xy: 75, 15
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 145, 2
+  size: 37, 15
+  orig: 37, 15
+  offset: 0, 0
+  index: -1

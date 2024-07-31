@@ -1,0 +1,202 @@
+
+Symbol_2.png
+size: 883,219
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light
+  rotate: false
+  xy: 2, 6
+  size: 211, 211
+  orig: 211, 211
+  offset: 0, 0
+  index: -1
+Sparkle
+  rotate: false
+  xy: 592, 40
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 505, 80
+  size: 129, 137
+  orig: 129, 137
+  offset: 0, 0
+  index: -1
+chanphai1 Glow
+  rotate: true
+  xy: 512, 14
+  size: 23, 63
+  orig: 23, 63
+  offset: 0, 0
+  index: -1
+chanphai1_glow
+  rotate: true
+  xy: 801, 14
+  size: 19, 52
+  orig: 19, 52
+  offset: 0, 0
+  index: -1
+chantrai1
+  rotate: true
+  xy: 512, 39
+  size: 39, 78
+  orig: 39, 78
+  offset: 0, 0
+  index: -1
+chantrai1 Glow
+  rotate: true
+  xy: 342, 18
+  size: 47, 93
+  orig: 47, 93
+  offset: 0, 0
+  index: -1
+chantrai1_glow
+  rotate: false
+  xy: 720, 2
+  size: 39, 78
+  orig: 39, 78
+  offset: 0, 0
+  index: -1
+chantrai2
+  rotate: true
+  xy: 864, 67
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+chantrai2 Glow
+  rotate: false
+  xy: 695, 53
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+chantrai2_glow
+  rotate: true
+  xy: 864, 46
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+chantrai3
+  rotate: true
+  xy: 720, 82
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+chantrai3 Glow
+  rotate: true
+  xy: 636, 75
+  size: 45, 82
+  orig: 45, 82
+  offset: 0, 0
+  index: -1
+chantrai3_glow
+  rotate: false
+  xy: 761, 12
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+chantrai4
+  rotate: false
+  xy: 695, 33
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+chantrai4 Glow
+  rotate: true
+  xy: 577, 9
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+chantrai4_glow
+  rotate: false
+  xy: 695, 13
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 801, 35
+  size: 61, 51
+  orig: 61, 51
+  offset: 0, 0
+  index: -1
+dau Glow
+  rotate: false
+  xy: 437, 4
+  size: 73, 61
+  orig: 73, 61
+  offset: 0, 0
+  index: -1
+dau_glow
+  rotate: false
+  xy: 632, 22
+  size: 61, 51
+  orig: 61, 51
+  offset: 0, 0
+  index: -1
+khung
+  rotate: false
+  xy: 215, 67
+  size: 143, 150
+  orig: 143, 150
+  offset: 0, 0
+  index: -1
+khung_glow
+  rotate: false
+  xy: 360, 67
+  size: 143, 150
+  orig: 143, 150
+  offset: 0, 0
+  index: -1
+tai
+  rotate: true
+  xy: 600, 2
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+tai Glow
+  rotate: false
+  xy: 600, 23
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+tai_glow
+  rotate: true
+  xy: 615, 2
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 636, 122
+  size: 154, 95
+  orig: 154, 95
+  offset: 0, 0
+  index: -1
+than_glow
+  rotate: true
+  xy: 792, 88
+  size: 129, 79
+  orig: 129, 79
+  offset: 0, 0
+  index: -1
+vang3
+  rotate: false
+  xy: 215, 18
+  size: 125, 47
+  orig: 125, 47
+  offset: 0, 0
+  index: -1

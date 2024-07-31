@@ -1,0 +1,139 @@
+
+skeleton.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin
+  rotate: false
+  xy: 2, 2
+  size: 127, 120
+  orig: 127, 120
+  offset: 0, 0
+  index: -1
+coin_00000
+  rotate: false
+  xy: 131, 124
+  size: 127, 120
+  orig: 127, 120
+  offset: 0, 0
+  index: -1
+coin_00001
+  rotate: false
+  xy: 131, 2
+  size: 127, 120
+  orig: 127, 120
+  offset: 0, 0
+  index: -1
+coin_00002
+  rotate: false
+  xy: 260, 124
+  size: 127, 120
+  orig: 127, 120
+  offset: 0, 0
+  index: -1
+coin_00003
+  rotate: false
+  xy: 260, 2
+  size: 127, 120
+  orig: 127, 120
+  offset: 0, 0
+  index: -1
+coin_00004
+  rotate: false
+  xy: 389, 124
+  size: 127, 120
+  orig: 127, 120
+  offset: 0, 0
+  index: -1
+coin_00005
+  rotate: false
+  xy: 389, 2
+  size: 127, 120
+  orig: 127, 120
+  offset: 0, 0
+  index: -1
+coin_00006
+  rotate: false
+  xy: 518, 124
+  size: 127, 120
+  orig: 127, 120
+  offset: 0, 0
+  index: -1
+coin_00007
+  rotate: false
+  xy: 518, 2
+  size: 127, 120
+  orig: 127, 120
+  offset: 0, 0
+  index: -1
+coin_00008
+  rotate: false
+  xy: 647, 124
+  size: 127, 120
+  orig: 127, 120
+  offset: 0, 0
+  index: -1
+coin_00009
+  rotate: false
+  xy: 647, 2
+  size: 127, 120
+  orig: 127, 120
+  offset: 0, 0
+  index: -1
+coin_00010
+  rotate: false
+  xy: 776, 124
+  size: 127, 120
+  orig: 127, 120
+  offset: 0, 0
+  index: -1
+coin_00011
+  rotate: false
+  xy: 776, 2
+  size: 127, 120
+  orig: 127, 120
+  offset: 0, 0
+  index: -1
+coin_00012
+  rotate: false
+  xy: 905, 124
+  size: 127, 120
+  orig: 127, 120
+  offset: 0, 0
+  index: -1
+coin_00013
+  rotate: false
+  xy: 905, 2
+  size: 127, 120
+  orig: 127, 120
+  offset: 0, 0
+  index: -1
+coin_00014
+  rotate: false
+  xy: 1034, 124
+  size: 127, 120
+  orig: 127, 120
+  offset: 0, 0
+  index: -1
+coin_00015
+  rotate: false
+  xy: 1034, 2
+  size: 127, 120
+  orig: 127, 120
+  offset: 0, 0
+  index: -1
+coin_00016
+  rotate: false
+  xy: 2, 124
+  size: 127, 120
+  orig: 127, 120
+  offset: 0, 0
+  index: -1
+scatter
+  rotate: false
+  xy: 1163, 211
+  size: 171, 33
+  orig: 171, 33
+  offset: 0, 0
+  index: -1

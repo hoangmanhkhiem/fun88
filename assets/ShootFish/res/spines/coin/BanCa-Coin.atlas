@@ -1,0 +1,62 @@
+
+BanCa-Coin.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Thang/Coin/images/Coin_01
+  rotate: false
+  xy: 2, 82
+  size: 64, 65
+  orig: 65, 65
+  offset: 1, 0
+  index: -1
+Thang/Coin/images/Coin_03
+  rotate: false
+  xy: 2, 15
+  size: 62, 65
+  orig: 65, 65
+  offset: 2, 0
+  index: -1
+Thang/Coin/images/Coin_04
+  rotate: false
+  xy: 135, 149
+  size: 43, 65
+  orig: 65, 65
+  offset: 6, 0
+  index: -1
+Thang/Coin/images/Coin_05
+  rotate: true
+  xy: 2, 2
+  size: 11, 65
+  orig: 65, 65
+  offset: 27, 0
+  index: -1
+Thang/Coin/images/Coin_06
+  rotate: false
+  xy: 66, 15
+  size: 43, 65
+  orig: 65, 65
+  offset: 15, 0
+  index: -1
+Thang/Coin/images/Coin_07
+  rotate: false
+  xy: 68, 82
+  size: 62, 65
+  orig: 65, 65
+  offset: 2, 0
+  index: -1
+Thang/Coin/images/Coin_08
+  rotate: false
+  xy: 2, 149
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+Thang/Coin/images/Coin_09
+  rotate: false
+  xy: 69, 149
+  size: 64, 65
+  orig: 65, 65
+  offset: 1, 0
+  index: -1

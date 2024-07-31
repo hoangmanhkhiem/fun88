@@ -1,0 +1,48 @@
+
+skeleton.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Untitled-1
+  rotate: false
+  xy: 1, 587
+  size: 235, 197
+  orig: 235, 204
+  offset: 0, 6
+  index: -1
+Light  4
+  rotate: false
+  xy: 238, 587
+  size: 253, 101
+  orig: 285, 112
+  offset: 6, 4
+  index: -1
+messi
+  rotate: false
+  xy: 1, 1
+  size: 361, 584
+  orig: 361, 584
+  offset: 0, 0
+  index: -1
+Group 31211
+  rotate: false
+  xy: 1, 786
+  size: 282, 85
+  orig: 284, 87
+  offset: 1, 1
+  index: -1
+Group 31212
+  rotate: false
+  xy: 238, 690
+  size: 171, 81
+  orig: 173, 83
+  offset: 1, 1
+  index: -1
+IBCLogo
+  rotate: false
+  xy: 285, 773
+  size: 150, 64
+  orig: 150, 64
+  offset: 0, 0
+  index: -1

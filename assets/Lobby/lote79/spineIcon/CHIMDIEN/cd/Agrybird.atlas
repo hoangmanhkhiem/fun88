@@ -1,0 +1,83 @@
+
+Agrybird.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 1, 1
+  size: 273, 435
+  orig: 273, 435
+  offset: 0, 0
+  index: -1
+dragon_fur
+  rotate: false
+  xy: 276, 1
+  size: 266, 256
+  orig: 266, 256
+  offset: 0, 0
+  index: -1
+dragon
+  rotate: false
+  xy: 276, 259
+  size: 231, 210
+  orig: 231, 210
+  offset: 0, 0
+  index: -1
+dragon_eye
+  rotate: false
+  xy: 697, 259
+  size: 208, 90
+  orig: 208, 90
+  offset: 0, 0
+  index: -1
+dragon_hand
+  rotate: false
+  xy: 840, 351
+  size: 97, 98
+  orig: 97, 98
+  offset: 0, 0
+  index: -1
+gem
+  rotate: false
+  xy: 509, 259
+  size: 186, 203
+  orig: 186, 203
+  offset: 0, 0
+  index: -1
+THU
+  rotate: false
+  xy: 697, 435
+  size: 109, 74
+  orig: 110, 74
+  offset: 1, 0
+  index: -1
+THAN
+  rotate: false
+  xy: 697, 351
+  size: 141, 82
+  orig: 142, 83
+  offset: 0, 1
+  index: -1
+sang38
+  rotate: false
+  xy: 1, 438
+  size: 248, 42
+  orig: 248, 42
+  offset: 0, 0
+  index: -1
+portrailt icon
+  rotate: false
+  xy: 808, 451
+  size: 33, 56
+  orig: 33, 56
+  offset: 0, 0
+  index: -1
+ssssss
+  rotate: false
+  xy: 907, 1
+  size: 49, 66
+  orig: 49, 66
+  offset: 0, 0
+  index: -1

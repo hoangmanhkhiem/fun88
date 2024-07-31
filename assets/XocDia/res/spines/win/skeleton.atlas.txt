@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 3
+  rotate: false
+  xy: 2, 48
+  size: 133, 43
+  orig: 133, 43
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: true
+  xy: 2, 93
+  size: 158, 159
+  orig: 158, 159
+  offset: 0, 0
+  index: -1
+Rectangle 6 copy 3
+  rotate: false
+  xy: 137, 2
+  size: 175, 53
+  orig: 175, 53
+  offset: 0, 0
+  index: -1
+Rectangle 6 copy 7
+  rotate: false
+  xy: 163, 57
+  size: 226, 44
+  orig: 226, 44
+  offset: 0, 0
+  index: -1
+Vector Smart Object
+  rotate: true
+  xy: 391, 3
+  size: 130, 104
+  orig: 130, 104
+  offset: 0, 0
+  index: -1
+Vector Smart Object copy 2
+  rotate: false
+  xy: 314, 135
+  size: 135, 116
+  orig: 135, 116
+  offset: 0, 0
+  index: -1
+e399e8c28cef2639a645f1feb3557da870d47ee4cc03-ra1rqH copy 3
+  rotate: true
+  xy: 163, 103
+  size: 148, 149
+  orig: 148, 149
+  offset: 0, 0
+  index: -1

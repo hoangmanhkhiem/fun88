@@ -1,0 +1,468 @@
+
+JACKPOT.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+22
+  rotate: true
+  xy: 1879, 1617
+  size: 159, 120
+  orig: 159, 120
+  offset: 0, 0
+  index: -1
+22-1
+  rotate: true
+  xy: 1908, 1456
+  size: 159, 120
+  orig: 159, 120
+  offset: 0, 0
+  index: -1
+3D copy 3
+  rotate: false
+  xy: 960, 1594
+  size: 790, 166
+  orig: 790, 166
+  offset: 0, 0
+  index: -1
+3D copy 4
+  rotate: true
+  xy: 2, 406
+  size: 790, 166
+  orig: 790, 166
+  offset: 0, 0
+  index: -1
+3D copy 5
+  rotate: false
+  xy: 960, 1762
+  size: 904, 284
+  orig: 904, 284
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 914, 610
+  size: 85, 120
+  orig: 85, 120
+  offset: 0, 0
+  index: -1
+4 copy
+  rotate: true
+  xy: 1227, 429
+  size: 85, 120
+  orig: 85, 120
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 759, 109
+  size: 82, 126
+  orig: 82, 126
+  offset: 0, 0
+  index: -1
+8 copy
+  rotate: false
+  xy: 1689, 725
+  size: 82, 126
+  orig: 82, 126
+  offset: 0, 0
+  index: -1
+BODY LỘC
+  rotate: false
+  xy: 170, 539
+  size: 346, 379
+  orig: 346, 379
+  offset: 0, 0
+  index: -1
+BODY PHÚC
+  rotate: false
+  xy: 518, 551
+  size: 333, 367
+  orig: 333, 367
+  offset: 0, 0
+  index: -1
+BODY THỌ
+  rotate: true
+  xy: 745, 1191
+  size: 259, 219
+  orig: 259, 219
+  offset: 0, 0
+  index: -1
+GAY
+  rotate: true
+  xy: 1280, 920
+  size: 121, 227
+  orig: 121, 227
+  offset: 0, 0
+  index: -1
+GOLD
+  rotate: false
+  xy: 1566, 713
+  size: 121, 138
+  orig: 121, 138
+  offset: 0, 0
+  index: -1
+HOLO
+  rotate: false
+  xy: 1556, 15
+  size: 72, 90
+  orig: 72, 90
+  offset: 0, 0
+  index: -1
+Layer 575
+  rotate: false
+  xy: 170, 920
+  size: 548, 276
+  orig: 548, 276
+  offset: 0, 0
+  index: -1
+Layer 577
+  rotate: false
+  xy: 2, 1198
+  size: 741, 252
+  orig: 741, 252
+  offset: 0, 0
+  index: -1
+Layer 579
+  rotate: false
+  xy: 853, 615
+  size: 29, 327
+  orig: 29, 327
+  offset: 0, 0
+  index: -1
+Layer 580
+  rotate: false
+  xy: 884, 615
+  size: 28, 327
+  orig: 28, 327
+  offset: 0, 0
+  index: -1
+LỘC
+  rotate: true
+  xy: 1439, 713
+  size: 205, 125
+  orig: 205, 125
+  offset: 0, 0
+  index: -1
+MIỆNG LỘC
+  rotate: true
+  xy: 1477, 2
+  size: 103, 77
+  orig: 103, 77
+  offset: 0, 0
+  index: -1
+NHẬN
+  rotate: true
+  xy: 1866, 1778
+  size: 268, 122
+  orig: 268, 122
+  offset: 0, 0
+  index: -1
+NÓN PHẢI
+  rotate: false
+  xy: 2, 7
+  size: 101, 74
+  orig: 101, 74
+  offset: 0, 0
+  index: -1
+NÓN TRÁI
+  rotate: true
+  xy: 170, 442
+  size: 95, 68
+  orig: 95, 68
+  offset: 0, 0
+  index: -1
+PHÁO
+  rotate: false
+  xy: 243, 112
+  size: 279, 111
+  orig: 279, 111
+  offset: 0, 0
+  index: -1
+RÂU PHÚC
+  rotate: true
+  xy: 853, 568
+  size: 45, 58
+  orig: 45, 58
+  offset: 0, 0
+  index: -1
+RÂU THỌ
+  rotate: false
+  xy: 1990, 1953
+  size: 39, 93
+  orig: 39, 93
+  offset: 0, 0
+  index: -1
+TAY PHẢI LỘC
+  rotate: false
+  xy: 1752, 1598
+  size: 125, 162
+  orig: 125, 162
+  offset: 0, 0
+  index: -1
+TAY TRAI THỌ
+  rotate: false
+  xy: 1509, 965
+  size: 55, 76
+  orig: 55, 76
+  offset: 0, 0
+  index: -1
+boom_win_01
+  rotate: false
+  xy: 1760, 1078
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+boom_win_02
+  rotate: false
+  xy: 1035, 764
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+boom_win_03
+  rotate: false
+  xy: 1237, 718
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+boom_win_04
+  rotate: false
+  xy: 1035, 562
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+boom_win_05
+  rotate: false
+  xy: 1237, 516
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+boom_win_06
+  rotate: false
+  xy: 1439, 511
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+boom_win_07
+  rotate: false
+  xy: 1566, 853
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+boom_win_08
+  rotate: false
+  xy: 1768, 876
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+boom_win_09
+  rotate: false
+  xy: 1641, 511
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+boom_win_10
+  rotate: false
+  xy: 871, 360
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+boom_win_11
+  rotate: false
+  xy: 871, 158
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+boom_win_12
+  rotate: false
+  xy: 1073, 205
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+boom_win_13
+  rotate: false
+  xy: 1073, 3
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+boom_win_14
+  rotate: false
+  xy: 557, 35
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+boom_win_15
+  rotate: false
+  xy: 1275, 227
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+boom_win_16
+  rotate: false
+  xy: 1275, 25
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+boom_win_17
+  rotate: false
+  xy: 1477, 309
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+boom_win_18
+  rotate: false
+  xy: 1477, 107
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+boom_win_19
+  rotate: false
+  xy: 1679, 309
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+boom_win_20
+  rotate: false
+  xy: 1679, 107
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+boom_win_21
+  rotate: false
+  xy: 1843, 674
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lông mày thọ
+  rotate: true
+  xy: 1908, 1319
+  size: 135, 80
+  orig: 135, 80
+  offset: 0, 0
+  index: -1
+phaohoa_00001
+  rotate: false
+  xy: 759, 47
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+phaohoa_00002
+  rotate: false
+  xy: 1073, 407
+  size: 152, 153
+  orig: 152, 153
+  offset: 0, 0
+  index: -1
+phaohoa_00003
+  rotate: true
+  xy: 720, 944
+  size: 245, 239
+  orig: 245, 239
+  offset: 0, 0
+  index: -1
+phaohoa_00004
+  rotate: false
+  xy: 966, 1280
+  size: 312, 312
+  orig: 312, 312
+  offset: 0, 0
+  index: -1
+phaohoa_00005
+  rotate: false
+  xy: 1280, 1280
+  size: 312, 312
+  orig: 312, 312
+  offset: 0, 0
+  index: -1
+phaohoa_00006
+  rotate: false
+  xy: 1594, 1280
+  size: 312, 312
+  orig: 312, 312
+  offset: 0, 0
+  index: -1
+phaohoa_00007
+  rotate: false
+  xy: 243, 225
+  size: 312, 312
+  orig: 312, 312
+  offset: 0, 0
+  index: -1
+phaohoa_00008
+  rotate: false
+  xy: 557, 237
+  size: 312, 312
+  orig: 312, 312
+  offset: 0, 0
+  index: -1
+phaohoa_00009
+  rotate: false
+  xy: 966, 966
+  size: 312, 312
+  orig: 312, 312
+  offset: 0, 0
+  index: -1
+trúng  XX LQMP
+  rotate: false
+  xy: 2, 1750
+  size: 956, 296
+  orig: 956, 296
+  offset: 0, 0
+  index: -1
+trúng  XX LQMP copy
+  rotate: false
+  xy: 2, 1452
+  size: 956, 296
+  orig: 956, 296
+  offset: 0, 0
+  index: -1
+ĐẦU LỘC
+  rotate: true
+  xy: 2, 83
+  size: 321, 239
+  orig: 321, 239
+  offset: 0, 0
+  index: -1
+ĐẦU PHÚC
+  rotate: false
+  xy: 1517, 1055
+  size: 241, 223
+  orig: 241, 223
+  offset: 0, 0
+  index: -1
+ĐẦU THỌ
+  rotate: false
+  xy: 1280, 1043
+  size: 235, 235
+  orig: 235, 235
+  offset: 0, 0
+  index: -1
+ĐỐT
+  rotate: true
+  xy: 914, 732
+  size: 210, 119
+  orig: 210, 119
+  offset: 0, 0
+  index: -1

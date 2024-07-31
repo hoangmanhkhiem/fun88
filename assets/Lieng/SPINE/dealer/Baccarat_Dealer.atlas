@@ -1,0 +1,132 @@
+
+Baccarat_Dealer.png
+size: 520,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm
+  rotate: false
+  xy: 482, 49
+  size: 29, 104
+  orig: 29, 104
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 17
+  size: 86, 135
+  orig: 86, 135
+  offset: 0, 0
+  index: -1
+Bubble Invite Bet
+  rotate: false
+  xy: 2, 205
+  size: 175, 49
+  orig: 175, 49
+  offset: 0, 0
+  index: -1
+Bubble Stop Bet
+  rotate: false
+  xy: 2, 154
+  size: 175, 49
+  orig: 175, 49
+  offset: 0, 0
+  index: -1
+Card
+  rotate: false
+  xy: 482, 155
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+Card Box
+  rotate: true
+  xy: 423, 78
+  size: 116, 57
+  orig: 116, 57
+  offset: 0, 0
+  index: -1
+Card Trash
+  rotate: false
+  xy: 316, 2
+  size: 79, 55
+  orig: 79, 55
+  offset: 0, 0
+  index: -1
+Forearm 1
+  rotate: true
+  xy: 332, 196
+  size: 58, 121
+  orig: 58, 121
+  offset: 0, 0
+  index: -1
+Forearm 2
+  rotate: false
+  xy: 183, 59
+  size: 58, 121
+  orig: 58, 121
+  offset: 0, 0
+  index: -1
+Forearm 3
+  rotate: false
+  xy: 243, 59
+  size: 58, 121
+  orig: 58, 121
+  offset: 0, 0
+  index: -1
+Forearm 4
+  rotate: false
+  xy: 303, 59
+  size: 58, 121
+  orig: 58, 121
+  offset: 0, 0
+  index: -1
+Forearm 5
+  rotate: false
+  xy: 363, 73
+  size: 58, 121
+  orig: 58, 121
+  offset: 0, 0
+  index: -1
+Forearm 6
+  rotate: true
+  xy: 183, 11
+  size: 46, 131
+  orig: 46, 131
+  offset: 0, 0
+  index: -1
+Forearm Shadow
+  rotate: true
+  xy: 179, 182
+  size: 72, 151
+  orig: 72, 151
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 90, 32
+  size: 91, 120
+  orig: 91, 120
+  offset: 0, 0
+  index: -1
+Hair Back
+  rotate: false
+  xy: 397, 21
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 455, 208
+  size: 46, 60
+  orig: 46, 60
+  offset: 0, 0
+  index: -1
+Jewelry
+  rotate: false
+  xy: 455, 196
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1

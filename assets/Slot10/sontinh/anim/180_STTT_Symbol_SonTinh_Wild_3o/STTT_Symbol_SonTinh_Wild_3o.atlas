@@ -1,0 +1,307 @@
+
+STTT_Symbol_SonTinh_Wild_3o.png
+size: 990,607
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Axe Heat
+  rotate: false
+  xy: 818, 183
+  size: 167, 55
+  orig: 167, 55
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 495, 5
+  size: 163, 230
+  orig: 163, 230
+  offset: 0, 0
+  index: -1
+Dust
+  rotate: true
+  xy: 508, 371
+  size: 234, 71
+  orig: 234, 71
+  offset: 0, 0
+  index: -1
+Frame Light
+  rotate: false
+  xy: 581, 380
+  size: 31, 225
+  orig: 31, 225
+  offset: 0, 0
+  index: -1
+Gem Sparkle
+  rotate: true
+  xy: 753, 492
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+Hit
+  rotate: true
+  xy: 152, 23
+  size: 200, 198
+  orig: 200, 198
+  offset: 0, 0
+  index: -1
+Rock/Rock 1
+  rotate: false
+  xy: 352, 2
+  size: 52, 227
+  orig: 52, 227
+  offset: 0, 0
+  index: -1
+Rock/Rock 2
+  rotate: false
+  xy: 818, 113
+  size: 158, 68
+  orig: 158, 68
+  offset: 0, 0
+  index: -1
+Rock/Rock 3
+  rotate: true
+  xy: 717, 163
+  size: 165, 90
+  orig: 165, 90
+  offset: 0, 0
+  index: -1
+Rock/Rock 4
+  rotate: false
+  xy: 2, 10
+  size: 65, 212
+  orig: 65, 212
+  offset: 0, 0
+  index: -1
+Rock/Rock 5
+  rotate: false
+  xy: 406, 3
+  size: 87, 228
+  orig: 87, 228
+  offset: 0, 0
+  index: -1
+Rock/Rock 6
+  rotate: false
+  xy: 69, 19
+  size: 81, 203
+  orig: 81, 203
+  offset: 0, 0
+  index: -1
+Smoke
+  rotate: true
+  xy: 268, 348
+  size: 257, 129
+  orig: 257, 129
+  offset: 0, 0
+  index: -1
+Sparkle
+  rotate: false
+  xy: 772, 57
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+Wild
+  rotate: true
+  xy: 696, 413
+  size: 192, 55
+  orig: 192, 55
+  offset: 0, 0
+  index: -1
+Wild Bright
+  rotate: true
+  xy: 660, 44
+  size: 192, 55
+  orig: 192, 55
+  offset: 0, 0
+  index: -1
+chanphai
+  rotate: false
+  xy: 400, 233
+  size: 70, 130
+  orig: 70, 130
+  offset: 0, 0
+  index: -1
+chantrai
+  rotate: true
+  xy: 141, 225
+  size: 91, 130
+  orig: 91, 130
+  offset: 0, 0
+  index: -1
+dau
+  rotate: true
+  xy: 52, 224
+  size: 92, 87
+  orig: 92, 87
+  offset: 0, 0
+  index: -1
+daychuyen
+  rotate: false
+  xy: 753, 549
+  size: 63, 56
+  orig: 63, 56
+  offset: 0, 0
+  index: -1
+hong
+  rotate: true
+  xy: 818, 426
+  size: 179, 168
+  orig: 179, 168
+  offset: 0, 0
+  index: -1
+long1
+  rotate: true
+  xy: 152, 2
+  size: 19, 66
+  orig: 19, 66
+  offset: 0, 0
+  index: -1
+long2
+  rotate: true
+  xy: 220, 2
+  size: 19, 51
+  orig: 19, 51
+  offset: 0, 0
+  index: -1
+long3
+  rotate: true
+  xy: 684, 382
+  size: 21, 44
+  orig: 21, 44
+  offset: 0, 0
+  index: -1
+long4
+  rotate: true
+  xy: 614, 381
+  size: 22, 68
+  orig: 22, 68
+  offset: 0, 0
+  index: -1
+long5
+  rotate: false
+  xy: 818, 3
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+long6
+  rotate: false
+  xy: 689, 337
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+longduoiST
+  rotate: true
+  xy: 273, 231
+  size: 115, 125
+  orig: 115, 125
+  offset: 0, 0
+  index: -1
+longtrenST
+  rotate: false
+  xy: 584, 238
+  size: 103, 140
+  orig: 103, 140
+  offset: 0, 0
+  index: -1
+riu
+  rotate: true
+  xy: 52, 318
+  size: 287, 107
+  orig: 287, 107
+  offset: 0, 0
+  index: -1
+riu2
+  rotate: true
+  xy: 161, 318
+  size: 287, 105
+  orig: 287, 105
+  offset: 0, 0
+  index: -1
+set1
+  rotate: false
+  xy: 827, 70
+  size: 156, 41
+  orig: 156, 41
+  offset: 0, 0
+  index: -1
+set2
+  rotate: false
+  xy: 660, 4
+  size: 156, 38
+  orig: 156, 38
+  offset: 0, 0
+  index: -1
+tayphai
+  rotate: true
+  xy: 717, 52
+  size: 109, 53
+  orig: 109, 53
+  offset: 0, 0
+  index: -1
+taytrai
+  rotate: true
+  xy: 472, 237
+  size: 126, 110
+  orig: 126, 110
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 814, 240
+  size: 174, 184
+  orig: 174, 184
+  offset: 0, 0
+  index: -1
+thanh-doc
+  rotate: false
+  xy: 2, 224
+  size: 23, 381
+  orig: 23, 381
+  offset: 0, 0
+  index: -1
+thanh-docBright
+  rotate: false
+  xy: 27, 224
+  size: 23, 381
+  orig: 23, 381
+  offset: 0, 0
+  index: -1
+thanh-ngang
+  rotate: true
+  xy: 614, 405
+  size: 200, 39
+  orig: 200, 39
+  offset: 0, 0
+  index: -1
+thanh-ngangBright
+  rotate: true
+  xy: 655, 405
+  size: 200, 39
+  orig: 200, 39
+  offset: 0, 0
+  index: -1
+toc
+  rotate: true
+  xy: 730, 330
+  size: 81, 82
+  orig: 81, 82
+  offset: 0, 0
+  index: -1
+vaithatlung
+  rotate: false
+  xy: 399, 365
+  size: 107, 240
+  orig: 107, 240
+  offset: 0, 0
+  index: -1
+vang
+  rotate: true
+  xy: 753, 425
+  size: 65, 59
+  orig: 65, 59
+  offset: 0, 0
+  index: -1

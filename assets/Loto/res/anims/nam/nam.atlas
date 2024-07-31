@@ -1,0 +1,76 @@
+
+nam.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 12
+  rotate: false
+  xy: 241, 114
+  size: 131, 120
+  orig: 131, 120
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: false
+  xy: 636, 194
+  size: 113, 40
+  orig: 113, 40
+  offset: 0, 0
+  index: -1
+Layer 14
+  rotate: false
+  xy: 2, 2
+  size: 237, 232
+  orig: 237, 232
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: false
+  xy: 374, 159
+  size: 176, 75
+  orig: 176, 75
+  offset: 0, 0
+  index: -1
+Layer 16
+  rotate: true
+  xy: 552, 161
+  size: 73, 82
+  orig: 73, 82
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: false
+  xy: 636, 167
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+Layer 18
+  rotate: false
+  xy: 864, 185
+  size: 54, 49
+  orig: 54, 49
+  offset: 0, 0
+  index: -1
+Layer 19
+  rotate: false
+  xy: 374, 125
+  size: 137, 32
+  orig: 137, 32
+  offset: 0, 0
+  index: -1
+Layer 20
+  rotate: false
+  xy: 241, 8
+  size: 128, 104
+  orig: 128, 104
+  offset: 0, 0
+  index: -1
+Layer 21
+  rotate: false
+  xy: 751, 192
+  size: 111, 42
+  orig: 111, 42
+  offset: 0, 0
+  index: -1

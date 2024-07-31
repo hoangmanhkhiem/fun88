@@ -1,0 +1,300 @@
+
+TL_Symbol_Dragon_Gold.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 182, 410
+  size: 56, 100
+  orig: 56, 100
+  offset: 0, 0
+  index: -1
+Beard
+  rotate: false
+  xy: 185, 125
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+Beard10
+  rotate: false
+  xy: 238, 365
+  size: 16, 43
+  orig: 16, 43
+  offset: 0, 0
+  index: -1
+Beard2
+  rotate: false
+  xy: 185, 51
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+Beard3
+  rotate: false
+  xy: 190, 170
+  size: 52, 20
+  orig: 52, 20
+  offset: 0, 0
+  index: -1
+Beard4
+  rotate: false
+  xy: 185, 74
+  size: 50, 21
+  orig: 50, 21
+  offset: 0, 0
+  index: -1
+Beard5
+  rotate: false
+  xy: 155, 2
+  size: 21, 50
+  orig: 21, 50
+  offset: 0, 0
+  index: -1
+Beard6
+  rotate: false
+  xy: 150, 84
+  size: 17, 66
+  orig: 17, 66
+  offset: 0, 0
+  index: -1
+Beard7
+  rotate: false
+  xy: 232, 109
+  size: 22, 59
+  orig: 22, 59
+  offset: 0, 0
+  index: -1
+Beard8
+  rotate: true
+  xy: 185, 97
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+Beard9
+  rotate: false
+  xy: 127, 4
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+Bread_Mouth
+  rotate: true
+  xy: 2, 3
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+Bread_Mouth2
+  rotate: false
+  xy: 240, 434
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+Bread_Mouth3
+  rotate: false
+  xy: 240, 412
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+Bread_Mouth4
+  rotate: false
+  xy: 150, 54
+  size: 11, 28
+  orig: 11, 28
+  offset: 0, 0
+  index: -1
+Bread_Mouth5
+  rotate: false
+  xy: 238, 327
+  size: 15, 36
+  orig: 15, 36
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 240, 459
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+Eyebrow
+  rotate: false
+  xy: 240, 474
+  size: 14, 36
+  orig: 14, 36
+  offset: 0, 0
+  index: -1
+Fang
+  rotate: false
+  xy: 163, 54
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+Frame
+  rotate: false
+  xy: 182, 186
+  size: 6, 120
+  orig: 6, 120
+  offset: 0, 0
+  index: -1
+Frame_Bottom
+  rotate: true
+  xy: 169, 77
+  size: 73, 6
+  orig: 73, 6
+  offset: 0, 0
+  index: -1
+Frame_Top
+  rotate: true
+  xy: 177, 77
+  size: 73, 6
+  orig: 73, 6
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2, 16
+  size: 44, 65
+  orig: 44, 65
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 237, 71
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 227, 51
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+Rubi
+  rotate: false
+  xy: 216, 20
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Sparkle
+  rotate: false
+  xy: 178, 10
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+bg_effect_1
+  rotate: false
+  xy: 182, 308
+  size: 54, 100
+  orig: 54, 100
+  offset: 0, 0
+  index: -1
+frame_set/E0
+  rotate: false
+  xy: 92, 102
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+frame_set/E2
+  rotate: true
+  xy: 190, 250
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+frame_set/E4
+  rotate: true
+  xy: 190, 192
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+frame_set/E6
+  rotate: false
+  xy: 92, 52
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+frame_set/E8
+  rotate: false
+  xy: 69, 2
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+set3/El00
+  rotate: false
+  xy: 2, 422
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+set3/El01
+  rotate: false
+  xy: 2, 332
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+set3/El02
+  rotate: false
+  xy: 92, 422
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+set3/El03
+  rotate: false
+  xy: 2, 242
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+set3/El04
+  rotate: false
+  xy: 92, 332
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+set3/El05
+  rotate: false
+  xy: 2, 152
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+set3/El06
+  rotate: false
+  xy: 92, 242
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+set3/El07
+  rotate: false
+  xy: 2, 62
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+set3/El08
+  rotate: false
+  xy: 92, 152
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1

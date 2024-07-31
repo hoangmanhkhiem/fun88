@@ -1,0 +1,62 @@
+
+Rank1_Mini.png
+size: 400,398
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 275, 144
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+1 copy
+  rotate: false
+  xy: 275, 82
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Blur
+  rotate: false
+  xy: 206, 206
+  size: 192, 190
+  orig: 192, 190
+  offset: 0, 0
+  index: -1
+Lighht2
+  rotate: false
+  xy: 337, 157
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 206, 114
+  size: 67, 90
+  orig: 67, 90
+  offset: 0, 0
+  index: -1
+Light1
+  rotate: false
+  xy: 2, 200
+  size: 202, 196
+  orig: 202, 196
+  offset: 0, 0
+  index: -1
+LightBach
+  rotate: false
+  xy: 206, 22
+  size: 67, 90
+  orig: 67, 90
+  offset: 0, 0
+  index: -1
+LoeBac
+  rotate: false
+  xy: 2, 2
+  size: 202, 196
+  orig: 202, 196
+  offset: 0, 0
+  index: -1

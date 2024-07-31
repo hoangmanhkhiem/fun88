@@ -1,0 +1,76 @@
+
+effectwin_gem.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 99
+  size: 997, 923
+  orig: 997, 923
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 99
+  size: 997, 923
+  orig: 997, 923
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 1001, 549
+  size: 659, 473
+  orig: 659, 473
+  offset: 0, 0
+  index: -1
+g1
+  rotate: false
+  xy: 1001, 2
+  size: 184, 192
+  orig: 184, 192
+  offset: 0, 0
+  index: -1
+g5
+  rotate: false
+  xy: 1001, 2
+  size: 184, 192
+  orig: 184, 192
+  offset: 0, 0
+  index: -1
+g2
+  rotate: false
+  xy: 1822, 829
+  size: 185, 193
+  orig: 185, 193
+  offset: 0, 0
+  index: -1
+g4
+  rotate: false
+  xy: 1822, 829
+  size: 185, 193
+  orig: 185, 193
+  offset: 0, 0
+  index: -1
+g3
+  rotate: false
+  xy: 1001, 196
+  size: 205, 215
+  orig: 205, 215
+  offset: 0, 0
+  index: -1
+nohu
+  rotate: true
+  xy: 1662, 592
+  size: 430, 158
+  orig: 430, 158
+  offset: 0, 0
+  index: -1
+thanglon
+  rotate: false
+  xy: 1001, 413
+  size: 653, 134
+  orig: 653, 134
+  offset: 0, 0
+  index: -1

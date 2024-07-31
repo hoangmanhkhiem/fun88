@@ -1,0 +1,265 @@
+
+Wild_iteam_Anim.png
+size: 764,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 485, 72
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+1-4circle
+  rotate: true
+  xy: 225, 71
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+1-4khung
+  rotate: true
+  xy: 297, 71
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 582, 73
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 527, 3
+  size: 51, 67
+  orig: 51, 67
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 300, 2
+  size: 55, 67
+  orig: 55, 67
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 414, 2
+  size: 56, 68
+  orig: 56, 68
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 367, 72
+  size: 57, 70
+  orig: 57, 70
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 537, 72
+  size: 43, 70
+  orig: 43, 70
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 172, 70
+  size: 51, 72
+  orig: 51, 72
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 189, 3
+  size: 51, 65
+  orig: 51, 65
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 357, 2
+  size: 55, 67
+  orig: 55, 67
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 242, 2
+  size: 56, 67
+  orig: 56, 67
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 426, 72
+  size: 57, 70
+  orig: 57, 70
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 472, 2
+  size: 53, 68
+  orig: 53, 68
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 117, 3
+  size: 46, 70
+  orig: 46, 70
+  offset: 0, 0
+  index: -1
+BG02
+  rotate: false
+  xy: 689, 60
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 81, 2
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+CanhPhai_Bottom
+  rotate: true
+  xy: 695, 92
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+CanhPhai_Top
+  rotate: false
+  xy: 112, 51
+  size: 58, 91
+  orig: 58, 91
+  offset: 0, 0
+  index: -1
+CanhTrai_Bottom
+  rotate: true
+  xy: 634, 53
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+CanhTrai_Top
+  rotate: false
+  xy: 48, 51
+  size: 62, 91
+  orig: 62, 91
+  offset: 0, 0
+  index: -1
+Duoi
+  rotate: true
+  xy: 580, 10
+  size: 60, 52
+  orig: 60, 52
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: false
+  xy: 66, 42
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+EyeHalf
+  rotate: false
+  xy: 66, 35
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+Glow
+  rotate: true
+  xy: 634, 10
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+HeadPH
+  rotate: false
+  xy: 634, 105
+  size: 59, 37
+  orig: 59, 37
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: true
+  xy: 48, 32
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+Mouth_PH
+  rotate: true
+  xy: 721, 38
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+Neck_PH
+  rotate: true
+  xy: 2, 2
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+Rau1
+  rotate: true
+  xy: 671, 11
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+Rau2
+  rotate: false
+  xy: 45, 5
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+Rau3
+  rotate: true
+  xy: 703, 36
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+Star
+  rotate: false
+  xy: 703, 11
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+Wild
+  rotate: true
+  xy: 2, 32
+  size: 110, 44
+  orig: 110, 44
+  offset: 0, 0
+  index: -1
+lightray
+  rotate: false
+  xy: 721, 61
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+raumoccau
+  rotate: true
+  xy: 746, 39
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1

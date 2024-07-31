@@ -1,0 +1,76 @@
+
+thang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 258, 356
+  size: 161, 104
+  orig: 161, 104
+  offset: 0, 0
+  index: -1
+Layer 986
+  rotate: false
+  xy: 2, 144
+  size: 223, 60
+  orig: 223, 60
+  offset: 0, 0
+  index: -1
+Layer 987
+  rotate: false
+  xy: 2, 206
+  size: 254, 254
+  orig: 254, 254
+  offset: 0, 0
+  index: -1
+Layer 988
+  rotate: false
+  xy: 2, 2
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+Layer 989
+  rotate: false
+  xy: 421, 404
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+Layer 990
+  rotate: false
+  xy: 227, 183
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+Layer 991
+  rotate: false
+  xy: 103, 127
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+Layer 992
+  rotate: false
+  xy: 258, 290
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+THẮNG
+  rotate: false
+  xy: 258, 307
+  size: 114, 47
+  orig: 114, 47
+  offset: 0, 0
+  index: -1
+cup
+  rotate: false
+  xy: 2, 39
+  size: 99, 103
+  orig: 99, 103
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+5doi thong.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5
+  rotate: false
+  xy: 1400, 295
+  size: 95, 100
+  orig: 95, 100
+  offset: 0, 0
+  index: -1
+5 doi thong
+  rotate: false
+  xy: 1347, 397
+  size: 508, 110
+  orig: 508, 110
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 1497, 297
+  size: 90, 98
+  orig: 90, 98
+  offset: 0, 0
+  index: -1
+6 doi
+  rotate: false
+  xy: 1857, 399
+  size: 162, 108
+  orig: 162, 108
+  offset: 0, 0
+  index: -1
+Layer 73
+  rotate: true
+  xy: 412, 2
+  size: 402, 95
+  orig: 402, 95
+  offset: 0, 0
+  index: -1
+Layer 73 copy
+  rotate: false
+  xy: 2, 406
+  size: 755, 101
+  orig: 755, 101
+  offset: 0, 0
+  index: -1
+Layer 73 copy 2
+  rotate: true
+  xy: 509, 2
+  size: 402, 95
+  orig: 402, 95
+  offset: 0, 0
+  index: -1
+Layer 76
+  rotate: false
+  xy: 606, 304
+  size: 497, 99
+  orig: 497, 99
+  offset: 0, 0
+  index: -1
+Layer 77 copy 3
+  rotate: false
+  xy: 606, 297
+  size: 535, 5
+  orig: 535, 5
+  offset: 0, 0
+  index: -1
+Layer 77 copy 4
+  rotate: false
+  xy: 606, 290
+  size: 535, 5
+  orig: 535, 5
+  offset: 0, 0
+  index: -1
+doi thong
+  rotate: true
+  xy: 1053, 22
+  size: 154, 105
+  orig: 154, 105
+  offset: 0, 0
+  index: -1
+hai
+  rotate: false
+  xy: 1105, 305
+  size: 161, 98
+  orig: 161, 98
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 759, 405
+  size: 586, 102
+  orig: 586, 102
+  offset: 0, 0
+  index: -1
+mavi-çizgi-png-6 copy
+  rotate: false
+  xy: 759, 405
+  size: 586, 102
+  orig: 586, 102
+  offset: 0, 0
+  index: -1
+quy
+  rotate: false
+  xy: 851, 65
+  size: 200, 111
+  orig: 200, 111
+  offset: 0, 0
+  index: -1
+rong
+  rotate: false
+  xy: 606, 61
+  size: 243, 115
+  orig: 243, 115
+  offset: 0, 0
+  index: -1
+sanh
+  rotate: false
+  xy: 884, 178
+  size: 243, 110
+  orig: 243, 110
+  offset: 0, 0
+  index: -1
+thong
+  rotate: false
+  xy: 606, 178
+  size: 276, 110
+  orig: 276, 110
+  offset: 0, 0
+  index: -1
+tuws
+  rotate: false
+  xy: 1268, 287
+  size: 130, 108
+  orig: 130, 108
+  offset: 0, 0
+  index: -1
+vognsang
+  rotate: false
+  xy: 2, 26
+  size: 408, 378
+  orig: 408, 378
+  offset: 0, 0
+  index: -1

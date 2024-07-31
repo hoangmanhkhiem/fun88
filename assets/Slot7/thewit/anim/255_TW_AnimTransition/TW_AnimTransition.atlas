@@ -1,0 +1,251 @@
+
+TW_AnimTransition.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bong
+  rotate: false
+  xy: 154, 479
+  size: 164, 30
+  orig: 164, 30
+  offset: 0, 0
+  index: -1
+CanhTayPhai
+  rotate: false
+  xy: 148, 45
+  size: 18, 52
+  orig: 18, 52
+  offset: 0, 0
+  index: -1
+CanhTayTrai
+  rotate: true
+  xy: 462, 494
+  size: 15, 48
+  orig: 15, 48
+  offset: 0, 0
+  index: -1
+Chan A1
+  rotate: false
+  xy: 2, 55
+  size: 61, 117
+  orig: 61, 117
+  offset: 0, 0
+  index: -1
+Chan A2
+  rotate: false
+  xy: 268, 242
+  size: 30, 79
+  orig: 30, 79
+  offset: 0, 0
+  index: -1
+Chan B1
+  rotate: false
+  xy: 65, 56
+  size: 44, 112
+  orig: 44, 112
+  offset: 0, 0
+  index: -1
+Chan B2
+  rotate: false
+  xy: 380, 351
+  size: 20, 61
+  orig: 20, 61
+  offset: 0, 0
+  index: -1
+Chan C1
+  rotate: true
+  xy: 154, 424
+  size: 53, 126
+  orig: 53, 126
+  offset: 0, 0
+  index: -1
+Chan C2
+  rotate: false
+  xy: 287, 339
+  size: 24, 73
+  orig: 24, 73
+  offset: 0, 0
+  index: -1
+Chan D1
+  rotate: false
+  xy: 111, 48
+  size: 35, 118
+  orig: 35, 118
+  offset: 0, 0
+  index: -1
+Chan D2
+  rotate: false
+  xy: 148, 99
+  size: 20, 67
+  orig: 20, 67
+  offset: 0, 0
+  index: -1
+ChanPhai
+  rotate: false
+  xy: 313, 347
+  size: 30, 65
+  orig: 30, 65
+  offset: 0, 0
+  index: -1
+Character
+  rotate: false
+  xy: 2, 174
+  size: 69, 123
+  orig: 69, 123
+  offset: 0, 0
+  index: -1
+DauNgua
+  rotate: false
+  xy: 2, 299
+  size: 83, 112
+  orig: 83, 112
+  offset: 0, 0
+  index: -1
+Day
+  rotate: true
+  xy: 244, 223
+  size: 98, 22
+  orig: 98, 22
+  offset: 0, 0
+  index: -1
+DayCuong
+  rotate: false
+  xy: 2, 15
+  size: 69, 38
+  orig: 69, 38
+  offset: 0, 0
+  index: -1
+DuiPhai
+  rotate: false
+  xy: 345, 354
+  size: 33, 58
+  orig: 33, 58
+  offset: 0, 0
+  index: -1
+Duoi
+  rotate: false
+  xy: 73, 170
+  size: 40, 127
+  orig: 40, 127
+  offset: 0, 0
+  index: -1
+TayPhai
+  rotate: true
+  xy: 415, 457
+  size: 17, 40
+  orig: 17, 40
+  offset: 0, 0
+  index: -1
+TayTrai
+  rotate: false
+  xy: 244, 187
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+ThanNgua
+  rotate: false
+  xy: 2, 413
+  size: 150, 96
+  orig: 150, 96
+  offset: 0, 0
+  index: -1
+TuiDo
+  rotate: true
+  xy: 232, 323
+  size: 71, 53
+  orig: 71, 53
+  offset: 0, 0
+  index: -1
+YenNgua
+  rotate: false
+  xy: 151, 311
+  size: 79, 83
+  orig: 79, 83
+  offset: 0, 0
+  index: -1
+baokiem1
+  rotate: false
+  xy: 150, 168
+  size: 10, 4
+  orig: 10, 4
+  offset: 0, 0
+  index: -1
+baokiem2
+  rotate: true
+  xy: 462, 484
+  size: 8, 35
+  orig: 8, 35
+  offset: 0, 0
+  index: -1
+baokiem3
+  rotate: true
+  xy: 2, 2
+  size: 11, 55
+  orig: 11, 55
+  offset: 0, 0
+  index: -1
+dust
+  rotate: true
+  xy: 87, 309
+  size: 102, 62
+  orig: 102, 62
+  offset: 0, 0
+  index: -1
+sword_left
+  rotate: true
+  xy: 154, 396
+  size: 26, 126
+  orig: 26, 126
+  offset: 0, 0
+  index: -1
+sword_left_glow
+  rotate: true
+  xy: 282, 442
+  size: 32, 131
+  orig: 32, 131
+  offset: 0, 0
+  index: -1
+sword_left_wood
+  rotate: true
+  xy: 282, 414
+  size: 26, 126
+  orig: 26, 126
+  offset: 0, 0
+  index: -1
+sword_left_wood_glow
+  rotate: false
+  xy: 180, 177
+  size: 32, 132
+  orig: 32, 132
+  offset: 0, 0
+  index: -1
+sword_right
+  rotate: false
+  xy: 150, 174
+  size: 28, 133
+  orig: 28, 133
+  offset: 0, 0
+  index: -1
+sword_right_glow
+  rotate: false
+  xy: 115, 168
+  size: 33, 139
+  orig: 33, 139
+  offset: 0, 0
+  index: -1
+sword_right_wood
+  rotate: false
+  xy: 214, 176
+  size: 28, 133
+  orig: 28, 133
+  offset: 0, 0
+  index: -1
+sword_right_wood_glow
+  rotate: true
+  xy: 320, 476
+  size: 33, 140
+  orig: 33, 140
+  offset: 0, 0
+  index: -1

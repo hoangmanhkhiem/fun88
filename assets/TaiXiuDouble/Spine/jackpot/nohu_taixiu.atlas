@@ -1,0 +1,69 @@
+
+nohu_taixiu.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx
+  rotate: false
+  xy: 2, 192
+  size: 795, 737
+  orig: 795, 737
+  offset: 0, 0
+  index: -1
+r
+  rotate: false
+  xy: 799, 233
+  size: 405, 318
+  orig: 405, 318
+  offset: 0, 0
+  index: -1
+s1
+  rotate: true
+  xy: 467, 31
+  size: 159, 226
+  orig: 159, 226
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 1325, 568
+  size: 210, 142
+  orig: 210, 142
+  offset: 0, 0
+  index: -1
+s3
+  rotate: false
+  xy: 1325, 712
+  size: 338, 217
+  orig: 338, 217
+  offset: 0, 0
+  index: -1
+t
+  rotate: false
+  xy: 799, 553
+  size: 524, 376
+  orig: 524, 376
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 2, 2
+  size: 463, 188
+  orig: 463, 188
+  offset: 0, 0
+  index: -1
+x1
+  rotate: false
+  xy: 1665, 825
+  size: 101, 104
+  orig: 101, 104
+  offset: 0, 0
+  index: -1
+x2
+  rotate: false
+  xy: 1206, 444
+  size: 111, 107
+  orig: 111, 107
+  offset: 0, 0
+  index: -1

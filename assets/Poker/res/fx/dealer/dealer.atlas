@@ -1,0 +1,34 @@
+
+dealer.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: true
+  xy: 2, 2
+  size: 122, 130
+  orig: 122, 130
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 134, 63
+  size: 68, 28
+  orig: 68, 28
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 134, 93
+  size: 126, 31
+  orig: 126, 31
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 262, 104
+  size: 46, 20
+  orig: 46, 20
+  offset: 0, 0
+  index: -1

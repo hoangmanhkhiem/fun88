@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "c866b23a-7d03-41a7-9bec-1549ff391a66",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 245,
+  "height": 199,
+  "platformSettings": {},
+  "subMetas": {
+    "thantai_outdoor_btn_item_0_1": {
+      "ver": "1.0.4",
+      "uuid": "408c1585-1796-42fe-ac10-d1a53b140941",
+      "rawTextureUuid": "c866b23a-7d03-41a7-9bec-1549ff391a66",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 245,
+      "height": 198,
+      "rawWidth": 245,
+      "rawHeight": 199,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

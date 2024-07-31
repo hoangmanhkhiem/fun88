@@ -1,0 +1,194 @@
+
+wildShow.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 1814, 1669
+  size: 143, 353
+  orig: 143, 353
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 544, 89
+  size: 101, 127
+  orig: 101, 127
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: true
+  xy: 1814, 1504
+  size: 163, 47
+  orig: 163, 47
+  offset: 0, 0
+  index: -1
+ROUND_00000
+  rotate: false
+  xy: 2, 1422
+  size: 300, 600
+  orig: 300, 600
+  offset: 0, 0
+  index: -1
+ROUND_00001
+  rotate: false
+  xy: 2, 820
+  size: 300, 600
+  orig: 300, 600
+  offset: 0, 0
+  index: -1
+ROUND_00002
+  rotate: false
+  xy: 304, 1422
+  size: 300, 600
+  orig: 300, 600
+  offset: 0, 0
+  index: -1
+ROUND_00003
+  rotate: false
+  xy: 2, 218
+  size: 300, 600
+  orig: 300, 600
+  offset: 0, 0
+  index: -1
+ROUND_00004
+  rotate: false
+  xy: 304, 820
+  size: 300, 600
+  orig: 300, 600
+  offset: 0, 0
+  index: -1
+ROUND_00005
+  rotate: false
+  xy: 606, 1422
+  size: 300, 600
+  orig: 300, 600
+  offset: 0, 0
+  index: -1
+ROUND_00006
+  rotate: false
+  xy: 304, 218
+  size: 300, 600
+  orig: 300, 600
+  offset: 0, 0
+  index: -1
+ROUND_00007
+  rotate: false
+  xy: 606, 820
+  size: 300, 600
+  orig: 300, 600
+  offset: 0, 0
+  index: -1
+ROUND_00008
+  rotate: false
+  xy: 908, 1422
+  size: 300, 600
+  orig: 300, 600
+  offset: 0, 0
+  index: -1
+ROUND_00009
+  rotate: false
+  xy: 606, 218
+  size: 300, 600
+  orig: 300, 600
+  offset: 0, 0
+  index: -1
+ROUND_00010
+  rotate: false
+  xy: 908, 820
+  size: 300, 600
+  orig: 300, 600
+  offset: 0, 0
+  index: -1
+ROUND_00011
+  rotate: false
+  xy: 1210, 1422
+  size: 300, 600
+  orig: 300, 600
+  offset: 0, 0
+  index: -1
+ROUND_00012
+  rotate: false
+  xy: 908, 218
+  size: 300, 600
+  orig: 300, 600
+  offset: 0, 0
+  index: -1
+ROUND_00013
+  rotate: false
+  xy: 1210, 820
+  size: 300, 600
+  orig: 300, 600
+  offset: 0, 0
+  index: -1
+ROUND_00014
+  rotate: false
+  xy: 1512, 1422
+  size: 300, 600
+  orig: 300, 600
+  offset: 0, 0
+  index: -1
+ROUND_00015
+  rotate: false
+  xy: 1210, 218
+  size: 300, 600
+  orig: 300, 600
+  offset: 0, 0
+  index: -1
+ROUND_00016
+  rotate: false
+  xy: 1512, 820
+  size: 300, 600
+  orig: 300, 600
+  offset: 0, 0
+  index: -1
+ROUND_00017
+  rotate: false
+  xy: 1512, 218
+  size: 300, 600
+  orig: 300, 600
+  offset: 0, 0
+  index: -1
+bg
+  rotate: true
+  xy: 2, 20
+  size: 196, 540
+  orig: 196, 540
+  offset: 0, 0
+  index: -1
+so
+  rotate: true
+  xy: 2, 2
+  size: 16, 134
+  orig: 16, 134
+  offset: 0, 0
+  index: -1
+tien
+  rotate: false
+  xy: 1959, 1969
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+
+wildShow2.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ROUND_00018
+  rotate: true
+  xy: 2, 2
+  size: 300, 600
+  orig: 300, 600
+  offset: 0, 0
+  index: -1
+ROUND_00019
+  rotate: true
+  xy: 604, 2
+  size: 300, 600
+  orig: 300, 600
+  offset: 0, 0
+  index: -1

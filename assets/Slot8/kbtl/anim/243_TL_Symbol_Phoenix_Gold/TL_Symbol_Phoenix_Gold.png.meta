@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "5b247bef-2482-4ee9-af1c-b8f277d060f6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 482,
+  "height": 432,
+  "platformSettings": {},
+  "subMetas": {
+    "TL_Symbol_Phoenix_Gold": {
+      "ver": "1.0.4",
+      "uuid": "892513e7-6ec9-4185-8960-33edc54fae78",
+      "rawTextureUuid": "5b247bef-2482-4ee9-af1c-b8f277d060f6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": -0.5,
+      "trimX": 2,
+      "trimY": 3,
+      "width": 475,
+      "height": 427,
+      "rawWidth": 482,
+      "rawHeight": 432,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

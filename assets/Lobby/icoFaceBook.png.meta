@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ed7ba189-dc07-4e8d-88b8-48a58a46dca9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 126,
+  "height": 66,
+  "platformSettings": {},
+  "subMetas": {
+    "icoFaceBook": {
+      "ver": "1.0.4",
+      "uuid": "1b7116cc-aba5-46ea-9c35-24c07264a375",
+      "rawTextureUuid": "ed7ba189-dc07-4e8d-88b8-48a58a46dca9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -19.5,
+      "offsetY": 10,
+      "trimX": 20,
+      "trimY": 0,
+      "width": 47,
+      "height": 46,
+      "rawWidth": 126,
+      "rawHeight": 66,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

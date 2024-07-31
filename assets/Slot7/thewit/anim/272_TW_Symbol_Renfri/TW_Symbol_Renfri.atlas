@@ -1,0 +1,69 @@
+
+TW_Symbol_Renfri.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 348, 160
+  size: 89, 84
+  orig: 89, 84
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 175, 36
+  size: 180, 96
+  orig: 180, 96
+  offset: 0, 0
+  index: -1
+dau
+  rotate: true
+  xy: 175, 134
+  size: 110, 171
+  orig: 110, 171
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 439, 186
+  size: 70, 58
+  orig: 70, 58
+  offset: 0, 0
+  index: -1
+khung
+  rotate: false
+  xy: 2, 84
+  size: 171, 160
+  orig: 171, 160
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 398, 103
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+tocphai
+  rotate: true
+  xy: 2, 27
+  size: 55, 133
+  orig: 55, 133
+  offset: 0, 0
+  index: -1
+toctrai
+  rotate: false
+  xy: 357, 35
+  size: 39, 123
+  orig: 39, 123
+  offset: 0, 0
+  index: -1
+toctruoc
+  rotate: true
+  xy: 2, 2
+  size: 23, 98
+  orig: 23, 98
+  offset: 0, 0
+  index: -1

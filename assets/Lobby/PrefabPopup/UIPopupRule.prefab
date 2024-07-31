@@ -1,0 +1,3501 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "",
+    "_objFlags": 0,
+    "_native": "",
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "asyncLoadAssets": false,
+    "readonly": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "UIPopupRule",
+    "_objFlags": 0,
+    "_parent": null,
+    "_children": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 7
+      }
+    ],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 93
+      },
+      {
+        "__id__": 94
+      }
+    ],
+    "_prefab": {
+      "__id__": 95
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 1560,
+      "height": 720
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        780,
+        360,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "Bg",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 4
+      },
+      {
+        "__id__": 5
+      }
+    ],
+    "_prefab": {
+      "__id__": 6
+    },
+    "_opacity": 173,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 1560,
+      "height": 720
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 2
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_spriteFrame": {
+      "__uuid__": "a23235d1-15db-4b95-8439-a2e005bfff91"
+    },
+    "_type": 0,
+    "_sizeMode": 0,
+    "_fillType": 0,
+    "_fillCenter": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_fillStart": 0,
+    "_fillRange": 0,
+    "_isTrimmedMode": true,
+    "_atlas": null,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Button",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 2
+    },
+    "_enabled": true,
+    "_normalMaterial": null,
+    "_grayMaterial": null,
+    "duration": 0.1,
+    "zoomScale": 1.2,
+    "clickEvents": [],
+    "_N$interactable": true,
+    "_N$enableAutoGrayEffect": false,
+    "_N$transition": 0,
+    "transition": 0,
+    "_N$normalColor": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_N$pressedColor": {
+      "__type__": "cc.Color",
+      "r": 211,
+      "g": 211,
+      "b": 211,
+      "a": 255
+    },
+    "pressedColor": {
+      "__type__": "cc.Color",
+      "r": 211,
+      "g": 211,
+      "b": 211,
+      "a": 255
+    },
+    "_N$hoverColor": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "hoverColor": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_N$disabledColor": {
+      "__type__": "cc.Color",
+      "r": 124,
+      "g": 124,
+      "b": 124,
+      "a": 255
+    },
+    "_N$normalSprite": null,
+    "_N$pressedSprite": null,
+    "pressedSprite": null,
+    "_N$hoverSprite": null,
+    "hoverSprite": null,
+    "_N$disabledSprite": null,
+    "_N$target": null,
+    "_id": ""
+  },
+  {
+    "__type__": "cbf1dlYiXRG35Ei6K+I4cFm",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 2
+    },
+    "_enabled": true,
+    "designResolution": {
+      "__type__": "cc.Size",
+      "width": 1280,
+      "height": 720
+    },
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "63ce795d-eff8-49bd-a024-729ff7857263"
+    },
+    "fileId": "a3RwctiSpIKosXE/4omy1n",
+    "sync": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "Container",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [
+      {
+        "__id__": 8
+      }
+    ],
+    "_active": true,
+    "_components": [],
+    "_prefab": {
+      "__id__": 92
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 933,
+      "height": 672
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "bg_popup",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 7
+    },
+    "_children": [
+      {
+        "__id__": 9
+      },
+      {
+        "__id__": 14
+      },
+      {
+        "__id__": 19
+      }
+    ],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 90
+      }
+    ],
+    "_prefab": {
+      "__id__": 91
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 1087.275,
+      "height": 697.9
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        3.687,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.8,
+        0.8,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "Title",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 8
+    },
+    "_children": [
+      {
+        "__id__": 10
+      }
+    ],
+    "_active": true,
+    "_components": [],
+    "_prefab": {
+      "__id__": 13
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 931,
+      "height": 113
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        276.146,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "font_title_popup",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 9
+    },
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 11
+      }
+    ],
+    "_prefab": {
+      "__id__": 12
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 256.69,
+      "height": 40
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        28.428,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Label",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 10
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_string": "CHÍNH SÁCH",
+    "_N$string": "CHÍNH SÁCH",
+    "_fontSize": 35,
+    "_lineHeight": 40,
+    "_enableWrapText": true,
+    "_N$file": {
+      "__uuid__": "cd5511c9-7bfa-4f43-81c6-7827c46d4941"
+    },
+    "_isSystemFontUsed": false,
+    "_spacingX": 0,
+    "_batchAsBitmap": false,
+    "_styleFlags": 0,
+    "_underlineHeight": 0,
+    "_N$horizontalAlign": 0,
+    "_N$verticalAlign": 0,
+    "_N$fontFamily": "Arial",
+    "_N$overflow": 0,
+    "_N$cacheMode": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "63ce795d-eff8-49bd-a024-729ff7857263"
+    },
+    "fileId": "08iW8w5QhE14JvcboME4+Q",
+    "sync": false
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "63ce795d-eff8-49bd-a024-729ff7857263"
+    },
+    "fileId": "84mZ3izlBKc7/FwEfXPp/Y",
+    "sync": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "BtnClose",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 8
+    },
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 15
+      },
+      {
+        "__id__": 16
+      }
+    ],
+    "_prefab": {
+      "__id__": 18
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 120,
+      "height": 70
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        478.833,
+        314.129,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 14
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_spriteFrame": {
+      "__uuid__": "fbf6c83d-bf98-4d6c-b6e8-85bbc97cdadc"
+    },
+    "_type": 0,
+    "_sizeMode": 0,
+    "_fillType": 0,
+    "_fillCenter": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_fillStart": 0,
+    "_fillRange": 0,
+    "_isTrimmedMode": true,
+    "_atlas": null,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Button",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 14
+    },
+    "_enabled": true,
+    "_normalMaterial": null,
+    "_grayMaterial": null,
+    "duration": 0.1,
+    "zoomScale": 1.2,
+    "clickEvents": [
+      {
+        "__id__": 17
+      }
+    ],
+    "_N$interactable": true,
+    "_N$enableAutoGrayEffect": false,
+    "_N$transition": 3,
+    "transition": 3,
+    "_N$normalColor": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_N$pressedColor": {
+      "__type__": "cc.Color",
+      "r": 211,
+      "g": 211,
+      "b": 211,
+      "a": 255
+    },
+    "pressedColor": {
+      "__type__": "cc.Color",
+      "r": 211,
+      "g": 211,
+      "b": 211,
+      "a": 255
+    },
+    "_N$hoverColor": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "hoverColor": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_N$disabledColor": {
+      "__type__": "cc.Color",
+      "r": 124,
+      "g": 124,
+      "b": 124,
+      "a": 255
+    },
+    "_N$normalSprite": null,
+    "_N$pressedSprite": null,
+    "pressedSprite": null,
+    "_N$hoverSprite": null,
+    "hoverSprite": null,
+    "_N$disabledSprite": null,
+    "_N$target": null,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.ClickEvent",
+    "target": {
+      "__id__": 1
+    },
+    "component": "",
+    "_componentId": "579d4aDMOtAMpeXgXKvuqdk",
+    "handler": "dismiss",
+    "customEventData": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "63ce795d-eff8-49bd-a024-729ff7857263"
+    },
+    "fileId": "a6iixT5A5D27axrCNBCL+y",
+    "sync": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "Bg",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 8
+    },
+    "_children": [
+      {
+        "__id__": 20
+      }
+    ],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 88
+      }
+    ],
+    "_prefab": {
+      "__id__": 89
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 960,
+      "height": 520
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        -35.135,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "New ScrollView",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 19
+    },
+    "_children": [
+      {
+        "__id__": 21
+      },
+      {
+        "__id__": 28
+      }
+    ],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 26
+      },
+      {
+        "__id__": 86
+      }
+    ],
+    "_prefab": {
+      "__id__": 87
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 960,
+      "height": 520
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "scrollBar",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 20
+    },
+    "_children": [
+      {
+        "__id__": 22
+      }
+    ],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 25
+      },
+      {
+        "__id__": 83
+      },
+      {
+        "__id__": 84
+      }
+    ],
+    "_prefab": {
+      "__id__": 85
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 12,
+      "height": 520
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 1,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        480,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "bar",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 21
+    },
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 23
+      }
+    ],
+    "_prefab": {
+      "__id__": 24
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 10,
+      "height": 30
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 1,
+      "y": 0
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 22
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_spriteFrame": {
+      "__uuid__": "5c3bb932-6c3c-468f-88a9-c8c61d458641"
+    },
+    "_type": 1,
+    "_sizeMode": 0,
+    "_fillType": 0,
+    "_fillCenter": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_fillStart": 0,
+    "_fillRange": 0,
+    "_isTrimmedMode": true,
+    "_atlas": null,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "63ce795d-eff8-49bd-a024-729ff7857263"
+    },
+    "fileId": "00CKZFFlxNn74700SVL8zK",
+    "sync": false
+  },
+  {
+    "__type__": "cc.Scrollbar",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 21
+    },
+    "_enabled": true,
+    "_scrollView": {
+      "__id__": 26
+    },
+    "_touching": false,
+    "_opacity": 255,
+    "enableAutoHide": true,
+    "autoHideTime": 1,
+    "_N$handle": {
+      "__id__": 23
+    },
+    "_N$direction": 1,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.ScrollView",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 20
+    },
+    "_enabled": true,
+    "horizontal": false,
+    "vertical": true,
+    "inertia": true,
+    "brake": 0.75,
+    "elastic": true,
+    "bounceDuration": 0.23,
+    "scrollEvents": [],
+    "cancelInnerEvents": true,
+    "_N$content": {
+      "__id__": 27
+    },
+    "content": {
+      "__id__": 27
+    },
+    "_N$horizontalScrollBar": null,
+    "_N$verticalScrollBar": {
+      "__id__": 25
+    },
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "content",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 28
+    },
+    "_children": [
+      {
+        "__id__": 32
+      },
+      {
+        "__id__": 35
+      },
+      {
+        "__id__": 38
+      },
+      {
+        "__id__": 41
+      },
+      {
+        "__id__": 44
+      },
+      {
+        "__id__": 47
+      },
+      {
+        "__id__": 50
+      },
+      {
+        "__id__": 53
+      },
+      {
+        "__id__": 56
+      },
+      {
+        "__id__": 59
+      },
+      {
+        "__id__": 62
+      },
+      {
+        "__id__": 65
+      },
+      {
+        "__id__": 68
+      },
+      {
+        "__id__": 71
+      },
+      {
+        "__id__": 74
+      },
+      {
+        "__id__": 77
+      }
+    ],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 80
+      },
+      {
+        "__id__": 81
+      }
+    ],
+    "_prefab": {
+      "__id__": 82
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 960,
+      "height": 17742.4
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 1
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -480,
+        210,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "view",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 20
+    },
+    "_children": [
+      {
+        "__id__": 27
+      }
+    ],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 29
+      },
+      {
+        "__id__": 30
+      }
+    ],
+    "_prefab": {
+      "__id__": 31
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 960,
+      "height": 520
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Mask",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 28
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_spriteFrame": null,
+    "_type": 0,
+    "_segments": 64,
+    "_N$alphaThreshold": 0,
+    "_N$inverted": false,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Widget",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 28
+    },
+    "_enabled": true,
+    "alignMode": 1,
+    "_target": null,
+    "_alignFlags": 45,
+    "_left": 0,
+    "_right": 0,
+    "_top": 0,
+    "_bottom": 0,
+    "_verticalCenter": 0,
+    "_horizontalCenter": 0,
+    "_isAbsLeft": true,
+    "_isAbsRight": true,
+    "_isAbsTop": true,
+    "_isAbsBottom": true,
+    "_isAbsHorizontalCenter": true,
+    "_isAbsVerticalCenter": true,
+    "_originalWidth": 240,
+    "_originalHeight": 250,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "63ce795d-eff8-49bd-a024-729ff7857263"
+    },
+    "fileId": "f6RxxQaYlPFa/GloZrxrq5",
+    "sync": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "New Label",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 27
+    },
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 33
+      }
+    ],
+    "_prefab": {
+      "__id__": 34
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 94,
+      "g": 255,
+      "b": 72,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 365.23,
+      "height": 50.4
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        50,
+        -25.2,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Label",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 32
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_string": "I.\tĐiều Khoản Và Điều Kiện",
+    "_N$string": "I.\tĐiều Khoản Và Điều Kiện",
+    "_fontSize": 30,
+    "_lineHeight": 40,
+    "_enableWrapText": true,
+    "_N$file": {
+      "__uuid__": "75ce7c9e-136f-4d54-8d75-d15f4731d11d"
+    },
+    "_isSystemFontUsed": false,
+    "_spacingX": 0,
+    "_batchAsBitmap": false,
+    "_styleFlags": 0,
+    "_underlineHeight": 0,
+    "_N$horizontalAlign": 0,
+    "_N$verticalAlign": 0,
+    "_N$fontFamily": "Arial",
+    "_N$overflow": 3,
+    "_N$cacheMode": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "63ce795d-eff8-49bd-a024-729ff7857263"
+    },
+    "fileId": "dbk74xZsNOKpM7jnlXVmGw",
+    "sync": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "New Label",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 27
+    },
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 36
+      }
+    ],
+    "_prefab": {
+      "__id__": 37
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 194,
+      "g": 194,
+      "b": 194,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 860,
+      "height": 2280
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 1
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        50,
+        -50.4,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Label",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 35
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_string": "Những Điều Khoản và Điều Kiện này cấu thành và chi phối mối quan hệ giữa các bên:\nEFAWIN INTERNATIONAL LIMITED, công ty được đăng ký hợp pháp tại Philippines ngày 28 tháng 08/2017, số đăng ký OSP28-001-2-A, có giấy phép chơi game từ xa Hạng 1, điều hành Công ty có giấy phép từ Cục quản lý giải trí và trò chơi do chính phủ Philippines sở hữu và kiểm soát được thành lập thông qua Nghị định của Tổng thống năm 1869 cho phép đơn vị này cung cấp game trực tuyến (sau đây gọi tắt là \"EFA INTERATIONAL LIMITED\" hoặc \"Công ty\"); và bạn, là \"Người chơi\". \nĐiều khoản và điều kiện sử dụng hệ thống giao dịch và casino của Công ty (sau đây gọi là “Hệ thống Game” hoặc “Phần mềm”) để truy cập hoặc sử dụng các game do EFA INTERATIONAL LIMITED cung cấp (sau đây gọi là \"e79\") dưới tên miền chính www.sun88.link và bất kỳ website liên kết nào khác được liệt kê theo giấy phép số OSP28-001-2-A (sau đây gọi là “Website”)\nDưới đây là điều lệ và điều khoản được gọi là quy tắc chung giúp cho người chơi hiểu hơn và tránh được những sai sót không đáng có. Người chơi hãy đọc và tham khảo kỹ những thỏa thuận này trước khi sử dụng các dịch vụ hoặc sản phẩm của e79. Lưu ý rằng quy tắc chung này có giá trị như một bản cam kết mang tính pháp lý ràng buộc giữa Khách hàng và công ty go88 hoặc còn được gọi với tên gọi khác là ”Chúng Tôi”, người sở hữu website www.sun88.link. và các ứng dụng trên điện thoại của e79. Bất cứ điều gì trái ngược với Quy tắc chung, tiền thắng cược tối đa cho bất kỳ khách hàng hoặc nhóm / tổ hợp khách hàng nào sẽ được thu hồi không điều kiện. Sau khi quyết định được đưa ra về cược được xác nhận bởi e79, khách hàng không thể sửa đổi hoặc hủy đặt cược đó.\n1.\tCác Quy tắc chung này sẽ có hiệu lực ngay lập tức kể từ ngày Người chơi đăng ký tài khoản với e79. Các điều khoản và điều kiện sẽ là nguồn tham chiếu chính thức cho bất kỳ vụ việc/tranh chấp nào liên quan đến việc sử dụng Website, dịch vụ hoặc phần mềm. Tất cả các trò game trên Website của go88 đều tuân thủ các quy định được nêu trong tài liệu này.\n2.\te79 có quyền tạm dừng, thêm vào, chấm dứt, sửa đổi và/hoặc bổ sung vào các Quy tắc chung này theo thời gian khi xét thấy phù hợp. Bất kỳ thay đổi nào như vậy sẽ được xem là có hiệu lực ngay sau khi được Cục quản lý giải trí và trò chơi Philippines chấp thuận và đăng trên Website. \n3.\tBất kỳ thay đổi nào đối với các Quy tắc chung này sẽ được thông báo trước cho Người chơi, và Người chơi cần xác nhận lại sự chấp thuận, trước khi thay đổi có hiệu lực. Người chơi sẽ được xem là đã đồng ý với những thay đổi bằng cách tiếp tục sử dụng các dịch vụ trên Website sau ngày mà các thay đổi có hiệu lực. \n4.\te79 không có nghĩa vụ xác minh xem tất cả Người chơi có sử dụng Website hoặc Hệ thống Game theo các quy định cập nhật của các Quy tắc chung này hay không. Phiên bản đăng trên Website là phiên bản có hiệu lực, và là phiên bản mà Người chơi cần sử dụng để tham chiếu. Trách nhiệm của Người chơi là tự tìm hiểu về các Quy tắc chung này, quy định của e79, và chính sách bảo mật của e79, cũng như tự làm quen với các sửa đổi có hoặc sẽ ảnh hưởng đến Người chơi. \n5.\te79 đề nghị Người chơi thường xuyên truy cập vào các Quy tắc chung này. Nếu, bất kỳ lúc nào, Người chơi từ chối bị ràng buộc bởi các Quy tắc chung này, Người chơi phải ngay lập tức ngừng sử dụng Website và Hệ thống Game. \n",
+    "_N$string": "Những Điều Khoản và Điều Kiện này cấu thành và chi phối mối quan hệ giữa các bên:\nEFAWIN INTERNATIONAL LIMITED, công ty được đăng ký hợp pháp tại Philippines ngày 28 tháng 08/2017, số đăng ký OSP28-001-2-A, có giấy phép chơi game từ xa Hạng 1, điều hành Công ty có giấy phép từ Cục quản lý giải trí và trò chơi do chính phủ Philippines sở hữu và kiểm soát được thành lập thông qua Nghị định của Tổng thống năm 1869 cho phép đơn vị này cung cấp game trực tuyến (sau đây gọi tắt là \"EFA INTERATIONAL LIMITED\" hoặc \"Công ty\"); và bạn, là \"Người chơi\". \nĐiều khoản và điều kiện sử dụng hệ thống giao dịch và casino của Công ty (sau đây gọi là “Hệ thống Game” hoặc “Phần mềm”) để truy cập hoặc sử dụng các game do EFA INTERATIONAL LIMITED cung cấp (sau đây gọi là \"e79\") dưới tên miền chính www.sun88.link và bất kỳ website liên kết nào khác được liệt kê theo giấy phép số OSP28-001-2-A (sau đây gọi là “Website”)\nDưới đây là điều lệ và điều khoản được gọi là quy tắc chung giúp cho người chơi hiểu hơn và tránh được những sai sót không đáng có. Người chơi hãy đọc và tham khảo kỹ những thỏa thuận này trước khi sử dụng các dịch vụ hoặc sản phẩm của e79. Lưu ý rằng quy tắc chung này có giá trị như một bản cam kết mang tính pháp lý ràng buộc giữa Khách hàng và công ty go88 hoặc còn được gọi với tên gọi khác là ”Chúng Tôi”, người sở hữu website www.sun88.link. và các ứng dụng trên điện thoại của e79. Bất cứ điều gì trái ngược với Quy tắc chung, tiền thắng cược tối đa cho bất kỳ khách hàng hoặc nhóm / tổ hợp khách hàng nào sẽ được thu hồi không điều kiện. Sau khi quyết định được đưa ra về cược được xác nhận bởi e79, khách hàng không thể sửa đổi hoặc hủy đặt cược đó.\n1.\tCác Quy tắc chung này sẽ có hiệu lực ngay lập tức kể từ ngày Người chơi đăng ký tài khoản với e79. Các điều khoản và điều kiện sẽ là nguồn tham chiếu chính thức cho bất kỳ vụ việc/tranh chấp nào liên quan đến việc sử dụng Website, dịch vụ hoặc phần mềm. Tất cả các trò game trên Website của go88 đều tuân thủ các quy định được nêu trong tài liệu này.\n2.\te79 có quyền tạm dừng, thêm vào, chấm dứt, sửa đổi và/hoặc bổ sung vào các Quy tắc chung này theo thời gian khi xét thấy phù hợp. Bất kỳ thay đổi nào như vậy sẽ được xem là có hiệu lực ngay sau khi được Cục quản lý giải trí và trò chơi Philippines chấp thuận và đăng trên Website. \n3.\tBất kỳ thay đổi nào đối với các Quy tắc chung này sẽ được thông báo trước cho Người chơi, và Người chơi cần xác nhận lại sự chấp thuận, trước khi thay đổi có hiệu lực. Người chơi sẽ được xem là đã đồng ý với những thay đổi bằng cách tiếp tục sử dụng các dịch vụ trên Website sau ngày mà các thay đổi có hiệu lực. \n4.\te79 không có nghĩa vụ xác minh xem tất cả Người chơi có sử dụng Website hoặc Hệ thống Game theo các quy định cập nhật của các Quy tắc chung này hay không. Phiên bản đăng trên Website là phiên bản có hiệu lực, và là phiên bản mà Người chơi cần sử dụng để tham chiếu. Trách nhiệm của Người chơi là tự tìm hiểu về các Quy tắc chung này, quy định của e79, và chính sách bảo mật của e79, cũng như tự làm quen với các sửa đổi có hoặc sẽ ảnh hưởng đến Người chơi. \n5.\te79 đề nghị Người chơi thường xuyên truy cập vào các Quy tắc chung này. Nếu, bất kỳ lúc nào, Người chơi từ chối bị ràng buộc bởi các Quy tắc chung này, Người chơi phải ngay lập tức ngừng sử dụng Website và Hệ thống Game. \n",
+    "_fontSize": 30,
+    "_lineHeight": 40,
+    "_enableWrapText": true,
+    "_N$file": {
+      "__uuid__": "75ce7c9e-136f-4d54-8d75-d15f4731d11d"
+    },
+    "_isSystemFontUsed": false,
+    "_spacingX": 0,
+    "_batchAsBitmap": false,
+    "_styleFlags": 0,
+    "_underlineHeight": 0,
+    "_N$horizontalAlign": 0,
+    "_N$verticalAlign": 0,
+    "_N$fontFamily": "Arial",
+    "_N$overflow": 3,
+    "_N$cacheMode": 2,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "63ce795d-eff8-49bd-a024-729ff7857263"
+    },
+    "fileId": "97ir7Xv5hGu5jdOAT3RStc",
+    "sync": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "New Label",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 27
+    },
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 39
+      }
+    ],
+    "_prefab": {
+      "__id__": 40
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 94,
+      "g": 255,
+      "b": 72,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 365.23,
+      "height": 50.4
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        50,
+        -2355.6,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Label",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 38
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_string": "II.\tĐịnh nghĩa",
+    "_N$string": "II.\tĐịnh nghĩa",
+    "_fontSize": 30,
+    "_lineHeight": 40,
+    "_enableWrapText": true,
+    "_N$file": {
+      "__uuid__": "75ce7c9e-136f-4d54-8d75-d15f4731d11d"
+    },
+    "_isSystemFontUsed": false,
+    "_spacingX": 0,
+    "_batchAsBitmap": false,
+    "_styleFlags": 0,
+    "_underlineHeight": 0,
+    "_N$horizontalAlign": 0,
+    "_N$verticalAlign": 0,
+    "_N$fontFamily": "Arial",
+    "_N$overflow": 3,
+    "_N$cacheMode": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "63ce795d-eff8-49bd-a024-729ff7857263"
+    },
+    "fileId": "2ftbfw3KxFsYL4dj3Qc21V",
+    "sync": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "New Label",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 27
+    },
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 42
+      }
+    ],
+    "_prefab": {
+      "__id__": 43
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 194,
+      "g": 194,
+      "b": 194,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 860,
+      "height": 1200
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 1
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        50,
+        -2380.7999999999997,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Label",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 41
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_string": "Các từ ngữ và thuật ngữ sau đây, nên được hiểu như sau, trừ các ngữ cảnh mang ý nghĩa rõ ràng khác: \n1.\t\"Tài khoản Người chơi\" có nghĩa là tài khoản cá nhân do một cá nhân mở và được duy trì bởi go88 để từ đó Người chơi truy cập hoặc chơi các trò go88 game trên Website.\n2.\t\"Ứng dụng\" có nghĩa là phần mềm được go88 cấp phép, bao gồm tất cả các chương trình và cơ sở dữ liệu và mọi nội dung phát sinh khác, yêu cầu tải về, dù có thể truy cập được hay được Người chơi sử dụng thông qua Website và cho phép bạn tham gia các trò e79.\n3.\t“Đăng nhập và Mật khẩu” có nghĩa là thông tin đăng nhập và mật khẩu do Người chơi đã chọn khi đăng ký với e79.\n4.\tCược - là một thỏa thuận dựa trên rủi ro cho các khoản tiền thắng cược tiềm năng được ký kết giữa khách hàng và nhà cái theo các Quy tắc đã thiết lập, trong đó việc thực hiện thỏa thuận đó được điều kiện bởi một sự kiện mà kết quả của nó vẫn chưa được xác định. Cược được chấp nhận theo các điều kiện mà nhà cái đưa ra.\n5.\tKết quả - là kết quả của sự kiện (các sự kiện) mà cược được đặt.\n6.\tThời gian chính thức - là thời gian của trận đấu tuân theo các quy định của môn thể thao liên quan, bao gồm cả thời gian do trọng tài thêm vào. Thời gian thông thường không bao gồm hiệp phụ, hiệp phụ, loạt sút luân lưu, v.v. \n7.\t\"Cơ quan Quản lý\" là Cục quản lý giải trí và trò chơi của Philippines , PAGCOR House, 1330 Roxas Blvd., Ermita, Manila, https://www.pagcor.ph/index.php, là nhà điều hành chính của các hoạt động chơi game từ xa.\n8.\tTham chiếu trong các Quy tắc chung này đối với “Game” hoặc “các Game” là bất kỳ hoạt động chơi game nào liên quan đến các trò e79, do go88 cung cấp trên Website của mình vì lợi ích của Người chơi và được Cơ quan Quản lý phê duyệt.\n",
+    "_N$string": "Các từ ngữ và thuật ngữ sau đây, nên được hiểu như sau, trừ các ngữ cảnh mang ý nghĩa rõ ràng khác: \n1.\t\"Tài khoản Người chơi\" có nghĩa là tài khoản cá nhân do một cá nhân mở và được duy trì bởi go88 để từ đó Người chơi truy cập hoặc chơi các trò go88 game trên Website.\n2.\t\"Ứng dụng\" có nghĩa là phần mềm được go88 cấp phép, bao gồm tất cả các chương trình và cơ sở dữ liệu và mọi nội dung phát sinh khác, yêu cầu tải về, dù có thể truy cập được hay được Người chơi sử dụng thông qua Website và cho phép bạn tham gia các trò e79.\n3.\t“Đăng nhập và Mật khẩu” có nghĩa là thông tin đăng nhập và mật khẩu do Người chơi đã chọn khi đăng ký với e79.\n4.\tCược - là một thỏa thuận dựa trên rủi ro cho các khoản tiền thắng cược tiềm năng được ký kết giữa khách hàng và nhà cái theo các Quy tắc đã thiết lập, trong đó việc thực hiện thỏa thuận đó được điều kiện bởi một sự kiện mà kết quả của nó vẫn chưa được xác định. Cược được chấp nhận theo các điều kiện mà nhà cái đưa ra.\n5.\tKết quả - là kết quả của sự kiện (các sự kiện) mà cược được đặt.\n6.\tThời gian chính thức - là thời gian của trận đấu tuân theo các quy định của môn thể thao liên quan, bao gồm cả thời gian do trọng tài thêm vào. Thời gian thông thường không bao gồm hiệp phụ, hiệp phụ, loạt sút luân lưu, v.v. \n7.\t\"Cơ quan Quản lý\" là Cục quản lý giải trí và trò chơi của Philippines , PAGCOR House, 1330 Roxas Blvd., Ermita, Manila, https://www.pagcor.ph/index.php, là nhà điều hành chính của các hoạt động chơi game từ xa.\n8.\tTham chiếu trong các Quy tắc chung này đối với “Game” hoặc “các Game” là bất kỳ hoạt động chơi game nào liên quan đến các trò e79, do go88 cung cấp trên Website của mình vì lợi ích của Người chơi và được Cơ quan Quản lý phê duyệt.\n",
+    "_fontSize": 30,
+    "_lineHeight": 40,
+    "_enableWrapText": true,
+    "_N$file": {
+      "__uuid__": "75ce7c9e-136f-4d54-8d75-d15f4731d11d"
+    },
+    "_isSystemFontUsed": false,
+    "_spacingX": 0,
+    "_batchAsBitmap": false,
+    "_styleFlags": 0,
+    "_underlineHeight": 0,
+    "_N$horizontalAlign": 0,
+    "_N$verticalAlign": 0,
+    "_N$fontFamily": "Arial",
+    "_N$overflow": 3,
+    "_N$cacheMode": 2,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "63ce795d-eff8-49bd-a024-729ff7857263"
+    },
+    "fileId": "ed2J0QcVpM2bjknJIp9gpM",
+    "sync": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "New Label",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 27
+    },
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 45
+      }
+    ],
+    "_prefab": {
+      "__id__": 46
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 94,
+      "g": 255,
+      "b": 72,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 365.23,
+      "height": 90.39999999999999
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        50,
+        -3625.9999999999995,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Label",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 44
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_string": "III.\tTạo tài khoản và tính bảo mật",
+    "_N$string": "III.\tTạo tài khoản và tính bảo mật",
+    "_fontSize": 30,
+    "_lineHeight": 40,
+    "_enableWrapText": true,
+    "_N$file": {
+      "__uuid__": "75ce7c9e-136f-4d54-8d75-d15f4731d11d"
+    },
+    "_isSystemFontUsed": false,
+    "_spacingX": 0,
+    "_batchAsBitmap": false,
+    "_styleFlags": 0,
+    "_underlineHeight": 0,
+    "_N$horizontalAlign": 0,
+    "_N$verticalAlign": 0,
+    "_N$fontFamily": "Arial",
+    "_N$overflow": 3,
+    "_N$cacheMode": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "63ce795d-eff8-49bd-a024-729ff7857263"
+    },
+    "fileId": "93e0nc1N5Lc47HHNjl93/h",
+    "sync": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "New Label",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 27
+    },
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 48
+      }
+    ],
+    "_prefab": {
+      "__id__": 49
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 194,
+      "g": 194,
+      "b": 194,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 860,
+      "height": 2080
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 1
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        50,
+        -3671.1999999999994,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Label",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 47
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_string": "Tài khoản của Quý Khách chỉ dành cho cá nhân và sẽ không được sử dụng cho bất kỳ mục đích chuyên nghiệp, kinh doanh hoặc thương mại.\nSố dư trong tài khoản của Quý Khách sẽ không nhận được bất kỳ khoản lãi nào.\nĐể tham gia Dịch vụ, Quý Khách phải tạo một tài khoản trên go88 (“Tài khoản của Quý Khách” hoặc “Tài khoản”).\nQuý Khách phải hoàn thành đơn đăng ký mở tài khoản và thành viên như đã nêu trên trang web.\nĐể tạo tài khoản, Quý Khách cần đảm bảo rằng:\n●\tQuý Khách đồng ý rằng việc sử dụng Dịch vụ là tự nguyện và chấp nhận rủi ro;\n●\tQuý Khách đồng ý việc sẽ được yêu cầu cung cấp các thông tin cá nhân của Quý Khách (bao gồm cả các thông tin liên quan đến phương thức thanh toán) vì mục đích sử dụng Dịch vụ. Các thông tin Quý Khách cung cấp sẽ được quản lý theo Chính sách bảo mật của chúng tôi;\n●\tQuý Khách đã trên 18 tuổi hoặc hơn tuổi quy định theo luật pháp của nước sở tại;\n●\tCờ bạc bất hợp pháp trong nơi Quý Khách đang sinh sống;\n●\tQuý Khách có thể kí hợp đồng một cách hợp pháp.\n●\tQuý Khách hiện không sử dụng chức năng từ bỏ đăng nhập;\nQuý Khách xác nhận rằng có trách nhiệm đảm bảo tuân thủ đầy đủ các luật hoặc quy định áp dụng ở quốc gia hoặc quốc gia đang cư trú.\nQuý Khách cam kết rằng sẽ cung cấp thông tin đầy đủ và chính xác đã cung cấp cho e79. Quý Khách phải cập nhật các chi tiết như vậy trong trường hợp cần thay đổi thông tin. Để xác nhận tên và địa chỉ của Quý Khách.\nTài khoản ngân hàng của Quý Khách cần trùng với họ tên hợp pháp và họ tên trong đăng ký tài khoản để được sử dụng trong việc giao dịch gửi hoặc nhận tiền trong tài khoản.\nChúng tôi có quyền yêu cầu bổ sung thông tin liên quan đến tài khoản của Quý Khách và Quý Khách cần cung cấp kịp thời những thông tin đó. Nếu chúng tôi không thể xác minh thông tin hoặc thông tin sai, không chính xác, gây hiểu nhầm hoặc không đầy đủ, chúng tôi có quyền từ chối đăng ký của Quý Khách mà không cần thông báo.\nChúng tôi có quyền từ chối đăng ký của Quý Khách mà không cần thông báo hoặc không có bất kỳ lý do nào đưa ra. Khi các chi tiết đăng ký tài khoản bị phát hiện là không chính xác, gây hiểu nhầm hoặc không đầy đủ, go88 có quyền đóng tài khoản, hoàn lại tiền gửi vào cùng một tài khoản, tuy nhiên sẽ vô hiệu hóa bất kỳ đặt cược nào.\nQuý khách không được phép sở hữu nhiều hơn một tài khoản. Nếu chúng tôi biết được Quý khách có sở hữu hoặc có liên quan đến nhiều hơn 1 tài khoản, go88 có quyền xem các tài khoản đó là một, hoặc khóa các tài khoản đó và chấm dứt\nNếu Quý Khách để quên, quên hoặc đánh mất tên tài khoản hoặc mật khẩu, Quý Khách nên thông báo cho bộ phận Hỗ Trợ Trực Tuyến.\n",
+    "_N$string": "Tài khoản của Quý Khách chỉ dành cho cá nhân và sẽ không được sử dụng cho bất kỳ mục đích chuyên nghiệp, kinh doanh hoặc thương mại.\nSố dư trong tài khoản của Quý Khách sẽ không nhận được bất kỳ khoản lãi nào.\nĐể tham gia Dịch vụ, Quý Khách phải tạo một tài khoản trên go88 (“Tài khoản của Quý Khách” hoặc “Tài khoản”).\nQuý Khách phải hoàn thành đơn đăng ký mở tài khoản và thành viên như đã nêu trên trang web.\nĐể tạo tài khoản, Quý Khách cần đảm bảo rằng:\n●\tQuý Khách đồng ý rằng việc sử dụng Dịch vụ là tự nguyện và chấp nhận rủi ro;\n●\tQuý Khách đồng ý việc sẽ được yêu cầu cung cấp các thông tin cá nhân của Quý Khách (bao gồm cả các thông tin liên quan đến phương thức thanh toán) vì mục đích sử dụng Dịch vụ. Các thông tin Quý Khách cung cấp sẽ được quản lý theo Chính sách bảo mật của chúng tôi;\n●\tQuý Khách đã trên 18 tuổi hoặc hơn tuổi quy định theo luật pháp của nước sở tại;\n●\tCờ bạc bất hợp pháp trong nơi Quý Khách đang sinh sống;\n●\tQuý Khách có thể kí hợp đồng một cách hợp pháp.\n●\tQuý Khách hiện không sử dụng chức năng từ bỏ đăng nhập;\nQuý Khách xác nhận rằng có trách nhiệm đảm bảo tuân thủ đầy đủ các luật hoặc quy định áp dụng ở quốc gia hoặc quốc gia đang cư trú.\nQuý Khách cam kết rằng sẽ cung cấp thông tin đầy đủ và chính xác đã cung cấp cho e79. Quý Khách phải cập nhật các chi tiết như vậy trong trường hợp cần thay đổi thông tin. Để xác nhận tên và địa chỉ của Quý Khách.\nTài khoản ngân hàng của Quý Khách cần trùng với họ tên hợp pháp và họ tên trong đăng ký tài khoản để được sử dụng trong việc giao dịch gửi hoặc nhận tiền trong tài khoản.\nChúng tôi có quyền yêu cầu bổ sung thông tin liên quan đến tài khoản của Quý Khách và Quý Khách cần cung cấp kịp thời những thông tin đó. Nếu chúng tôi không thể xác minh thông tin hoặc thông tin sai, không chính xác, gây hiểu nhầm hoặc không đầy đủ, chúng tôi có quyền từ chối đăng ký của Quý Khách mà không cần thông báo.\nChúng tôi có quyền từ chối đăng ký của Quý Khách mà không cần thông báo hoặc không có bất kỳ lý do nào đưa ra. Khi các chi tiết đăng ký tài khoản bị phát hiện là không chính xác, gây hiểu nhầm hoặc không đầy đủ, go88 có quyền đóng tài khoản, hoàn lại tiền gửi vào cùng một tài khoản, tuy nhiên sẽ vô hiệu hóa bất kỳ đặt cược nào.\nQuý khách không được phép sở hữu nhiều hơn một tài khoản. Nếu chúng tôi biết được Quý khách có sở hữu hoặc có liên quan đến nhiều hơn 1 tài khoản, go88 có quyền xem các tài khoản đó là một, hoặc khóa các tài khoản đó và chấm dứt\nNếu Quý Khách để quên, quên hoặc đánh mất tên tài khoản hoặc mật khẩu, Quý Khách nên thông báo cho bộ phận Hỗ Trợ Trực Tuyến.\n",
+    "_fontSize": 30,
+    "_lineHeight": 40,
+    "_enableWrapText": true,
+    "_N$file": {
+      "__uuid__": "75ce7c9e-136f-4d54-8d75-d15f4731d11d"
+    },
+    "_isSystemFontUsed": false,
+    "_spacingX": 0,
+    "_batchAsBitmap": false,
+    "_styleFlags": 0,
+    "_underlineHeight": 0,
+    "_N$horizontalAlign": 0,
+    "_N$verticalAlign": 0,
+    "_N$fontFamily": "Arial",
+    "_N$overflow": 3,
+    "_N$cacheMode": 2,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "63ce795d-eff8-49bd-a024-729ff7857263"
+    },
+    "fileId": "026ABpJRxEGJPQQt/EgVud",
+    "sync": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "New Label",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 27
+    },
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 51
+      }
+    ],
+    "_prefab": {
+      "__id__": 52
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 94,
+      "g": 255,
+      "b": 72,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 365.23,
+      "height": 50.4
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        50,
+        -5776.399999999999,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Label",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 50
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_string": "IV.\tNhững quy định chung",
+    "_N$string": "IV.\tNhững quy định chung",
+    "_fontSize": 30,
+    "_lineHeight": 40,
+    "_enableWrapText": true,
+    "_N$file": {
+      "__uuid__": "75ce7c9e-136f-4d54-8d75-d15f4731d11d"
+    },
+    "_isSystemFontUsed": false,
+    "_spacingX": 0,
+    "_batchAsBitmap": false,
+    "_styleFlags": 0,
+    "_underlineHeight": 0,
+    "_N$horizontalAlign": 0,
+    "_N$verticalAlign": 0,
+    "_N$fontFamily": "Arial",
+    "_N$overflow": 3,
+    "_N$cacheMode": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "63ce795d-eff8-49bd-a024-729ff7857263"
+    },
+    "fileId": "b9toKaJN9BV7ATIOvyWL8A",
+    "sync": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "New Label",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 27
+    },
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 54
+      }
+    ],
+    "_prefab": {
+      "__id__": 55
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 194,
+      "g": 194,
+      "b": 194,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 860,
+      "height": 8360
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 1
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        50,
+        -5801.5999999999985,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Label",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 53
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_string": "Người chơi xác nhận bản thân đã đạt 18 tuổi hoặc tuổi trưởng thành theo quy định của pháp luật nước sở tại, tùy trường hợp nào lớn hơn. Khách hàng chịu trách nhiệm nếu vi phạm quy định này.\nCác cược không được chấp nhận: những người dưới 18 tuổi, những người tham gia vào các sự kiện mà cược được đặt (vận động viên, huấn luyện viên, trọng tài, v.v.) cũng như những người đại diện cho những người tham gia sự kiện, những người đại diện cho lợi ích của các công ty cược khác, những người theo pháp luật quy định cấm giao kèo đặt cược với công ty cược.\nKhách hàng chịu trách nhiệm nếu vi phạm điểm 1, 2 của Luật chơi hiện hành. Trường hợp vi phạm các quy định này, công ty có quyền từ chối thanh toán bất kỳ khoản tiền thắng cược và số tiền đặt cược nào và có quyền hủy bất kỳ cược nào. Công ty không có trách nhiệm phải biết khách hàng có thuộc một trong các nhóm người đã đề cập ở trên hay không. Điều này nghĩa là công ty có quyền thực hiện bất kỳ biện pháp cần thiết nào tại bất kỳ thời điểm nào sau khi xác định được khách hàng thuộc một trong các nhóm người đã nêu trên.\nCông ty cược có quyền không nhận cược đặt của những khách hàng không tuân thủ Luật chơi hiện hành. Công ty cược có quyền từ chối bất kỳ cược đặt nào vi phạm các tiêu chuẩn và trật tự xã hội.\nCông ty cược có quyền từ chối bất kỳ cược đặt nào mà không cần cung cấp lý do.\nTất cả cược được thanh toán dựa trên cơ sở thông tin do trung tâm xử lý cung cấp.\nViệc thanh toán cược sẽ được thực hiện trong vòng 30 (ba mươi) ngày kể từ ngày công bố chính thức của sự kiện cuối cùng ghi trên vé cược.\nCác vé cược thắng có hiệu lực trong vòng 30 (ba mươi) ngày kể từ ngày chính thức của sự kiện ghi trên vé cược.\nKhi được thanh toán tiền cược, khách hàng phải kiểm tra số tiền được nhận. Trường hợp xảy ra bất đồng khi nhận tiền thanh toán cược, khách hàng phải báo cho công ty cược và cung cấp số tài khoản, ngày, giờ, tên trận đấu, số tiền đặt cược, loại cược và tỉ lệ cược. Khách hàng cũng cần nói cụ thể nguyên nhân khiếu nại. Công ty cược sẽ tiếp nhận mọi khiếu nại trong vòng 10 (mười) ngày. Mọi khiếu nại về tính cược các game Cyber-Live được chấp nhận trong vòng 72 giờ kể từ thời điểm game kết thúc.\nCược được đăt trên sự ̣ kiêṇ nào đó của khách hàng được tính là thắng nếu khách hàng dự đoán đúng tất cả các kết quả của cược đó.\nNhững điều khoản về nhận cược (tỉ lệ cược, tỉ lệ chấp, tổng số, số tiền cược tối đa,v.v...) có thể thay đổi sau bất kỳ cược đặt nào, với điều kiện là các điều khoản về những cược đã được đặt trước đó vẫn không đổi. Trước khi đặt cược, khách hàng nên kiểm tra mọi thay đổi trong mục cược Thể thao hiện hành.\nNhững cược đặt vào các sự kiện mà kết quả đã được xác định tại thời điểm đặt cược, sẽ được thanh toán với tỉ lệ cược bằng “1”.\nTheo Luật chơi hiện hành, trường hợp có tranh chấp phát sinh giữa khách hàng và công ty cược về các vấn đề liên quan đến thanh toán cược giữa khách hàng và công ty cược bao gồm các câu hỏi về số tiền trả cược, kết quả, tỉ lệ cược, các câu hỏi khác về điều khoản và điều kiện cũng như khi nhận thấy không thể đạt được sự đồng thuận, các bên sẽ tiến hành thủ tục bắt buộc để giải quyết tranh chấp.\nTheo thủ tục giải quyết tranh chấp, bên tuyên bố bị xâm phạm quyền lợi cần gởi khiếu nại bằng văn bản cho bên kia. Trường hợp bên nhận khiếu nại là công ty cược, đơn khiếu nại cần được gửi đến địa chỉ của công ty (địa chỉ pháp lý) do công ty chỉ định cụ thể và xác nhận thông tin tóm lược phù hợp từ các bên pháp lý liên quan. Trường hợp khách hàng (người đặt cược) là người nhận thư khiếu nại, thư khiếu nại cần được gửi đến địa chỉ cư trú (hoặc tạm trú) của khách hàng.\nBên khiếu nại có thể nộp đơn khiếu nại trong vòng 10 (mười) ngày từ khi biết bị vi phạm quyền lợi. Bên khiếu nại cần gửi kèm theo chứng từ xác nhận và chứng minh cho các yêu cầu ghi trong đơn khiếu nại. Trường hợp không gửi đủ các chứng từ cần thiết để xem xét khiếu nại, đơn khiếu nại sẽ được trả lại mà không xem xét. \nNếu tỉ lệ cược bị lỗi, cược sẽ được tính dựa theo kết quả cuối cùng ở tỉ lệ cược hiện tại của Loại cược đó.\nTrường hợp có bất kỳ sửa đổi nào trong Luật chơi hiện hành, công ty cược sẽ thông báo cho khách hàng. Các cược được nhận trong ngày thay đổi quy định sẽ áp dụng Luật chơi mới. Các được đã được nhận trước ngày đó vẫn không thay đổi.\nKhách hàng có trách nhiệm bảo mật mật khẩu và số tài khoản được cấp khi đăng ký. Tất cả các cược được công ty cược ghi nhận đều có hiệu lực. Chỉ có thể hủy cược dựa theo Luật chơi hiện hành. Trường hợp có người khác biết thông tin đăng nhập và mật khẩu, khách hàng phải báo ngay cho quản lý của công ty cược.\nTrong mọi tình huống, go88 sẽ không chịu trách nhiệm về bất kỳ thiệt hại gián tiếp hoặc hậu quả nào (bao gồm cả việc mất tiền thắng cược hoặc số dư tài khoản), kể cả khi khách hàng đã báo với công ty cược về khả năng xảy ra những thiệt hại đó.\nViệc mất kết nối mạng Internet khi nhận cược của khách hàng không phải là căn cứ để hủy cược.\nViệc đặt cược có nghĩa là khách hàng đồng ý và chấp nhận với Luật chơi hiện hành.\nCác kết quả trận đấu do công ty cược công bố là căn cứ duy nhất để tính cược và trả tiền thắng cược. Mọi khiếu nại về kết quả trận đấu, ngày, giờ bắt đầu trận đấu sẽ được xem xét theo thông tin chính thức của liên đoàn thể thao tương ứng.\nNếu khách hàng có hành vi gian lận đối với công ty cược (đăng ký nhiều tài khoản tại site, dùng phần mềm đặt cược tự động, trận đấu phân định thắng thua dựa vào quyết định của trọng tài, đăng ký tài khoản nhưng không dùng để cược, trục lợi các chương trình khuyến mãi), thì công ty cược có quyền chấm dứt các hành vi gian lận bằng các cách sau:\na.\thủy cược;\nb.\tđóng tài khoản và không hoàn trả tiền gửi;\nc.\tbáo với cơ quan pháp luật về hành vi gian lận của khách hàng.\nQuy định có hiệu lực từ ngày 01 tháng 06, 2021.\nCông ty cược không chịu trách nhiệm và không giải quyết khiếu nại liên quan đến tính chính xác của việc dịch tên các đội, tên họ cầu thủ, địa điểm thi đấu. Phần thông tin giải đấu chỉ mang tính tham khảo. Các sai sót có thể có trong những thông tin đó không cấu thành căn cứ để hoàn trả cược.\nMỗi khách hàng chỉ được đăng ký một tài khoản. Chỉ một tài khoản mỗi người, gia đình, hộ gia đình, máy tính hoặc địa chỉ IP hoặc thẻ tín dụng/ghi nợ. Công ty có quyền yêu cầu khách hàng cung cấp thêm thông tin cá nhân (thông tin hộ chiếu, thông tin đăng ký) hoặc thực hiện một cuộc gọi video. Người dùng nhận được kết quả trong vòng 5 ngày làm việc sau khi cuộc gọi video kết thúc.\nSau khi đăng ký, khách hàng không được tạo thêm tài khoản khác (kể cả với tên mới, số điện thọai, v.v...). Nếu công ty phát hiện khách hàng đăng ký nhiều tài khoản (bao gồm tài khoản với tên mới), hoặc nếu khách hàng cung cấp chứng từ không hợp lệ, giả mạo, hoặc chứng từ thuộc về người khác (bao gồm các chứng từ đã được chỉnh sửa bằng các phần mềm hoặc chương trình sửa ảnh), quản lý công ty có quyền hủy bỏ mọi cược đặt từ các tài khoản đó. Trường hợp khách hàng từ chối xác minh tài khoản, công ty có quyền hủy mọi cược đặt. Công ty cũng có quyền tạm khóa tài khoản trong thời gian xác minh. Tùy từng trường hợp cụ thể, công ty có thể xem xét ngoại lệ đối với định này theo yêu cầu của khách hàng.\nCông ty có quyền đóng bất kỳ tài khoản nào ngay lập tức và hủy bất kỳ cược đặt nào từ tài khoản đó nếu phát hiện:\n●\tmột khách hàng có nhiều tài khoản cược (đăng ký đa tài khoản)\n●\tcông ty nghi ngờ khách hàng sử dụng phần mềm chuyên dụng hoặc phương tiện kỹ thuật cho phép đặt cược tự động;\n●\tkhách hàng sử dụng các cách không trung thực để thu thập thông tin hoặc vượt qua các hạn chế do Công ty đề ra. Số dư tài khoản trong những tình huống trên sẽ được hoàn trả cho khách hàng sau khi hoàn tất thủ tục xử lý. Số tiền trong tài khoản sẽ không bao gồm bất kỳ khoản lợi bất chính nào. Công ty có quyền không đền bù cho các khoản thiệt hại của khách hàng về chi phí gửi và/hoặc rút tiền từ tài khoản tại công ty cược e79. \nLiên quan đến các trường hợp: các hành vi gian lận, khách hàng mở nhiều tài khoản, nhiều lần vi phạm quy định, công ty có quyền tiến hành xác minh nhân thân\nNếu công ty cược có bất kỳ thắc mắc nào về danh tính của khách hàng, về tính xác thực của các thông tin khách hàng cung cấp (địa chỉ/thẻ ghi nợ/thẻ tín dụng) hoặc bất kỳ thông tin nào khác do khách hàng cung cấp, chúng tôi có quyền yêu cầu bất cứ chứng từ nào công ty cho là phù hợp để xác minh các thông tin kể trên, và giữ lại các khoản thanh toán đến khi tất cả thông tin khách hàng cung cấp cho chúng tôi được xác thực thỏa đáng. Nếu thông tin khách hàng cung cấp là giả mạo, chúng tôi có quyền hủy bất kỳ cược đặt nào trong tài khoản và giữ vô thời hạn bất kỳ khoản thanh toán nào.\nKhách hàng xác nhận/đồng ý rằng, mọi hoạt động trong tài khoản do chính bản thân khách hàng thực hiện. Nếu tài khoản bị bên thứ ba sử dụng, khách hàng phải chịu trách nhiệm bảo mật tài khoản.\nCông ty có quyền bổ sung hoặc cập nhật các quy định này bất cứ lúc nào. Trong các trường hợp như vậy, thời điểm đăng các quy định mới lên website sẽ được xem là thời gian hiệu lực và các quy định sẽ có hiệu lực ngay lập tức. Bất kỳ cược nào đặt sau thời điểm đó sẽ được áp dụng theo quy định mới.\nCá cược là một hình thức vui chơi giải trí, không phải là một nghề nghiệp. Cá cược là một hoạt động giải trí. Không may là trong một vài trường hợp, việc tham gia vào các hoạt động này có thể gây nên vấn đề. Chúng tôi quan tâm đến khách hàng và cố gắng hết khả năng để đảm bảo việc sử dụng website của chúng tôi là đáng tin cậy, an toàn và không gây ra hậu quả nào. Chúng tôi quảng cáo sản phẩm và dịch vụ một cách có trách nhiệm và không nhắm đến những người trẻ tuổi và dễ bị ảnh hưởng. \nNgười chưa thành niên. Công ty chúng tôi không cho phép người chưa thành niên (dưới 18 tuổi) tham gia. Chúng tôi áp dụng các biện pháp cần thiết để ngăn chặn việc vi phạm quy định này. Chúng tôi đảm bảo chiến dịch quảng cáo, tài trợ, tiếp thị của chúng tôi không có các thông tin nhằm vào những người dưới 18 tuổi. \nNgăn ngừa nghiện cá cược. Mọi chiến dịch quảng cáo và chương trình khuyến mãi đều không đánh lừa người chơi và không xuyên tạc bản chất của các dịch vụ được cung cấp nhằm mục đích nhắm đến những người chơi dễ bị tổn thương. Công ty cảnh báo khách hàng về cơ hội thắng cược cũng như rủi ro thua cược. Dịch vụ được cung cấp dựa trên số tiền thanh toán và chúng tôi không khuyến khích khách hàng chi quá mức. Vui lòng trả lời các câu hỏi bên dưới. Nếu câu trả lời là “Có”, nghĩa là quý khách không còn chơi một cách an toàn nữa và đang gặp vấn đề với việc cá cược. \n●\tQuý khách chi tiêu một cách không kiểm soát?\n●\tQuý khách mượn hoặc trộm tiền để các cược?\n●\tQuý khách nhận thấy mình dành thời gian cho gia đình ít hơn?\n●\tQuý khách phản ứng tiêu cực trước ý kiến của người khác về hoạt động cá cược\n●\tcủa mình?\n●\tQuý khách mất hứng thú với các sở thích và hoạt động giải trí?\n●\tQuý khách thấy chán nản hoặc thậm chí muốn tự tử vì việc các cược của mình?\n●\tQuý khách đã bao giờ nói dối về tổng số tiền hoặc thời gian quý khách đã dùng để cá cược?\nKhông bao giờ quá muộn để thừa nhận đã nghiện cá cược, và không bao giờ quá muộn để cai nghiện. Chúng tôi trân trọng khách hàng và không để căn bệnh này phát triển trong bất kỳ trường hợp nào. Vui lòng tham khảo các thông tin sau để giúp quý khách giảm thiểu nguy cơ bị nghiện cá cược:\n●\tĐừng xem việc cá cược là nguồn thu nhập chính.\n●\tĐặt giới hạn về thời gian và số tiền cược. Không vượt quá giới hạn.\n●\tVui lòng không cá cược nếu:\n●\tQuý khách đang bị ảnh hưởng bởi rượu hoặc bất kỳ chất nào khác;\n●\tQuý khách đang chán nản.\n●\tChỉ cá cược với số tiền trong khả năng thua của quý khách.\n●\tTránh việc càng thua càng chơi với mong muốn thắng lại số tiền đã thua.\n2.\tKhách hàng go88 được thông tin đầy đủ về khả năng thắng cược cũng như hậu quả và nguy cơ thua cược. Khách hàng có thể yêu cầu được cung cấp toàn bộ lịch sử cược. Có thể xem lại thông tin rút tiền và gửi tiền trong mục “Tài Khoản Của Tôi”. Khách hàng có quyền lựa chọn chức năng Tự loại bản thân. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được hỗ trợ và đồng thời sử dụng chức năng Tự hạn chế. Chúng tôi luôn sẵn sàng trợ giúp các khách hàng gặp vấn đề cá cược, sự hỗ trợ của chúng tôi mang tính hệ thống và thông tin sẽ được lưu trữ. Chúng tôi giám sát mọi yêu cầu hỗ trợ.\n",
+    "_N$string": "Người chơi xác nhận bản thân đã đạt 18 tuổi hoặc tuổi trưởng thành theo quy định của pháp luật nước sở tại, tùy trường hợp nào lớn hơn. Khách hàng chịu trách nhiệm nếu vi phạm quy định này.\nCác cược không được chấp nhận: những người dưới 18 tuổi, những người tham gia vào các sự kiện mà cược được đặt (vận động viên, huấn luyện viên, trọng tài, v.v.) cũng như những người đại diện cho những người tham gia sự kiện, những người đại diện cho lợi ích của các công ty cược khác, những người theo pháp luật quy định cấm giao kèo đặt cược với công ty cược.\nKhách hàng chịu trách nhiệm nếu vi phạm điểm 1, 2 của Luật chơi hiện hành. Trường hợp vi phạm các quy định này, công ty có quyền từ chối thanh toán bất kỳ khoản tiền thắng cược và số tiền đặt cược nào và có quyền hủy bất kỳ cược nào. Công ty không có trách nhiệm phải biết khách hàng có thuộc một trong các nhóm người đã đề cập ở trên hay không. Điều này nghĩa là công ty có quyền thực hiện bất kỳ biện pháp cần thiết nào tại bất kỳ thời điểm nào sau khi xác định được khách hàng thuộc một trong các nhóm người đã nêu trên.\nCông ty cược có quyền không nhận cược đặt của những khách hàng không tuân thủ Luật chơi hiện hành. Công ty cược có quyền từ chối bất kỳ cược đặt nào vi phạm các tiêu chuẩn và trật tự xã hội.\nCông ty cược có quyền từ chối bất kỳ cược đặt nào mà không cần cung cấp lý do.\nTất cả cược được thanh toán dựa trên cơ sở thông tin do trung tâm xử lý cung cấp.\nViệc thanh toán cược sẽ được thực hiện trong vòng 30 (ba mươi) ngày kể từ ngày công bố chính thức của sự kiện cuối cùng ghi trên vé cược.\nCác vé cược thắng có hiệu lực trong vòng 30 (ba mươi) ngày kể từ ngày chính thức của sự kiện ghi trên vé cược.\nKhi được thanh toán tiền cược, khách hàng phải kiểm tra số tiền được nhận. Trường hợp xảy ra bất đồng khi nhận tiền thanh toán cược, khách hàng phải báo cho công ty cược và cung cấp số tài khoản, ngày, giờ, tên trận đấu, số tiền đặt cược, loại cược và tỉ lệ cược. Khách hàng cũng cần nói cụ thể nguyên nhân khiếu nại. Công ty cược sẽ tiếp nhận mọi khiếu nại trong vòng 10 (mười) ngày. Mọi khiếu nại về tính cược các game Cyber-Live được chấp nhận trong vòng 72 giờ kể từ thời điểm game kết thúc.\nCược được đăt trên sự ̣ kiêṇ nào đó của khách hàng được tính là thắng nếu khách hàng dự đoán đúng tất cả các kết quả của cược đó.\nNhững điều khoản về nhận cược (tỉ lệ cược, tỉ lệ chấp, tổng số, số tiền cược tối đa,v.v...) có thể thay đổi sau bất kỳ cược đặt nào, với điều kiện là các điều khoản về những cược đã được đặt trước đó vẫn không đổi. Trước khi đặt cược, khách hàng nên kiểm tra mọi thay đổi trong mục cược Thể thao hiện hành.\nNhững cược đặt vào các sự kiện mà kết quả đã được xác định tại thời điểm đặt cược, sẽ được thanh toán với tỉ lệ cược bằng “1”.\nTheo Luật chơi hiện hành, trường hợp có tranh chấp phát sinh giữa khách hàng và công ty cược về các vấn đề liên quan đến thanh toán cược giữa khách hàng và công ty cược bao gồm các câu hỏi về số tiền trả cược, kết quả, tỉ lệ cược, các câu hỏi khác về điều khoản và điều kiện cũng như khi nhận thấy không thể đạt được sự đồng thuận, các bên sẽ tiến hành thủ tục bắt buộc để giải quyết tranh chấp.\nTheo thủ tục giải quyết tranh chấp, bên tuyên bố bị xâm phạm quyền lợi cần gởi khiếu nại bằng văn bản cho bên kia. Trường hợp bên nhận khiếu nại là công ty cược, đơn khiếu nại cần được gửi đến địa chỉ của công ty (địa chỉ pháp lý) do công ty chỉ định cụ thể và xác nhận thông tin tóm lược phù hợp từ các bên pháp lý liên quan. Trường hợp khách hàng (người đặt cược) là người nhận thư khiếu nại, thư khiếu nại cần được gửi đến địa chỉ cư trú (hoặc tạm trú) của khách hàng.\nBên khiếu nại có thể nộp đơn khiếu nại trong vòng 10 (mười) ngày từ khi biết bị vi phạm quyền lợi. Bên khiếu nại cần gửi kèm theo chứng từ xác nhận và chứng minh cho các yêu cầu ghi trong đơn khiếu nại. Trường hợp không gửi đủ các chứng từ cần thiết để xem xét khiếu nại, đơn khiếu nại sẽ được trả lại mà không xem xét. \nNếu tỉ lệ cược bị lỗi, cược sẽ được tính dựa theo kết quả cuối cùng ở tỉ lệ cược hiện tại của Loại cược đó.\nTrường hợp có bất kỳ sửa đổi nào trong Luật chơi hiện hành, công ty cược sẽ thông báo cho khách hàng. Các cược được nhận trong ngày thay đổi quy định sẽ áp dụng Luật chơi mới. Các được đã được nhận trước ngày đó vẫn không thay đổi.\nKhách hàng có trách nhiệm bảo mật mật khẩu và số tài khoản được cấp khi đăng ký. Tất cả các cược được công ty cược ghi nhận đều có hiệu lực. Chỉ có thể hủy cược dựa theo Luật chơi hiện hành. Trường hợp có người khác biết thông tin đăng nhập và mật khẩu, khách hàng phải báo ngay cho quản lý của công ty cược.\nTrong mọi tình huống, go88 sẽ không chịu trách nhiệm về bất kỳ thiệt hại gián tiếp hoặc hậu quả nào (bao gồm cả việc mất tiền thắng cược hoặc số dư tài khoản), kể cả khi khách hàng đã báo với công ty cược về khả năng xảy ra những thiệt hại đó.\nViệc mất kết nối mạng Internet khi nhận cược của khách hàng không phải là căn cứ để hủy cược.\nViệc đặt cược có nghĩa là khách hàng đồng ý và chấp nhận với Luật chơi hiện hành.\nCác kết quả trận đấu do công ty cược công bố là căn cứ duy nhất để tính cược và trả tiền thắng cược. Mọi khiếu nại về kết quả trận đấu, ngày, giờ bắt đầu trận đấu sẽ được xem xét theo thông tin chính thức của liên đoàn thể thao tương ứng.\nNếu khách hàng có hành vi gian lận đối với công ty cược (đăng ký nhiều tài khoản tại site, dùng phần mềm đặt cược tự động, trận đấu phân định thắng thua dựa vào quyết định của trọng tài, đăng ký tài khoản nhưng không dùng để cược, trục lợi các chương trình khuyến mãi), thì công ty cược có quyền chấm dứt các hành vi gian lận bằng các cách sau:\na.\thủy cược;\nb.\tđóng tài khoản và không hoàn trả tiền gửi;\nc.\tbáo với cơ quan pháp luật về hành vi gian lận của khách hàng.\nQuy định có hiệu lực từ ngày 01 tháng 06, 2021.\nCông ty cược không chịu trách nhiệm và không giải quyết khiếu nại liên quan đến tính chính xác của việc dịch tên các đội, tên họ cầu thủ, địa điểm thi đấu. Phần thông tin giải đấu chỉ mang tính tham khảo. Các sai sót có thể có trong những thông tin đó không cấu thành căn cứ để hoàn trả cược.\nMỗi khách hàng chỉ được đăng ký một tài khoản. Chỉ một tài khoản mỗi người, gia đình, hộ gia đình, máy tính hoặc địa chỉ IP hoặc thẻ tín dụng/ghi nợ. Công ty có quyền yêu cầu khách hàng cung cấp thêm thông tin cá nhân (thông tin hộ chiếu, thông tin đăng ký) hoặc thực hiện một cuộc gọi video. Người dùng nhận được kết quả trong vòng 5 ngày làm việc sau khi cuộc gọi video kết thúc.\nSau khi đăng ký, khách hàng không được tạo thêm tài khoản khác (kể cả với tên mới, số điện thọai, v.v...). Nếu công ty phát hiện khách hàng đăng ký nhiều tài khoản (bao gồm tài khoản với tên mới), hoặc nếu khách hàng cung cấp chứng từ không hợp lệ, giả mạo, hoặc chứng từ thuộc về người khác (bao gồm các chứng từ đã được chỉnh sửa bằng các phần mềm hoặc chương trình sửa ảnh), quản lý công ty có quyền hủy bỏ mọi cược đặt từ các tài khoản đó. Trường hợp khách hàng từ chối xác minh tài khoản, công ty có quyền hủy mọi cược đặt. Công ty cũng có quyền tạm khóa tài khoản trong thời gian xác minh. Tùy từng trường hợp cụ thể, công ty có thể xem xét ngoại lệ đối với định này theo yêu cầu của khách hàng.\nCông ty có quyền đóng bất kỳ tài khoản nào ngay lập tức và hủy bất kỳ cược đặt nào từ tài khoản đó nếu phát hiện:\n●\tmột khách hàng có nhiều tài khoản cược (đăng ký đa tài khoản)\n●\tcông ty nghi ngờ khách hàng sử dụng phần mềm chuyên dụng hoặc phương tiện kỹ thuật cho phép đặt cược tự động;\n●\tkhách hàng sử dụng các cách không trung thực để thu thập thông tin hoặc vượt qua các hạn chế do Công ty đề ra. Số dư tài khoản trong những tình huống trên sẽ được hoàn trả cho khách hàng sau khi hoàn tất thủ tục xử lý. Số tiền trong tài khoản sẽ không bao gồm bất kỳ khoản lợi bất chính nào. Công ty có quyền không đền bù cho các khoản thiệt hại của khách hàng về chi phí gửi và/hoặc rút tiền từ tài khoản tại công ty cược e79. \nLiên quan đến các trường hợp: các hành vi gian lận, khách hàng mở nhiều tài khoản, nhiều lần vi phạm quy định, công ty có quyền tiến hành xác minh nhân thân\nNếu công ty cược có bất kỳ thắc mắc nào về danh tính của khách hàng, về tính xác thực của các thông tin khách hàng cung cấp (địa chỉ/thẻ ghi nợ/thẻ tín dụng) hoặc bất kỳ thông tin nào khác do khách hàng cung cấp, chúng tôi có quyền yêu cầu bất cứ chứng từ nào công ty cho là phù hợp để xác minh các thông tin kể trên, và giữ lại các khoản thanh toán đến khi tất cả thông tin khách hàng cung cấp cho chúng tôi được xác thực thỏa đáng. Nếu thông tin khách hàng cung cấp là giả mạo, chúng tôi có quyền hủy bất kỳ cược đặt nào trong tài khoản và giữ vô thời hạn bất kỳ khoản thanh toán nào.\nKhách hàng xác nhận/đồng ý rằng, mọi hoạt động trong tài khoản do chính bản thân khách hàng thực hiện. Nếu tài khoản bị bên thứ ba sử dụng, khách hàng phải chịu trách nhiệm bảo mật tài khoản.\nCông ty có quyền bổ sung hoặc cập nhật các quy định này bất cứ lúc nào. Trong các trường hợp như vậy, thời điểm đăng các quy định mới lên website sẽ được xem là thời gian hiệu lực và các quy định sẽ có hiệu lực ngay lập tức. Bất kỳ cược nào đặt sau thời điểm đó sẽ được áp dụng theo quy định mới.\nCá cược là một hình thức vui chơi giải trí, không phải là một nghề nghiệp. Cá cược là một hoạt động giải trí. Không may là trong một vài trường hợp, việc tham gia vào các hoạt động này có thể gây nên vấn đề. Chúng tôi quan tâm đến khách hàng và cố gắng hết khả năng để đảm bảo việc sử dụng website của chúng tôi là đáng tin cậy, an toàn và không gây ra hậu quả nào. Chúng tôi quảng cáo sản phẩm và dịch vụ một cách có trách nhiệm và không nhắm đến những người trẻ tuổi và dễ bị ảnh hưởng. \nNgười chưa thành niên. Công ty chúng tôi không cho phép người chưa thành niên (dưới 18 tuổi) tham gia. Chúng tôi áp dụng các biện pháp cần thiết để ngăn chặn việc vi phạm quy định này. Chúng tôi đảm bảo chiến dịch quảng cáo, tài trợ, tiếp thị của chúng tôi không có các thông tin nhằm vào những người dưới 18 tuổi. \nNgăn ngừa nghiện cá cược. Mọi chiến dịch quảng cáo và chương trình khuyến mãi đều không đánh lừa người chơi và không xuyên tạc bản chất của các dịch vụ được cung cấp nhằm mục đích nhắm đến những người chơi dễ bị tổn thương. Công ty cảnh báo khách hàng về cơ hội thắng cược cũng như rủi ro thua cược. Dịch vụ được cung cấp dựa trên số tiền thanh toán và chúng tôi không khuyến khích khách hàng chi quá mức. Vui lòng trả lời các câu hỏi bên dưới. Nếu câu trả lời là “Có”, nghĩa là quý khách không còn chơi một cách an toàn nữa và đang gặp vấn đề với việc cá cược. \n●\tQuý khách chi tiêu một cách không kiểm soát?\n●\tQuý khách mượn hoặc trộm tiền để các cược?\n●\tQuý khách nhận thấy mình dành thời gian cho gia đình ít hơn?\n●\tQuý khách phản ứng tiêu cực trước ý kiến của người khác về hoạt động cá cược\n●\tcủa mình?\n●\tQuý khách mất hứng thú với các sở thích và hoạt động giải trí?\n●\tQuý khách thấy chán nản hoặc thậm chí muốn tự tử vì việc các cược của mình?\n●\tQuý khách đã bao giờ nói dối về tổng số tiền hoặc thời gian quý khách đã dùng để cá cược?\nKhông bao giờ quá muộn để thừa nhận đã nghiện cá cược, và không bao giờ quá muộn để cai nghiện. Chúng tôi trân trọng khách hàng và không để căn bệnh này phát triển trong bất kỳ trường hợp nào. Vui lòng tham khảo các thông tin sau để giúp quý khách giảm thiểu nguy cơ bị nghiện cá cược:\n●\tĐừng xem việc cá cược là nguồn thu nhập chính.\n●\tĐặt giới hạn về thời gian và số tiền cược. Không vượt quá giới hạn.\n●\tVui lòng không cá cược nếu:\n●\tQuý khách đang bị ảnh hưởng bởi rượu hoặc bất kỳ chất nào khác;\n●\tQuý khách đang chán nản.\n●\tChỉ cá cược với số tiền trong khả năng thua của quý khách.\n●\tTránh việc càng thua càng chơi với mong muốn thắng lại số tiền đã thua.\n2.\tKhách hàng go88 được thông tin đầy đủ về khả năng thắng cược cũng như hậu quả và nguy cơ thua cược. Khách hàng có thể yêu cầu được cung cấp toàn bộ lịch sử cược. Có thể xem lại thông tin rút tiền và gửi tiền trong mục “Tài Khoản Của Tôi”. Khách hàng có quyền lựa chọn chức năng Tự loại bản thân. Vui lòng liên hệ bộ phận hỗ trợ khách hàng để được hỗ trợ và đồng thời sử dụng chức năng Tự hạn chế. Chúng tôi luôn sẵn sàng trợ giúp các khách hàng gặp vấn đề cá cược, sự hỗ trợ của chúng tôi mang tính hệ thống và thông tin sẽ được lưu trữ. Chúng tôi giám sát mọi yêu cầu hỗ trợ.\n",
+    "_fontSize": 30,
+    "_lineHeight": 40,
+    "_enableWrapText": true,
+    "_N$file": {
+      "__uuid__": "75ce7c9e-136f-4d54-8d75-d15f4731d11d"
+    },
+    "_isSystemFontUsed": false,
+    "_spacingX": 0,
+    "_batchAsBitmap": false,
+    "_styleFlags": 0,
+    "_underlineHeight": 0,
+    "_N$horizontalAlign": 0,
+    "_N$verticalAlign": 0,
+    "_N$fontFamily": "Arial",
+    "_N$overflow": 3,
+    "_N$cacheMode": 2,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "63ce795d-eff8-49bd-a024-729ff7857263"
+    },
+    "fileId": "25cpX39exGgaiBKSm5G3ai",
+    "sync": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "New Label",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 27
+    },
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 57
+      }
+    ],
+    "_prefab": {
+      "__id__": 58
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 94,
+      "g": 255,
+      "b": 72,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 365.23,
+      "height": 50.4
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        50,
+        -14186.8,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Label",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 56
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_string": "V.\tĐảm bảo tài chính",
+    "_N$string": "V.\tĐảm bảo tài chính",
+    "_fontSize": 30,
+    "_lineHeight": 40,
+    "_enableWrapText": true,
+    "_N$file": {
+      "__uuid__": "75ce7c9e-136f-4d54-8d75-d15f4731d11d"
+    },
+    "_isSystemFontUsed": false,
+    "_spacingX": 0,
+    "_batchAsBitmap": false,
+    "_styleFlags": 0,
+    "_underlineHeight": 0,
+    "_N$horizontalAlign": 0,
+    "_N$verticalAlign": 0,
+    "_N$fontFamily": "Arial",
+    "_N$overflow": 3,
+    "_N$cacheMode": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "63ce795d-eff8-49bd-a024-729ff7857263"
+    },
+    "fileId": "2bWrY13GRNGbzE5/X2lpbB",
+    "sync": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "New Label",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 27
+    },
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 60
+      }
+    ],
+    "_prefab": {
+      "__id__": 61
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 194,
+      "g": 194,
+      "b": 194,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 860,
+      "height": 320
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 1
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        50,
+        -14212,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Label",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 59
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_string": "e79 lưu trữ tiền của Khách Hàng tách biệt hoàn toàn với các khoản tiền của công ty. Điều này có nghĩa chúng tôi đã thực hiện các bước cần thiết để bảo vệ tiền của Khách Hàng,  số tiền này được đảm bảo và tách biệt với những nguồn tiền của các tài khoản công ty khác mà chúng tôi nắm giữ . Trong trường hợp phá sản, tiền của Khách Hàng trong các tài khoản dự trữ đó được bảo toàn và sẽ không thuộc về bên thanh lý.\n",
+    "_N$string": "e79 lưu trữ tiền của Khách Hàng tách biệt hoàn toàn với các khoản tiền của công ty. Điều này có nghĩa chúng tôi đã thực hiện các bước cần thiết để bảo vệ tiền của Khách Hàng,  số tiền này được đảm bảo và tách biệt với những nguồn tiền của các tài khoản công ty khác mà chúng tôi nắm giữ . Trong trường hợp phá sản, tiền của Khách Hàng trong các tài khoản dự trữ đó được bảo toàn và sẽ không thuộc về bên thanh lý.\n",
+    "_fontSize": 30,
+    "_lineHeight": 40,
+    "_enableWrapText": true,
+    "_N$file": {
+      "__uuid__": "75ce7c9e-136f-4d54-8d75-d15f4731d11d"
+    },
+    "_isSystemFontUsed": false,
+    "_spacingX": 0,
+    "_batchAsBitmap": false,
+    "_styleFlags": 0,
+    "_underlineHeight": 0,
+    "_N$horizontalAlign": 0,
+    "_N$verticalAlign": 0,
+    "_N$fontFamily": "Arial",
+    "_N$overflow": 3,
+    "_N$cacheMode": 2,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "63ce795d-eff8-49bd-a024-729ff7857263"
+    },
+    "fileId": "7axeZRj81AOLI8zeHEx1sg",
+    "sync": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "New Label",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 27
+    },
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 63
+      }
+    ],
+    "_prefab": {
+      "__id__": 64
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 94,
+      "g": 255,
+      "b": 72,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 365.23,
+      "height": 50.4
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        50,
+        -14557.2,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Label",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 62
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_string": "VI.\tRút tiền",
+    "_N$string": "VI.\tRút tiền",
+    "_fontSize": 30,
+    "_lineHeight": 40,
+    "_enableWrapText": true,
+    "_N$file": {
+      "__uuid__": "75ce7c9e-136f-4d54-8d75-d15f4731d11d"
+    },
+    "_isSystemFontUsed": false,
+    "_spacingX": 0,
+    "_batchAsBitmap": false,
+    "_styleFlags": 0,
+    "_underlineHeight": 0,
+    "_N$horizontalAlign": 0,
+    "_N$verticalAlign": 0,
+    "_N$fontFamily": "Arial",
+    "_N$overflow": 3,
+    "_N$cacheMode": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "63ce795d-eff8-49bd-a024-729ff7857263"
+    },
+    "fileId": "a9uvfY9MpAZpMC33RTISEu",
+    "sync": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "New Label",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 27
+    },
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 66
+      }
+    ],
+    "_prefab": {
+      "__id__": 67
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 194,
+      "g": 194,
+      "b": 194,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 860,
+      "height": 680
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 1
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        50,
+        -14582.400000000001,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Label",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 65
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_string": "Tiền thắng cược sẽ được cập nhật vào tài khoản của Quý Khách và chỉ có thể rút theo Điều khoản và Điều kiện và sau khi Quý Khách cung cấp file hình ảnh chứng từ tùy thân có dán ảnh và/hoặc chứng từ thẻ tín dụng/ghi nợ theo yêu cầu của e79.\nQuý Khách sẽ không thể rút tiền trong bất cứ trường hợp nào nếu như toàn bộ số tiền gửi vào chưa được sử dụng hết để đặt cược.\nKhoản tiền được rút khỏi tài khoản chỉ có thể được thực hiện với cùng ngoại tệ của giao dịch gửi tiền thành công.\nQuý Khách sẽ chi trả cho tất cả chi phí ngân hàng mà go88 phải chịu do liên quan đến bất cứ giao dịch cá cược nào của Quý Khách. go88 có quyền trừ và bù đắp các khoản trên từ tiền thắng cược của Quý Khách hoặc từ tài khoản tùy theo từng trường hợp.\nNếu Quý Khách cài đặt tự loại bản thân, chúng tôi sẽ cố gắng hoàn trả số dư còn lại trong tài khoản về tài khoản ngân hàng của Quý Khách theo Điều Khoản và Điều Kiện. Vui lòng tham khảo phần Câu Hỏi Thường Gặp để biết thêm chi tiết.\n",
+    "_N$string": "Tiền thắng cược sẽ được cập nhật vào tài khoản của Quý Khách và chỉ có thể rút theo Điều khoản và Điều kiện và sau khi Quý Khách cung cấp file hình ảnh chứng từ tùy thân có dán ảnh và/hoặc chứng từ thẻ tín dụng/ghi nợ theo yêu cầu của e79.\nQuý Khách sẽ không thể rút tiền trong bất cứ trường hợp nào nếu như toàn bộ số tiền gửi vào chưa được sử dụng hết để đặt cược.\nKhoản tiền được rút khỏi tài khoản chỉ có thể được thực hiện với cùng ngoại tệ của giao dịch gửi tiền thành công.\nQuý Khách sẽ chi trả cho tất cả chi phí ngân hàng mà go88 phải chịu do liên quan đến bất cứ giao dịch cá cược nào của Quý Khách. go88 có quyền trừ và bù đắp các khoản trên từ tiền thắng cược của Quý Khách hoặc từ tài khoản tùy theo từng trường hợp.\nNếu Quý Khách cài đặt tự loại bản thân, chúng tôi sẽ cố gắng hoàn trả số dư còn lại trong tài khoản về tài khoản ngân hàng của Quý Khách theo Điều Khoản và Điều Kiện. Vui lòng tham khảo phần Câu Hỏi Thường Gặp để biết thêm chi tiết.\n",
+    "_fontSize": 30,
+    "_lineHeight": 40,
+    "_enableWrapText": true,
+    "_N$file": {
+      "__uuid__": "75ce7c9e-136f-4d54-8d75-d15f4731d11d"
+    },
+    "_isSystemFontUsed": false,
+    "_spacingX": 0,
+    "_batchAsBitmap": false,
+    "_styleFlags": 0,
+    "_underlineHeight": 0,
+    "_N$horizontalAlign": 0,
+    "_N$verticalAlign": 0,
+    "_N$fontFamily": "Arial",
+    "_N$overflow": 3,
+    "_N$cacheMode": 2,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "63ce795d-eff8-49bd-a024-729ff7857263"
+    },
+    "fileId": "69+84ujOdDiqSG7nUfY3sW",
+    "sync": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "New Label",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 27
+    },
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 69
+      }
+    ],
+    "_prefab": {
+      "__id__": 70
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 94,
+      "g": 255,
+      "b": 72,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 860,
+      "height": 40
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 1
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        50,
+        -15262.400000000001,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Label",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 68
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_string": "VII.\tThanh toán giao dịch",
+    "_N$string": "VII.\tThanh toán giao dịch",
+    "_fontSize": 30,
+    "_lineHeight": 40,
+    "_enableWrapText": true,
+    "_N$file": {
+      "__uuid__": "75ce7c9e-136f-4d54-8d75-d15f4731d11d"
+    },
+    "_isSystemFontUsed": false,
+    "_spacingX": 0,
+    "_batchAsBitmap": false,
+    "_styleFlags": 0,
+    "_underlineHeight": 0,
+    "_N$horizontalAlign": 0,
+    "_N$verticalAlign": 0,
+    "_N$fontFamily": "Arial",
+    "_N$overflow": 3,
+    "_N$cacheMode": 2,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "63ce795d-eff8-49bd-a024-729ff7857263"
+    },
+    "fileId": "2dTXmoisxLkpnYv8TbYt2G",
+    "sync": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "New Label",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 27
+    },
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 72
+      }
+    ],
+    "_prefab": {
+      "__id__": 73
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 194,
+      "g": 194,
+      "b": 194,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 860,
+      "height": 1040
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        50,
+        -15822.400000000001,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Label",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 71
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_string": "Để sử dụng thẻ tín dụng hay thẻ ghi nợ, tên chủ thẻ phải giống tên đăng ký của tài khoản. go88 có quyền từ chối thanh toán các giao dịch nếu tên của chủ thẻ khác với tên của chủ tài khoản tại e79.\nQuý Khách có trách nhiệm trả toàn bộ số tiền nợ e79và/hay các thành viên khác. Liên quan đến các giao dịch do Quý Khách thực hiện, nếu chúng tôi nghi ngờ Quý Khách có ý định hoặc có liên quan đến việc sử dụng chứng từ giả hay các hành động gian lận khi sử dụng Site như giao dịch bằng thẻ bị đánh cắp và các hành động gian lận khác (bao gồm hồi tiền, lấy lại tiền gửi hoặc rửa tiền...) khi đó go88 có quyền thực hiện các biện pháp xử lý cần thiết, bao gồm ngăn chặn truy cập Site, khóa và/hoặc hủy tài khoản, thu hồi các khoản tiền trong tài khoản go88 của Quý Khách và chia sẻ các thông tin (cùng với thông tin cá nhân của chủ tài khoản) cho các website cá cược trực tuyến, các tổ chức tài chính và/hoặc các cơ quan hoặc cá nhân liên quan khác có thẩm quyền. go88 cũng có thể truy tố pháp luật đối với Quý Khách. go88 sẽ yêu cầu Quý Khách trả tiền cho các chi phí phát sinh do những lý do vừa nêu.\nQuý Khách có thể rút tiền tối đa 5 lần một ngày không giới hạn số lần rút tiền\nNếu một số tiền được chuyển tới tài khoản của Quý Khách do sai sót, Quý Khách sẽ có trách nhiệm thông báo với chúng tôi ngay lập tức. Trước khi có thông báo của go88 về vấn đề lỗi mà chúng tôi đang đề cập, mọi khoản tiền thắng cược phát sinh từ nguồn tiền Quý Khách có được do lỗi, dù có liên quan đến lỗi này hay không, sẽ không được công nhận và phải được trả về cho e79.\n",
+    "_N$string": "Để sử dụng thẻ tín dụng hay thẻ ghi nợ, tên chủ thẻ phải giống tên đăng ký của tài khoản. go88 có quyền từ chối thanh toán các giao dịch nếu tên của chủ thẻ khác với tên của chủ tài khoản tại e79.\nQuý Khách có trách nhiệm trả toàn bộ số tiền nợ e79và/hay các thành viên khác. Liên quan đến các giao dịch do Quý Khách thực hiện, nếu chúng tôi nghi ngờ Quý Khách có ý định hoặc có liên quan đến việc sử dụng chứng từ giả hay các hành động gian lận khi sử dụng Site như giao dịch bằng thẻ bị đánh cắp và các hành động gian lận khác (bao gồm hồi tiền, lấy lại tiền gửi hoặc rửa tiền...) khi đó go88 có quyền thực hiện các biện pháp xử lý cần thiết, bao gồm ngăn chặn truy cập Site, khóa và/hoặc hủy tài khoản, thu hồi các khoản tiền trong tài khoản go88 của Quý Khách và chia sẻ các thông tin (cùng với thông tin cá nhân của chủ tài khoản) cho các website cá cược trực tuyến, các tổ chức tài chính và/hoặc các cơ quan hoặc cá nhân liên quan khác có thẩm quyền. go88 cũng có thể truy tố pháp luật đối với Quý Khách. go88 sẽ yêu cầu Quý Khách trả tiền cho các chi phí phát sinh do những lý do vừa nêu.\nQuý Khách có thể rút tiền tối đa 5 lần một ngày không giới hạn số lần rút tiền\nNếu một số tiền được chuyển tới tài khoản của Quý Khách do sai sót, Quý Khách sẽ có trách nhiệm thông báo với chúng tôi ngay lập tức. Trước khi có thông báo của go88 về vấn đề lỗi mà chúng tôi đang đề cập, mọi khoản tiền thắng cược phát sinh từ nguồn tiền Quý Khách có được do lỗi, dù có liên quan đến lỗi này hay không, sẽ không được công nhận và phải được trả về cho e79.\n",
+    "_fontSize": 30,
+    "_lineHeight": 40,
+    "_enableWrapText": true,
+    "_N$file": {
+      "__uuid__": "75ce7c9e-136f-4d54-8d75-d15f4731d11d"
+    },
+    "_isSystemFontUsed": false,
+    "_spacingX": 0,
+    "_batchAsBitmap": false,
+    "_styleFlags": 0,
+    "_underlineHeight": 0,
+    "_N$horizontalAlign": 0,
+    "_N$verticalAlign": 0,
+    "_N$fontFamily": "Arial",
+    "_N$overflow": 3,
+    "_N$cacheMode": 2,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "63ce795d-eff8-49bd-a024-729ff7857263"
+    },
+    "fileId": "20EoCaLmpMvoEakTtvi8P2",
+    "sync": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "New Label",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 27
+    },
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 75
+      }
+    ],
+    "_prefab": {
+      "__id__": 76
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 94,
+      "g": 255,
+      "b": 72,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 860,
+      "height": 40
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 1
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        50,
+        -16342.400000000001,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Label",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 74
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_string": "VIII.\tThoả thuận khác",
+    "_N$string": "VIII.\tThoả thuận khác",
+    "_fontSize": 30,
+    "_lineHeight": 40,
+    "_enableWrapText": true,
+    "_N$file": {
+      "__uuid__": "75ce7c9e-136f-4d54-8d75-d15f4731d11d"
+    },
+    "_isSystemFontUsed": false,
+    "_spacingX": 0,
+    "_batchAsBitmap": false,
+    "_styleFlags": 0,
+    "_underlineHeight": 0,
+    "_N$horizontalAlign": 0,
+    "_N$verticalAlign": 0,
+    "_N$fontFamily": "Arial",
+    "_N$overflow": 3,
+    "_N$cacheMode": 2,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "63ce795d-eff8-49bd-a024-729ff7857263"
+    },
+    "fileId": "2aFFkcJixDkIzCdWS04WOx",
+    "sync": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "New Label",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 27
+    },
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 78
+      }
+    ],
+    "_prefab": {
+      "__id__": 79
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 194,
+      "g": 194,
+      "b": 194,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 860,
+      "height": 1360
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        50,
+        -17062.4,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Label",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 77
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_string": "Nếu một điều khoản của Thỏa Thuận này không hợp pháp hoặc trở nên không hợp pháp, không có hiệu lực hoặc không thể thi hành ở bất kỳ nước nào thì sẽ không ảnh hưởng đến hiệu lực hoặc tính khả thi của các điều khoản khác tại nước đó và không ảnh hưởng đến hiệu lực và khả năng thi hành của các điều khoản đó ở các quốc gia khác.\nCác đề mục của Thỏa Thuận chỉ để tiện tham khảo và không ảnh hưởng đến nội dung hoặc ý nghĩa của bất kỳ điều khoản nào.\nNếu go88 không thể hay chậm trễ trong việc thực hiện bất cứ nghĩa vụ nào theo Thoả thuận vì những lý do vượt ngoài tầm xử lý, bao gồm,: các hiện tượng tự nhiên, quy định của chính phủ, chiến tranh, nổi dậy, hỏng đường dẫn hoặc hệ thống, hỏng hoặc gián đoạn việc cung cấp dịch vụ viễn thông hay băng thông rộng, điện yếu hay mất điện, thiếu hoặc hỏng trang thiết bị,... những sự thất bại hay chậm trễ đó sẽ không cấu thành sự vi phạm của Thỏa thuận.\nViệc go88 thất bại hoặc chậm trễ trong việc thực hiện bất kỳ điều khoản, bồi thường, quyền hạn hoặc đặc quyền nào dưới đây sẽ không được hiểu là sự từ bỏ các điều khoản, bồi thường, quyền hạn hoặc đặc quyền đó.\ne79 có quyền ủy quyền Thỏa thuận này, toàn bộ hoặc một phần bất cứ lúc nào mà không cần thông báo. Quý Khách không thể ủy quyền bất cứ quyền lợi hoặc nghĩa vụ nào của Quý Khách theo thỏa Thuận này.\nKhông có bất kỳ điều khoản nào trong Thỏa thuận này có thể tạo ra hoặc đem tới quyền lợi hoặc các lợi ích khác cho những bên thứ ba không liên quan đến Thỏa Thuận.\nKhông có bất kỳ điều khoản nào trong Thỏa Thuận này có thể tạo ra hoặc cho thấy rằng tạo ra một quan hệ đối tác, chi nhánh, hợp đồng tín nhiệm, mối quan hệ ủy thác hoặc liên doanh giữa go88 và Quý Khách.\nThỏa thuận này cấu thành toàn bộ cách hiểu và thỏa thuận giữa go88 và Quý Khách về Dịch vụ và Site và thay thế các thỏa thuận, cách hiểu hoặc cách giải quyết vấn đề trước đây giữa go88 và Quý Khách.\nCập nhật lần cuối: Ngày 22 Tháng 05 Năm 2021 (GMT+7)",
+    "_N$string": "Nếu một điều khoản của Thỏa Thuận này không hợp pháp hoặc trở nên không hợp pháp, không có hiệu lực hoặc không thể thi hành ở bất kỳ nước nào thì sẽ không ảnh hưởng đến hiệu lực hoặc tính khả thi của các điều khoản khác tại nước đó và không ảnh hưởng đến hiệu lực và khả năng thi hành của các điều khoản đó ở các quốc gia khác.\nCác đề mục của Thỏa Thuận chỉ để tiện tham khảo và không ảnh hưởng đến nội dung hoặc ý nghĩa của bất kỳ điều khoản nào.\nNếu go88 không thể hay chậm trễ trong việc thực hiện bất cứ nghĩa vụ nào theo Thoả thuận vì những lý do vượt ngoài tầm xử lý, bao gồm,: các hiện tượng tự nhiên, quy định của chính phủ, chiến tranh, nổi dậy, hỏng đường dẫn hoặc hệ thống, hỏng hoặc gián đoạn việc cung cấp dịch vụ viễn thông hay băng thông rộng, điện yếu hay mất điện, thiếu hoặc hỏng trang thiết bị,... những sự thất bại hay chậm trễ đó sẽ không cấu thành sự vi phạm của Thỏa thuận.\nViệc go88 thất bại hoặc chậm trễ trong việc thực hiện bất kỳ điều khoản, bồi thường, quyền hạn hoặc đặc quyền nào dưới đây sẽ không được hiểu là sự từ bỏ các điều khoản, bồi thường, quyền hạn hoặc đặc quyền đó.\ne79 có quyền ủy quyền Thỏa thuận này, toàn bộ hoặc một phần bất cứ lúc nào mà không cần thông báo. Quý Khách không thể ủy quyền bất cứ quyền lợi hoặc nghĩa vụ nào của Quý Khách theo thỏa Thuận này.\nKhông có bất kỳ điều khoản nào trong Thỏa thuận này có thể tạo ra hoặc đem tới quyền lợi hoặc các lợi ích khác cho những bên thứ ba không liên quan đến Thỏa Thuận.\nKhông có bất kỳ điều khoản nào trong Thỏa Thuận này có thể tạo ra hoặc cho thấy rằng tạo ra một quan hệ đối tác, chi nhánh, hợp đồng tín nhiệm, mối quan hệ ủy thác hoặc liên doanh giữa go88 và Quý Khách.\nThỏa thuận này cấu thành toàn bộ cách hiểu và thỏa thuận giữa go88 và Quý Khách về Dịch vụ và Site và thay thế các thỏa thuận, cách hiểu hoặc cách giải quyết vấn đề trước đây giữa go88 và Quý Khách.\nCập nhật lần cuối: Ngày 22 Tháng 05 Năm 2021 (GMT+7)",
+    "_fontSize": 30,
+    "_lineHeight": 40,
+    "_enableWrapText": true,
+    "_N$file": {
+      "__uuid__": "75ce7c9e-136f-4d54-8d75-d15f4731d11d"
+    },
+    "_isSystemFontUsed": false,
+    "_spacingX": 0,
+    "_batchAsBitmap": false,
+    "_styleFlags": 0,
+    "_underlineHeight": 0,
+    "_N$horizontalAlign": 0,
+    "_N$verticalAlign": 0,
+    "_N$fontFamily": "Arial",
+    "_N$overflow": 3,
+    "_N$cacheMode": 2,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "63ce795d-eff8-49bd-a024-729ff7857263"
+    },
+    "fileId": "62Cq0CczlCOaNJs0THLiTE",
+    "sync": false
+  },
+  {
+    "__type__": "cc.Layout",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 27
+    },
+    "_enabled": true,
+    "_layoutSize": {
+      "__type__": "cc.Size",
+      "width": 960,
+      "height": 17742.4
+    },
+    "_resize": 1,
+    "_N$layoutType": 2,
+    "_N$cellSize": {
+      "__type__": "cc.Size",
+      "width": 40,
+      "height": 40
+    },
+    "_N$startAxis": 0,
+    "_N$paddingLeft": 0,
+    "_N$paddingRight": 0,
+    "_N$paddingTop": 0,
+    "_N$paddingBottom": 0,
+    "_N$spacingX": 0,
+    "_N$spacingY": 0,
+    "_N$verticalDirection": 1,
+    "_N$horizontalDirection": 0,
+    "_N$affectedByScale": false,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Widget",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 27
+    },
+    "_enabled": true,
+    "alignMode": 1,
+    "_target": null,
+    "_alignFlags": 41,
+    "_left": 0,
+    "_right": 0,
+    "_top": 50,
+    "_bottom": 0,
+    "_verticalCenter": 0,
+    "_horizontalCenter": 0,
+    "_isAbsLeft": true,
+    "_isAbsRight": true,
+    "_isAbsTop": true,
+    "_isAbsBottom": true,
+    "_isAbsHorizontalCenter": true,
+    "_isAbsVerticalCenter": true,
+    "_originalWidth": 220,
+    "_originalHeight": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "63ce795d-eff8-49bd-a024-729ff7857263"
+    },
+    "fileId": "0ey/Kv5v1DVYPxHnNfGTdD",
+    "sync": false
+  },
+  {
+    "__type__": "cc.Widget",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 21
+    },
+    "_enabled": true,
+    "alignMode": 0,
+    "_target": null,
+    "_alignFlags": 37,
+    "_left": 350.07654921020657,
+    "_right": 0,
+    "_top": 0,
+    "_bottom": 0,
+    "_verticalCenter": 0,
+    "_horizontalCenter": 0,
+    "_isAbsLeft": true,
+    "_isAbsRight": true,
+    "_isAbsTop": true,
+    "_isAbsBottom": true,
+    "_isAbsHorizontalCenter": true,
+    "_isAbsVerticalCenter": true,
+    "_originalWidth": 0,
+    "_originalHeight": 237,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 21
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_spriteFrame": {
+      "__uuid__": "5fe5dcaa-b513-4dc5-a166-573627b3a159"
+    },
+    "_type": 1,
+    "_sizeMode": 0,
+    "_fillType": 0,
+    "_fillCenter": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_fillStart": 0,
+    "_fillRange": 0,
+    "_isTrimmedMode": true,
+    "_atlas": null,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "63ce795d-eff8-49bd-a024-729ff7857263"
+    },
+    "fileId": "bbRW3ZLUpCR7cHuhtZGuXy",
+    "sync": false
+  },
+  {
+    "__type__": "cc.Widget",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 20
+    },
+    "_enabled": true,
+    "alignMode": 1,
+    "_target": null,
+    "_alignFlags": 45,
+    "_left": 0,
+    "_right": 0,
+    "_top": 0,
+    "_bottom": 0,
+    "_verticalCenter": 0,
+    "_horizontalCenter": 0,
+    "_isAbsLeft": true,
+    "_isAbsRight": true,
+    "_isAbsTop": true,
+    "_isAbsBottom": true,
+    "_isAbsHorizontalCenter": true,
+    "_isAbsVerticalCenter": true,
+    "_originalWidth": 240,
+    "_originalHeight": 250,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "63ce795d-eff8-49bd-a024-729ff7857263"
+    },
+    "fileId": "01vYObub9EgIdv8Sf3d2W6",
+    "sync": false
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 19
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_spriteFrame": {
+      "__uuid__": "412c8fcf-3090-4abf-818e-f30bd650cef7"
+    },
+    "_type": 1,
+    "_sizeMode": 0,
+    "_fillType": 0,
+    "_fillCenter": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_fillStart": 0,
+    "_fillRange": 0,
+    "_isTrimmedMode": true,
+    "_atlas": {
+      "__uuid__": "8e26ecca-82ca-45a6-9b08-e3704724db1c"
+    },
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "63ce795d-eff8-49bd-a024-729ff7857263"
+    },
+    "fileId": "94xZXuvBZH5KVCoZOCJFmB",
+    "sync": false
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 8
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_spriteFrame": {
+      "__uuid__": "2a12e381-3c55-44fd-9ef7-450525f88c66"
+    },
+    "_type": 0,
+    "_sizeMode": 0,
+    "_fillType": 0,
+    "_fillCenter": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_fillStart": 0,
+    "_fillRange": 0,
+    "_isTrimmedMode": true,
+    "_atlas": null,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "63ce795d-eff8-49bd-a024-729ff7857263"
+    },
+    "fileId": "96iMOw5shAfbe6quA9QyDn",
+    "sync": false
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "63ce795d-eff8-49bd-a024-729ff7857263"
+    },
+    "fileId": "a2falqQvpD6oBX6rhrCCKI",
+    "sync": false
+  },
+  {
+    "__type__": "cc.Widget",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "alignMode": 1,
+    "_target": null,
+    "_alignFlags": 45,
+    "_left": 0,
+    "_right": 0,
+    "_top": 0,
+    "_bottom": 0,
+    "_verticalCenter": 0,
+    "_horizontalCenter": 0,
+    "_isAbsLeft": true,
+    "_isAbsRight": true,
+    "_isAbsTop": true,
+    "_isAbsBottom": true,
+    "_isAbsHorizontalCenter": true,
+    "_isAbsVerticalCenter": true,
+    "_originalWidth": 0,
+    "_originalHeight": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "579d4aDMOtAMpeXgXKvuqdk",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "bg": null,
+    "container": null,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "63ce795d-eff8-49bd-a024-729ff7857263"
+    },
+    "fileId": "",
+    "sync": false
+  }
+]

@@ -1,0 +1,84 @@
+{
+"skeleton": {
+	"hash": "HhdPDvcqe8AabPgHoBSF7pD6H5A",
+	"spine": "3.6.53",
+	"width": 263,
+	"height": 263,
+	"images": "D:\\Z.Philippin\\PHI NEW\\Cut\\daily\\anim3.8\\number_glow"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone2", "parent": "root" },
+	{ "name": "glow3", "parent": "bone2" },
+	{ "name": "glow6", "parent": "bone2" },
+	{ "name": "glow7", "parent": "bone2" }
+],
+"slots": [
+	{ "name": "glow7", "bone": "glow7", "attachment": "glow3", "blend": "additive" },
+	{ "name": "glow3", "bone": "glow3", "attachment": "glow2", "blend": "additive" },
+	{ "name": "glow6", "bone": "glow6", "attachment": "glow2", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"glow3": {
+			"glow2": { "width": 263, "height": 263 }
+		},
+		"glow6": {
+			"glow2": { "width": 263, "height": 263 }
+		},
+		"glow7": {
+			"glow3": { "width": 128, "height": 128 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"glow3": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.1667, "color": "ffffffff" },
+					{ "time": 0.4667, "color": "ffffff00" }
+				]
+			},
+			"glow6": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.2667, "color": "ffffffff" },
+					{ "time": 0.6, "color": "db00ff00" }
+				]
+			},
+			"glow7": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.3333, "color": "ffffffaa" },
+					{ "time": 0.7333, "color": "ffe50000" }
+				]
+			}
+		},
+		"bones": {
+			"glow3": {
+				"scale": [
+					{ "time": 0, "x": 0.6, "y": 0.6, "curve": "stepped" },
+					{ "time": 0.1667, "x": 0.6, "y": 0.6 },
+					{ "time": 0.4667, "x": 1.1, "y": 1.1 }
+				]
+			},
+			"glow6": {
+				"scale": [
+					{ "time": 0, "x": 0.6, "y": 0.6 },
+					{ "time": 0.2667, "x": 0.27, "y": 0.27 },
+					{ "time": 0.6, "x": 0.85, "y": 0.85 }
+				]
+			},
+			"glow7": {
+				"scale": [
+					{ "time": 0, "x": 0.3, "y": 0.3 },
+					{ "time": 0.3333, "x": 0.6, "y": 0.6 },
+					{ "time": 0.7333, "x": 2.5, "y": 2.5 }
+				]
+			}
+		}
+	}
+}
+}

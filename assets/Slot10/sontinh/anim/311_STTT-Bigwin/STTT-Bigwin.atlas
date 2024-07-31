@@ -1,0 +1,118 @@
+
+STTT-Bigwin.png
+size: 954,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Flare
+  rotate: true
+  xy: 4, 4
+  size: 199, 23
+  orig: 199, 23
+  offset: 0, 0
+  index: -1
+dot2
+  rotate: false
+  xy: 855, 696
+  size: 82, 61
+  orig: 82, 61
+  offset: 0, 0
+  index: -1
+ngang
+  rotate: true
+  xy: 942, 665
+  size: 355, 8
+  orig: 355, 8
+  offset: 0, 0
+  index: -1
+non
+  rotate: true
+  xy: 4, 207
+  size: 413, 484
+  orig: 413, 484
+  offset: 0, 0
+  index: -1
+toasang
+  rotate: false
+  xy: 4, 624
+  size: 549, 396
+  orig: 549, 396
+  offset: 0, 0
+  index: -1
+toibangtext
+  rotate: true
+  xy: 264, 21
+  size: 182, 68
+  orig: 182, 68
+  offset: 0, 0
+  index: -1
+tron1-50
+  rotate: false
+  xy: 740, 369
+  size: 109, 108
+  orig: 109, 108
+  offset: 0, 0
+  index: -1
+tron50
+  rotate: true
+  xy: 492, 231
+  size: 246, 244
+  orig: 246, 244
+  offset: 0, 0
+  index: -1
+vetsang
+  rotate: true
+  xy: 31, 19
+  size: 184, 229
+  orig: 184, 229
+  offset: 0, 0
+  index: -1
+vong1
+  rotate: false
+  xy: 557, 481
+  size: 294, 276
+  orig: 294, 276
+  offset: 0, 0
+  index: -1
+vong2
+  rotate: true
+  xy: 557, 761
+  size: 259, 381
+  orig: 259, 381
+  offset: 0, 0
+  index: -1
+vong3
+  rotate: false
+  xy: 855, 399
+  size: 78, 293
+  orig: 78, 293
+  offset: 0, 0
+  index: -1
+vuongnho
+  rotate: false
+  xy: 492, 565
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+xoay1
+  rotate: false
+  xy: 740, 205
+  size: 164, 160
+  orig: 164, 160
+  offset: 0, 0
+  index: -1
+xoay2
+  rotate: true
+  xy: 336, 24
+  size: 179, 173
+  orig: 179, 173
+  offset: 0, 0
+  index: -1
+xoay3
+  rotate: true
+  xy: 513, 37
+  size: 164, 157
+  orig: 164, 157
+  offset: 0, 0
+  index: -1

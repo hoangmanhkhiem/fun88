@@ -1,0 +1,41 @@
+
+XocDia.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bgliveAG
+  rotate: false
+  xy: 1, 548
+  size: 235, 204
+  orig: 235, 204
+  offset: 0, 0
+  index: -1
+Layer 833
+  rotate: false
+  xy: 1, 1
+  size: 431, 545
+  orig: 431, 545
+  offset: 0, 0
+  index: -1
+Group 31214
+  rotate: false
+  xy: 238, 548
+  size: 254, 64
+  orig: 254, 64
+  offset: 0, 0
+  index: -1
+Group 31183
+  rotate: false
+  xy: 434, 1
+  size: 67, 68
+  orig: 67, 68
+  offset: 0, 0
+  index: -1
+Group 31215
+  rotate: false
+  xy: 238, 614
+  size: 106, 43
+  orig: 106, 43
+  offset: 0, 0
+  index: -1

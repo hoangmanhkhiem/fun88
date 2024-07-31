@@ -1,0 +1,90 @@
+
+Symbol_3.png
+size: 424,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light1
+  rotate: false
+  xy: 2, 3
+  size: 211, 211
+  orig: 211, 211
+  offset: 0, 0
+  index: -1
+back2
+  rotate: false
+  xy: 215, 70
+  size: 125, 66
+  orig: 125, 66
+  offset: 0, 0
+  index: -1
+back2g
+  rotate: false
+  xy: 215, 2
+  size: 125, 66
+  orig: 125, 66
+  offset: 0, 0
+  index: -1
+beard
+  rotate: true
+  xy: 382, 110
+  size: 46, 19
+  orig: 46, 19
+  offset: 0, 0
+  index: -1
+coin1
+  rotate: false
+  xy: 403, 135
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+coin2
+  rotate: true
+  xy: 403, 116
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+fish
+  rotate: false
+  xy: 215, 138
+  size: 126, 76
+  orig: 126, 76
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 342, 49
+  size: 87, 38
+  orig: 87, 38
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 342, 9
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 343, 158
+  size: 56, 77
+  orig: 56, 77
+  offset: 0, 0
+  index: -1
+wing1
+  rotate: false
+  xy: 343, 143
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+wing2
+  rotate: false
+  xy: 382, 72
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1

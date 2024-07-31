@@ -1,0 +1,223 @@
+
+TL_Symbol_Phoenix_Gold.png
+size: 482,432
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 2, 308
+  size: 122, 121
+  orig: 122, 121
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 382, 254
+  size: 87, 88
+  orig: 87, 88
+  offset: 0, 0
+  index: -1
+Eye Bright
+  rotate: true
+  xy: 282, 193
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Fire/Elements - Fire 112 Torch Calm loop noCT noRSZ/Elements - Fire 112 Torch Calm loop noCT noRSZ_00000
+  rotate: false
+  xy: 90, 6
+  size: 57, 71
+  orig: 57, 71
+  offset: 0, 0
+  index: -1
+Fire/Elements - Fire 112 Torch Calm loop noCT noRSZ/Elements - Fire 112 Torch Calm loop noCT noRSZ_00002
+  rotate: false
+  xy: 149, 6
+  size: 57, 71
+  orig: 57, 71
+  offset: 0, 0
+  index: -1
+Fire/Elements - Fire 112 Torch Calm loop noCT noRSZ/Elements - Fire 112 Torch Calm loop noCT noRSZ_00004
+  rotate: false
+  xy: 208, 6
+  size: 57, 71
+  orig: 57, 71
+  offset: 0, 0
+  index: -1
+Fire/Elements - Fire 112 Torch Calm loop noCT noRSZ/Elements - Fire 112 Torch Calm loop noCT noRSZ_00006
+  rotate: false
+  xy: 267, 6
+  size: 57, 71
+  orig: 57, 71
+  offset: 0, 0
+  index: -1
+Fire/Elements - Fire 112 Torch Calm loop noCT noRSZ/Elements - Fire 112 Torch Calm loop noCT noRSZ_00008
+  rotate: true
+  xy: 291, 86
+  size: 57, 71
+  orig: 57, 71
+  offset: 0, 0
+  index: -1
+Fire/Elements - Fire 112 Torch Calm loop noCT noRSZ/Elements - Fire 112 Torch Calm loop noCT noRSZ_00010
+  rotate: false
+  xy: 326, 13
+  size: 57, 71
+  orig: 57, 71
+  offset: 0, 0
+  index: -1
+Fire/Elements - Fire 112 Torch Calm loop noCT noRSZ/Elements - Fire 112 Torch Calm loop noCT noRSZ_00012
+  rotate: false
+  xy: 364, 93
+  size: 57, 71
+  orig: 57, 71
+  offset: 0, 0
+  index: -1
+Fire/Elements - Fire 112 Torch Calm loop noCT noRSZ/Elements - Fire 112 Torch Calm loop noCT noRSZ_00014
+  rotate: false
+  xy: 423, 136
+  size: 57, 71
+  orig: 57, 71
+  offset: 0, 0
+  index: -1
+Fire/Elements - Fire 112 Torch Calm loop noCT noRSZ/Elements - Fire 112 Torch Calm loop noCT noRSZ_00016
+  rotate: false
+  xy: 423, 63
+  size: 57, 71
+  orig: 57, 71
+  offset: 0, 0
+  index: -1
+Fire/Elements - Fire 112 Torch Calm loop noCT noRSZ/Elements - Fire 112 Torch Calm loop noCT noRSZ_00018
+  rotate: true
+  xy: 385, 4
+  size: 57, 71
+  orig: 57, 71
+  offset: 0, 0
+  index: -1
+Fire/Fire 01
+  rotate: true
+  xy: 324, 259
+  size: 68, 55
+  orig: 68, 55
+  offset: 0, 0
+  index: -1
+Fire/Fire 03
+  rotate: false
+  xy: 2, 2
+  size: 86, 75
+  orig: 86, 75
+  offset: 0, 0
+  index: -1
+Fire/Fire 05
+  rotate: false
+  xy: 382, 343
+  size: 89, 87
+  orig: 89, 87
+  offset: 0, 0
+  index: -1
+Fire/Fire 07
+  rotate: true
+  xy: 286, 329
+  size: 101, 94
+  orig: 101, 94
+  offset: 0, 0
+  index: -1
+Fire/Fire 09
+  rotate: true
+  xy: 222, 219
+  size: 104, 100
+  orig: 104, 100
+  offset: 0, 0
+  index: -1
+Fire/Fire 11
+  rotate: false
+  xy: 116, 198
+  size: 104, 108
+  orig: 104, 108
+  offset: 0, 0
+  index: -1
+Fire/Fire 13
+  rotate: false
+  xy: 2, 79
+  size: 109, 112
+  orig: 109, 112
+  offset: 0, 0
+  index: -1
+Fire/Fire 15
+  rotate: false
+  xy: 2, 193
+  size: 112, 113
+  orig: 112, 113
+  offset: 0, 0
+  index: -1
+Fire/Fire 17
+  rotate: true
+  xy: 113, 79
+  size: 112, 109
+  orig: 112, 109
+  offset: 0, 0
+  index: -1
+Fire/Fire 19
+  rotate: true
+  xy: 125, 325
+  size: 105, 101
+  orig: 105, 101
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 224, 79
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 125, 313
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+Sparkle
+  rotate: true
+  xy: 267, 145
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+Tail1
+  rotate: true
+  xy: 378, 209
+  size: 43, 99
+  orig: 43, 99
+  offset: 0, 0
+  index: -1
+Tail5
+  rotate: true
+  xy: 318, 166
+  size: 21, 67
+  orig: 21, 67
+  offset: 0, 0
+  index: -1
+Wing1
+  rotate: true
+  xy: 324, 189
+  size: 68, 52
+  orig: 68, 52
+  offset: 0, 0
+  index: -1
+Wing2
+  rotate: false
+  xy: 228, 328
+  size: 56, 102
+  orig: 56, 102
+  offset: 0, 0
+  index: -1
+Wing4
+  rotate: true
+  xy: 222, 193
+  size: 24, 58
+  orig: 24, 58
+  offset: 0, 0
+  index: -1

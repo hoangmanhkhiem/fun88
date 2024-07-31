@@ -1,0 +1,83 @@
+
+33355.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L-01
+  rotate: false
+  xy: 1, 1
+  size: 368, 370
+  orig: 500, 500
+  offset: 69, 73
+  index: -1
+khung oke-01
+  rotate: false
+  xy: 371, 159
+  size: 494, 172
+  orig: 501, 195
+  offset: 2, 9
+  index: -1
+bích oke-01
+  rotate: false
+  xy: 867, 335
+  size: 142, 162
+  orig: 167, 183
+  offset: 13, 11
+  index: -1
+cơ oke-01
+  rotate: false
+  xy: 591, 333
+  size: 114, 162
+  orig: 167, 183
+  offset: 20, 9
+  index: -1
+chuồng oke-01
+  rotate: false
+  xy: 867, 499
+  size: 126, 170
+  orig: 167, 183
+  offset: 15, 5
+  index: -1
+rô oke-01
+  rotate: false
+  xy: 867, 159
+  size: 155, 174
+  orig: 167, 183
+  offset: 3, -1
+  index: -1
+bóng oke-01
+  rotate: false
+  xy: 1, 531
+  size: 455, 146
+  orig: 501, 195
+  offset: 22, 19
+  index: -1
+sao oke-01
+  rotate: false
+  xy: 707, 419
+  size: 110, 46
+  orig: 130, 56
+  offset: 8, 1
+  index: -1
+light-01
+  rotate: false
+  xy: 707, 333
+  size: 85, 84
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+sun88-01
+  rotate: false
+  xy: 371, 1
+  size: 588, 156
+  orig: 624, 169
+  offset: 21, 7
+  index: -1
+AA
+  rotate: false
+  xy: 1, 373
+  size: 588, 156
+  orig: 624, 169
+  offset: 21, 7
+  index: -1

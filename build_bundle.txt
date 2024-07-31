@@ -1,0 +1,8 @@
+node version_generator.js -v 1.0.1 -u http://files.nohu.one/test/ -s build/jsb-link/ -d assets
+
+if (cc.sys.isNative) {
+   var hotUpdateSearchPaths = cc.sys.localStorage.getItem('HotUpdateSearchPaths');
+    if (hotUpdateSearchPaths) {
+         jsb.fileUtils.setSearchPaths(JSON.parse(hotUpdateSearchPaths));
+    }
+}

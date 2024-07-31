@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 136
+  rotate: false
+  xy: 2, 2
+  size: 641, 251
+  orig: 641, 251
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 2, 938
+  size: 1112, 1069
+  orig: 1112, 1069
+  offset: 0, 0
+  index: -1
+Layer 2 copy
+  rotate: false
+  xy: 1116, 1255
+  size: 497, 225
+  orig: 497, 225
+  offset: 0, 0
+  index: -1
+Layer 7 copy 2
+  rotate: false
+  xy: 1116, 1482
+  size: 528, 525
+  orig: 528, 525
+  offset: 0, 0
+  index: -1
+bg_coins_front
+  rotate: false
+  xy: 2, 255
+  size: 951, 681
+  orig: 951, 681
+  offset: 0, 0
+  index: -1

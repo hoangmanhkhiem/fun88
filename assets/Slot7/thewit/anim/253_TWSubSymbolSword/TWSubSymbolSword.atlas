@@ -1,0 +1,83 @@
+
+TWSubSymbolSword.png
+size: 796,537
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff/Elements - Sparks 015 Hit Explosion Radial noCT noRSZ_00002
+  rotate: false
+  xy: 453, 115
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+eff/Elements - Sparks 015 Hit Explosion Radial noCT noRSZ_00003
+  rotate: false
+  xy: 558, 2
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+eff/Elements - Sparks 015 Hit Explosion Radial noCT noRSZ_00004
+  rotate: false
+  xy: 453, 3
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+eff/Elements - Sparks 015 Hit Explosion Radial noCT noRSZ_00005
+  rotate: false
+  xy: 649, 245
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+eff/Elements - Sparks 015 Hit Explosion Radial noCT noRSZ_00006
+  rotate: false
+  xy: 649, 390
+  size: 145, 145
+  orig: 145, 145
+  offset: 0, 0
+  index: -1
+eff/Elements - Sparks 015 Hit Explosion Radial noCT noRSZ_00007
+  rotate: false
+  xy: 285, 5
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+eff/Elements - Sparks 015 Hit Explosion Radial noCT noRSZ_00008
+  rotate: false
+  xy: 649, 108
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 558, 86
+  size: 89, 85
+  orig: 89, 85
+  offset: 0, 0
+  index: -1
+sub_symbols
+  rotate: false
+  xy: 285, 173
+  size: 362, 362
+  orig: 362, 362
+  offset: 0, 0
+  index: -1
+sword_left
+  rotate: false
+  xy: 146, 30
+  size: 137, 505
+  orig: 137, 505
+  offset: 0, 0
+  index: -1
+sword_right
+  rotate: false
+  xy: 2, 26
+  size: 142, 509
+  orig: 142, 509
+  offset: 0, 0
+  index: -1

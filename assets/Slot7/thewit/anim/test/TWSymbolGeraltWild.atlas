@@ -1,0 +1,209 @@
+
+TWSymbolGeraltWild.png
+size: 819,646
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fire Geralt_55
+  rotate: false
+  xy: 717, 412
+  size: 43, 232
+  orig: 43, 232
+  offset: 0, 0
+  index: -1
+Fire Geralt_56
+  rotate: false
+  xy: 762, 413
+  size: 43, 231
+  orig: 43, 231
+  offset: 0, 0
+  index: -1
+Fire Geralt_57
+  rotate: true
+  xy: 458, 160
+  size: 43, 230
+  orig: 43, 230
+  offset: 0, 0
+  index: -1
+Fire Geralt_58
+  rotate: true
+  xy: 431, 115
+  size: 43, 227
+  orig: 43, 227
+  offset: 0, 0
+  index: -1
+Fire Geralt_59
+  rotate: true
+  xy: 431, 70
+  size: 43, 227
+  orig: 43, 227
+  offset: 0, 0
+  index: -1
+G_Body
+  rotate: false
+  xy: 2, 192
+  size: 176, 452
+  orig: 176, 452
+  offset: 0, 0
+  index: -1
+G_L_Arm
+  rotate: true
+  xy: 323, 2
+  size: 81, 106
+  orig: 81, 106
+  offset: 0, 0
+  index: -1
+G_L_Shoulder
+  rotate: true
+  xy: 549, 28
+  size: 40, 91
+  orig: 40, 91
+  offset: 0, 0
+  index: -1
+G_R_Arm
+  rotate: false
+  xy: 180, 180
+  size: 160, 183
+  orig: 160, 183
+  offset: 0, 0
+  index: -1
+G_R_Shoulder
+  rotate: true
+  xy: 431, 6
+  size: 62, 116
+  orig: 62, 116
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 294, 372
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fire/1
+  rotate: true
+  xy: 323, 93
+  size: 85, 78
+  orig: 85, 78
+  offset: 0, 0
+  index: -1
+fire/2
+  rotate: false
+  xy: 594, 221
+  size: 109, 193
+  orig: 109, 193
+  offset: 0, 0
+  index: -1
+fire/3
+  rotate: false
+  xy: 458, 205
+  size: 134, 207
+  orig: 134, 207
+  offset: 0, 0
+  index: -1
+fire/4
+  rotate: true
+  xy: 111, 41
+  size: 137, 210
+  orig: 137, 210
+  offset: 0, 0
+  index: -1
+fire/5
+  rotate: false
+  xy: 294, 406
+  size: 140, 238
+  orig: 140, 238
+  offset: 0, 0
+  index: -1
+fire/6
+  rotate: false
+  xy: 581, 416
+  size: 134, 228
+  orig: 134, 228
+  offset: 0, 0
+  index: -1
+fire/7
+  rotate: false
+  xy: 436, 414
+  size: 143, 230
+  orig: 143, 230
+  offset: 0, 0
+  index: -1
+fire/8
+  rotate: false
+  xy: 342, 188
+  size: 114, 216
+  orig: 114, 216
+  offset: 0, 0
+  index: -1
+fire/9
+  rotate: false
+  xy: 2, 2
+  size: 107, 188
+  orig: 107, 188
+  offset: 0, 0
+  index: -1
+fire_dust
+  rotate: true
+  xy: 111, 2
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+fire_dust2
+  rotate: false
+  xy: 294, 365
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 180, 365
+  size: 112, 279
+  orig: 112, 279
+  offset: 0, 0
+  index: -1
+khoanhtay1
+  rotate: false
+  xy: 660, 4
+  size: 129, 79
+  orig: 129, 79
+  offset: 0, 0
+  index: -1
+lenflare2
+  rotate: true
+  xy: 705, 210
+  size: 200, 47
+  orig: 200, 47
+  offset: 0, 0
+  index: -1
+vai2
+  rotate: false
+  xy: 690, 85
+  size: 62, 123
+  orig: 62, 123
+  offset: 0, 0
+  index: -1
+wild
+  rotate: true
+  xy: 754, 251
+  size: 159, 63
+  orig: 159, 63
+  offset: 0, 0
+  index: -1
+wild2
+  rotate: true
+  xy: 754, 90
+  size: 159, 63
+  orig: 159, 63
+  offset: 0, 0
+  index: -1
+wild_light
+  rotate: false
+  xy: 111, 12
+  size: 100, 27
+  orig: 100, 27
+  offset: 0, 0
+  index: -1

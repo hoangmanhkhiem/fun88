@@ -1,0 +1,251 @@
+
+Symbol_K.png
+size: 995,717
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01 1080/Coin1_00
+  rotate: true
+  xy: 2, 392
+  size: 160, 157
+  orig: 184, 174
+  offset: 12, 0
+  index: -1
+01 1080/Coin1_01
+  rotate: true
+  xy: 161, 232
+  size: 162, 145
+  orig: 184, 174
+  offset: 11, 0
+  index: -1
+01 1080/Coin1_02
+  rotate: false
+  xy: 615, 587
+  size: 163, 128
+  orig: 184, 174
+  offset: 10, 0
+  index: -1
+01 1080/Coin1_03
+  rotate: false
+  xy: 780, 631
+  size: 165, 84
+  orig: 184, 174
+  offset: 9, 25
+  index: -1
+01 1080/Coin1_04
+  rotate: false
+  xy: 760, 282
+  size: 165, 54
+  orig: 184, 174
+  offset: 9, 55
+  index: -1
+01 1080/Coin1_05
+  rotate: false
+  xy: 501, 3
+  size: 165, 109
+  orig: 184, 174
+  offset: 9, 35
+  index: -1
+01 1080/Coin1_06
+  rotate: false
+  xy: 317, 416
+  size: 162, 141
+  orig: 184, 174
+  offset: 11, 17
+  index: -1
+01 1080/Coin1_07
+  rotate: true
+  xy: 2, 554
+  size: 161, 159
+  orig: 184, 174
+  offset: 11, 1
+  index: -1
+03 1080/Coin3_01
+  rotate: true
+  xy: 2, 232
+  size: 158, 157
+  orig: 184, 174
+  offset: 16, 0
+  index: -1
+03 1080/Coin3_02
+  rotate: false
+  xy: 163, 559
+  size: 153, 156
+  orig: 184, 174
+  offset: 21, 0
+  index: -1
+03 1080/Coin3_03
+  rotate: false
+  xy: 161, 76
+  size: 150, 154
+  orig: 184, 174
+  offset: 25, 0
+  index: -1
+03 1080/Coin3_04
+  rotate: false
+  xy: 467, 564
+  size: 146, 151
+  orig: 184, 174
+  offset: 28, 0
+  index: -1
+03 1080/Coin3_05
+  rotate: false
+  xy: 459, 267
+  size: 145, 147
+  orig: 184, 174
+  offset: 28, 0
+  index: -1
+03 1080/Coin3_06
+  rotate: true
+  xy: 601, 118
+  size: 147, 141
+  orig: 184, 174
+  offset: 26, 0
+  index: -1
+03 1080/Coin3_07
+  rotate: false
+  xy: 606, 282
+  size: 152, 134
+  orig: 184, 174
+  offset: 21, 0
+  index: -1
+03 1080/Coin3_08
+  rotate: false
+  xy: 830, 3
+  size: 158, 119
+  orig: 184, 174
+  offset: 16, 7
+  index: -1
+03 1080/Coin3_09
+  rotate: true
+  xy: 630, 423
+  size: 162, 104
+  orig: 184, 174
+  offset: 13, 15
+  index: -1
+03 1080/Coin3_10
+  rotate: false
+  xy: 336, 2
+  size: 163, 86
+  orig: 184, 174
+  offset: 11, 25
+  index: -1
+03 1080/Coin3_11
+  rotate: false
+  xy: 169, 3
+  size: 165, 71
+  orig: 184, 174
+  offset: 9, 34
+  index: -1
+03 1080/Coin3_12
+  rotate: true
+  xy: 926, 464
+  size: 165, 56
+  orig: 184, 174
+  offset: 9, 43
+  index: -1
+03 1080/Coin3_14
+  rotate: true
+  xy: 949, 130
+  size: 165, 44
+  orig: 184, 174
+  offset: 9, 51
+  index: -1
+03 1080/Coin3_16
+  rotate: true
+  xy: 927, 297
+  size: 165, 55
+  orig: 184, 174
+  offset: 9, 44
+  index: -1
+03 1080/Coin3_17
+  rotate: false
+  xy: 2, 3
+  size: 165, 67
+  orig: 184, 174
+  offset: 9, 36
+  index: -1
+03 1080/Coin3_18
+  rotate: false
+  xy: 760, 338
+  size: 164, 82
+  orig: 184, 174
+  offset: 9, 27
+  index: -1
+03 1080/Coin3_19
+  rotate: true
+  xy: 736, 422
+  size: 163, 98
+  orig: 184, 174
+  offset: 9, 18
+  index: -1
+03 1080/Coin3_20
+  rotate: false
+  xy: 668, 2
+  size: 160, 114
+  orig: 184, 174
+  offset: 9, 9
+  index: -1
+03 1080/Coin3_21
+  rotate: true
+  xy: 744, 124
+  size: 156, 127
+  orig: 184, 174
+  offset: 9, 3
+  index: -1
+03 1080/Coin3_22
+  rotate: true
+  xy: 461, 114
+  size: 151, 138
+  orig: 184, 174
+  offset: 9, 0
+  index: -1
+03 1080/Coin3_23
+  rotate: false
+  xy: 481, 418
+  size: 147, 144
+  orig: 184, 174
+  offset: 10, 0
+  index: -1
+03 1080/Coin3_24
+  rotate: false
+  xy: 313, 90
+  size: 146, 148
+  orig: 184, 174
+  offset: 9, 0
+  index: -1
+03 1080/Coin3_25
+  rotate: false
+  xy: 318, 563
+  size: 147, 152
+  orig: 184, 174
+  offset: 9, 0
+  index: -1
+03 1080/Coin3_26
+  rotate: false
+  xy: 308, 240
+  size: 149, 154
+  orig: 184, 174
+  offset: 9, 0
+  index: -1
+03 1080/Coin3_27
+  rotate: false
+  xy: 161, 396
+  size: 154, 156
+  orig: 184, 174
+  offset: 9, 0
+  index: -1
+03 1080/Coin3_28
+  rotate: true
+  xy: 2, 72
+  size: 158, 157
+  orig: 184, 174
+  offset: 9, 0
+  index: -1
+Wild
+  rotate: true
+  xy: 873, 129
+  size: 151, 74
+  orig: 151, 74
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+Frame tien.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 31201
+  rotate: false
+  xy: 2, 2
+  size: 637, 153
+  orig: 637, 153
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 2, 425
+  size: 686, 523
+  orig: 686, 523
+  offset: 0, 0
+  index: -1
+fxvang
+  rotate: false
+  xy: 2, 157
+  size: 623, 266
+  orig: 623, 266
+  offset: 0, 0
+  index: -1
+text
+  rotate: true
+  xy: 690, 391
+  size: 557, 77
+  orig: 557, 77
+  offset: 0, 0
+  index: -1

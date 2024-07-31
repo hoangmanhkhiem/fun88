@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "b52135da-6901-4cd2-9433-bb3d9731aeda",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "BanCa-Coin": {
+      "ver": "1.0.4",
+      "uuid": "e86728c9-0f7d-4a6d-b5cf-bd4e632c5ce6",
+      "rawTextureUuid": "b52135da-6901-4cd2-9433-bb3d9731aeda",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -37.5,
+      "offsetY": 19.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 177,
+      "height": 213,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

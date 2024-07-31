@@ -1,0 +1,27 @@
+
+ruttien.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 2, 2
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 2, 31
+  size: 353, 190
+  orig: 353, 190
+  offset: 0, 0
+  index: -1
+kiemtien
+  rotate: false
+  xy: 357, 111
+  size: 129, 110
+  orig: 129, 110
+  offset: 0, 0
+  index: -1

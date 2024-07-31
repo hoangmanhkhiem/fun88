@@ -1,0 +1,104 @@
+
+UI_Btn_Spin.png
+size: 497,435
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dissible
+  rotate: true
+  xy: 278, 38
+  size: 119, 121
+  orig: 119, 121
+  offset: 0, 0
+  index: -1
+Effect
+  rotate: false
+  xy: 401, 179
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: -1
+Fire
+  rotate: false
+  xy: 370, 308
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+Green
+  rotate: false
+  xy: 155, 123
+  size: 121, 122
+  orig: 121, 122
+  offset: 0, 0
+  index: -1
+GreenLight
+  rotate: false
+  xy: 2, 95
+  size: 151, 150
+  orig: 151, 150
+  offset: 0, 0
+  index: -1
+Khung_1
+  rotate: false
+  xy: 2, 247
+  size: 213, 186
+  orig: 213, 186
+  offset: 0, 0
+  index: -1
+Khung_2
+  rotate: false
+  xy: 2, 46
+  size: 107, 47
+  orig: 107, 47
+  offset: 0, 0
+  index: -1
+Red
+  rotate: true
+  xy: 155, 2
+  size: 119, 121
+  orig: 119, 121
+  offset: 0, 0
+  index: -1
+Stop
+  rotate: false
+  xy: 401, 127
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Stop_Dissible
+  rotate: false
+  xy: 401, 75
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Yellow/Green
+  rotate: false
+  xy: 278, 159
+  size: 121, 122
+  orig: 121, 122
+  offset: 0, 0
+  index: -1
+Yellow/GreenLight
+  rotate: false
+  xy: 217, 283
+  size: 151, 150
+  orig: 151, 150
+  offset: 0, 0
+  index: -1
+day
+  rotate: true
+  xy: 217, 259
+  size: 22, 50
+  orig: 22, 50
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 401, 242
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1

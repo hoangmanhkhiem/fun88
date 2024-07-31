@@ -1,0 +1,27 @@
+
+btn-taiapp.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rounded Rectangle 1
+  rotate: false
+  xy: 2, 2
+  size: 57, 31
+  orig: 57, 31
+  offset: 0, 0
+  index: -1
+Triangle 1
+  rotate: false
+  xy: 88, 9
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+TẢI APP
+  rotate: false
+  xy: 2, 35
+  size: 84, 23
+  orig: 84, 23
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,230 @@
+
+Banca.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 464, 1
+  size: 271, 423
+  orig: 271, 423
+  offset: 0, 0
+  index: -1
+vt
+  rotate: false
+  xy: 55, 972
+  size: 84, 43
+  orig: 84, 43
+  offset: 0, 0
+  index: -1
+Xua
+  rotate: false
+  xy: 300, 875
+  size: 90, 106
+  orig: 90, 106
+  offset: 0, 0
+  index: -1
+light_11
+  rotate: false
+  xy: 737, 1
+  size: 235, 317
+  orig: 235, 317
+  offset: 0, 0
+  index: -1
+light_2
+  rotate: false
+  xy: 189, 875
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+Layer 22
+  rotate: false
+  xy: 250, 426
+  size: 216, 163
+  orig: 216, 172
+  offset: 0, 9
+  index: -1
+vp
+  rotate: false
+  xy: 813, 817
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
+Dan__
+  rotate: false
+  xy: 1, 893
+  size: 52, 116
+  orig: 52, 116
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 1, 366
+  size: 247, 194
+  orig: 247, 194
+  offset: 0, 0
+  index: -1
+SL
+  rotate: false
+  xy: 230, 591
+  size: 201, 122
+  orig: 201, 122
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 250, 366
+  size: 86, 58
+  orig: 86, 58
+  offset: 0, 0
+  index: -1
+Dan_2
+  rotate: false
+  xy: 921, 763
+  size: 57, 94
+  orig: 57, 94
+  offset: 0, 0
+  index: -1
+ad
+  rotate: false
+  xy: 737, 320
+  size: 257, 250
+  orig: 257, 250
+  offset: 0, 0
+  index: -1
+light_5
+  rotate: false
+  xy: 468, 426
+  size: 245, 115
+  orig: 245, 115
+  offset: 0, 0
+  index: -1
+lightning/lightning_00005
+  rotate: false
+  xy: 1, 714
+  size: 200, 103
+  orig: 200, 103
+  offset: 0, 0
+  index: -1
+lightning/lightning_00006
+  rotate: false
+  xy: 661, 572
+  size: 200, 103
+  orig: 200, 103
+  offset: 0, 0
+  index: -1
+lightning/lightning_00008
+  rotate: false
+  xy: 661, 677
+  size: 196, 84
+  orig: 196, 84
+  offset: 0, 0
+  index: -1
+lightning/lightning_00009
+  rotate: false
+  xy: 1, 819
+  size: 186, 72
+  orig: 186, 72
+  offset: 0, 0
+  index: -1
+lightning/lightning_00010
+  rotate: false
+  xy: 55, 893
+  size: 78, 77
+  orig: 78, 77
+  offset: 0, 0
+  index: -1
+lightning/lightning_00011
+  rotate: false
+  xy: 754, 763
+  size: 57, 74
+  orig: 57, 74
+  offset: 0, 0
+  index: -1
+lightning/lightning_00012
+  rotate: false
+  xy: 433, 808
+  size: 200, 79
+  orig: 200, 79
+  offset: 0, 0
+  index: -1
+lightning/lightning_00013
+  rotate: false
+  xy: 433, 723
+  size: 191, 83
+  orig: 191, 83
+  offset: 0, 0
+  index: -1
+lightning/lightning_00014
+  rotate: false
+  xy: 859, 723
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+lightning/lightning_00003
+  rotate: false
+  xy: 203, 715
+  size: 181, 81
+  orig: 181, 81
+  offset: 0, 0
+  index: -1
+lightning/lightning_00015
+  rotate: false
+  xy: 697, 763
+  size: 55, 80
+  orig: 55, 80
+  offset: 0, 0
+  index: -1
+lightning/lightning_00004
+  rotate: false
+  xy: 203, 798
+  size: 184, 75
+  orig: 184, 75
+  offset: 0, 0
+  index: -1
+lightning/lightning_00016
+  rotate: false
+  xy: 635, 763
+  size: 60, 85
+  orig: 60, 85
+  offset: 0, 0
+  index: -1
+light_1
+  rotate: false
+  xy: 863, 572
+  size: 114, 149
+  orig: 114, 160
+  offset: 0, 0
+  index: -1
+SĂN CÁ
+  rotate: false
+  xy: 1, 562
+  size: 227, 150
+  orig: 227, 150
+  offset: 0, 0
+  index: -1
+SĂN CÁ_2
+  rotate: false
+  xy: 468, 543
+  size: 191, 134
+  orig: 191, 134
+  offset: 0, 0
+  index: -1
+lighting_3
+  rotate: false
+  xy: 661, 543
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+logo-casino-chung-phat
+  rotate: false
+  xy: 1, 1
+  size: 461, 363
+  orig: 600, 400
+  offset: 65, 25
+  index: -1

@@ -1,0 +1,34 @@
+
+Effect_banner_rikvip.png
+size: 628,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+domsang
+  rotate: false
+  xy: 378, 198
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+elight
+  rotate: false
+  xy: 378, 240
+  size: 109, 43
+  orig: 109, 43
+  offset: 0, 0
+  index: -1
+group3@3x
+  rotate: true
+  xy: 2, 12
+  size: 271, 374
+  orig: 271, 374
+  offset: 0, 0
+  index: -1
+longlight
+  rotate: false
+  xy: 2, 2
+  size: 624, 8
+  orig: 624, 8
+  offset: 0, 0
+  index: -1

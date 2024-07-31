@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "722d59f0-edd9-4901-abbc-3575357d499e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 625,
+  "height": 625,
+  "platformSettings": {},
+  "subMetas": {
+    "BENTLEY TRÒN 1-01": {
+      "ver": "1.0.4",
+      "uuid": "03509a80-4152-4c2b-8818-e15fad393362",
+      "rawTextureUuid": "722d59f0-edd9-4901-abbc-3575357d499e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": -2,
+      "trimX": 8,
+      "trimY": 9,
+      "width": 612,
+      "height": 611,
+      "rawWidth": 625,
+      "rawHeight": 625,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

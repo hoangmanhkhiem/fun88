@@ -1,0 +1,83 @@
+
+EffectTheWitcher.png
+size: 599,597
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bannerwitcher1
+  rotate: false
+  xy: 2, 35
+  size: 251, 123
+  orig: 252, 123
+  offset: 0, 0
+  index: -1
+bannerwitcher2
+  rotate: false
+  xy: 2, 160
+  size: 288, 435
+  orig: 288, 436
+  offset: 0, 1
+  index: -1
+bannerwitcher3
+  rotate: false
+  xy: 292, 199
+  size: 260, 396
+  orig: 260, 396
+  offset: 0, 0
+  index: -1
+bannerwitcher4
+  rotate: true
+  xy: 292, 24
+  size: 173, 181
+  orig: 174, 181
+  offset: 0, 0
+  index: -1
+bannerwitcher5
+  rotate: false
+  xy: 475, 25
+  size: 57, 73
+  orig: 57, 74
+  offset: 0, 1
+  index: -1
+bannerwitcher6
+  rotate: false
+  xy: 2, 17
+  size: 64, 16
+  orig: 64, 16
+  offset: 0, 0
+  index: -1
+bannerwitcher7
+  rotate: false
+  xy: 475, 100
+  size: 63, 97
+  orig: 63, 99
+  offset: 0, 2
+  index: -1
+boxtien
+  rotate: true
+  xy: 554, 376
+  size: 219, 43
+  orig: 219, 43
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 255, 119
+  size: 39, 9
+  orig: 39, 9
+  offset: 0, 0
+  index: -1
+lighteye
+  rotate: true
+  xy: 554, 313
+  size: 61, 30
+  orig: 61, 30
+  offset: 0, 0
+  index: -1
+star1
+  rotate: false
+  xy: 554, 272
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+BauCua.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 1, 1
+  size: 271, 420
+  orig: 271, 420
+  offset: 0, 0
+  index: -1
+light_3
+  rotate: false
+  xy: 1, 423
+  size: 262, 273
+  orig: 262, 273
+  offset: 0, 0
+  index: -1
+light_2
+  rotate: false
+  xy: 260, 698
+  size: 239, 235
+  orig: 239, 235
+  offset: 0, 0
+  index: -1
+Layer 22
+  rotate: false
+  xy: 218, 976
+  size: 18, 47
+  orig: 18, 47
+  offset: 0, 0
+  index: -1
+Layer 21
+  rotate: false
+  xy: 218, 936
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+QP
+  rotate: false
+  xy: 1, 936
+  size: 44, 75
+  orig: 44, 75
+  offset: 0, 0
+  index: -1
+QT
+  rotate: false
+  xy: 419, 935
+  size: 53, 77
+  orig: 53, 77
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 682, 865
+  size: 179, 110
+  orig: 179, 110
+  offset: 0, 0
+  index: -1
+Body_2
+  rotate: false
+  xy: 501, 865
+  size: 179, 110
+  orig: 179, 110
+  offset: 0, 0
+  index: -1
+SD
+  rotate: false
+  xy: 1, 698
+  size: 257, 236
+  orig: 257, 237
+  offset: 0, 0
+  index: -1
+CN
+  rotate: false
+  xy: 260, 935
+  size: 83, 84
+  orig: 83, 84
+  offset: 0, 0
+  index: -1
+CT_2
+  rotate: false
+  xy: 47, 936
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+CT_1
+  rotate: false
+  xy: 108, 936
+  size: 40, 65
+  orig: 40, 65
+  offset: 0, 0
+  index: -1
+MP
+  rotate: false
+  xy: 187, 936
+  size: 29, 63
+  orig: 29, 63
+  offset: 0, 0
+  index: -1
+MT
+  rotate: false
+  xy: 150, 936
+  size: 35, 64
+  orig: 35, 64
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 690, 698
+  size: 187, 165
+  orig: 187, 165
+  offset: 0, 0
+  index: -1
+text_2
+  rotate: false
+  xy: 501, 698
+  size: 187, 165
+  orig: 187, 165
+  offset: 0, 0
+  index: -1
+XN_2
+  rotate: false
+  xy: 345, 935
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+CT
+  rotate: false
+  xy: 863, 865
+  size: 123, 139
+  orig: 123, 139
+  offset: 0, 0
+  index: -1

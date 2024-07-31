@@ -1,0 +1,356 @@
+
+Symbol_L.png
+size: 403,382
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+APhat
+  rotate: false
+  xy: 2, 16
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+APhatLight
+  rotate: false
+  xy: 96, 48
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+APhatShadow
+  rotate: false
+  xy: 298, 117
+  size: 48, 55
+  orig: 48, 55
+  offset: 0, 0
+  index: -1
+ATai
+  rotate: false
+  xy: 48, 94
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+ATaiLight
+  rotate: false
+  xy: 92, 94
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+ATaiShadow
+  rotate: false
+  xy: 246, 174
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+CCung
+  rotate: false
+  xy: 370, 347
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+CCungLight
+  rotate: false
+  xy: 298, 47
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+CCungShadow
+  rotate: false
+  xy: 348, 75
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+DauHoi
+  rotate: false
+  xy: 370, 331
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+DauHoiLight
+  rotate: true
+  xy: 387, 330
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+DauHuyen
+  rotate: false
+  xy: 195, 125
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+DauHuyenLight
+  rotate: false
+  xy: 215, 125
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+DauSac
+  rotate: true
+  xy: 392, 107
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+DauSacLight
+  rotate: false
+  xy: 178, 123
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+DauSacShadow
+  rotate: true
+  xy: 366, 21
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+GCung
+  rotate: false
+  xy: 258, 77
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+GCungLight
+  rotate: true
+  xy: 258, 41
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+GCungShadow
+  rotate: false
+  xy: 322, 278
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+Gong
+  rotate: false
+  xy: 2, 138
+  size: 242, 242
+  orig: 242, 242
+  offset: 0, 0
+  index: -1
+GongLight
+  rotate: true
+  xy: 246, 120
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+HHy
+  rotate: false
+  xy: 176, 36
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+HHyLight
+  rotate: true
+  xy: 174, 2
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+HHyShadow
+  rotate: true
+  xy: 2, 94
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+HPhat
+  rotate: false
+  xy: 178, 74
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+HPhatLight
+  rotate: false
+  xy: 136, 44
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+HPhatShadow
+  rotate: true
+  xy: 299, 179
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+ITai
+  rotate: false
+  xy: 128, 2
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+ITaiLight
+  rotate: false
+  xy: 151, 2
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+ITaiShadow
+  rotate: true
+  xy: 2, 62
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+NCung
+  rotate: true
+  xy: 330, 9
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+NCungLight
+  rotate: true
+  xy: 363, 45
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+NCungShadow
+  rotate: true
+  xy: 42, 8
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+PPhat
+  rotate: false
+  xy: 368, 281
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+PPhatLight
+  rotate: false
+  xy: 368, 233
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+PPhatShadow
+  rotate: false
+  xy: 348, 121
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+Sparkle
+  rotate: false
+  xy: 322, 232
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+TPhat
+  rotate: true
+  xy: 294, 82
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+TPhatLight
+  rotate: false
+  xy: 218, 34
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+TPhatShadow
+  rotate: false
+  xy: 355, 179
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+TTai
+  rotate: false
+  xy: 88, 4
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+TTaiLight
+  rotate: false
+  xy: 218, 76
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+TTaiShadow
+  rotate: false
+  xy: 322, 329
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+UCung
+  rotate: false
+  xy: 253, 4
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+UCungLight
+  rotate: true
+  xy: 212, 3
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+UCungShadow
+  rotate: false
+  xy: 136, 90
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+Wild
+  rotate: true
+  xy: 246, 229
+  size: 151, 74
+  orig: 151, 74
+  offset: 0, 0
+  index: -1
+YHy
+  rotate: false
+  xy: 331, 39
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+YHyLight
+  rotate: false
+  xy: 298, 11
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+YHyShadow
+  rotate: false
+  xy: 54, 48
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1

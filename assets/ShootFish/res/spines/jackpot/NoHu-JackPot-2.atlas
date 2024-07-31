@@ -1,0 +1,356 @@
+
+NoHu-JackPot-2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Coin-3/B7903
+  rotate: false
+  xy: 2356, 615
+  size: 109, 109
+  orig: 896, 504
+  offset: 386, 294
+  index: -1
+Coin-3/B7905
+  rotate: false
+  xy: 3376, 518
+  size: 221, 203
+  orig: 896, 504
+  offset: 331, 240
+  index: -1
+Coin-3/B7907
+  rotate: false
+  xy: 3029, 507
+  size: 345, 298
+  orig: 896, 504
+  offset: 269, 179
+  index: -1
+Coin-3/B7908
+  rotate: false
+  xy: 2617, 456
+  size: 410, 349
+  orig: 896, 504
+  offset: 235, 144
+  index: -1
+Coin-3/B7909
+  rotate: false
+  xy: 3569, 2358
+  size: 477, 399
+  orig: 896, 504
+  offset: 200, 105
+  index: -1
+Coin-3/B7910
+  rotate: false
+  xy: 1693, 2
+  size: 546, 439
+  orig: 896, 504
+  offset: 163, 65
+  index: -1
+Coin-3/B7911
+  rotate: true
+  xy: 3581, 2759
+  size: 616, 483
+  orig: 896, 504
+  offset: 125, 21
+  index: -1
+Coin-3/B7912
+  rotate: true
+  xy: 3587, 3377
+  size: 691, 504
+  orig: 896, 504
+  offset: 84, 0
+  index: -1
+Coin-3/B7913
+  rotate: false
+  xy: 2633, 807
+  size: 768, 504
+  orig: 896, 504
+  offset: 41, 0
+  index: -1
+Coin-3/B7914
+  rotate: false
+  xy: 2696, 2046
+  size: 845, 504
+  orig: 896, 504
+  offset: 0, 0
+  index: -1
+Coin-3/B7915
+  rotate: false
+  xy: 900, 2049
+  size: 888, 501
+  orig: 896, 504
+  offset: 0, 3
+  index: -1
+Coin-3/B7916
+  rotate: false
+  xy: 876, 3
+  size: 815, 504
+  orig: 896, 504
+  offset: 56, 0
+  index: -1
+Coin-3/B7917
+  rotate: false
+  xy: 2, 22
+  size: 872, 504
+  orig: 896, 504
+  offset: 24, 0
+  index: -1
+Coin-3/B7918
+  rotate: false
+  xy: 2, 3564
+  size: 896, 504
+  orig: 896, 504
+  offset: 0, 0
+  index: -1
+Coin-3/B7919
+  rotate: false
+  xy: 2, 3058
+  size: 896, 504
+  orig: 896, 504
+  offset: 0, 0
+  index: -1
+Coin-3/B7920
+  rotate: false
+  xy: 2, 1034
+  size: 880, 504
+  orig: 896, 504
+  offset: 16, 0
+  index: -1
+Coin-3/B7921
+  rotate: false
+  xy: 2, 1540
+  size: 886, 504
+  orig: 896, 504
+  offset: 0, 0
+  index: -1
+Coin-3/B7922
+  rotate: false
+  xy: 900, 3564
+  size: 896, 504
+  orig: 896, 504
+  offset: 0, 0
+  index: -1
+Coin-3/B7923
+  rotate: false
+  xy: 2, 2552
+  size: 896, 504
+  orig: 896, 504
+  offset: 0, 0
+  index: -1
+Coin-3/B7924
+  rotate: false
+  xy: 900, 3058
+  size: 896, 504
+  orig: 896, 504
+  offset: 0, 0
+  index: -1
+Coin-3/B7925
+  rotate: false
+  xy: 2696, 3058
+  size: 883, 504
+  orig: 896, 504
+  offset: 5, 0
+  index: -1
+Coin-3/B7926
+  rotate: false
+  xy: 1798, 3564
+  size: 896, 504
+  orig: 896, 504
+  offset: 0, 0
+  index: -1
+Coin-3/B7927
+  rotate: false
+  xy: 2696, 3564
+  size: 889, 504
+  orig: 896, 504
+  offset: 0, 0
+  index: -1
+Coin-3/B7928
+  rotate: false
+  xy: 2696, 2552
+  size: 871, 504
+  orig: 896, 504
+  offset: 25, 0
+  index: -1
+Coin-3/B7929
+  rotate: false
+  xy: 2, 2046
+  size: 896, 504
+  orig: 896, 504
+  offset: 0, 0
+  index: -1
+Coin-3/B7930
+  rotate: false
+  xy: 2, 528
+  size: 878, 504
+  orig: 896, 504
+  offset: 18, 0
+  index: -1
+Coin-3/B7931
+  rotate: false
+  xy: 1798, 2563
+  size: 896, 493
+  orig: 896, 504
+  offset: 0, 0
+  index: -1
+Coin-3/B7932
+  rotate: false
+  xy: 1798, 2085
+  size: 896, 476
+  orig: 896, 504
+  offset: 0, 0
+  index: -1
+Coin-3/B7933
+  rotate: false
+  xy: 900, 2552
+  size: 896, 504
+  orig: 896, 504
+  offset: 0, 0
+  index: -1
+Coin-3/B7934
+  rotate: false
+  xy: 1798, 3058
+  size: 896, 504
+  orig: 896, 504
+  offset: 0, 0
+  index: -1
+Coin-3/B7935
+  rotate: false
+  xy: 882, 509
+  size: 818, 462
+  orig: 896, 504
+  offset: 0, 0
+  index: -1
+Coin-3/B7936
+  rotate: false
+  xy: 1785, 1317
+  size: 848, 414
+  orig: 896, 504
+  offset: 0, 0
+  index: -1
+Coin-3/B7937
+  rotate: false
+  xy: 2688, 1658
+  size: 881, 386
+  orig: 896, 504
+  offset: 0, 0
+  index: -1
+Coin-3/B7938
+  rotate: false
+  xy: 890, 1308
+  size: 893, 375
+  orig: 896, 504
+  offset: 3, 0
+  index: -1
+Coin-3/B7939
+  rotate: false
+  xy: 900, 1685
+  size: 881, 362
+  orig: 896, 504
+  offset: 0, 0
+  index: -1
+Coin-3/B7940
+  rotate: false
+  xy: 1790, 1733
+  size: 896, 350
+  orig: 896, 504
+  offset: 0, 0
+  index: -1
+Coin-3/B7941
+  rotate: false
+  xy: 2635, 1313
+  size: 896, 343
+  orig: 896, 504
+  offset: 0, 0
+  index: -1
+Coin-3/B7942
+  rotate: false
+  xy: 884, 973
+  size: 867, 333
+  orig: 896, 504
+  offset: 0, 0
+  index: -1
+Coin-3/B7943
+  rotate: false
+  xy: 1785, 993
+  size: 846, 322
+  orig: 896, 504
+  offset: 47, 0
+  index: -1
+Coin-3/B7944
+  rotate: true
+  xy: 3403, 723
+  size: 588, 309
+  orig: 896, 504
+  offset: 140, 0
+  index: -1
+Coin-3/B7945
+  rotate: true
+  xy: 3571, 1513
+  size: 628, 296
+  orig: 896, 504
+  offset: 121, 0
+  index: -1
+Coin-3/B7946
+  rotate: false
+  xy: 1702, 443
+  size: 652, 281
+  orig: 896, 504
+  offset: 100, 0
+  index: -1
+Coin-3/B7947
+  rotate: false
+  xy: 1753, 726
+  size: 686, 265
+  orig: 896, 504
+  offset: 84, 0
+  index: -1
+Coin-3/B7948
+  rotate: true
+  xy: 3714, 879
+  size: 632, 248
+  orig: 896, 504
+  offset: 147, 0
+  index: -1
+Coin-3/B7949
+  rotate: true
+  xy: 2241, 26
+  size: 415, 224
+  orig: 896, 504
+  offset: 337, 7
+  index: -1
+Coin-3/B7950
+  rotate: false
+  xy: 3543, 2143
+  size: 434, 213
+  orig: 896, 504
+  offset: 332, 0
+  index: -1
+Coin-3/B7951
+  rotate: false
+  xy: 3714, 705
+  size: 223, 172
+  orig: 896, 504
+  offset: 410, 22
+  index: -1
+Coin-3/B7952
+  rotate: true
+  xy: 2441, 752
+  size: 239, 174
+  orig: 896, 504
+  offset: 409, 0
+  index: -1
+Coin-3/B7953
+  rotate: true
+  xy: 2467, 545
+  size: 205, 148
+  orig: 896, 504
+  offset: 458, 5
+  index: -1
+Coin-3/B7954
+  rotate: true
+  xy: 3869, 1924
+  size: 217, 132
+  orig: 896, 504
+  offset: 462, 0
+  index: -1

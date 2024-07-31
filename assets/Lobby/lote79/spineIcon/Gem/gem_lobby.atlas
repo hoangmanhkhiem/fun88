@@ -1,0 +1,48 @@
+
+gem_lobby.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 1091, 106
+  size: 146, 151
+  orig: 146, 151
+  offset: 0, 0
+  index: -1
+1.1
+  rotate: false
+  xy: 2, 2
+  size: 261, 250
+  orig: 261, 250
+  offset: 0, 0
+  index: -1
+1.2
+  rotate: false
+  xy: 265, 26
+  size: 237, 226
+  orig: 237, 226
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 930, 129
+  size: 159, 123
+  orig: 159, 123
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 504, 63
+  size: 192, 189
+  orig: 192, 189
+  offset: 0, 0
+  index: -1
+gem
+  rotate: false
+  xy: 698, 139
+  size: 230, 113
+  orig: 230, 113
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+UI_Jackpot_ThanTai.png
+size: 993,219
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm
+  rotate: false
+  xy: 825, 117
+  size: 57, 100
+  orig: 57, 100
+  offset: 0, 0
+  index: -1
+Beard
+  rotate: true
+  xy: 414, 41
+  size: 36, 173
+  orig: 36, 173
+  offset: 0, 0
+  index: -1
+Belt
+  rotate: true
+  xy: 589, 39
+  size: 38, 154
+  orig: 38, 154
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 248, 15
+  size: 164, 202
+  orig: 164, 202
+  offset: 0, 0
+  index: -1
+Cloud
+  rotate: false
+  xy: 753, 9
+  size: 121, 25
+  orig: 121, 25
+  offset: 0, 0
+  index: -1
+Cloud_Cover
+  rotate: false
+  xy: 848, 53
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Dress
+  rotate: true
+  xy: 2, 11
+  size: 206, 244
+  orig: 206, 244
+  offset: 0, 0
+  index: -1
+Edge
+  rotate: true
+  xy: 414, 79
+  size: 27, 479
+  orig: 27, 479
+  offset: 0, 0
+  index: -1
+Finger_Left
+  rotate: false
+  xy: 972, 7
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+Forearm_Left
+  rotate: false
+  xy: 706, 138
+  size: 117, 79
+  orig: 117, 79
+  offset: 0, 0
+  index: -1
+Forearm_Right
+  rotate: true
+  xy: 895, 105
+  size: 112, 94
+  orig: 112, 94
+  offset: 0, 0
+  index: -1
+Fur_A
+  rotate: false
+  xy: 911, 5
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Fur_B
+  rotate: true
+  xy: 876, 2
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+Fur_C
+  rotate: false
+  xy: 942, 6
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Fur_D
+  rotate: false
+  xy: 807, 119
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+Fur_E
+  rotate: false
+  xy: 876, 61
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Hand_Left
+  rotate: false
+  xy: 745, 41
+  size: 65, 36
+  orig: 65, 36
+  offset: 0, 0
+  index: -1
+Hand_Right
+  rotate: false
+  xy: 757, 117
+  size: 48, 19
+  orig: 48, 19
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: false
+  xy: 706, 108
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 414, 108
+  size: 109, 290
+  orig: 109, 290
+  offset: 0, 0
+  index: -1
+Paper
+  rotate: false
+  xy: 812, 43
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+Scroll
+  rotate: false
+  xy: 414, 11
+  size: 197, 23
+  orig: 197, 23
+  offset: 0, 0
+  index: -1
+Shoulder
+  rotate: false
+  xy: 895, 36
+  size: 94, 67
+  orig: 94, 67
+  offset: 0, 0
+  index: -1
+String
+  rotate: true
+  xy: 613, 10
+  size: 24, 138
+  orig: 24, 138
+  offset: 0, 0
+  index: -1

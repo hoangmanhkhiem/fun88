@@ -1,0 +1,314 @@
+
+TWSymbolYenneferWild.png
+size: 511,507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D_shine
+  rotate: true
+  xy: 458, 101
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+I_shine
+  rotate: false
+  xy: 322, 162
+  size: 22, 48
+  orig: 22, 48
+  offset: 0, 0
+  index: -1
+L_shine
+  rotate: true
+  xy: 169, 165
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+bg
+  rotate: true
+  xy: 2, 245
+  size: 159, 165
+  orig: 159, 165
+  offset: 0, 0
+  index: -1
+bottom_khung
+  rotate: false
+  xy: 189, 408
+  size: 180, 46
+  orig: 180, 46
+  offset: 0, 0
+  index: -1
+bottom_khung_shine
+  rotate: false
+  xy: 189, 456
+  size: 180, 49
+  orig: 180, 49
+  offset: 0, 0
+  index: -1
+chay_khung_shine
+  rotate: true
+  xy: 322, 140
+  size: 20, 49
+  orig: 20, 49
+  offset: 0, 0
+  index: -1
+eff1
+  rotate: false
+  xy: 410, 65
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+eff2
+  rotate: true
+  xy: 470, 276
+  size: 61, 39
+  orig: 61, 39
+  offset: 0, 0
+  index: -1
+eff3
+  rotate: true
+  xy: 70, 165
+  size: 78, 47
+  orig: 78, 47
+  offset: 0, 0
+  index: -1
+eff4
+  rotate: false
+  xy: 260, 77
+  size: 83, 53
+  orig: 83, 53
+  offset: 0, 0
+  index: -1
+eff5
+  rotate: true
+  xy: 65, 72
+  size: 88, 60
+  orig: 88, 60
+  offset: 0, 0
+  index: -1
+eff6
+  rotate: true
+  xy: 2, 71
+  size: 89, 61
+  orig: 89, 61
+  offset: 0, 0
+  index: -1
+eff7
+  rotate: false
+  xy: 401, 339
+  size: 89, 63
+  orig: 89, 63
+  offset: 0, 0
+  index: -1
+eff8
+  rotate: true
+  xy: 127, 74
+  size: 86, 64
+  orig: 86, 64
+  offset: 0, 0
+  index: -1
+eff9
+  rotate: true
+  xy: 193, 76
+  size: 84, 65
+  orig: 84, 65
+  offset: 0, 0
+  index: -1
+eff9a
+  rotate: false
+  xy: 289, 10
+  size: 83, 65
+  orig: 83, 65
+  offset: 0, 0
+  index: -1
+eff9b
+  rotate: false
+  xy: 203, 9
+  size: 84, 65
+  orig: 84, 65
+  offset: 0, 0
+  index: -1
+eff9c
+  rotate: true
+  xy: 2, 162
+  size: 81, 66
+  orig: 81, 66
+  offset: 0, 0
+  index: -1
+eff9d
+  rotate: true
+  xy: 401, 258
+  size: 79, 67
+  orig: 79, 67
+  offset: 0, 0
+  index: -1
+eff9e
+  rotate: false
+  xy: 2, 2
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+eff9f
+  rotate: false
+  xy: 71, 3
+  size: 65, 67
+  orig: 65, 67
+  offset: 0, 0
+  index: -1
+eff9g
+  rotate: false
+  xy: 138, 5
+  size: 63, 67
+  orig: 63, 67
+  offset: 0, 0
+  index: -1
+eff9h
+  rotate: true
+  xy: 391, 141
+  size: 62, 65
+  orig: 62, 65
+  offset: 0, 0
+  index: -1
+eff9i
+  rotate: true
+  xy: 345, 78
+  size: 60, 63
+  orig: 60, 63
+  offset: 0, 0
+  index: -1
+eff9k
+  rotate: false
+  xy: 374, 4
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+eff9l
+  rotate: false
+  xy: 455, 42
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 184, 253
+  size: 153, 167
+  orig: 153, 167
+  offset: 0, 0
+  index: -1
+head_shine
+  rotate: false
+  xy: 458, 148
+  size: 51, 55
+  orig: 51, 55
+  offset: 0, 0
+  index: -1
+khungphai
+  rotate: false
+  xy: 369, 258
+  size: 14, 144
+  orig: 14, 144
+  offset: 0, 0
+  index: -1
+khungphai_shine
+  rotate: false
+  xy: 385, 258
+  size: 14, 144
+  orig: 14, 144
+  offset: 0, 0
+  index: -1
+khungtrai
+  rotate: false
+  xy: 353, 257
+  size: 14, 149
+  orig: 14, 149
+  offset: 0, 0
+  index: -1
+khungtrai_shine
+  rotate: true
+  xy: 353, 205
+  size: 14, 149
+  orig: 14, 149
+  offset: 0, 0
+  index: -1
+ngontro
+  rotate: false
+  xy: 322, 212
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+spotlight
+  rotate: false
+  xy: 346, 162
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+spotlight2
+  rotate: false
+  xy: 410, 98
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+tay
+  rotate: false
+  xy: 260, 132
+  size: 60, 66
+  orig: 60, 66
+  offset: 0, 0
+  index: -1
+tocphai
+  rotate: true
+  xy: 353, 221
+  size: 34, 155
+  orig: 34, 155
+  offset: 0, 0
+  index: -1
+toctrai
+  rotate: true
+  xy: 169, 200
+  size: 51, 151
+  orig: 51, 151
+  offset: 0, 0
+  index: -1
+top_khung
+  rotate: false
+  xy: 2, 406
+  size: 180, 46
+  orig: 180, 46
+  offset: 0, 0
+  index: -1
+top_khung_shine
+  rotate: false
+  xy: 2, 454
+  size: 185, 51
+  orig: 185, 51
+  offset: 0, 0
+  index: -1
+w_shine
+  rotate: true
+  xy: 119, 181
+  size: 62, 48
+  orig: 62, 48
+  offset: 0, 0
+  index: -1
+wild_shine
+  rotate: false
+  xy: 371, 404
+  size: 126, 48
+  orig: 126, 48
+  offset: 0, 0
+  index: -1
+wild_text
+  rotate: false
+  xy: 371, 454
+  size: 130, 51
+  orig: 130, 51
+  offset: 0, 0
+  index: -1

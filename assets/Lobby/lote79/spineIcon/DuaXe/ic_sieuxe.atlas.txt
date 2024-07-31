@@ -1,0 +1,97 @@
+
+ic_sieuxe.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1609, 239
+  size: 46, 61
+  orig: 46, 61
+  offset: 0, 0
+  index: -1
+1 copy
+  rotate: true
+  xy: 1948, 291
+  size: 183, 98
+  orig: 183, 98
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1322, 178
+  size: 80, 59
+  orig: 80, 59
+  offset: 0, 0
+  index: -1
+2 copy
+  rotate: true
+  xy: 2, 192
+  size: 282, 515
+  orig: 282, 515
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 443, 88
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+3.1
+  rotate: true
+  xy: 519, 216
+  size: 258, 491
+  orig: 258, 491
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 353, 61
+  size: 88, 129
+  orig: 88, 129
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 1683, 341
+  size: 72, 134
+  orig: 72, 134
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 1322, 302
+  size: 359, 172
+  orig: 359, 172
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 1012, 166
+  size: 308, 308
+  orig: 308, 308
+  offset: 0, 0
+  index: -1
+car
+  rotate: false
+  xy: 2, 2
+  size: 349, 188
+  orig: 349, 188
+  offset: 0, 0
+  index: -1
+text1
+  rotate: false
+  xy: 1683, 415
+  size: 263, 59
+  orig: 263, 59
+  offset: 0, 0
+  index: -1
+text2
+  rotate: false
+  xy: 1322, 239
+  size: 285, 61
+  orig: 285, 61
+  offset: 0, 0
+  index: -1

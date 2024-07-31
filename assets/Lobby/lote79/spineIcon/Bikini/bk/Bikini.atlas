@@ -1,0 +1,118 @@
+
+Bikini.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H2
+  rotate: false
+  xy: 484, 377
+  size: 274, 420
+  orig: 274, 420
+  offset: 0, 0
+  index: -1
+wphao
+  rotate: false
+  xy: 1, 1149
+  size: 548, 543
+  orig: 548, 543
+  offset: 0, 0
+  index: -1
+wtoc3
+  rotate: false
+  xy: 1, 1694
+  size: 262, 254
+  orig: 262, 254
+  offset: 0, 0
+  index: -1
+wtoc2
+  rotate: false
+  xy: 823, 1
+  size: 141, 188
+  orig: 141, 188
+  offset: 0, 0
+  index: -1
+w2
+  rotate: false
+  xy: 823, 191
+  size: 174, 134
+  orig: 174, 134
+  offset: 0, 0
+  index: -1
+wbody
+  rotate: false
+  xy: 1, 1
+  size: 481, 1146
+  orig: 481, 1146
+  offset: 0, 0
+  index: -1
+wsh
+  rotate: false
+  xy: 495, 1694
+  size: 266, 177
+  orig: 266, 177
+  offset: 0, 0
+  index: -1
+wvai
+  rotate: false
+  xy: 760, 698
+  size: 78, 98
+  orig: 78, 98
+  offset: 0, 0
+  index: -1
+Layer 56
+  rotate: false
+  xy: 657, 1873
+  size: 114, 126
+  orig: 114, 126
+  offset: 0, 0
+  index: -1
+wnguc
+  rotate: false
+  xy: 760, 377
+  size: 234, 319
+  orig: 234, 319
+  offset: 0, 0
+  index: -1
+wdau
+  rotate: false
+  xy: 484, 1
+  size: 337, 374
+  orig: 337, 374
+  offset: 0, 0
+  index: -1
+wmu
+  rotate: false
+  xy: 484, 799
+  size: 398, 241
+  orig: 398, 241
+  offset: 0, 0
+  index: -1
+wtoc1
+  rotate: false
+  xy: 884, 698
+  size: 80, 194
+  orig: 80, 194
+  offset: 0, 0
+  index: -1
+w1
+  rotate: false
+  xy: 495, 1873
+  size: 160, 125
+  orig: 160, 125
+  offset: 0, 0
+  index: -1
+wtay1
+  rotate: false
+  xy: 265, 1694
+  size: 228, 271
+  orig: 228, 271
+  offset: 0, 0
+  index: -1
+Bikini
+  rotate: false
+  xy: 1, 1950
+  size: 256, 88
+  orig: 256, 88
+  offset: 0, 0
+  index: -1

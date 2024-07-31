@@ -1,0 +1,139 @@
+
+STTT-UI-anim.png
+size: 292,1046
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sp-Long2
+  rotate: true
+  xy: 194, 679
+  size: 44, 96
+  orig: 44, 96
+  offset: 0, 0
+  index: -1
+sp-Long3
+  rotate: false
+  xy: 242, 112
+  size: 43, 109
+  orig: 43, 109
+  offset: 0, 0
+  index: -1
+sp-bird
+  rotate: false
+  xy: 194, 569
+  size: 95, 106
+  orig: 95, 106
+  offset: 0, 0
+  index: -1
+sp-circleBright
+  rotate: false
+  xy: 175, 24
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1
+sp-giudequay
+  rotate: false
+  xy: 151, 412
+  size: 120, 61
+  orig: 120, 61
+  offset: 0, 0
+  index: -1
+sp-long1
+  rotate: true
+  xy: 154, 477
+  size: 88, 123
+  orig: 88, 123
+  offset: 0, 0
+  index: -1
+sp-long4
+  rotate: false
+  xy: 2, 433
+  size: 145, 121
+  orig: 145, 121
+  offset: 0, 0
+  index: -1
+sp-long5
+  rotate: false
+  xy: 2, 558
+  size: 148, 100
+  orig: 148, 100
+  offset: 0, 0
+  index: -1
+sp-long6
+  rotate: false
+  xy: 197, 875
+  size: 89, 169
+  orig: 89, 169
+  offset: 0, 0
+  index: -1
+sp-may1
+  rotate: true
+  xy: 242, 225
+  size: 105, 48
+  orig: 105, 48
+  offset: 0, 0
+  index: -1
+sp-may2
+  rotate: true
+  xy: 120, 2
+  size: 84, 51
+  orig: 84, 51
+  offset: 0, 0
+  index: -1
+sp-may3
+  rotate: true
+  xy: 2, 8
+  size: 331, 114
+  orig: 331, 114
+  offset: 0, 0
+  index: -1
+sp-quay
+  rotate: false
+  xy: 2, 343
+  size: 144, 86
+  orig: 144, 86
+  offset: 0, 0
+  index: -1
+sp-sangtron
+  rotate: false
+  xy: 150, 334
+  size: 119, 74
+  orig: 119, 74
+  offset: 0, 0
+  index: -1
+sp-stop
+  rotate: true
+  xy: 197, 727
+  size: 144, 88
+  orig: 144, 88
+  offset: 0, 0
+  index: -1
+sp-tron
+  rotate: false
+  xy: 2, 854
+  size: 191, 190
+  orig: 191, 190
+  offset: 0, 0
+  index: -1
+sp-tronDo
+  rotate: false
+  xy: 120, 212
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+sp-tronTim
+  rotate: false
+  xy: 120, 90
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+sp-wave
+  rotate: false
+  xy: 2, 662
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1

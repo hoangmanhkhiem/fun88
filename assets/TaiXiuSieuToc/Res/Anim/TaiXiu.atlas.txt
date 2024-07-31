@@ -1,0 +1,146 @@
+
+TaiXiu.png
+size: 1889,1380
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ban
+  rotate: true
+  xy: 2, 217
+  size: 1161, 537
+  orig: 1161, 537
+  offset: 0, 0
+  index: -1
+coin1
+  rotate: true
+  xy: 544, 148
+  size: 71, 52
+  orig: 71, 52
+  offset: 0, 0
+  index: -1
+coin2
+  rotate: false
+  xy: 2, 4
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+coin3
+  rotate: true
+  xy: 598, 164
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+elect/elec1_00000
+  rotate: false
+  xy: 345, 41
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+elect/elec1_00002
+  rotate: false
+  xy: 447, 41
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+elect/elec1_00004
+  rotate: false
+  xy: 541, 221
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+elect/elec1_00006
+  rotate: false
+  xy: 549, 46
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+elect/elec1_00009
+  rotate: false
+  xy: 643, 221
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+elect/elec1_00011
+  rotate: false
+  xy: 651, 119
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ke
+  rotate: true
+  xy: 541, 323
+  size: 1055, 475
+  orig: 1055, 475
+  offset: 0, 0
+  index: -1
+rong
+  rotate: true
+  xy: 1441, 459
+  size: 380, 389
+  orig: 380, 389
+  offset: 0, 0
+  index: -1
+set1
+  rotate: true
+  xy: 1441, 841
+  size: 537, 444
+  orig: 537, 444
+  offset: 0, 0
+  index: -1
+sieutoc
+  rotate: false
+  xy: 2, 124
+  size: 334, 91
+  orig: 334, 91
+  offset: 0, 0
+  index: -1
+sieutocblur
+  rotate: false
+  xy: 2, 39
+  size: 341, 83
+  orig: 341, 83
+  offset: 0, 0
+  index: -1
+taixiu
+  rotate: false
+  xy: 338, 143
+  size: 204, 72
+  orig: 204, 72
+  offset: 0, 0
+  index: -1
+tron1
+  rotate: false
+  xy: 1536, 106
+  size: 351, 351
+  orig: 351, 351
+  offset: 0, 0
+  index: -1
+tron2
+  rotate: false
+  xy: 753, 2
+  size: 319, 319
+  orig: 319, 319
+  offset: 0, 0
+  index: -1
+upban
+  rotate: true
+  xy: 1018, 365
+  size: 1013, 421
+  orig: 1013, 421
+  offset: 0, 0
+  index: -1
+vuong
+  rotate: false
+  xy: 1074, 29
+  size: 460, 334
+  orig: 460, 334
+  offset: 0, 0
+  index: -1

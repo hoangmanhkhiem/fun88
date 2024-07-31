@@ -1,0 +1,125 @@
+
+STTT-Anim-BonusItem.png
+size: 178,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 680
+  rotate: false
+  xy: 2, 387
+  size: 137, 134
+  orig: 137, 134
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 256
+  size: 127, 127
+  orig: 127, 127
+  offset: 0, 0
+  index: -1
+flare
+  rotate: false
+  xy: 68, 3
+  size: 74, 75
+  orig: 74, 75
+  offset: 0, 0
+  index: -1
+napmo
+  rotate: true
+  xy: 2, 2
+  size: 100, 62
+  orig: 100, 62
+  offset: 0, 0
+  index: -1
+ngoc1
+  rotate: true
+  xy: 146, 9
+  size: 69, 24
+  orig: 69, 24
+  offset: 0, 0
+  index: -1
+ngoc2
+  rotate: false
+  xy: 143, 431
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+ngoc3
+  rotate: true
+  xy: 143, 458
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+ngoc4
+  rotate: false
+  xy: 68, 84
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+ngoctrai
+  rotate: true
+  xy: 116, 82
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+ngoctrai2
+  rotate: true
+  xy: 143, 499
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+sang1
+  rotate: false
+  xy: 128, 228
+  size: 45, 10
+  orig: 45, 10
+  offset: 0, 0
+  index: -1
+sang2
+  rotate: true
+  xy: 133, 242
+  size: 69, 43
+  orig: 69, 43
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 106
+  size: 39, 110
+  orig: 39, 110
+  offset: 0, 0
+  index: -1
+text
+  rotate: true
+  xy: 143, 315
+  size: 112, 28
+  orig: 112, 28
+  offset: 0, 0
+  index: -1
+thanduoi
+  rotate: false
+  xy: 2, 149
+  size: 115, 79
+  orig: 115, 79
+  offset: 0, 0
+  index: -1
+toi
+  rotate: false
+  xy: 2, 232
+  size: 122, 20
+  orig: 122, 20
+  offset: 0, 0
+  index: -1
+treasure
+  rotate: true
+  xy: 121, 127
+  size: 97, 44
+  orig: 97, 44
+  offset: 0, 0
+  index: -1

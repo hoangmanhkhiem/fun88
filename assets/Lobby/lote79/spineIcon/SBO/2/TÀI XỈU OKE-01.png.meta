@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "33fab94e-41b5-4b70-b8c7-b392d53ffa6c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 384,
+  "height": 625,
+  "platformSettings": {},
+  "subMetas": {
+    "TÀI XỈU OKE-01": {
+      "ver": "1.0.4",
+      "uuid": "5f7da0ae-8ee2-4964-b22d-1d0a77f73ce8",
+      "rawTextureUuid": "33fab94e-41b5-4b70-b8c7-b392d53ffa6c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 0,
+      "width": 382,
+      "height": 625,
+      "rawWidth": 384,
+      "rawHeight": 625,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

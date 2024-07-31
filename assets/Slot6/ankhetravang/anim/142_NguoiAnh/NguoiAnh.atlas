@@ -1,0 +1,146 @@
+
+NguoiAnh.png
+size: 348,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_new
+  rotate: false
+  xy: 306, 43
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 24
+  size: 134, 118
+  orig: 134, 118
+  offset: 0, 0
+  index: -1
+ChanMay
+  rotate: true
+  xy: 217, 2
+  size: 39, 12
+  orig: 39, 12
+  offset: 0, 0
+  index: -1
+Coin
+  rotate: false
+  xy: 289, 6
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+EyeLaughter
+  rotate: false
+  xy: 77, 4
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+HandTop
+  rotate: false
+  xy: 306, 80
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 138, 50
+  size: 79, 92
+  orig: 79, 92
+  offset: 0, 0
+  index: -1
+KhungTop
+  rotate: false
+  xy: 219, 56
+  size: 85, 86
+  orig: 85, 86
+  offset: 0, 0
+  index: -1
+Mouth1
+  rotate: false
+  xy: 231, 17
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+Mouth2
+  rotate: false
+  xy: 262, 14
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+Mouth3
+  rotate: false
+  xy: 266, 39
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+Mouth4
+  rotate: false
+  xy: 231, 5
+  size: 28, 10
+  orig: 28, 10
+  offset: 0, 0
+  index: -1
+Star
+  rotate: false
+  xy: 314, 23
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+conNguoi
+  rotate: false
+  xy: 266, 30
+  size: 27, 7
+  orig: 27, 7
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 231, 38
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 40, 4
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: false
+  xy: 2, 4
+  size: 36, 18
+  orig: 36, 18
+  offset: 0, 0
+  index: -1
+handBottom
+  rotate: true
+  xy: 138, 6
+  size: 42, 77
+  orig: 42, 77
+  offset: 0, 0
+  index: -1
+rau1
+  rotate: true
+  xy: 113, 2
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+rau2
+  rotate: false
+  xy: 261, 2
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1

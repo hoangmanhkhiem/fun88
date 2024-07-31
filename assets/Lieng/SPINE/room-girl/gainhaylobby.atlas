@@ -1,0 +1,20 @@
+
+gainhaylobby.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girlL
+  rotate: true
+  xy: 2, 2
+  size: 183, 537
+  orig: 183, 537
+  offset: 0, 0
+  index: -1
+sao
+  rotate: false
+  xy: 541, 101
+  size: 127, 84
+  orig: 127, 84
+  offset: 0, 0
+  index: -1

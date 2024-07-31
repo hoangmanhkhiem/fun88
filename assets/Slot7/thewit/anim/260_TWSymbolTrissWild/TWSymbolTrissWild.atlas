@@ -1,0 +1,195 @@
+
+TWSymbolTrissWild.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D_shine
+  rotate: false
+  xy: 378, 61
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+I_shine
+  rotate: false
+  xy: 290, 4
+  size: 22, 48
+  orig: 22, 48
+  offset: 0, 0
+  index: -1
+KHUNGTREN
+  rotate: false
+  xy: 2, 55
+  size: 182, 199
+  orig: 182, 199
+  offset: 0, 0
+  index: -1
+L_shine
+  rotate: true
+  xy: 460, 54
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 389, 112
+  size: 72, 14
+  orig: 72, 14
+  offset: 0, 0
+  index: -1
+anhsangboc
+  rotate: true
+  xy: 314, 9
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+bimngoai
+  rotate: false
+  xy: 425, 58
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+bimtrong
+  rotate: true
+  xy: 314, 111
+  size: 15, 73
+  orig: 15, 73
+  offset: 0, 0
+  index: -1
+bottom_khung_shine
+  rotate: false
+  xy: 328, 205
+  size: 180, 49
+  orig: 180, 49
+  offset: 0, 0
+  index: -1
+buisau
+  rotate: true
+  xy: 463, 89
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+chay_khung_shine
+  rotate: false
+  xy: 393, 10
+  size: 20, 49
+  orig: 20, 49
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 186, 154
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+effectbackground
+  rotate: true
+  xy: 479, 169
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 354, 22
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+khungsang
+  rotate: true
+  xy: 186, 88
+  size: 14, 124
+  orig: 14, 124
+  offset: 0, 0
+  index: -1
+lotai
+  rotate: false
+  xy: 415, 27
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+maingopai
+  rotate: true
+  xy: 186, 54
+  size: 32, 106
+  orig: 32, 106
+  offset: 0, 0
+  index: -1
+maitrong
+  rotate: true
+  xy: 134, 2
+  size: 50, 88
+  orig: 50, 88
+  offset: 0, 0
+  index: -1
+mat
+  rotate: false
+  xy: 424, 128
+  size: 53, 75
+  orig: 53, 75
+  offset: 0, 0
+  index: -1
+sao
+  rotate: false
+  xy: 314, 21
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+spotlight
+  rotate: true
+  xy: 294, 67
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+spotlight2
+  rotate: true
+  xy: 479, 135
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+tay
+  rotate: true
+  xy: 224, 4
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+toc
+  rotate: false
+  xy: 328, 128
+  size: 94, 75
+  orig: 94, 75
+  offset: 0, 0
+  index: -1
+w_shine
+  rotate: false
+  xy: 314, 61
+  size: 62, 48
+  orig: 62, 48
+  offset: 0, 0
+  index: -1
+wild_shine
+  rotate: false
+  xy: 186, 104
+  size: 126, 48
+  orig: 126, 48
+  offset: 0, 0
+  index: -1
+wild_text
+  rotate: false
+  xy: 2, 2
+  size: 130, 51
+  orig: 130, 51
+  offset: 0, 0
+  index: -1

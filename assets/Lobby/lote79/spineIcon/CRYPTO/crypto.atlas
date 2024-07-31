@@ -1,0 +1,83 @@
+
+crypto.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 1818, 397
+  size: 184, 98
+  orig: 184, 98
+  offset: 0, 0
+  index: -1
+B
+  rotate: true
+  xy: 2, 213
+  size: 282, 515
+  orig: 282, 515
+  offset: 0, 0
+  index: -1
+C
+  rotate: true
+  xy: 519, 237
+  size: 258, 491
+  orig: 258, 491
+  offset: 0, 0
+  index: -1
+Group 42.1
+  rotate: false
+  xy: 2, 91
+  size: 267, 45
+  orig: 267, 45
+  offset: 0, 0
+  index: -1
+Layer 204
+  rotate: false
+  xy: 2, 2
+  size: 76, 87
+  orig: 76, 87
+  offset: 0, 0
+  index: -1
+Layer 206
+  rotate: false
+  xy: 1294, 228
+  size: 270, 267
+  orig: 270, 267
+  offset: 0, 0
+  index: -1
+Shape 2 copy
+  rotate: false
+  xy: 1566, 239
+  size: 250, 256
+  orig: 250, 256
+  offset: 0, 0
+  index: -1
+Shape 6
+  rotate: false
+  xy: 1012, 215
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+bg_thang
+  rotate: false
+  xy: 2, 138
+  size: 309, 73
+  orig: 309, 73
+  offset: 0, 0
+  index: -1
+coins copy 10
+  rotate: true
+  xy: 2004, 452
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+coins copy 13
+  rotate: false
+  xy: 313, 172
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1

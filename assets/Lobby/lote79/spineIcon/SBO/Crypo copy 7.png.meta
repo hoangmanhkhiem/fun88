@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "0e3dbfbc-5529-49d7-b042-0b90427a1ec7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2048,
+  "height": 1024,
+  "platformSettings": {},
+  "subMetas": {
+    "Crypo copy 7": {
+      "ver": "1.0.4",
+      "uuid": "de40f2a8-2bf0-488c-a468-ccf86e97dda9",
+      "rawTextureUuid": "0e3dbfbc-5529-49d7-b042-0b90427a1ec7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -245,
+      "offsetY": 11.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1554,
+      "height": 997,
+      "rawWidth": 2048,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

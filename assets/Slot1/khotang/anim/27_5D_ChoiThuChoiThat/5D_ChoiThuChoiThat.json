@@ -1,0 +1,972 @@
+{
+"skeleton": { "hash": "qErW6Vy8I4oP05IWjK7Bnf67ILw", "spine": "3.7.94", "width": 200, "height": 200, "images": "./image/", "audio": "D:/2020/5Dragon/Anim/5D_ChoiThuChoiThat/export" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "All", "parent": "root", "x": -0.19 },
+	{ "name": "ChoiThu", "parent": "All", "y": -45.92 },
+	{ "name": "ChoiThat", "parent": "All" },
+	{ "name": "TextChoiThu", "parent": "ChoiThu", "x": 0.36, "y": 0.94 },
+	{ "name": "Text", "parent": "ChoiThat", "x": -0.57, "y": -44.77 },
+	{ "name": "AllParticle", "parent": "All" },
+	{ "name": "particle", "parent": "AllParticle", "x": -21.66, "y": -0.57, "scaleX": 0.511, "scaleY": 0.511 },
+	{ "name": "particle2", "parent": "AllParticle", "x": 30.84, "y": 10.16, "scaleX": 0.384, "scaleY": 0.384 },
+	{ "name": "particle3", "parent": "AllParticle", "x": -49.47, "y": -13.98, "scaleX": 0.445, "scaleY": 0.445 },
+	{ "name": "mat", "parent": "All" },
+	{ "name": "particle4", "parent": "AllParticle", "x": 50.81, "y": -1.41, "scaleX": 0.445, "scaleY": 0.445 },
+	{ "name": "LightCoc", "parent": "All" },
+	{ "name": "particle5", "parent": "AllParticle", "x": -34.24, "y": 28.16, "scaleX": 0.445, "scaleY": 0.445 }
+],
+"slots": [
+	{ "name": "CocChoiThatGlow", "bone": "ChoiThat", "attachment": "CocChoiThatGlow" },
+	{ "name": "CocChoiThu", "bone": "ChoiThu", "attachment": "CocChoiThu" },
+	{ "name": "CocChoiThat", "bone": "ChoiThat", "attachment": "CocChoiThat" },
+	{ "name": "ChoiThu", "bone": "Text", "attachment": "ChoiThu" },
+	{ "name": "ChoiThat", "bone": "Text", "attachment": "ChoiThat" },
+	{ "name": "ChoiThatLight", "bone": "Text", "attachment": "ChoiThatLight" },
+	{ "name": "eff_particle", "bone": "particle", "attachment": "eff_particle" },
+	{ "name": "eff_particle2", "bone": "particle2", "attachment": "eff_particle" },
+	{ "name": "eff_particle3", "bone": "particle3", "attachment": "eff_particle" },
+	{ "name": "eff_particle4", "bone": "particle4", "attachment": "eff_particle" },
+	{ "name": "eff_particle5", "bone": "particle5", "attachment": "eff_particle" },
+	{ "name": "MatPhai", "bone": "mat", "attachment": "MatPhai" },
+	{ "name": "MatPhaiLight", "bone": "mat", "attachment": "MatPhaiLight" },
+	{ "name": "MatTrai", "bone": "mat", "attachment": "MatTrai" },
+	{ "name": "MatTraiLight", "bone": "mat", "attachment": "MatTraiLight" },
+	{ "name": "light1", "bone": "LightCoc", "attachment": "ChoiThuChoiThat_0010_CocChoiThatLight-(merged)" },
+	{ "name": "Light2", "bone": "LightCoc", "attachment": "ChoiThuChoiThat_0009_CocChoiThatLight-(merged)-copy" },
+	{ "name": "Light3", "bone": "LightCoc", "attachment": "ChoiThuChoiThat_0008_CocChoiThatLight-(merged)-copy-2" },
+	{ "name": "Light4", "bone": "LightCoc", "attachment": "ChoiThuChoiThat_0006_CocChoiThatLight-(merged)-copy-4" },
+	{ "name": "Light5", "bone": "LightCoc", "attachment": "ChoiThuChoiThat_0007_CocChoiThatLight-(merged)-copy-3" }
+],
+"skins": {
+	"default": {
+		"ChoiThat": {
+			"ChoiThat": { "x": 1.72, "y": 3.33, "width": 122, "height": 37 }
+		},
+		"ChoiThatLight": {
+			"ChoiThatLight": { "x": 1.72, "y": 3.33, "width": 120, "height": 35 }
+		},
+		"ChoiThu": {
+			"ChoiThu": { "x": 0.72, "y": 5.83, "width": 112, "height": 40 }
+		},
+		"CocChoiThat": {
+			"CocChoiThat": { "x": 1.15, "y": 14.56, "width": 110, "height": 89 }
+		},
+		"CocChoiThatGlow": {
+			"CocChoiThatGlow": { "x": 1.15, "y": 14.56, "width": 132, "height": 111 }
+		},
+		"CocChoiThu": {
+			"CocChoiThu": { "x": 1.15, "y": 60.48, "width": 110, "height": 89 }
+		},
+		"Light2": {
+			"ChoiThuChoiThat_0009_CocChoiThatLight-(merged)-copy": { "width": 200, "height": 200 }
+		},
+		"Light3": {
+			"ChoiThuChoiThat_0008_CocChoiThatLight-(merged)-copy-2": { "width": 200, "height": 200 }
+		},
+		"Light4": {
+			"ChoiThuChoiThat_0006_CocChoiThatLight-(merged)-copy-4": { "width": 200, "height": 200 }
+		},
+		"Light5": {
+			"ChoiThuChoiThat_0007_CocChoiThatLight-(merged)-copy-3": { "width": 200, "height": 200 }
+		},
+		"MatPhai": {
+			"MatPhai": { "x": 16.17, "y": 49.62, "width": 10, "height": 9 }
+		},
+		"MatPhaiLight": {
+			"MatPhaiLight": { "x": 16.17, "y": 49.62, "width": 47, "height": 46 }
+		},
+		"MatTrai": {
+			"MatTrai": { "x": -13.64, "y": 49.8, "width": 12, "height": 9 }
+		},
+		"MatTraiLight": {
+			"MatTraiLight": { "x": -13.64, "y": 49.8, "width": 46, "height": 48 }
+		},
+		"eff_particle": {
+			"eff_particle": { "width": 64, "height": 64 }
+		},
+		"eff_particle2": {
+			"eff_particle": { "width": 64, "height": 64 }
+		},
+		"eff_particle3": {
+			"eff_particle": { "width": 64, "height": 64 }
+		},
+		"eff_particle4": {
+			"eff_particle": { "width": 64, "height": 64 }
+		},
+		"eff_particle5": {
+			"eff_particle": { "width": 64, "height": 64 }
+		},
+		"light1": {
+			"ChoiThuChoiThat_0010_CocChoiThatLight-(merged)": { "width": 200, "height": 200 }
+		}
+	}
+},
+"animations": {
+	"Idle_ChoiThat": {
+		"slots": {
+			"ChoiThatLight": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"color": "ffffffc4",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3, "color": "ffffff00" }
+				]
+			},
+			"ChoiThu": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"CocChoiThatGlow": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 1, "color": "ffffff92" },
+					{ "time": 2, "color": "ffffff00" }
+				]
+			},
+			"CocChoiThu": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"Light2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{
+						"time": 0.6667,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.8333,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				]
+			},
+			"Light3": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{
+						"time": 0.8333,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.5, "color": "ffffff00" }
+				]
+			},
+			"Light4": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{
+						"time": 1.1667,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.3333,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.8333, "color": "ffffff00" }
+				]
+			},
+			"Light5": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{
+						"time": 1,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.1667,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.6667, "color": "ffffff00" }
+				]
+			},
+			"MatPhai": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"MatPhaiLight": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"MatTrai": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"MatTraiLight": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"eff_particle": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{
+						"time": 0.1667,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.3333, "color": "ffffffff", "curve": "stepped" },
+					{
+						"time": 0.6667,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "color": "ffffff00" }
+				]
+			},
+			"eff_particle2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{
+						"time": 0.5333,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.7333, "color": "ffffffff", "curve": "stepped" },
+					{
+						"time": 1,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3667, "color": "ffffff00" }
+				]
+			},
+			"eff_particle3": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{
+						"time": 0.6667,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.9, "color": "ffffffff", "curve": "stepped" },
+					{
+						"time": 1.0667,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.6667, "color": "ffffff00" }
+				]
+			},
+			"eff_particle4": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{
+						"time": 1,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.2333, "color": "ffffffff", "curve": "stepped" },
+					{
+						"time": 1.4,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2, "color": "ffffff00" }
+				]
+			},
+			"eff_particle5": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{
+						"time": 0.7667,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "color": "ffffffff", "curve": "stepped" },
+					{
+						"time": 1.1667,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.7667, "color": "ffffff00" }
+				]
+			},
+			"light1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{
+						"time": 0.5,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.1667, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"particle": {
+				"rotate": [
+					{
+						"time": 0.1667,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "angle": -90 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.631, "y": 0.631, "curve": "stepped" },
+					{
+						"time": 0.1667,
+						"x": 0.631,
+						"y": 0.631,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.3333,
+						"x": 1.002,
+						"y": 1.002,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "x": 0.631, "y": 0.631 }
+				]
+			},
+			"particle2": {
+				"rotate": [
+					{
+						"time": 0.5333,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3667, "angle": -90 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.631, "y": 0.631, "curve": "stepped" },
+					{
+						"time": 0.5333,
+						"x": 0.631,
+						"y": 0.631,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.7333,
+						"x": 1.002,
+						"y": 1.002,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3667, "x": 0.631, "y": 0.631 }
+				]
+			},
+			"particle3": {
+				"rotate": [
+					{
+						"time": 0.6667,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.6667, "angle": -90 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.631, "y": 0.631, "curve": "stepped" },
+					{
+						"time": 0.6667,
+						"x": 0.631,
+						"y": 0.631,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.9,
+						"x": 1.002,
+						"y": 1.002,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.6667, "x": 0.631, "y": 0.631 }
+				]
+			},
+			"particle4": {
+				"rotate": [
+					{
+						"time": 1,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2, "angle": -90 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.631, "y": 0.631, "curve": "stepped" },
+					{
+						"time": 1,
+						"x": 0.631,
+						"y": 0.631,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.2333,
+						"x": 1.002,
+						"y": 1.002,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2, "x": 0.631, "y": 0.631 }
+				]
+			},
+			"particle5": {
+				"rotate": [
+					{
+						"time": 0.7667,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.7667, "angle": -90 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.631, "y": 0.631, "curve": "stepped" },
+					{
+						"time": 0.7667,
+						"x": 0.631,
+						"y": 0.631,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"x": 1.002,
+						"y": 1.002,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.7667, "x": 0.631, "y": 0.631 }
+				]
+			}
+		}
+	},
+	"Idle_ChoiThat_NoAnim": {
+		"slots": {
+			"ChoiThatLight": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"ChoiThu": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"CocChoiThatGlow": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"CocChoiThu": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"Light2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"Light3": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"Light4": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"Light5": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"MatPhai": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"MatPhaiLight": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"MatTrai": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"MatTraiLight": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"eff_particle": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"eff_particle2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"eff_particle3": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"eff_particle4": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"eff_particle5": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"light1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			}
+		}
+	},
+	"Idle_ChoiThu": {
+		"slots": {
+			"ChoiThat": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"ChoiThatLight": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"CocChoiThat": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"CocChoiThatGlow": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"Light2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"Light3": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"Light4": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"Light5": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"MatPhai": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"MatPhaiLight": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"MatTrai": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"MatTraiLight": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"eff_particle": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"eff_particle2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"eff_particle3": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"eff_particle4": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"eff_particle5": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"light1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			}
+		}
+	},
+	"Press_ChoiThat": {
+		"slots": {
+			"ChoiThat": {
+				"color": [
+					{
+						"time": 0.1667,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2667, "color": "ffffff00" }
+				]
+			},
+			"ChoiThatLight": {
+				"color": [
+					{
+						"time": 0.1667,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2667, "color": "ffffff00" }
+				]
+			},
+			"ChoiThu": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{
+						"time": 0.2333,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.3333, "color": "ffffffff" }
+				]
+			},
+			"CocChoiThat": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"CocChoiThatGlow": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"CocChoiThu": {
+				"color": [
+					{ "time": 1.3333, "color": "ffffffff" }
+				]
+			},
+			"Light2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"Light3": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"Light4": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"Light5": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"MatPhai": {
+				"color": [
+					{
+						"time": 0.5,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "color": "ffffff00" }
+				]
+			},
+			"MatPhaiLight": {
+				"color": [
+					{
+						"time": 0.5,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "color": "ffffff00" }
+				]
+			},
+			"MatTrai": {
+				"color": [
+					{
+						"time": 0.5,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "color": "ffffff00" }
+				]
+			},
+			"MatTraiLight": {
+				"color": [
+					{
+						"time": 0.5,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "color": "ffffff00" }
+				]
+			},
+			"eff_particle": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"eff_particle2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"eff_particle3": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"eff_particle4": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"eff_particle5": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"light1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"Text": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.0667,
+						"x": 0.913,
+						"y": 0.913,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.2667,
+						"x": 1.373,
+						"y": 1.373,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"x": 0.966,
+						"y": 0.966,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5667, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"Press_ChoiThu": {
+		"slots": {
+			"ChoiThat": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.2667, "color": "ffffff00" },
+					{ "time": 0.3667, "color": "ffffffff" }
+				]
+			},
+			"ChoiThatLight": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"ChoiThu": {
+				"color": [
+					{ "time": 0.2, "color": "ffffffff" },
+					{ "time": 0.3, "color": "ffffff00" }
+				]
+			},
+			"CocChoiThat": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{
+						"time": 0.3333,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5, "color": "ffffffff" }
+				]
+			},
+			"CocChoiThatGlow": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"Light2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"Light3": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"Light4": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"Light5": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"MatPhai": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"MatPhaiLight": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{
+						"time": 0.1667,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				]
+			},
+			"MatTrai": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"MatTraiLight": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{
+						"time": 0.1667,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				]
+			},
+			"eff_particle": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"eff_particle2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"eff_particle3": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"eff_particle4": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"eff_particle5": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"light1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"TextChoiThu": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1333, "x": 0.965, "y": 0.965 },
+					{ "time": 0.3333, "x": 1.377, "y": 1.377 }
+				]
+			},
+			"Text": {
+				"scale": [
+					{ "time": 0, "x": 0.879, "y": 0.879 },
+					{ "time": 0.0667, "x": 0.913, "y": 0.913 },
+					{ "time": 0.2667, "x": 1.373, "y": 1.373 },
+					{ "time": 0.5, "x": 0.966, "y": 0.966 },
+					{ "time": 0.5667, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

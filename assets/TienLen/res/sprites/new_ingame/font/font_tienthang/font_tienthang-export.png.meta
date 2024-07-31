@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "7052a35b-5773-4432-88cd-69a5448ec450",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 267,
+  "height": 266,
+  "platformSettings": {},
+  "subMetas": {
+    "font_tienthang-export": {
+      "ver": "1.0.4",
+      "uuid": "214b1e00-9868-4805-9bba-a2f4de04613b",
+      "rawTextureUuid": "7052a35b-5773-4432-88cd-69a5448ec450",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 266,
+      "height": 265,
+      "rawWidth": 267,
+      "rawHeight": 266,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

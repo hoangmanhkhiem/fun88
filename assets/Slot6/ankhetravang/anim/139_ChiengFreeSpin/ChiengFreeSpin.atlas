@@ -1,0 +1,55 @@
+
+ChiengFreeSpin.png
+size: 300,184
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CaiChieng
+  rotate: false
+  xy: 2, 2
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+CayKhung
+  rotate: false
+  xy: 267, 121
+  size: 13, 60
+  orig: 13, 60
+  offset: 0, 0
+  index: -1
+ChanGo
+  rotate: true
+  xy: 228, 84
+  size: 97, 37
+  orig: 97, 37
+  offset: 0, 0
+  index: -1
+DayBuoc
+  rotate: false
+  xy: 183, 11
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+GocKhung
+  rotate: false
+  xy: 282, 155
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+Star
+  rotate: false
+  xy: 228, 13
+  size: 55, 69
+  orig: 55, 69
+  offset: 0, 0
+  index: -1
+TopKhung
+  rotate: true
+  xy: 183, 47
+  size: 134, 43
+  orig: 134, 43
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+5D_ChoiThuChoiThat.png
+size: 218,503
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ChoiThat
+  rotate: true
+  xy: 2, 2
+  size: 120, 35
+  orig: 122, 37
+  offset: 1, 1
+  index: -1
+ChoiThatLight
+  rotate: true
+  xy: 39, 2
+  size: 120, 35
+  orig: 120, 35
+  offset: 0, 0
+  index: -1
+ChoiThu
+  rotate: true
+  xy: 76, 7
+  size: 110, 38
+  orig: 112, 40
+  offset: 1, 1
+  index: -1
+ChoiThuChoiThat_0006_CocChoiThatLight-(merged)-copy-4
+  rotate: true
+  xy: 136, 404
+  size: 97, 72
+  orig: 200, 200
+  offset: 58, 73
+  index: -1
+ChoiThuChoiThat_0007_CocChoiThatLight-(merged)-copy-3
+  rotate: false
+  xy: 2, 213
+  size: 107, 86
+  orig: 200, 200
+  offset: 48, 71
+  index: -1
+ChoiThuChoiThat_0008_CocChoiThatLight-(merged)-copy-2
+  rotate: false
+  xy: 2, 124
+  size: 104, 87
+  orig: 200, 200
+  offset: 48, 71
+  index: -1
+ChoiThuChoiThat_0009_CocChoiThatLight-(merged)-copy
+  rotate: false
+  xy: 136, 318
+  size: 66, 84
+  orig: 200, 200
+  offset: 47, 74
+  index: -1
+ChoiThuChoiThat_0010_CocChoiThatLight-(merged)
+  rotate: false
+  xy: 108, 119
+  size: 93, 87
+  orig: 200, 200
+  offset: 47, 71
+  index: -1
+CocChoiThat
+  rotate: false
+  xy: 2, 301
+  size: 108, 87
+  orig: 110, 89
+  offset: 1, 1
+  index: -1
+CocChoiThatGlow
+  rotate: false
+  xy: 2, 390
+  size: 132, 111
+  orig: 132, 111
+  offset: 0, 0
+  index: -1
+CocChoiThu
+  rotate: true
+  xy: 112, 208
+  size: 108, 87
+  orig: 110, 89
+  offset: 1, 1
+  index: -1
+MatPhai
+  rotate: false
+  xy: 204, 382
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+MatPhaiLight
+  rotate: false
+  xy: 164, 5
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+MatTrai
+  rotate: false
+  xy: 204, 393
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+MatTraiLight
+  rotate: false
+  xy: 116, 3
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+eff_particle
+  rotate: false
+  xy: 116, 53
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

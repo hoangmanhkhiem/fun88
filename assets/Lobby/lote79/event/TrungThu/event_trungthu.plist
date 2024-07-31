@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>btn_muangay.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1688},{218,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{218,86}}</string>
+				<key>sourceSize</key>
+				<string>{218,86}</string>
+			</dict>
+
+			<key>ic_close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1775},{91,96}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{91,96}}</string>
+				<key>sourceSize</key>
+				<string>{91,96}</string>
+			</dict>
+
+			<key>pack1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1152},{402,535}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{402,535}}</string>
+				<key>sourceSize</key>
+				<string>{402,535}</string>
+			</dict>
+
+			<key>pack2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,590},{404,561}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{404,561}}</string>
+				<key>sourceSize</key>
+				<string>{404,561}</string>
+			</dict>
+
+			<key>pack3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{443,589}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{443,589}}</string>
+				<key>sourceSize</key>
+				<string>{443,589}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{512,2048}</string>
+			<key>textureFileName</key>
+			<string>event_trungthu.png</string>
+			</dict>
+		</dict>
+</plist>

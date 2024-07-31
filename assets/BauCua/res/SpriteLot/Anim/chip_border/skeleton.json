@@ -1,0 +1,52 @@
+{
+"skeleton": { "hash": "WgDt0Fc+fd0mdzVohm+zM/OccNM", "spine": "3.6.53", "width": 94, "height": 108.04, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "light", "parent": "root", "x": 9.07, "y": 38.37, "scaleX": 0.868, "scaleY": 0.868 }
+],
+"slots": [
+	{ "name": "o", "bone": "root", "attachment": "o", "blend": "additive" },
+	{ "name": "light", "bone": "light", "attachment": "light", "blend": "additive" },
+	{ "name": "h", "bone": "root", "attachment": "b", "blend": "additive" }
+],
+"path": [
+	{
+		"name": "h",
+		"order": 0,
+		"bones": [ "light" ],
+		"target": "h",
+		"position": 1
+	}
+],
+"skins": {
+	"default": {
+		"h": {
+			"b": {
+				"type": "path",
+				"closed": true,
+				"lengths": [ 51.01, 111.18, 170.23, 224.02, 260.19, 266.18 ],
+				"vertexCount": 18,
+				"vertices": [ -7.9, 44.52, -2.78, 45.39, 1.68, 46.15, 33.02, 36.56, 38.64, 19.02, 44.35, 1.2, 43.25, -21.18, 22.82, -34.62, 1.35, -48.75, -24.48, -36.02, -31.9, -27.7, -39.32, -19.38, -48.57, 6.24, -38, 23.11, -27.43, 39.98, -13.89, 42.88, -9.53, 43.82, -1.77, 45.5 ]
+			}
+		},
+		"light": {
+			"light": { "x": -1.56, "y": -4.74, "scaleX": 0.864, "scaleY": 0.864, "width": 52, "height": 45 }
+		},
+		"o": {
+			"o": { "width": 94, "height": 94 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"paths": {
+			"h": {
+				"position": [
+					{ "time": 0 },
+					{ "time": 2.3333, "position": 1 }
+				]
+			}
+		}
+	}
+}
+}

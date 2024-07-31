@@ -1,0 +1,90 @@
+
+xingauA2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 4, 150
+  size: 137, 69
+  orig: 137, 69
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 4, 77
+  size: 137, 69
+  orig: 137, 69
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 145, 150
+  size: 137, 69
+  orig: 137, 69
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 4, 4
+  size: 137, 69
+  orig: 137, 69
+  offset: 0, 0
+  index: -1
+Rectangle 1 copy 3
+  rotate: false
+  xy: 145, 87
+  size: 97, 59
+  orig: 97, 59
+  offset: 0, 0
+  index: -1
+mat duoi 2
+  rotate: false
+  xy: 286, 160
+  size: 97, 59
+  orig: 97, 59
+  offset: 0, 0
+  index: -1
+mat tren 1
+  rotate: false
+  xy: 145, 24
+  size: 97, 59
+  orig: 97, 59
+  offset: 0, 0
+  index: -1
+mat tren 2
+  rotate: false
+  xy: 387, 160
+  size: 97, 59
+  orig: 97, 59
+  offset: 0, 0
+  index: -1
+mat tren 3
+  rotate: true
+  xy: 246, 49
+  size: 97, 59
+  orig: 97, 59
+  offset: 0, 0
+  index: -1
+mat tren 4
+  rotate: false
+  xy: 309, 97
+  size: 97, 59
+  orig: 97, 59
+  offset: 0, 0
+  index: -1
+mat tren 5
+  rotate: false
+  xy: 309, 34
+  size: 97, 59
+  orig: 97, 59
+  offset: 0, 0
+  index: -1
+mat tren 6
+  rotate: true
+  xy: 410, 59
+  size: 97, 59
+  orig: 97, 59
+  offset: 0, 0
+  index: -1

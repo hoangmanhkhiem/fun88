@@ -1,0 +1,48 @@
+
+Symbol_6.png
+size: 273,113
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LixiDuoi
+  rotate: false
+  xy: 162, 55
+  size: 100, 56
+  orig: 100, 56
+  offset: 0, 0
+  index: -1
+LixiDuoi_Shadow
+  rotate: true
+  xy: 98, 4
+  size: 107, 62
+  orig: 107, 62
+  offset: 0, 0
+  index: -1
+LixiTren
+  rotate: false
+  xy: 2, 2
+  size: 94, 109
+  orig: 94, 109
+  offset: 0, 0
+  index: -1
+Particle
+  rotate: false
+  xy: 162, 9
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+Xu
+  rotate: true
+  xy: 244, 15
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+Xu_Shadow
+  rotate: true
+  xy: 208, 8
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1

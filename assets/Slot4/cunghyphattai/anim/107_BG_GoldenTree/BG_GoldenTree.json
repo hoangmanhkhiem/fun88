@@ -1,0 +1,3047 @@
+{
+"skeleton": { "hash": "7tQUNB8Rf0KeAIatNIBL+uYrANs", "spine": "3.7.94", "width": 871.05, "height": 723.64, "images": "./image/", "audio": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "Scale 720", "parent": "root", "scaleX": 0.67, "scaleY": 0.67 },
+	{ "name": "Than", "parent": "Scale 720", "x": -78.02, "y": -395.08 },
+	{
+		"name": "Than2",
+		"parent": "Than",
+		"length": 172.29,
+		"rotation": 64.92,
+		"x": -4.84,
+		"y": 2.33,
+		"color": "ff0000ff"
+	},
+	{ "name": "Than3", "parent": "Than2", "length": 196.13, "rotation": 22.17, "x": 172.29, "color": "ff0000ff" },
+	{ "name": "Than4", "parent": "Than3", "length": 302.88, "rotation": 10.15, "x": 196.13, "color": "ff0000ff" },
+	{
+		"name": "CanhTrai",
+		"parent": "Than3",
+		"length": 168.44,
+		"rotation": 56.45,
+		"x": 70.37,
+		"y": 9.45,
+		"color": "00f1ffff"
+	},
+	{
+		"name": "LaTrai",
+		"parent": "CanhTrai",
+		"length": 230.72,
+		"rotation": 0.19,
+		"x": 163.38,
+		"y": 0.04,
+		"color": "00f1ffff"
+	},
+	{
+		"name": "LaPhai",
+		"parent": "Than3",
+		"length": 228.6,
+		"rotation": -56.51,
+		"x": 124.66,
+		"y": 0.31,
+		"color": "0014ffff"
+	},
+	{ "name": "LaPhai2", "parent": "LaPhai", "length": 235.39, "rotation": 11.6, "x": 228.6, "color": "0014ffff" },
+	{ "name": "Than5", "parent": "Than4", "x": 231.86, "y": 241.73, "color": "ff0000ff" },
+	{ "name": "Than6", "parent": "Than4", "x": 273.16, "y": -221.28, "color": "ff0000ff" },
+	{ "name": "AllXu", "parent": "Than4", "x": 40.52, "y": -5.01, "color": "ff0000ff" },
+	{ "name": "LaPhai3", "parent": "LaPhai", "x": 277.06, "y": 194.41, "color": "0014ffff" },
+	{ "name": "LaPhai4", "parent": "LaPhai", "x": 396.69, "y": -129.29, "color": "0014ffff" },
+	{ "name": "CanhTrai2", "parent": "CanhTrai", "rotation": -143.54, "x": 339.69, "y": 115.46, "color": "00f1ffff" },
+	{ "name": "Particle", "parent": "Than3", "x": 484.82, "y": -352.54, "transform": "noRotationOrReflection" },
+	{ "name": "Particle1", "parent": "Than3", "x": 208.55, "y": -165.11, "transform": "noRotationOrReflection" },
+	{ "name": "Particle2", "parent": "Than3", "x": 510.1, "y": 43.18, "transform": "noRotationOrReflection" },
+	{ "name": "Particle3", "parent": "Than3", "x": 196.22, "y": 356.39, "transform": "noRotationOrReflection" },
+	{ "name": "Particle4", "parent": "Than3", "x": 586.08, "y": 369.05, "transform": "noRotationOrReflection" },
+	{
+		"name": "Leaves",
+		"parent": "Than4",
+		"x": 40.52,
+		"y": -5.01,
+		"scaleX": 1.423,
+		"scaleY": 1.423,
+		"color": "ff0000ff"
+	},
+	{ "name": "LeavesGold", "parent": "Leaves", "rotation": -97.24, "x": 214.08, "y": 147.49, "color": "1e00ffff" },
+	{ "name": "LeavesGold2", "parent": "Leaves", "rotation": -127.27, "x": 226.57, "y": 118.97, "color": "1e00ffff" },
+	{ "name": "LeavesGold3", "parent": "Leaves", "rotation": -140.84, "x": 172.43, "y": -226.68, "color": "1e00ffff" },
+	{ "name": "LeavesGold4", "parent": "Leaves", "rotation": -105.19, "x": 199.21, "y": 135.08, "color": "1e00ffff" },
+	{ "name": "LeavesGold5", "parent": "Leaves", "rotation": -105.19, "x": 99.6, "y": 322.31, "color": "1e00ffff" },
+	{ "name": "LeavesGold6", "parent": "Leaves", "rotation": -131.02, "x": 73.02, "y": 306.17, "color": "1e00ffff" },
+	{ "name": "LeavesGold7", "parent": "Leaves", "rotation": -135.02, "x": 0.44, "y": -329.35, "color": "1e00ffff" },
+	{ "name": "LeavesGold9", "parent": "Leaves", "rotation": -93.52, "x": 30.16, "y": 304.73, "color": "1e00ffff" },
+	{
+		"name": "Leaves2",
+		"parent": "Than4",
+		"x": 40.52,
+		"y": -5.01,
+		"scaleX": 1.423,
+		"scaleY": 1.423,
+		"color": "ff0000ff"
+	},
+	{ "name": "LeavesGold8", "parent": "Leaves2", "rotation": -97.24, "x": 24, "y": 2.56, "color": "1e00ffff" },
+	{ "name": "LeavesGold10", "parent": "Leaves2", "rotation": -127.27, "x": 93.6, "y": 25.21, "color": "1e00ffff" },
+	{ "name": "LeavesGold11", "parent": "Leaves2", "rotation": -127.27, "x": 242.83, "y": 131.13, "color": "1e00ffff" },
+	{ "name": "LeavesGold12", "parent": "Leaves2", "rotation": -105.19, "x": -31.01, "y": -285.09, "color": "1e00ffff" },
+	{ "name": "LeavesGold13", "parent": "Leaves2", "rotation": -105.19, "x": 192.46, "y": -202.76, "color": "1e00ffff" },
+	{ "name": "LeavesGold14", "parent": "Leaves2", "rotation": -131.02, "x": 179.81, "y": -162.67, "color": "1e00ffff" },
+	{ "name": "LeavesGold15", "parent": "Leaves2", "rotation": -135.02, "x": -77.5, "y": -280.69, "color": "1e00ffff" },
+	{ "name": "LeavesGold16", "parent": "Leaves2", "rotation": -93.52, "x": -60.94, "y": -233.04, "color": "1e00ffff" }
+],
+"slots": [
+	{ "name": "ShadowTree", "bone": "Than", "color": "ffffffdb", "attachment": "ShadowTree" },
+	{ "name": "LaPhai", "bone": "LaPhai", "attachment": "LaPhai" },
+	{ "name": "LaPhaiGold", "bone": "LaPhai", "attachment": "LaPhaiGold" },
+	{ "name": "LaTrai", "bone": "LaTrai", "attachment": "LaTrai" },
+	{ "name": "LaTraiGold", "bone": "LaTrai", "attachment": "LaTraiGold" },
+	{ "name": "Than", "bone": "Than", "attachment": "Than" },
+	{ "name": "ThanGold", "bone": "Than", "attachment": "ThanGold" },
+	{ "name": "CanhTrai", "bone": "CanhTrai", "attachment": "CanhTrai" },
+	{ "name": "CanhTraiGold", "bone": "CanhTrai", "attachment": "CanhTraiGold" },
+	{ "name": "LeavesGold", "bone": "LeavesGold", "attachment": "LeavesGold3" },
+	{ "name": "LeavesGold8", "bone": "LeavesGold8", "attachment": "LeavesGold3" },
+	{ "name": "LeavesGold2", "bone": "LeavesGold2", "attachment": "LeavesGold" },
+	{ "name": "LeavesGold10", "bone": "LeavesGold10", "attachment": "LeavesGold" },
+	{ "name": "LeavesGold3", "bone": "LeavesGold3", "attachment": "LeavesGold" },
+	{ "name": "LeavesGold11", "bone": "LeavesGold11", "attachment": "LeavesGold3" },
+	{ "name": "LeavesGold4", "bone": "LeavesGold4", "attachment": "LeavesGold" },
+	{ "name": "LeavesGold12", "bone": "LeavesGold12", "attachment": "LeavesGold" },
+	{ "name": "LeavesGold5", "bone": "LeavesGold5", "attachment": "LeavesGold2" },
+	{ "name": "LeavesGold13", "bone": "LeavesGold13", "attachment": "LeavesGold2" },
+	{ "name": "LeavesGold9", "bone": "LeavesGold9", "attachment": "LeavesGold2" },
+	{ "name": "LeavesGold16", "bone": "LeavesGold16", "attachment": "LeavesGold2" },
+	{ "name": "LeavesGold6", "bone": "LeavesGold6", "attachment": "LeavesGold" },
+	{ "name": "LeavesGold14", "bone": "LeavesGold14", "attachment": "LeavesGold3" },
+	{ "name": "LeavesGold7", "bone": "LeavesGold7", "attachment": "LeavesGold3" },
+	{ "name": "LeavesGold15", "bone": "LeavesGold15", "attachment": "LeavesGold3" },
+	{ "name": "XuGiua", "bone": "Than4", "attachment": "XuGiua" },
+	{ "name": "XuGiuaGold", "bone": "Than4", "attachment": "XuGiuaGold" },
+	{ "name": "XuGiua1", "bone": "Than5", "attachment": "XuGiua1" },
+	{ "name": "XuGiua1Gold", "bone": "Than5", "attachment": "XuGiua1Gold" },
+	{ "name": "XuGiua2", "bone": "Than6", "attachment": "XuGiua2" },
+	{ "name": "XuGiua2Gold", "bone": "Than6", "attachment": "XuGiua2Gold" },
+	{ "name": "XuPhai2", "bone": "LaPhai4", "attachment": "XuPhai2" },
+	{ "name": "XuPhai2Gold", "bone": "LaPhai4", "attachment": "XuPhai2Gold" },
+	{ "name": "XuPhai2a", "bone": "LaPhai", "attachment": "XuPhai2a" },
+	{ "name": "XuPhai2aGold", "bone": "LaPhai", "attachment": "XuPhai2aGold" },
+	{ "name": "XuPhai2b", "bone": "LaPhai2", "attachment": "XuPhai2b" },
+	{ "name": "XuPhai2bGold", "bone": "LaPhai2", "attachment": "XuPhai2bGold" },
+	{ "name": "XuTrai1", "bone": "LaTrai", "attachment": "XuTrai1" },
+	{ "name": "XuTrai1Gold", "bone": "LaTrai", "attachment": "XuTrai1Gold" },
+	{ "name": "XuTrai1a", "bone": "CanhTrai", "attachment": "XuTrai1a" },
+	{ "name": "XuTrai1aGold", "bone": "CanhTrai", "attachment": "XuTrai1aGold" },
+	{ "name": "Particle", "bone": "Particle", "attachment": "Particle" },
+	{ "name": "Particle2", "bone": "Particle1", "attachment": "Particle" },
+	{ "name": "Particle3", "bone": "Particle2", "attachment": "Particle" },
+	{ "name": "Particle4", "bone": "Particle3", "attachment": "Particle" },
+	{ "name": "Particle5", "bone": "Particle4", "attachment": "Particle" }
+],
+"skins": {
+	"default": {
+		"CanhTrai": {
+			"CanhTrai": { "x": 92.07, "y": -11.71, "rotation": -92.99, "width": 66, "height": 193 }
+		},
+		"CanhTraiGold": {
+			"CanhTraiGold": { "x": 92.07, "y": -11.71, "rotation": -92.99, "width": 66, "height": 193 }
+		},
+		"LaPhai": {
+			"LaPhai": {
+				"type": "mesh",
+				"uvs": [ 1, 0.58706, 1, 0.84522, 0.44588, 1, 0.23135, 1, 0, 0.5998, 0, 0.32374, 0.4074, 0, 0.65041, 0, 0.42158, 0.32632, 0.66053, 0.55608 ],
+				"triangles": [ 4, 5, 8, 5, 6, 8, 0, 9, 7, 9, 0, 1, 2, 9, 1, 8, 6, 7, 8, 7, 9, 9, 4, 8, 9, 3, 4, 2, 3, 9 ],
+				"vertices": [ 2, 9, 360.84, -282.6, 0.11222, 14, 242.2, -75, 0.88778, 2, 9, 263.09, -390.5, 0.00435, 14, 168.13, -200.35, 0.99565, 3, 8, 177.4, -202.12, 0.40879, 9, -90.79, -187.7, 0.23531, 14, -219.29, -72.82, 0.3559, 3, 8, 44.61, -123.65, 0.89608, 9, -205.09, -84.14, 0.04802, 14, -352.08, 5.64, 0.05591, 2, 8, 16.23, 155.3, 0.66941, 13, -260.83, -39.12, 0.33059, 2, 8, 95.44, 289.34, 0.35721, 13, -181.63, 94.93, 0.64279, 2, 9, 267.39, 248.85, 0.43199, 13, 163.45, 103.11, 0.56801, 2, 9, 396.87, 131.54, 0.79967, 13, 313.87, 14.22, 0.20033, 3, 8, 355.66, 133.88, 0.01135, 9, 151.37, 105.61, 0.54525, 13, 78.59, -60.53, 0.44341, 2, 9, 191.69, -105.78, 0.41463, 14, 40.95, 64.21, 0.58537 ],
+				"hull": 8,
+				"edges": [ 8, 6, 4, 6, 4, 2, 2, 0, 0, 14, 12, 14, 8, 10, 12, 10 ],
+				"width": 719,
+				"height": 564
+			}
+		},
+		"LaPhaiGold": {
+			"LaPhaiGold": {
+				"type": "mesh",
+				"uvs": [ 1, 0.58706, 1, 0.84522, 0.44588, 1, 0.23135, 1, 0, 0.5998, 0, 0.32374, 0.4074, 0, 0.65041, 0, 0.42158, 0.32632, 0.66053, 0.55608 ],
+				"triangles": [ 4, 5, 8, 5, 6, 8, 0, 9, 7, 9, 0, 1, 2, 9, 1, 8, 6, 7, 8, 7, 9, 9, 4, 8, 9, 3, 4, 2, 3, 9 ],
+				"vertices": [ 2, 9, 360.84, -282.6, 0.11222, 14, 242.2, -75, 0.88778, 2, 9, 263.09, -390.5, 0.00435, 14, 168.13, -200.35, 0.99565, 3, 8, 177.4, -202.12, 0.40879, 9, -90.79, -187.7, 0.23531, 14, -219.29, -72.82, 0.3559, 3, 8, 44.61, -123.65, 0.89608, 9, -205.09, -84.14, 0.04802, 14, -352.08, 5.64, 0.05591, 2, 8, 16.23, 155.3, 0.66941, 13, -260.83, -39.12, 0.33059, 2, 8, 95.44, 289.34, 0.35721, 13, -181.63, 94.93, 0.64279, 2, 9, 267.39, 248.85, 0.43199, 13, 163.45, 103.11, 0.56801, 2, 9, 396.87, 131.54, 0.79967, 13, 313.87, 14.22, 0.20033, 3, 8, 355.66, 133.88, 0.01135, 9, 151.37, 105.61, 0.54525, 13, 78.59, -60.53, 0.44341, 2, 9, 191.69, -105.78, 0.41463, 14, 40.95, 64.21, 0.58537 ],
+				"hull": 8,
+				"edges": [ 8, 6, 4, 6, 4, 2, 2, 0, 0, 14, 12, 14, 8, 10, 12, 10 ],
+				"width": 719,
+				"height": 564
+			}
+		},
+		"LaTrai": {
+			"LaTrai": {
+				"type": "mesh",
+				"uvs": [ 1, 0.37672, 1, 1, 0.42812, 1, 0, 0.80965, 0, 0.53819, 0.34968, 0, 0.64106, 0, 0.54019, 0.28978, 0.3833, 0.634, 0.73872, 0.634 ],
+				"triangles": [ 7, 5, 6, 7, 6, 0, 4, 5, 7, 9, 7, 0, 8, 7, 9, 9, 0, 1, 2, 9, 1, 8, 4, 7, 3, 4, 8, 2, 8, 9, 3, 8, 2 ],
+				"vertices": [ 1, 7, 49.27, -238.22, 1, 2, 15, 362.34, -182.52, 3.1E-4, 7, -151.65, 35.65, 0.99969, 2, 15, -23.84, -140.65, 0.8034, 7, 184.48, 230.34, 0.1966, 2, 15, -292.41, -26.67, 0.99999, 7, 468.45, 297.31, 1.0E-5, 2, 15, -288.75, 117.52, 0.92779, 7, 550.79, 178.89, 0.07221, 2, 15, -34.56, 366.68, 0.08103, 7, 493.24, -172.37, 0.91897, 2, 15, 145.48, 362.54, 0.00151, 7, 345.63, -275.53, 0.99849, 2, 15, 83.64, 205.55, 0.01955, 7, 302.62, -112.37, 0.98045, 2, 15, -58, 66.09, 0.94295, 7, 334.33, 83.86, 0.05705, 1, 7, 93.57, -31.82, 1 ],
+				"hull": 7,
+				"edges": [ 2, 4, 4, 6, 6, 8, 10, 8, 10, 12, 2, 0, 12, 0 ],
+				"width": 604,
+				"height": 545
+			}
+		},
+		"LaTraiGold": {
+			"LaTraiGold": {
+				"type": "mesh",
+				"uvs": [ 1, 0.37672, 1, 1, 0.42812, 1, 0, 0.80965, 0, 0.53819, 0.34968, 0, 0.64106, 0, 0.54019, 0.28978, 0.3833, 0.634, 0.73872, 0.634 ],
+				"triangles": [ 7, 5, 6, 7, 6, 0, 4, 5, 7, 9, 7, 0, 8, 7, 9, 9, 0, 1, 2, 9, 1, 8, 4, 7, 3, 4, 8, 2, 8, 9, 3, 8, 2 ],
+				"vertices": [ 1, 7, 49.27, -238.22, 1, 2, 15, 362.34, -182.52, 3.1E-4, 7, -151.65, 35.65, 0.99969, 2, 15, -23.84, -140.65, 0.8034, 7, 184.48, 230.34, 0.1966, 2, 15, -292.41, -26.67, 0.99999, 7, 468.45, 297.31, 1.0E-5, 2, 15, -288.75, 117.52, 0.92779, 7, 550.79, 178.89, 0.07221, 2, 15, -34.56, 366.68, 0.08103, 7, 493.24, -172.37, 0.91897, 2, 15, 145.48, 362.54, 0.00151, 7, 345.63, -275.53, 0.99849, 2, 15, 83.64, 205.55, 0.01955, 7, 302.62, -112.37, 0.98045, 2, 15, -58, 66.09, 0.94295, 7, 334.33, 83.86, 0.05705, 1, 7, 93.57, -31.82, 1 ],
+				"hull": 7,
+				"edges": [ 2, 4, 4, 6, 6, 8, 10, 8, 10, 12, 2, 0, 12, 0 ],
+				"width": 604,
+				"height": 545
+			}
+		},
+		"LeavesGold": {
+			"LeavesGold3": { "x": -8.16, "y": 1.55, "width": 71, "height": 54 }
+		},
+		"LeavesGold10": {
+			"LeavesGold": { "x": -8.16, "y": 1.55, "width": 81, "height": 46 }
+		},
+		"LeavesGold11": {
+			"LeavesGold3": { "x": -8.16, "y": 1.55, "width": 71, "height": 54 }
+		},
+		"LeavesGold12": {
+			"LeavesGold": { "x": -8.16, "y": 1.55, "width": 81, "height": 46 }
+		},
+		"LeavesGold13": {
+			"LeavesGold2": { "x": -17.17, "y": 26.26, "rotation": -25.68, "width": 73, "height": 51 }
+		},
+		"LeavesGold14": {
+			"LeavesGold3": { "x": -8.16, "y": 1.55, "width": 71, "height": 54 }
+		},
+		"LeavesGold15": {
+			"LeavesGold3": { "x": -8.16, "y": 1.55, "width": 71, "height": 54 }
+		},
+		"LeavesGold16": {
+			"LeavesGold2": { "x": -8.16, "y": 1.55, "width": 73, "height": 51 }
+		},
+		"LeavesGold2": {
+			"LeavesGold": { "x": -8.16, "y": 1.55, "width": 81, "height": 46 }
+		},
+		"LeavesGold3": {
+			"LeavesGold": { "x": -29.13, "y": -5.73, "width": 81, "height": 46 }
+		},
+		"LeavesGold4": {
+			"LeavesGold": { "x": -8.16, "y": 1.55, "width": 81, "height": 46 }
+		},
+		"LeavesGold5": {
+			"LeavesGold2": { "x": -8.16, "y": 1.55, "width": 73, "height": 51 }
+		},
+		"LeavesGold6": {
+			"LeavesGold": { "x": -8.16, "y": 1.55, "width": 81, "height": 46 }
+		},
+		"LeavesGold7": {
+			"LeavesGold3": { "x": -8.16, "y": 1.55, "width": 71, "height": 54 }
+		},
+		"LeavesGold8": {
+			"LeavesGold3": { "x": -8.16, "y": 1.55, "width": 71, "height": 54 }
+		},
+		"LeavesGold9": {
+			"LeavesGold2": { "x": -8.16, "y": 1.55, "width": 73, "height": 51 }
+		},
+		"Particle": {
+			"Particle": { "x": 0.19, "y": 2.83, "scaleX": 2, "scaleY": 2, "width": 66, "height": 66 }
+		},
+		"Particle2": {
+			"Particle": { "x": 0.19, "y": 2.83, "scaleX": 2, "scaleY": 2, "width": 66, "height": 66 }
+		},
+		"Particle3": {
+			"Particle": { "x": 0.19, "y": 2.83, "scaleX": 2, "scaleY": 2, "width": 66, "height": 66 }
+		},
+		"Particle4": {
+			"Particle": { "x": 0.19, "y": 2.83, "scaleX": 2, "scaleY": 2, "width": 66, "height": 66 }
+		},
+		"Particle5": {
+			"Particle": { "x": 0.19, "y": 2.83, "scaleX": 2, "scaleY": 2, "width": 66, "height": 66 }
+		},
+		"ShadowTree": {
+			"ShadowTree": { "x": 20.99, "y": -80.98, "width": 878, "height": 129 }
+		},
+		"Than": {
+			"Than": {
+				"type": "mesh",
+				"uvs": [ 1, 0.1407, 1, 0.45799, 0.81603, 0.59883, 0.67453, 0.61121, 0.67653, 0.71955, 0.62217, 0.84329, 0.99855, 0.90923, 1, 1, 0, 1, 0, 0.96676, 0.28666, 0.84356, 0.43807, 0.70544, 0.40443, 0.55892, 0, 0.46882, 0, 0.18249, 0.39354, 0, 0.68649, 0 ],
+				"triangles": [ 8, 10, 5, 8, 9, 10, 8, 5, 7, 5, 6, 7, 10, 11, 5, 5, 11, 4, 11, 3, 4, 11, 12, 3, 2, 3, 16, 16, 3, 12, 12, 15, 16, 12, 14, 15, 12, 13, 14, 1, 2, 16, 16, 0, 1 ],
+				"vertices": [ 3, 11, 104.02, -209.75, 0.99926, 5, 377.18, -431.03, 6.1E-4, 4, 643.39, -357.8, 1.2E-4, 3, 11, -235.6, -166.59, 0.73992, 5, 37.56, -387.88, 0.14631, 4, 301.48, -375.18, 0.11377, 3, 11, -366.92, 5.5, 0.32849, 5, -93.76, -215.78, 0.29563, 4, 141.88, -228.93, 0.37588, 3, 11, -365.23, 124.81, 0.08358, 5, -92.07, -96.47, 0.13512, 4, 122.51, -111.19, 0.7813, 4, 11, -481.41, 137.89, 0.00341, 5, -208.25, -83.39, 9.1E-4, 4, 5.85, -118.79, 0.66956, 3, 222.54, -107.8, 0.32612, 1, 3, 82.31, -123.14, 1, 1, 3, 151.57, -438.97, 1, 1, 3, 63.39, -481.59, 1, 1, 3, -291.87, 277.38, 1, 1, 3, -259.38, 292.58, 1, 1, 3, -37.16, 131.37, 1, 4, 10, -399.8, -128.81, 6.6E-4, 5, -167.95, 112.92, 0.00107, 4, 10.91, 81.55, 0.42496, 3, 151.62, 79.63, 0.57332, 3, 10, -239.41, -120.77, 0.15327, 5, -7.56, 120.96, 0.36406, 4, 167.37, 117.74, 0.48267, 2, 10, -100.25, 203.18, 0.99964, 4, 247.25, 461.14, 3.6E-4, 2, 10, 206.23, 164.23, 0.93107, 5, 438.09, 405.97, 0.06893, 3, 11, 318.69, 275.27, 0.1083, 10, 360, -187.75, 0.17566, 5, 591.85, 53.99, 0.71604, 3, 11, 287.75, 31.74, 0.56907, 10, 329.05, -431.28, 0.00385, 5, 560.91, -189.55, 0.42709 ],
+				"hull": 17,
+				"edges": [ 14, 16, 16, 18, 18, 20, 20, 22, 22, 24, 24, 26, 26, 28, 28, 30, 30, 32, 32, 0, 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 12, 14, 10, 12 ],
+				"width": 838,
+				"height": 1079
+			}
+		},
+		"ThanGold": {
+			"ThanGold": {
+				"type": "mesh",
+				"uvs": [ 1, 0.1407, 1, 0.45799, 0.81603, 0.59883, 0.67453, 0.61121, 0.67653, 0.71955, 0.62217, 0.84329, 0.99855, 0.90923, 1, 1, 0, 1, 0, 0.96676, 0.28666, 0.84356, 0.43807, 0.70544, 0.40443, 0.55892, 0, 0.46882, 0, 0.18249, 0.39354, 0, 0.68649, 0 ],
+				"triangles": [ 8, 10, 5, 8, 9, 10, 8, 5, 7, 5, 6, 7, 10, 11, 5, 5, 11, 4, 11, 3, 4, 11, 12, 3, 2, 3, 16, 16, 3, 12, 12, 15, 16, 12, 14, 15, 12, 13, 14, 1, 2, 16, 16, 0, 1 ],
+				"vertices": [ 3, 11, 104.02, -209.75, 0.99926, 5, 377.18, -431.03, 6.1E-4, 4, 643.39, -357.8, 1.2E-4, 3, 11, -235.6, -166.59, 0.73992, 5, 37.56, -387.88, 0.14631, 4, 301.48, -375.18, 0.11377, 3, 11, -366.92, 5.5, 0.32849, 5, -93.76, -215.78, 0.29563, 4, 141.88, -228.93, 0.37588, 3, 11, -365.23, 124.81, 0.08358, 5, -92.07, -96.47, 0.13512, 4, 122.51, -111.19, 0.7813, 4, 11, -481.41, 137.89, 0.00341, 5, -208.25, -83.39, 9.1E-4, 4, 5.85, -118.79, 0.66956, 3, 222.54, -107.8, 0.32612, 1, 3, 82.31, -123.14, 1, 1, 3, 151.57, -438.97, 1, 1, 3, 63.39, -481.59, 1, 1, 3, -291.87, 277.38, 1, 1, 3, -259.38, 292.58, 1, 1, 3, -37.16, 131.37, 1, 4, 10, -399.8, -128.81, 6.6E-4, 5, -167.95, 112.92, 0.00107, 4, 10.91, 81.55, 0.42496, 3, 151.62, 79.63, 0.57332, 3, 10, -239.41, -120.77, 0.15327, 5, -7.56, 120.96, 0.36406, 4, 167.37, 117.74, 0.48267, 2, 10, -100.25, 203.18, 0.99964, 4, 247.25, 461.14, 3.6E-4, 2, 10, 206.23, 164.23, 0.93107, 5, 438.09, 405.97, 0.06893, 3, 11, 318.69, 275.27, 0.1083, 10, 360, -187.75, 0.17566, 5, 591.85, 53.99, 0.71604, 3, 11, 287.75, 31.74, 0.56907, 10, 329.05, -431.28, 0.00385, 5, 560.91, -189.55, 0.42709 ],
+				"hull": 17,
+				"edges": [ 14, 16, 16, 18, 18, 20, 20, 22, 22, 24, 24, 26, 26, 28, 28, 30, 30, 32, 32, 0, 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 12, 14, 10, 12 ],
+				"width": 838,
+				"height": 1079
+			}
+		},
+		"XuGiua": {
+			"XuGiua": {
+				"type": "mesh",
+				"uvs": [ 0.21469, 0.04075, 0.45494, 0.02251, 1, 0.48742, 1, 1, 0, 1, 1.0E-5, 0.68224, 1.0E-5, 0.5235, 1.0E-5, 0.3759, 1.0E-5, 0.18964, 0.24346, 0.18362, 0.48778, 0.19264, 0.21763, 0.15741, 0.27242, 0.3304, 0.28701, 0.53399, 0.29038, 0.34854, 0.62675, 0.34082, 0.62844, 0.55202, 0.16883, 0.51228, 0.20861, 0.65658 ],
+				"triangles": [ 16, 2, 3, 16, 15, 2, 13, 14, 15, 3, 4, 18, 4, 5, 18, 3, 18, 16, 18, 13, 16, 5, 17, 18, 5, 6, 17, 18, 17, 13, 13, 17, 14, 6, 7, 17, 17, 12, 14, 17, 7, 12, 12, 8, 11, 12, 7, 8, 14, 10, 15, 14, 12, 10, 11, 9, 12, 12, 9, 10, 9, 1, 10, 15, 10, 1, 8, 0, 11, 1, 9, 0, 9, 11, 0, 16, 13, 15, 1, 2, 15 ],
+				"vertices": [ 2, 5, 504.1, 55.79, 0.99913, 13, -88.89, 349.98, 8.7E-4, 2, 5, 501.42, -41.23, 0.97743, 13, -0.88, 309.09, 0.02257, 1, 13, 63.6, -12.52, 1, 2, 5, -35.29, -193.9, 0.6322, 13, -73.3, -244.19, 0.3678, 1, 5, 15.39, 204.89, 1, 1, 5, 180.88, 183.86, 1, 1, 5, 263.55, 173.35, 1, 1, 5, 340.43, 163.58, 1, 1, 5, 437.43, 151.26, 1, 2, 5, 428.23, 53.77, 0.99839, 13, -117.1, 279.52, 0.00161, 2, 5, 411.15, -43.06, 0.92887, 13, -34.95, 225.48, 0.07113, 2, 5, 443.19, 62.34, 0.99923, 13, -119.03, 296.65, 7.7E-4, 2, 5, 350.32, 51.94, 0.99998, 13, -146.27, 207.25, 2.0E-5, 2, 5, 243.54, 59.59, 0.576, 13, -195.6, 112.25, 0.424, 2, 5, 339.96, 45.98, 0.576, 13, -144.91, 195.38, 0.424, 2, 5, 326.93, -88.68, 0.616, 11, 53.77, 132.6, 0.384, 2, 5, 216.85, -75.37, 0.616, 11, -56.31, 145.91, 0.384, 1, 5, 260.84, 105.29, 1, 1, 5, 183.67, 98.97, 1 ],
+				"hull": 9,
+				"edges": [ 6, 8, 20, 18, 18, 0, 0, 2, 2, 20, 16, 22, 22, 24, 14, 16, 24, 14, 26, 28, 28, 30, 30, 32, 32, 26, 12, 14, 12, 34, 34, 36, 8, 10, 10, 12, 36, 10, 4, 6, 2, 4, 16, 0 ],
+				"width": 402,
+				"height": 525
+			}
+		},
+		"XuGiua1": {
+			"XuGiua1": { "x": 40.31, "y": -23.91, "rotation": -96.8, "width": 239, "height": 276 }
+		},
+		"XuGiua1Gold": {
+			"XuGiua1Gold": { "x": 44.98, "y": -26.65, "rotation": -97.24, "width": 256, "height": 285 }
+		},
+		"XuGiua2": {
+			"XuGiua2": { "x": 27.3, "y": -2.97, "rotation": -97.24, "width": 274, "height": 295 }
+		},
+		"XuGiua2Gold": {
+			"XuGiua2Gold": { "x": 28.99, "y": 4.69, "rotation": -97.24, "width": 290, "height": 295 }
+		},
+		"XuGiuaGold": {
+			"XuGiuaGold": { "x": 250.45, "y": -27.6, "rotation": -97.24, "width": 402, "height": 525 }
+		},
+		"XuPhai2": {
+			"XuPhai2": { "x": 66.11, "y": -95.88, "rotation": -30.58, "width": 126, "height": 66 }
+		},
+		"XuPhai2Gold": {
+			"XuPhai2Gold": { "x": 66.11, "y": -95.88, "rotation": -30.58, "width": 126, "height": 66 }
+		},
+		"XuPhai2a": {
+			"XuPhai2a": { "x": 229.8, "y": -119.97, "rotation": -30.58, "width": 200, "height": 133 }
+		},
+		"XuPhai2aGold": {
+			"XuPhai2aGold": { "x": 229.8, "y": -119.97, "rotation": -30.58, "width": 200, "height": 133 }
+		},
+		"XuPhai2b": {
+			"XuPhai2b": { "x": 264.39, "y": -53.27, "rotation": -42.18, "width": 230, "height": 174 }
+		},
+		"XuPhai2bGold": {
+			"XuPhai2bGold": { "x": 264.39, "y": -53.27, "rotation": -42.18, "width": 231, "height": 174 }
+		},
+		"XuTrai1": {
+			"XuTrai1": { "x": 113.61, "y": 91.2, "rotation": -143.73, "width": 258, "height": 150 }
+		},
+		"XuTrai1Gold": {
+			"XuTrai1Gold": { "x": 113.61, "y": 91.2, "rotation": -143.73, "width": 258, "height": 150 }
+		},
+		"XuTrai1a": {
+			"XuTrai1a": { "x": 529.76, "y": 189.02, "rotation": -143.54, "width": 159, "height": 187 }
+		},
+		"XuTrai1aGold": {
+			"XuTrai1aGold": { "x": 529.76, "y": 189.02, "rotation": -143.54, "width": 159, "height": 187 }
+		}
+	}
+},
+"animations": {
+	"GoldtoGreen": {
+		"slots": {
+			"CanhTrai": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.8333, "name": "CanhTrai" }
+				]
+			},
+			"CanhTraiGold": {
+				"color": [
+					{ "time": 0.8333, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 1.1667, "name": null }
+				]
+			},
+			"LaPhai": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.8333, "name": "LaPhai" }
+				]
+			},
+			"LaPhaiGold": {
+				"color": [
+					{ "time": 0.8333, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 1.1667, "name": null }
+				]
+			},
+			"LaTrai": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.8333, "name": "LaTrai" }
+				]
+			},
+			"LaTraiGold": {
+				"color": [
+					{ "time": 0.8333, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 1.1667, "name": null }
+				]
+			},
+			"LeavesGold": {
+				"color": [
+					{ "time": 0.3333, "color": "32ff00ff", "curve": "stepped" },
+					{
+						"time": 0.8333,
+						"color": "32ff00ff",
+						"curve": [ 0.25, 0, 0, 0.99 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3333, "name": "LeavesGold3" }
+				]
+			},
+			"LeavesGold2": {
+				"color": [
+					{ "time": 0.1667, "color": "32ff00ff", "curve": "stepped" },
+					{
+						"time": 0.8333,
+						"color": "32ff00ff",
+						"curve": [ 0.25, 0, 0, 0.99 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1667, "name": "LeavesGold" }
+				]
+			},
+			"LeavesGold3": {
+				"color": [
+					{ "time": 0.1667, "color": "32ff00ff", "curve": "stepped" },
+					{
+						"time": 0.8333,
+						"color": "32ff00ff",
+						"curve": [ 0.25, 0, 0, 0.99 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1667, "name": "LeavesGold" }
+				]
+			},
+			"LeavesGold4": {
+				"color": [
+					{ "time": 0.5, "color": "32ff00ff", "curve": "stepped" },
+					{
+						"time": 1,
+						"color": "32ff00ff",
+						"curve": [ 0.25, 0, 0, 0.99 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5, "name": "LeavesGold" }
+				]
+			},
+			"LeavesGold5": {
+				"color": [
+					{ "time": 0.1667, "color": "32ff00ff", "curve": "stepped" },
+					{
+						"time": 1,
+						"color": "32ff00ff",
+						"curve": [ 0.25, 0, 0, 0.99 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1667, "name": "LeavesGold2" }
+				]
+			},
+			"LeavesGold6": {
+				"color": [
+					{ "time": 0.1667, "color": "32ff00ff", "curve": "stepped" },
+					{
+						"time": 1,
+						"color": "32ff00ff",
+						"curve": [ 0.25, 0, 0, 0.99 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1667, "name": "LeavesGold" }
+				]
+			},
+			"LeavesGold7": {
+				"color": [
+					{ "time": 0.1667, "color": "32ff00ff", "curve": "stepped" },
+					{
+						"time": 0.8333,
+						"color": "32ff00ff",
+						"curve": [ 0.25, 0, 0, 0.99 ]
+					},
+					{ "time": 1.1667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1667, "name": "LeavesGold3" }
+				]
+			},
+			"LeavesGold8": {
+				"color": [
+					{ "time": 0.5, "color": "32ff00ff", "curve": "stepped" },
+					{
+						"time": 0.8333,
+						"color": "32ff00ff",
+						"curve": [ 0.25, 0, 0, 0.99 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5, "name": "LeavesGold3" }
+				]
+			},
+			"LeavesGold9": {
+				"color": [
+					{ "time": 0.1667, "color": "32ff00ff", "curve": "stepped" },
+					{
+						"time": 1,
+						"color": "32ff00ff",
+						"curve": [ 0.25, 0, 0, 0.99 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1667, "name": "LeavesGold2" }
+				]
+			},
+			"LeavesGold10": {
+				"color": [
+					{ "time": 0.5, "color": "32ff00ff", "curve": "stepped" },
+					{
+						"time": 0.8333,
+						"color": "32ff00ff",
+						"curve": [ 0.25, 0, 0, 0.99 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5, "name": "LeavesGold" }
+				]
+			},
+			"LeavesGold11": {
+				"color": [
+					{ "time": 0.5, "color": "32ff00ff", "curve": "stepped" },
+					{
+						"time": 0.8333,
+						"color": "32ff00ff",
+						"curve": [ 0.25, 0, 0, 0.99 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5, "name": "LeavesGold3" }
+				]
+			},
+			"LeavesGold12": {
+				"color": [
+					{
+						"time": 0.5,
+						"color": "32ff00ff",
+						"curve": [ 0.563, 0, 0.75, 0.43 ]
+					},
+					{
+						"time": 0.6667,
+						"color": "25be00ff",
+						"curve": [ 0.087, 0.4, 0.217, 0.99 ]
+					},
+					{
+						"time": 1,
+						"color": "32ff00ff",
+						"curve": [ 0.25, 0, 0, 0.99 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5, "name": "LeavesGold" }
+				]
+			},
+			"LeavesGold13": {
+				"color": [
+					{ "time": 0.3333, "color": "32ff00ff", "curve": "stepped" },
+					{
+						"time": 1,
+						"color": "32ff00ff",
+						"curve": [ 0.25, 0, 0, 0.99 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3333, "name": "LeavesGold2" }
+				]
+			},
+			"LeavesGold14": {
+				"color": [
+					{ "time": 0.6667, "color": "1fa000ff", "curve": "stepped" },
+					{
+						"time": 1,
+						"color": "1fa000ff",
+						"curve": [ 0.12, 0.49, 0.36, 0.99 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.6667, "name": "LeavesGold3" }
+				]
+			},
+			"LeavesGold15": {
+				"color": [
+					{ "time": 0.3333, "color": "32ff00ff", "curve": "stepped" },
+					{
+						"time": 1,
+						"color": "32ff00ff",
+						"curve": [ 0.25, 0, 0, 0.99 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3333, "name": "LeavesGold3" }
+				]
+			},
+			"LeavesGold16": {
+				"color": [
+					{
+						"time": 0.5,
+						"color": "32ff00ff",
+						"curve": [ 0.474, 0, 0.316, 0.6 ]
+					},
+					{
+						"time": 0.8333,
+						"color": "0dff00ff",
+						"curve": [ 0.186, 0.56, 0.486, 0.99 ]
+					},
+					{
+						"time": 1,
+						"color": "32ff00ff",
+						"curve": [ 0.25, 0, 0, 0.99 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5, "name": "LeavesGold2" }
+				]
+			},
+			"Particle": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1667, "name": "Particle" },
+					{ "time": 1.1667, "name": null }
+				]
+			},
+			"Particle2": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5, "name": "Particle" },
+					{ "time": 1.5, "name": null }
+				]
+			},
+			"Particle3": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.6667, "name": "Particle" },
+					{ "time": 1.6667, "name": null }
+				]
+			},
+			"Particle4": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3333, "name": "Particle" },
+					{ "time": 1.3333, "name": null }
+				]
+			},
+			"Particle5": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1, "name": "Particle" },
+					{ "time": 2, "name": null }
+				]
+			},
+			"Than": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.8333, "name": "Than" }
+				]
+			},
+			"ThanGold": {
+				"color": [
+					{ "time": 0.8333, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 1.1667, "name": null }
+				]
+			},
+			"XuGiua": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.8333, "color": "ffffff00" },
+					{ "time": 1.1667, "color": "ffffffff" }
+				]
+			},
+			"XuGiua1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.8333, "color": "ffffff00" },
+					{ "time": 1.1667, "color": "ffffffff" }
+				]
+			},
+			"XuGiua1Gold": {
+				"color": [
+					{ "time": 0.8333, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				]
+			},
+			"XuGiua2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.8333, "color": "ffffff00" },
+					{ "time": 1.1667, "color": "ffffffff" }
+				]
+			},
+			"XuGiua2Gold": {
+				"color": [
+					{ "time": 0.8333, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				]
+			},
+			"XuGiuaGold": {
+				"color": [
+					{ "time": 0.8333, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				]
+			},
+			"XuPhai2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.8333, "color": "ffffff00" },
+					{ "time": 1.1667, "color": "ffffffff" }
+				]
+			},
+			"XuPhai2Gold": {
+				"color": [
+					{ "time": 0.8333, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				]
+			},
+			"XuPhai2a": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.8333, "color": "ffffff00" },
+					{ "time": 1.1667, "color": "ffffffff" }
+				]
+			},
+			"XuPhai2aGold": {
+				"color": [
+					{ "time": 0.8333, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				]
+			},
+			"XuPhai2b": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.8333, "color": "ffffff00" },
+					{ "time": 1.1667, "color": "ffffffff" }
+				]
+			},
+			"XuPhai2bGold": {
+				"color": [
+					{ "time": 0.8333, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				]
+			},
+			"XuTrai1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.8333, "color": "ffffff00" },
+					{ "time": 1.1667, "color": "ffffffff" }
+				]
+			},
+			"XuTrai1Gold": {
+				"color": [
+					{ "time": 0.8333, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				]
+			},
+			"XuTrai1a": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.8333, "color": "ffffff00" },
+					{ "time": 1.1667, "color": "ffffffff" }
+				]
+			},
+			"XuTrai1aGold": {
+				"color": [
+					{ "time": 0.8333, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"Than3": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": -0.88,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"angle": -0.76,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2, "angle": -0.88 }
+				],
+				"scale": [
+					{
+						"time": 0.5,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.483, 1 ]
+					},
+					{
+						"time": 0.8333,
+						"x": 1.03,
+						"y": 1.03,
+						"curve": [ 0.25, 0, 0.483, 1 ]
+					},
+					{ "time": 1.3333, "x": 1, "y": 1 }
+				]
+			},
+			"Than4": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": -0.88,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"angle": -0.7,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2, "angle": -0.88 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1.001,
+						"y": 1.001,
+						"curve": [ 0.371, 0.62, 0.71, 1 ]
+					},
+					{
+						"time": 0.1667,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.1667,
+						"x": 1.01,
+						"y": 1.01,
+						"curve": [ 0.243, 0, 0.689, 0.75 ]
+					},
+					{ "time": 2, "x": 1.001, "y": 1.001 }
+				]
+			},
+			"LaTrai": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0.79,
+						"curve": [ 0.375, 0.5, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.5,
+						"angle": 1.57,
+						"curve": [ 0.25, 0, 0.625, 0.5 ]
+					},
+					{ "time": 2, "angle": 0.79 }
+				]
+			},
+			"LaPhai2": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": -1.74,
+						"curve": [ 0.375, 0.5, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"angle": -1.13,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.5,
+						"angle": -2.35,
+						"curve": [ 0.25, 0, 0.625, 0.5 ]
+					},
+					{ "time": 2, "angle": -1.74 }
+				]
+			},
+			"Than6": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 2.07,
+						"curve": [ 0.375, 0.5, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"angle": 3.02,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.5,
+						"angle": 1.13,
+						"curve": [ 0.25, 0, 0.625, 0.5 ]
+					},
+					{ "time": 2, "angle": 2.07 }
+				]
+			},
+			"Than5": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 1.11,
+						"curve": [ 0.382, 0.57, 0.735, 1 ]
+					},
+					{
+						"time": 0.3333,
+						"angle": 0.67,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.3333,
+						"angle": 2.97,
+						"curve": [ 0.243, 0, 0.649, 0.6 ]
+					},
+					{ "time": 2, "angle": 1.11 }
+				],
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"x": -0.81,
+						"y": 1.5,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2, "x": 0, "y": 0 }
+				]
+			},
+			"LaPhai4": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 2.24,
+						"curve": [ 0.382, 0.57, 0.735, 1 ]
+					},
+					{
+						"time": 0.3333,
+						"angle": 2.69,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.3333,
+						"angle": 1.11,
+						"curve": [ 0.243, 0, 0.649, 0.6 ]
+					},
+					{ "time": 2, "angle": 2.24 }
+				]
+			},
+			"Particle1": {
+				"scale": [
+					{
+						"time": 0.5,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.5, "x": 0, "y": 0 }
+				]
+			},
+			"Particle2": {
+				"scale": [
+					{
+						"time": 0.6667,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.1667,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.6667, "x": 0, "y": 0 }
+				]
+			},
+			"Particle4": {
+				"scale": [
+					{
+						"time": 1,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.5,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2, "x": 0, "y": 0 }
+				]
+			},
+			"Particle3": {
+				"scale": [
+					{
+						"time": 0.3333,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.8333,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3333, "x": 0, "y": 0 }
+				]
+			},
+			"Particle": {
+				"scale": [
+					{
+						"time": 0.1667,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.1667, "x": 0, "y": 0 }
+				]
+			},
+			"LeavesGold12": {
+				"scale": [
+					{
+						"time": 0.5,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.8333, "x": 1, "y": 1 }
+				]
+			},
+			"LeavesGold15": {
+				"scale": [
+					{
+						"time": 0.3333,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0, 0.99 ]
+					},
+					{ "time": 0.6667, "x": 1, "y": 1 }
+				]
+			},
+			"LeavesGold13": {
+				"scale": [
+					{
+						"time": 0.3333,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.6667, "x": 1, "y": 1 }
+				]
+			},
+			"LeavesGold2": {
+				"scale": [
+					{
+						"time": 0.1667,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5, "x": 1, "y": 1 }
+				]
+			},
+			"LeavesGold5": {
+				"scale": [
+					{
+						"time": 0.1667,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5, "x": 1, "y": 1 }
+				]
+			},
+			"LeavesGold": {
+				"scale": [
+					{
+						"time": 0.3333,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.6667, "x": 1, "y": 1 }
+				]
+			},
+			"LeavesGold3": {
+				"scale": [
+					{
+						"time": 0.1667,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.8333, "x": 1, "y": 1 }
+				]
+			},
+			"LeavesGold4": {
+				"scale": [
+					{
+						"time": 0.5,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.8333, "x": 1, "y": 1 }
+				]
+			},
+			"LeavesGold6": {
+				"scale": [
+					{
+						"time": 0.1667,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5, "x": 1, "y": 1 }
+				]
+			},
+			"LeavesGold7": {
+				"scale": [
+					{
+						"time": 0.1667,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0, 0.99 ]
+					},
+					{ "time": 0.5, "x": 1, "y": 1 }
+				]
+			},
+			"LeavesGold14": {
+				"scale": [
+					{
+						"time": 0.6667,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "x": 1, "y": 1 }
+				]
+			},
+			"LeavesGold9": {
+				"scale": [
+					{
+						"time": 0.1667,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0, 0.99 ]
+					},
+					{ "time": 0.5, "x": 1, "y": 1 }
+				]
+			},
+			"LeavesGold10": {
+				"scale": [
+					{
+						"time": 0.5,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.8333, "x": 1, "y": 1 }
+				]
+			},
+			"LeavesGold8": {
+				"scale": [
+					{
+						"time": 0.5,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.8333, "x": 1, "y": 1 }
+				]
+			},
+			"LeavesGold11": {
+				"scale": [
+					{
+						"time": 0.5,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.8333, "x": 1, "y": 1 }
+				]
+			},
+			"LeavesGold16": {
+				"scale": [
+					{
+						"time": 0.5,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0, 0.99 ]
+					},
+					{ "time": 0.8333, "x": 1, "y": 1 }
+				]
+			},
+			"CanhTrai2": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"angle": 1.7,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2, "angle": 0 }
+				]
+			}
+		}
+	},
+	"GreentoGold": {
+		"slots": {
+			"CanhTrai": {
+				"attachment": [
+					{ "time": 1.1667, "name": null }
+				]
+			},
+			"CanhTraiGold": {
+				"color": [
+					{ "time": 0.8333, "color": "ffffff00" },
+					{ "time": 1.1667, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.8333, "name": "CanhTraiGold" }
+				]
+			},
+			"LaPhai": {
+				"attachment": [
+					{ "time": 1.1667, "name": null }
+				]
+			},
+			"LaPhaiGold": {
+				"color": [
+					{ "time": 0.8333, "color": "ffffff00" },
+					{ "time": 1.1667, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.8333, "name": "LaPhaiGold" }
+				]
+			},
+			"LaTrai": {
+				"attachment": [
+					{ "time": 1.1667, "name": null }
+				]
+			},
+			"LaTraiGold": {
+				"color": [
+					{ "time": 0.8333, "color": "ffffff00" },
+					{ "time": 1.1667, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.8333, "name": "LaTraiGold" }
+				]
+			},
+			"LeavesGold": {
+				"color": [
+					{
+						"time": 0.8333,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3333, "name": "LeavesGold3" }
+				]
+			},
+			"LeavesGold2": {
+				"color": [
+					{
+						"time": 0.8333,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1667, "name": "LeavesGold" }
+				]
+			},
+			"LeavesGold3": {
+				"color": [
+					{
+						"time": 0.8333,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1667, "name": "LeavesGold" }
+				]
+			},
+			"LeavesGold4": {
+				"color": [
+					{
+						"time": 1,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5, "name": "LeavesGold" }
+				]
+			},
+			"LeavesGold5": {
+				"color": [
+					{
+						"time": 1,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1667, "name": "LeavesGold2" }
+				]
+			},
+			"LeavesGold6": {
+				"color": [
+					{
+						"time": 1,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1667, "name": "LeavesGold" }
+				]
+			},
+			"LeavesGold7": {
+				"color": [
+					{
+						"time": 1,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1667, "name": "LeavesGold3" }
+				]
+			},
+			"LeavesGold8": {
+				"color": [
+					{
+						"time": 0.8333,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5, "name": "LeavesGold3" }
+				]
+			},
+			"LeavesGold9": {
+				"color": [
+					{
+						"time": 1,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1667, "name": "LeavesGold2" }
+				]
+			},
+			"LeavesGold10": {
+				"color": [
+					{
+						"time": 0.8333,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5, "name": "LeavesGold" }
+				]
+			},
+			"LeavesGold11": {
+				"color": [
+					{
+						"time": 0.8333,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5, "name": "LeavesGold3" }
+				]
+			},
+			"LeavesGold12": {
+				"color": [
+					{
+						"time": 1,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5, "name": "LeavesGold" }
+				]
+			},
+			"LeavesGold13": {
+				"color": [
+					{
+						"time": 1,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3333, "name": "LeavesGold2" }
+				]
+			},
+			"LeavesGold14": {
+				"color": [
+					{
+						"time": 1,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.6667, "name": "LeavesGold3" }
+				]
+			},
+			"LeavesGold15": {
+				"color": [
+					{
+						"time": 1,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3333, "name": "LeavesGold3" }
+				]
+			},
+			"LeavesGold16": {
+				"color": [
+					{
+						"time": 1,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5, "name": "LeavesGold2" }
+				]
+			},
+			"Particle": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1667, "name": "Particle" },
+					{ "time": 1.1667, "name": null }
+				]
+			},
+			"Particle2": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5, "name": "Particle" },
+					{ "time": 1.5, "name": null }
+				]
+			},
+			"Particle3": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.6667, "name": "Particle" },
+					{ "time": 1.6667, "name": null }
+				]
+			},
+			"Particle4": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3333, "name": "Particle" },
+					{ "time": 1.3333, "name": null }
+				]
+			},
+			"Particle5": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1, "name": "Particle" },
+					{ "time": 2, "name": null }
+				]
+			},
+			"Than": {
+				"attachment": [
+					{ "time": 1.1667, "name": null }
+				]
+			},
+			"ThanGold": {
+				"color": [
+					{ "time": 0.8333, "color": "ffffff00" },
+					{ "time": 1.1667, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.8333, "name": "ThanGold" }
+				]
+			},
+			"XuGiua": {
+				"color": [
+					{ "time": 0.8333, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				]
+			},
+			"XuGiua1": {
+				"color": [
+					{ "time": 0.8333, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				]
+			},
+			"XuGiua1Gold": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.8333, "color": "ffffff00" },
+					{ "time": 1.1667, "color": "ffffffff" }
+				]
+			},
+			"XuGiua2": {
+				"color": [
+					{ "time": 0.8333, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				]
+			},
+			"XuGiua2Gold": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.8333, "color": "ffffff00" },
+					{ "time": 1.1667, "color": "ffffffff" }
+				]
+			},
+			"XuGiuaGold": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.8333, "color": "ffffff00" },
+					{ "time": 1.1667, "color": "ffffffff" }
+				]
+			},
+			"XuPhai2": {
+				"color": [
+					{ "time": 0.8333, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				]
+			},
+			"XuPhai2Gold": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.8333, "color": "ffffff00" },
+					{ "time": 1.1667, "color": "ffffffff" }
+				]
+			},
+			"XuPhai2a": {
+				"color": [
+					{ "time": 0.8333, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				]
+			},
+			"XuPhai2aGold": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.8333, "color": "ffffff00" },
+					{ "time": 1.1667, "color": "ffffffff" }
+				]
+			},
+			"XuPhai2b": {
+				"color": [
+					{ "time": 0.8333, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				]
+			},
+			"XuPhai2bGold": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.8333, "color": "ffffff00" },
+					{ "time": 1.1667, "color": "ffffffff" }
+				]
+			},
+			"XuTrai1": {
+				"color": [
+					{ "time": 0.8333, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				]
+			},
+			"XuTrai1Gold": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.8333, "color": "ffffff00" },
+					{ "time": 1.1667, "color": "ffffffff" }
+				]
+			},
+			"XuTrai1a": {
+				"color": [
+					{ "time": 0.8333, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				]
+			},
+			"XuTrai1aGold": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.8333, "color": "ffffff00" },
+					{ "time": 1.1667, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"Than3": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": -0.88,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"angle": -0.76,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2, "angle": -0.88 }
+				],
+				"scale": [
+					{
+						"time": 0.5,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.483, 1 ]
+					},
+					{
+						"time": 0.8333,
+						"x": 1.03,
+						"y": 1.03,
+						"curve": [ 0.25, 0, 0.483, 1 ]
+					},
+					{ "time": 1.3333, "x": 1, "y": 1 }
+				]
+			},
+			"Than4": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": -0.88,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"angle": -0.7,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2, "angle": -0.88 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1.001,
+						"y": 1.001,
+						"curve": [ 0.371, 0.62, 0.71, 1 ]
+					},
+					{
+						"time": 0.1667,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.1667,
+						"x": 1.01,
+						"y": 1.01,
+						"curve": [ 0.243, 0, 0.689, 0.75 ]
+					},
+					{ "time": 2, "x": 1.001, "y": 1.001 }
+				]
+			},
+			"LaTrai": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0.79,
+						"curve": [ 0.375, 0.5, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.5,
+						"angle": 1.57,
+						"curve": [ 0.25, 0, 0.625, 0.5 ]
+					},
+					{ "time": 2, "angle": 0.79 }
+				]
+			},
+			"LaPhai2": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": -1.74,
+						"curve": [ 0.375, 0.5, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"angle": -1.13,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.5,
+						"angle": -2.35,
+						"curve": [ 0.25, 0, 0.625, 0.5 ]
+					},
+					{ "time": 2, "angle": -1.74 }
+				]
+			},
+			"Than6": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 2.07,
+						"curve": [ 0.375, 0.5, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"angle": 3.02,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.5,
+						"angle": 1.13,
+						"curve": [ 0.25, 0, 0.625, 0.5 ]
+					},
+					{ "time": 2, "angle": 2.07 }
+				]
+			},
+			"Than5": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 1.11,
+						"curve": [ 0.382, 0.57, 0.735, 1 ]
+					},
+					{
+						"time": 0.3333,
+						"angle": 0.67,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.3333,
+						"angle": 2.97,
+						"curve": [ 0.243, 0, 0.649, 0.6 ]
+					},
+					{ "time": 2, "angle": 1.11 }
+				],
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"x": -0.81,
+						"y": 1.5,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2, "x": 0, "y": 0 }
+				]
+			},
+			"Particle1": {
+				"scale": [
+					{
+						"time": 0.5,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.5, "x": 0, "y": 0 }
+				]
+			},
+			"Particle2": {
+				"scale": [
+					{
+						"time": 0.6667,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.1667,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.6667, "x": 0, "y": 0 }
+				]
+			},
+			"Particle4": {
+				"scale": [
+					{
+						"time": 1,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.5,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2, "x": 0, "y": 0 }
+				]
+			},
+			"Particle3": {
+				"scale": [
+					{
+						"time": 0.3333,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.8333,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3333, "x": 0, "y": 0 }
+				]
+			},
+			"Particle": {
+				"scale": [
+					{
+						"time": 0.1667,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.1667, "x": 0, "y": 0 }
+				]
+			},
+			"LeavesGold": {
+				"scale": [
+					{
+						"time": 0.3333,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.6667, "x": 1, "y": 1 }
+				]
+			},
+			"LeavesGold2": {
+				"scale": [
+					{
+						"time": 0.1667,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5, "x": 1, "y": 1 }
+				]
+			},
+			"LeavesGold3": {
+				"scale": [
+					{
+						"time": 0.1667,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.8333, "x": 1, "y": 1 }
+				]
+			},
+			"LeavesGold4": {
+				"scale": [
+					{
+						"time": 0.5,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.8333, "x": 1, "y": 1 }
+				]
+			},
+			"LeavesGold5": {
+				"scale": [
+					{
+						"time": 0.1667,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5, "x": 1, "y": 1 }
+				]
+			},
+			"LeavesGold6": {
+				"scale": [
+					{
+						"time": 0.1667,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5, "x": 1, "y": 1 }
+				]
+			},
+			"LeavesGold7": {
+				"scale": [
+					{
+						"time": 0.1667,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0, 0.99 ]
+					},
+					{ "time": 0.5, "x": 1, "y": 1 }
+				]
+			},
+			"LeavesGold9": {
+				"scale": [
+					{
+						"time": 0.1667,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0, 0.99 ]
+					},
+					{ "time": 0.5, "x": 1, "y": 1 }
+				]
+			},
+			"LeavesGold8": {
+				"scale": [
+					{
+						"time": 0.5,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.8333, "x": 1, "y": 1 }
+				]
+			},
+			"LeavesGold10": {
+				"scale": [
+					{
+						"time": 0.5,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.8333, "x": 1, "y": 1 }
+				]
+			},
+			"LeavesGold11": {
+				"scale": [
+					{
+						"time": 0.5,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.8333, "x": 1, "y": 1 }
+				]
+			},
+			"LeavesGold12": {
+				"scale": [
+					{
+						"time": 0.5,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.8333, "x": 1, "y": 1 }
+				]
+			},
+			"LeavesGold13": {
+				"scale": [
+					{
+						"time": 0.3333,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.6667, "x": 1, "y": 1 }
+				]
+			},
+			"LeavesGold14": {
+				"scale": [
+					{
+						"time": 0.6667,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "x": 1, "y": 1 }
+				]
+			},
+			"LeavesGold15": {
+				"scale": [
+					{
+						"time": 0.3333,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0, 0.99 ]
+					},
+					{ "time": 0.6667, "x": 1, "y": 1 }
+				]
+			},
+			"LeavesGold16": {
+				"scale": [
+					{
+						"time": 0.5,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0, 0.99 ]
+					},
+					{ "time": 0.8333, "x": 1, "y": 1 }
+				]
+			},
+			"CanhTrai2": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"angle": 1.7,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2, "angle": 0 }
+				]
+			},
+			"LaPhai4": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 2.24,
+						"curve": [ 0.382, 0.57, 0.735, 1 ]
+					},
+					{
+						"time": 0.3333,
+						"angle": 2.69,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.3333,
+						"angle": 1.11,
+						"curve": [ 0.243, 0, 0.649, 0.6 ]
+					},
+					{ "time": 2, "angle": 2.24 }
+				]
+			}
+		}
+	},
+	"Idle_Gold": {
+		"slots": {
+			"CanhTrai": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LaPhai": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LaTrai": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LeavesGold": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LeavesGold2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LeavesGold3": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LeavesGold4": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LeavesGold5": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LeavesGold6": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LeavesGold7": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LeavesGold8": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LeavesGold9": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LeavesGold10": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LeavesGold11": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LeavesGold12": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LeavesGold13": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LeavesGold14": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LeavesGold15": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LeavesGold16": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Particle": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1667, "name": "Particle" },
+					{ "time": 1.1667, "name": null }
+				]
+			},
+			"Particle2": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5, "name": "Particle" },
+					{ "time": 1.5, "name": null }
+				]
+			},
+			"Particle3": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.6667, "name": "Particle" },
+					{ "time": 1.6667, "name": null }
+				]
+			},
+			"Particle4": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3333, "name": "Particle" },
+					{ "time": 1.3333, "name": null }
+				]
+			},
+			"Particle5": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1, "name": "Particle" },
+					{ "time": 2, "name": null }
+				]
+			},
+			"Than": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"XuGiua": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"XuGiua1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"XuGiua2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"XuPhai2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"XuPhai2a": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"XuPhai2b": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"XuTrai1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"XuTrai1a": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"Than3": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": -0.88,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"angle": -0.21,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2, "angle": -0.88 }
+				]
+			},
+			"Than4": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": -0.88,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"angle": -0.7,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2, "angle": -0.88 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1.001,
+						"y": 1.001,
+						"curve": [ 0.371, 0.62, 0.71, 1 ]
+					},
+					{
+						"time": 0.1667,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.1667,
+						"x": 1.01,
+						"y": 1.01,
+						"curve": [ 0.243, 0, 0.689, 0.75 ]
+					},
+					{ "time": 2, "x": 1.001, "y": 1.001 }
+				]
+			},
+			"LaTrai": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0.79,
+						"curve": [ 0.375, 0.5, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.5,
+						"angle": 1.57,
+						"curve": [ 0.25, 0, 0.625, 0.5 ]
+					},
+					{ "time": 2, "angle": 0.79 }
+				]
+			},
+			"LaPhai2": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": -1.74,
+						"curve": [ 0.375, 0.5, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"angle": -1.13,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.5,
+						"angle": -2.35,
+						"curve": [ 0.25, 0, 0.625, 0.5 ]
+					},
+					{ "time": 2, "angle": -1.74 }
+				]
+			},
+			"Than6": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 2.07,
+						"curve": [ 0.375, 0.5, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"angle": 3.02,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.5,
+						"angle": 1.13,
+						"curve": [ 0.25, 0, 0.625, 0.5 ]
+					},
+					{ "time": 2, "angle": 2.07 }
+				]
+			},
+			"Than5": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 1.11,
+						"curve": [ 0.382, 0.57, 0.735, 1 ]
+					},
+					{
+						"time": 0.3333,
+						"angle": 0.67,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.3333,
+						"angle": 2.97,
+						"curve": [ 0.243, 0, 0.649, 0.6 ]
+					},
+					{ "time": 2, "angle": 1.11 }
+				],
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"x": -0.81,
+						"y": 1.5,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2, "x": 0, "y": 0 }
+				]
+			},
+			"LaPhai4": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 2.24,
+						"curve": [ 0.382, 0.57, 0.735, 1 ]
+					},
+					{
+						"time": 0.3333,
+						"angle": 2.69,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.3333,
+						"angle": 1.11,
+						"curve": [ 0.243, 0, 0.649, 0.6 ]
+					},
+					{ "time": 2, "angle": 2.24 }
+				]
+			},
+			"Particle1": {
+				"scale": [
+					{
+						"time": 0.5,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.5, "x": 0, "y": 0 }
+				]
+			},
+			"Particle2": {
+				"scale": [
+					{
+						"time": 0.6667,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.1667,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.6667, "x": 0, "y": 0 }
+				]
+			},
+			"Particle4": {
+				"scale": [
+					{
+						"time": 1,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.5,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2, "x": 0, "y": 0 }
+				]
+			},
+			"Particle3": {
+				"scale": [
+					{
+						"time": 0.3333,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.8333,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3333, "x": 0, "y": 0 }
+				]
+			},
+			"Particle": {
+				"scale": [
+					{
+						"time": 0.1667,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.1667, "x": 0, "y": 0 }
+				]
+			},
+			"CanhTrai2": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"angle": 1.7,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2, "angle": 0 }
+				]
+			}
+		}
+	},
+	"Idle_Green": {
+		"slots": {
+			"CanhTraiGold": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LaPhaiGold": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LaTraiGold": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LeavesGold": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LeavesGold2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LeavesGold3": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LeavesGold4": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LeavesGold5": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LeavesGold6": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LeavesGold7": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LeavesGold8": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LeavesGold9": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LeavesGold10": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LeavesGold11": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LeavesGold12": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LeavesGold13": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LeavesGold14": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LeavesGold15": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"LeavesGold16": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Particle": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1667, "name": "Particle" },
+					{ "time": 1.1667, "name": null }
+				]
+			},
+			"Particle2": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5, "name": "Particle" },
+					{ "time": 1.5, "name": null }
+				]
+			},
+			"Particle3": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.6667, "name": "Particle" },
+					{ "time": 1.6667, "name": null }
+				]
+			},
+			"Particle4": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3333, "name": "Particle" },
+					{ "time": 1.3333, "name": null }
+				]
+			},
+			"Particle5": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1, "name": "Particle" },
+					{ "time": 2, "name": null }
+				]
+			},
+			"ThanGold": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"XuGiua1Gold": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"XuGiua2Gold": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"XuGiuaGold": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"XuPhai2Gold": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"XuPhai2aGold": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"XuPhai2bGold": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"XuTrai1Gold": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"XuTrai1aGold": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"Than3": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": -0.88,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"angle": -0.21,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2, "angle": -0.88 }
+				]
+			},
+			"Than4": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": -0.88,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"angle": -0.7,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2, "angle": -0.88 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1.001,
+						"y": 1.001,
+						"curve": [ 0.371, 0.62, 0.71, 1 ]
+					},
+					{
+						"time": 0.1667,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.1667,
+						"x": 1.01,
+						"y": 1.01,
+						"curve": [ 0.243, 0, 0.689, 0.75 ]
+					},
+					{ "time": 2, "x": 1.001, "y": 1.001 }
+				]
+			},
+			"LaTrai": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0.79,
+						"curve": [ 0.375, 0.5, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.5,
+						"angle": 1.57,
+						"curve": [ 0.25, 0, 0.625, 0.5 ]
+					},
+					{ "time": 2, "angle": 0.79 }
+				]
+			},
+			"LaPhai2": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": -1.74,
+						"curve": [ 0.375, 0.5, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"angle": -1.13,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.5,
+						"angle": -2.35,
+						"curve": [ 0.25, 0, 0.625, 0.5 ]
+					},
+					{ "time": 2, "angle": -1.74 }
+				]
+			},
+			"Than6": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 2.07,
+						"curve": [ 0.375, 0.5, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"angle": 3.02,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.5,
+						"angle": 1.13,
+						"curve": [ 0.25, 0, 0.625, 0.5 ]
+					},
+					{ "time": 2, "angle": 2.07 }
+				]
+			},
+			"Than5": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 1.11,
+						"curve": [ 0.382, 0.57, 0.735, 1 ]
+					},
+					{
+						"time": 0.3333,
+						"angle": 0.67,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.3333,
+						"angle": 2.97,
+						"curve": [ 0.243, 0, 0.649, 0.6 ]
+					},
+					{ "time": 2, "angle": 1.11 }
+				],
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"x": -0.81,
+						"y": 1.5,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2, "x": 0, "y": 0 }
+				]
+			},
+			"LaPhai4": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 2.24,
+						"curve": [ 0.382, 0.57, 0.735, 1 ]
+					},
+					{
+						"time": 0.3333,
+						"angle": 2.69,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.3333,
+						"angle": 1.11,
+						"curve": [ 0.243, 0, 0.649, 0.6 ]
+					},
+					{ "time": 2, "angle": 2.24 }
+				]
+			},
+			"CanhTrai2": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"angle": 1.7,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2, "angle": 0 }
+				]
+			},
+			"Particle": {
+				"scale": [
+					{
+						"time": 0.1667,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.1667, "x": 0, "y": 0 }
+				]
+			},
+			"Particle1": {
+				"scale": [
+					{
+						"time": 0.5,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.5, "x": 0, "y": 0 }
+				]
+			},
+			"Particle2": {
+				"scale": [
+					{
+						"time": 0.6667,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.1667,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.6667, "x": 0, "y": 0 }
+				]
+			},
+			"Particle3": {
+				"scale": [
+					{
+						"time": 0.3333,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.8333,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3333, "x": 0, "y": 0 }
+				]
+			},
+			"Particle4": {
+				"scale": [
+					{
+						"time": 1,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.5,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

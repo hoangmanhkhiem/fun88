@@ -1,0 +1,62 @@
+
+Symbol_5.png
+size: 334,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jelwery
+  rotate: false
+  xy: 125, 4
+  size: 135, 63
+  orig: 135, 63
+  offset: 0, 0
+  index: -1
+Jelwery_Green_Bot_Bright
+  rotate: false
+  xy: 268, 62
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+Jelwery_Green_Bright
+  rotate: true
+  xy: 314, 26
+  size: 67, 17
+  orig: 67, 17
+  offset: 0, 0
+  index: -1
+Jelwery_Green_Top_Bright
+  rotate: false
+  xy: 268, 95
+  size: 61, 44
+  orig: 61, 44
+  offset: 0, 0
+  index: -1
+Jelwery_Red_Top_Bright
+  rotate: false
+  xy: 308, 2
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+Jelwery_Shadow
+  rotate: false
+  xy: 125, 69
+  size: 141, 70
+  orig: 141, 70
+  offset: 0, 0
+  index: -1
+Light_TT
+  rotate: false
+  xy: 2, 18
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+Particle
+  rotate: false
+  xy: 262, 16
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1

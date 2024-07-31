@@ -1,0 +1,236 @@
+
+BIGWIN.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LOÉ
+  rotate: false
+  xy: 2, 1356
+  size: 645, 654
+  orig: 645, 654
+  offset: 0, 0
+  index: -1
+THANGLON
+  rotate: true
+  xy: 653, 587
+  size: 772, 156
+  orig: 772, 156
+  offset: 0, 0
+  index: -1
+THANGLONBG
+  rotate: true
+  xy: 811, 587
+  size: 772, 156
+  orig: 772, 156
+  offset: 0, 0
+  index: -1
+THANGLONLIGHT
+  rotate: true
+  xy: 969, 587
+  size: 772, 156
+  orig: 772, 156
+  offset: 0, 0
+  index: -1
+THANGSIEUKHUNG
+  rotate: true
+  xy: 2, 450
+  size: 904, 324
+  orig: 904, 324
+  offset: 0, 0
+  index: -1
+THANGSIEUKHUNGLIGHT
+  rotate: false
+  xy: 649, 1687
+  size: 903, 323
+  orig: 903, 323
+  offset: 0, 0
+  index: -1
+THANGSIEULON
+  rotate: false
+  xy: 649, 1361
+  size: 692, 324
+  orig: 692, 324
+  offset: 0, 0
+  index: -1
+THANGSIEULONLIGHT
+  rotate: true
+  xy: 328, 662
+  size: 692, 323
+  orig: 692, 323
+  offset: 0, 0
+  index: -1
+bang_00000
+  rotate: false
+  xy: 1127, 959
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+bang_00001
+  rotate: false
+  xy: 1127, 557
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+bang_00002
+  rotate: false
+  xy: 1529, 1208
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+bang_00003
+  rotate: false
+  xy: 1529, 806
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+bang_00004
+  rotate: false
+  xy: 1529, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+bang_00005
+  rotate: false
+  xy: 409, 185
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+bang_00006
+  rotate: false
+  xy: 811, 155
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+bang_00007
+  rotate: false
+  xy: 1213, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+bang_00008
+  rotate: false
+  xy: 1615, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+bang_00022
+  rotate: false
+  xy: 1554, 1610
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+lightyellow
+  rotate: true
+  xy: 2, 36
+  size: 412, 405
+  orig: 412, 405
+  offset: 0, 0
+  index: -1
+
+BIGWIN2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bang_00009
+  rotate: false
+  xy: 2, 1610
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+bang_00010
+  rotate: false
+  xy: 2, 1208
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+bang_00011
+  rotate: false
+  xy: 404, 1610
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+bang_00012
+  rotate: false
+  xy: 2, 806
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+bang_00013
+  rotate: false
+  xy: 404, 1208
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+bang_00014
+  rotate: false
+  xy: 806, 1610
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+bang_00015
+  rotate: false
+  xy: 2, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+bang_00016
+  rotate: false
+  xy: 404, 806
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+bang_00017
+  rotate: false
+  xy: 806, 1208
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+bang_00018
+  rotate: false
+  xy: 1208, 1610
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+bang_00019
+  rotate: false
+  xy: 2, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+bang_00020
+  rotate: false
+  xy: 404, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+bang_00021
+  rotate: false
+  xy: 404, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1

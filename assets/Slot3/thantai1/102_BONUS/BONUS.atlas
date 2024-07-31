@@ -1,0 +1,97 @@
+
+BONUS.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3D
+  rotate: false
+  xy: 281, 192
+  size: 140, 41
+  orig: 140, 41
+  offset: 0, 0
+  index: -1
+Comp 1_00002
+  rotate: true
+  xy: 229, 94
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+Comp 1_00003
+  rotate: true
+  xy: 152, 86
+  size: 71, 75
+  orig: 71, 75
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 2, 93
+  size: 148, 140
+  orig: 148, 140
+  offset: 0, 0
+  index: -1
+base
+  rotate: false
+  xy: 281, 159
+  size: 69, 31
+  orig: 69, 31
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 152, 159
+  size: 127, 74
+  orig: 127, 74
+  offset: 0, 0
+  index: -1
+gold
+  rotate: false
+  xy: 293, 102
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 2
+  size: 126, 89
+  orig: 126, 89
+  offset: 0, 0
+  index: -1
+left hand
+  rotate: true
+  xy: 352, 150
+  size: 40, 54
+  orig: 40, 54
+  offset: 0, 0
+  index: -1
+mieng
+  rotate: false
+  xy: 345, 120
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+right hand
+  rotate: false
+  xy: 423, 188
+  size: 60, 45
+  orig: 60, 45
+  offset: 0, 0
+  index: -1
+tron phai
+  rotate: true
+  xy: 384, 120
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+tron trai
+  rotate: true
+  xy: 345, 89
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1

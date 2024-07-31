@@ -1,0 +1,90 @@
+{
+    "__type__": "cc.SpriteAtlas",
+    "_name": "maingame.plist",
+    "_spriteFrames": {
+      "20winline": {
+        "__uuid__": "2f22JbChNPc55Yybk+mtwu"
+      },
+      "BGspin": {
+        "__uuid__": "5aIh0s0K5Nur5Fl23fs4gC"
+      },
+      "Vi": {
+        "__uuid__": "be3hgA575KTIkeOXa42ez0"
+      },
+      "box_money": {
+        "__uuid__": "be5GIIEl1FXbbVwbp32meJ"
+      },
+      "boxthongbao0": {
+        "__uuid__": "d7vJviVaNO57Rtu7jclmso"
+      },
+      "button_caidat": {
+        "__uuid__": "36zVRNLLtOe6owTo1GbuqU"
+      },
+      "button_info": {
+        "__uuid__": "8aXFlwzU9JX7HzwiPREFyZ"
+      },
+      "button_quaylai": {
+        "__uuid__": "f1eUatxdtDEKV7mYlXY72P"
+      },
+      "buttondung": {
+        "__uuid__": "aeSOdpIC1Gz5KfEVAfHSGK"
+      },
+      "buttonquay": {
+        "__uuid__": "aefKrMMrZIILPwK/9l9ZTu"
+      },
+      "buttonsieutoc": {
+        "__uuid__": "13xKEVEzBMrbtDOAgTHO9v"
+      },
+      "buttonsieutoc_disable": {
+        "__uuid__": "05WCb42EFLBYtUETtvmj7P"
+      },
+      "choithu": {
+        "__uuid__": "d0CchlvexP7bqYIjMJO71w"
+      },
+      "free": {
+        "__uuid__": "c5lqZcoklANa/cpU+8/KzZ"
+      },
+      "giudetuquay": {
+        "__uuid__": "c8qy3fsYhKfJVtzw0n/+k6"
+      },
+      "ketthucsau": {
+        "__uuid__": "807CL6f9BP6oBUuSvBSUBo"
+      },
+      "khung_jackpot": {
+        "__uuid__": "e6sHl8gBZOba2HO2FBtWSo"
+      },
+      "khungspin_bot": {
+        "__uuid__": "02Z85Rl/hKApjZvSTmUFgC"
+      },
+      "khungspin_left": {
+        "__uuid__": "67MpQ8giVA26qWG7MKUwc5"
+      },
+      "khungspin_top": {
+        "__uuid__": "c9GeVsDNBLfLsS5X2qeJn4"
+      },
+      "maingame10": {
+        "__uuid__": "44q/WNaVhCaJ01+r0gefrK"
+      },
+      "maingame14": {
+        "__uuid__": "ceDlYP0j1FALDS5pxtfrCL"
+      },
+      "maingame15": {
+        "__uuid__": "c21AIkjG1DuYqTMtkZi+b+"
+      },
+      "maingame9": {
+        "__uuid__": "4aNK9YmSlBn6FxxshgT/OK"
+      },
+      "maingame_BG": {
+        "__uuid__": "0404tHAWNEKpuyx3ucWSKE"
+      },
+      "otienthang": {
+        "__uuid__": "a436XIh59JDIfhI4TVnL8S"
+      },
+      "tayduky_bonusgame_BG0": {
+        "__uuid__": "33xPud049D+ZZZBfHi0/A6"
+      },
+      "thanhchiacot": {
+        "__uuid__": "8ecmzECLxFSrQdh8x45mmb"
+      }
+    }
+  }

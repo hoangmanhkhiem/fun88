@@ -1,0 +1,49 @@
+{
+"skeleton": { "hash": "umWEEkcS2PfG3rl/YsN5ys5Uheg", "spine": "3.6.53", "width": 0, "height": 0, "images": "../" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Coin-1", "bone": "root" }
+],
+"skins": {
+	"default": {
+		"Coin-1": {
+			"Thang/Coin-1/1": { "width": 270, "height": 308 },
+			"Thang/Coin-1/2": { "width": 270, "height": 308 },
+			"Thang/Coin-1/3": { "width": 270, "height": 308 },
+			"Thang/Coin-1/4": { "width": 270, "height": 308 },
+			"Thang/Coin-1/5": { "width": 270, "height": 308 },
+			"Thang/Coin-1/6": { "width": 270, "height": 308 },
+			"Thang/Coin-1/7": { "width": 270, "height": 308 },
+			"Thang/Coin-1/8": { "width": 270, "height": 308 },
+			"Thang/Coin-1/9": { "width": 270, "height": 308 },
+			"Thang/Coin-1/10": { "width": 270, "height": 308 },
+			"Thang/Coin-1/11": { "width": 270, "height": 308 },
+			"Thang/Coin-1/12": { "width": 270, "height": 308 }
+		}
+	}
+},
+"animations": {
+	"Idle": {
+		"slots": {
+			"Coin-1": {
+				"attachment": [
+					{ "time": 0, "name": "Thang/Coin-1/1" },
+					{ "time": 0.0333, "name": "Thang/Coin-1/2" },
+					{ "time": 0.0667, "name": "Thang/Coin-1/3" },
+					{ "time": 0.1, "name": "Thang/Coin-1/4" },
+					{ "time": 0.1333, "name": "Thang/Coin-1/5" },
+					{ "time": 0.1667, "name": "Thang/Coin-1/6" },
+					{ "time": 0.2, "name": "Thang/Coin-1/7" },
+					{ "time": 0.2333, "name": "Thang/Coin-1/8" },
+					{ "time": 0.2667, "name": "Thang/Coin-1/9" },
+					{ "time": 0.3, "name": "Thang/Coin-1/10" },
+					{ "time": 0.3333, "name": "Thang/Coin-1/11" },
+					{ "time": 0.3667, "name": "Thang/Coin-1/12" }
+				]
+			}
+		}
+	}
+}
+}

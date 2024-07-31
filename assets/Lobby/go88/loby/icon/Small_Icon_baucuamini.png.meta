@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "d4198128-4d54-4115-95b3-c3c142d5d849",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 78,
+  "height": 84,
+  "platformSettings": {},
+  "subMetas": {
+    "Small_Icon_baucuamini": {
+      "ver": "1.0.4",
+      "uuid": "bdcaa7db-d00e-442e-a561-19fa6f12adbb",
+      "rawTextureUuid": "d4198128-4d54-4115-95b3-c3c142d5d849",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 78,
+      "height": 84,
+      "rawWidth": 78,
+      "rawHeight": 84,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

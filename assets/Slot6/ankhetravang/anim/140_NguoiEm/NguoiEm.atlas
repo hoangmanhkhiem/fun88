@@ -1,0 +1,118 @@
+
+NguoiEm.png
+size: 300,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG1-4
+  rotate: false
+  xy: 160, 35
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+KhungTop
+  rotate: false
+  xy: 2, 86
+  size: 85, 86
+  orig: 85, 86
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: false
+  xy: 2, 174
+  size: 160, 94
+  orig: 160, 94
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: true
+  xy: 164, 122
+  size: 146, 118
+  orig: 146, 118
+  offset: 0, 0
+  index: -1
+Layer 14 copy 4
+  rotate: false
+  xy: 89, 91
+  size: 69, 81
+  orig: 69, 81
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 264, 10
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+Star
+  rotate: true
+  xy: 188, 2
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+chanmay
+  rotate: true
+  xy: 247, 24
+  size: 48, 15
+  orig: 48, 15
+  offset: 0, 0
+  index: -1
+connguoi
+  rotate: false
+  xy: 226, 9
+  size: 36, 13
+  orig: 36, 13
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 264, 27
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+eyeClose
+  rotate: true
+  xy: 247, 74
+  size: 46, 20
+  orig: 46, 20
+  offset: 0, 0
+  index: -1
+eyeHalf
+  rotate: true
+  xy: 269, 75
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 6
+  size: 78, 92
+  orig: 78, 92
+  offset: 0, 0
+  index: -1
+khanthatdau1
+  rotate: true
+  xy: 155, 16
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1
+khanthatdau2
+  rotate: true
+  xy: 188, 18
+  size: 15, 36
+  orig: 15, 36
+  offset: 0, 0
+  index: -1
+tayPhai
+  rotate: false
+  xy: 96, 11
+  size: 57, 78
+  orig: 57, 78
+  offset: 0, 0
+  index: -1

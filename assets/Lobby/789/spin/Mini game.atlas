@@ -1,0 +1,55 @@
+
+Mini game.png
+size: 269,206
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bigcoin
+  rotate: false
+  xy: 32, 169
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+minigame_bt_0000_Shape-681-copy-2
+  rotate: false
+  xy: 2, 109
+  size: 146, 52
+  orig: 146, 52
+  offset: 0, 0
+  index: -1
+minigame_bt_0001_Layer-680-copy-4
+  rotate: true
+  xy: 150, 19
+  size: 128, 117
+  orig: 128, 117
+  offset: 0, 0
+  index: -1
+minigame_bt_0002_GAME-copy
+  rotate: false
+  xy: 173, 149
+  size: 93, 55
+  orig: 93, 55
+  offset: 0, 0
+  index: -1
+minigame_bt_0004_Layer-20
+  rotate: false
+  xy: 71, 163
+  size: 100, 41
+  orig: 100, 41
+  offset: 0, 0
+  index: -1
+minigame_bt_0005_Rounded-Rectangle-679-copy
+  rotate: false
+  xy: 2, 2
+  size: 129, 105
+  orig: 129, 105
+  offset: 0, 0
+  index: -1
+smallcoin
+  rotate: false
+  xy: 2, 177
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1

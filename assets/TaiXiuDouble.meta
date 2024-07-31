@@ -1,0 +1,36 @@
+{
+  "ver": "1.1.2",
+  "uuid": "3a140991-1552-4c70-a56f-0b510ace443c",
+  "isBundle": true,
+  "bundleName": "",
+  "priority": "5",
+  "compressionType": {
+    "android": "default",
+    "web-mobile": "default",
+    "ios": "default",
+    "web-desktop": "merge_all_json",
+    "alipay": "zip"
+  },
+  "optimizeHotUpdate": {
+    "android": false,
+    "web-mobile": false,
+    "ios": false,
+    "web-desktop": false,
+    "alipay": false
+  },
+  "inlineSpriteFrames": {
+    "android": false,
+    "web-mobile": false,
+    "ios": false,
+    "web-desktop": true,
+    "alipay": false
+  },
+  "isRemoteBundle": {
+    "android": true,
+    "web-mobile": false,
+    "ios": true,
+    "web-desktop": false,
+    "alipay": true
+  },
+  "subMetas": {}
+}

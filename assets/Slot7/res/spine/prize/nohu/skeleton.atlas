@@ -1,0 +1,76 @@
+
+skeleton.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin
+  rotate: false
+  xy: 2, 2
+  size: 271, 162
+  orig: 271, 162
+  offset: 0, 0
+  index: -1
+fx 5/0
+  rotate: false
+  xy: 648, 475
+  size: 235, 235
+  orig: 235, 235
+  offset: 0, 0
+  index: -1
+fx 5/1
+  rotate: false
+  xy: 900, 727
+  size: 235, 235
+  orig: 235, 235
+  offset: 0, 0
+  index: -1
+fx 5/2
+  rotate: false
+  xy: 1137, 731
+  size: 228, 231
+  orig: 228, 231
+  offset: 0, 0
+  index: -1
+fx 5/3
+  rotate: false
+  xy: 1367, 731
+  size: 228, 231
+  orig: 228, 231
+  offset: 0, 0
+  index: -1
+fx 5/4
+  rotate: false
+  xy: 1597, 731
+  size: 228, 231
+  orig: 228, 231
+  offset: 0, 0
+  index: -1
+fx 5/5
+  rotate: true
+  xy: 648, 245
+  size: 228, 231
+  orig: 228, 231
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 2, 330
+  size: 644, 632
+  orig: 644, 632
+  offset: 0, 0
+  index: -1
+nohu_light
+  rotate: false
+  xy: 648, 712
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+txt
+  rotate: false
+  xy: 2, 166
+  size: 510, 162
+  orig: 510, 162
+  offset: 0, 0
+  index: -1

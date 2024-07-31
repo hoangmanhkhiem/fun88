@@ -1,0 +1,41 @@
+
+Fruits.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7
+  rotate: false
+  xy: 411, 110
+  size: 143, 142
+  orig: 143, 142
+  offset: 0, 0
+  index: -1
+Group 3
+  rotate: false
+  xy: 2, 2
+  size: 261, 250
+  orig: 261, 250
+  offset: 0, 0
+  index: -1
+chanh
+  rotate: false
+  xy: 556, 60
+  size: 131, 125
+  orig: 131, 125
+  offset: 0, 0
+  index: -1
+chuong
+  rotate: false
+  xy: 265, 90
+  size: 144, 162
+  orig: 144, 162
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 556, 187
+  size: 220, 65
+  orig: 220, 65
+  offset: 0, 0
+  index: -1

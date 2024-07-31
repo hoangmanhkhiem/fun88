@@ -1,0 +1,132 @@
+
+TL_FX_Jackpot.png
+size: 416,926
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/core
+  rotate: false
+  xy: 138, 519
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+FX/fire00
+  rotate: false
+  xy: 2, 787
+  size: 134, 137
+  orig: 134, 137
+  offset: 0, 0
+  index: -1
+FX/fire01
+  rotate: false
+  xy: 2, 648
+  size: 134, 137
+  orig: 134, 137
+  offset: 0, 0
+  index: -1
+FX/fire02
+  rotate: false
+  xy: 2, 509
+  size: 134, 137
+  orig: 134, 137
+  offset: 0, 0
+  index: -1
+FX/fire03
+  rotate: true
+  xy: 2, 138
+  size: 134, 137
+  orig: 134, 137
+  offset: 0, 0
+  index: -1
+FX/fire04
+  rotate: true
+  xy: 133, 373
+  size: 134, 137
+  orig: 134, 137
+  offset: 0, 0
+  index: -1
+FX/fire05
+  rotate: false
+  xy: 141, 234
+  size: 134, 137
+  orig: 134, 137
+  offset: 0, 0
+  index: -1
+FX/fire06
+  rotate: true
+  xy: 141, 98
+  size: 134, 137
+  orig: 134, 137
+  offset: 0, 0
+  index: -1
+FX/fire07
+  rotate: true
+  xy: 2, 2
+  size: 134, 137
+  orig: 134, 137
+  offset: 0, 0
+  index: -1
+FX/fire08
+  rotate: false
+  xy: 138, 787
+  size: 134, 137
+  orig: 134, 137
+  offset: 0, 0
+  index: -1
+FX/fire09
+  rotate: true
+  xy: 138, 651
+  size: 134, 137
+  orig: 134, 137
+  offset: 0, 0
+  index: -1
+FX/fire10
+  rotate: true
+  xy: 274, 790
+  size: 134, 137
+  orig: 134, 137
+  offset: 0, 0
+  index: -1
+FX/fire11
+  rotate: false
+  xy: 272, 512
+  size: 134, 137
+  orig: 134, 137
+  offset: 0, 0
+  index: -1
+FX/fire12
+  rotate: true
+  xy: 277, 654
+  size: 134, 137
+  orig: 134, 137
+  offset: 0, 0
+  index: -1
+FX/fire13
+  rotate: true
+  xy: 272, 376
+  size: 134, 137
+  orig: 134, 137
+  offset: 0, 0
+  index: -1
+FX/fire14
+  rotate: false
+  xy: 277, 237
+  size: 134, 137
+  orig: 134, 137
+  offset: 0, 0
+  index: -1
+FX/fire15
+  rotate: false
+  xy: 280, 98
+  size: 134, 137
+  orig: 134, 137
+  offset: 0, 0
+  index: -1
+FX/flare
+  rotate: true
+  xy: 2, 274
+  size: 233, 129
+  orig: 233, 129
+  offset: 0, 0
+  index: -1

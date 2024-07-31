@@ -1,0 +1,62 @@
+
+trung.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 10
+  rotate: false
+  xy: 235, 66
+  size: 118, 40
+  orig: 118, 40
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: false
+  xy: 631, 193
+  size: 168, 45
+  orig: 168, 45
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 506, 117
+  size: 123, 121
+  orig: 123, 121
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 631, 151
+  size: 114, 40
+  orig: 114, 40
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 2, 14
+  size: 231, 224
+  orig: 231, 224
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 235, 108
+  size: 125, 130
+  orig: 125, 130
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 362, 134
+  size: 142, 104
+  orig: 142, 104
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 235, 2
+  size: 67, 62
+  orig: 67, 62
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Cù lũ.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1591,394},{443,178}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{443,178}}</string>
+				<key>sourceSize</key>
+				<string>{443,178}</string>
+			</dict>
+
+			<key>Group 18.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,851},{194,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{194,71}}</string>
+				<key>sourceSize</key>
+				<string>{194,71}</string>
+			</dict>
+
+			<key>Group 19.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{143,923},{134,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{134,71}}</string>
+				<key>sourceSize</key>
+				<string>{134,71}</string>
+			</dict>
+
+			<key>Group 20.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{195,851},{134,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{134,71}}</string>
+				<key>sourceSize</key>
+				<string>{134,71}</string>
+			</dict>
+
+			<key>Hai Đôi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1034,0},{587,177}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{587,177}}</string>
+				<key>sourceSize</key>
+				<string>{587,177}</string>
+			</dict>
+
+			<key>Jackpot.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,672},{690,178}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{690,178}}</string>
+				<key>sourceSize</key>
+				<string>{690,178}</string>
+			</dict>
+
+			<key>Sám Cô.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{691,672},{594,178}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{594,178}}</string>
+				<key>sourceSize</key>
+				<string>{594,178}</string>
+			</dict>
+
+			<key>Sảnh.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1286,787},{446,189}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{446,189}}</string>
+				<key>sourceSize</key>
+				<string>{446,189}</string>
+			</dict>
+
+			<key>Thùng phá sảnh.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,554},{858,117}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{858,117}}</string>
+				<key>sourceSize</key>
+				<string>{858,117}</string>
+			</dict>
+
+			<key>Thùng.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1034,394},{556,178}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{556,178}}</string>
+				<key>sourceSize</key>
+				<string>{556,178}</string>
+			</dict>
+
+			<key>Tứ Quý.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1034,178},{585,215}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{585,215}}</string>
+				<key>sourceSize</key>
+				<string>{585,215}</string>
+			</dict>
+
+			<key>btnSpin0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1746,573},{177,293}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{177,293}}</string>
+				<key>sourceSize</key>
+				<string>{177,293}</string>
+			</dict>
+
+			<key>btnSpin1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1622,0},{187,253}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{187,253}}</string>
+				<key>sourceSize</key>
+				<string>{187,253}</string>
+			</dict>
+
+			<key>btn_history.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{371,851},{70,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{70,73}}</string>
+				<key>sourceSize</key>
+				<string>{70,73}</string>
+			</dict>
+
+			<key>btn_rank.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{371,925},{70,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{70,73}}</string>
+				<key>sourceSize</key>
+				<string>{70,73}</string>
+			</dict>
+
+			<key>btn_tutorial.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{442,851},{70,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{70,73}}</string>
+				<key>sourceSize</key>
+				<string>{70,73}</string>
+			</dict>
+
+			<key>circle.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,977},{44,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{44,44}}</string>
+				<key>sourceSize</key>
+				<string>{44,44}</string>
+			</dict>
+
+			<key>close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{278,923},{92,95}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{92,95}}</string>
+				<key>sourceSize</key>
+				<string>{92,95}</string>
+			</dict>
+
+			<key>khung.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{1033,553}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{1033,553}}</string>
+				<key>sourceSize</key>
+				<string>{1033,553}</string>
+			</dict>
+
+			<key>mini.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,923},{142,53}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{142,53}}</string>
+				<key>sourceSize</key>
+				<string>{142,53}</string>
+			</dict>
+
+			<key>tick.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{45,977},{44,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{44,35}}</string>
+				<key>sourceSize</key>
+				<string>{44,35}</string>
+			</dict>
+
+			<key>Đôi J+.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1286,573},{459,213}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{459,213}}</string>
+				<key>sourceSize</key>
+				<string>{459,213}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{2048,1024}</string>
+			<key>textureFileName</key>
+			<string>mini_poker.png</string>
+			</dict>
+		</dict>
+</plist>

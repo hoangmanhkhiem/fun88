@@ -1,0 +1,360 @@
+{
+            "skeleton": {
+              "hash": "MtkQlXGDTEqT96crSV35ZyX/BGY",
+              "spine": "3.8.99",
+              "x": -75.33,
+              "y": -66.61,
+              "width": 148.33,
+              "height": 125.11,
+              "images": "",
+              "audio": "/Users/macbook/Downloads/0/789/EVENT/Tet/Web/Mini game"
+            },
+            "bones": [
+              {
+                "name": "root"
+              },
+              {
+                "name": "bone coin",
+                "parent": "root"
+              },
+              {
+                "name": "bone small",
+                "parent": "bone coin"
+              },
+              {
+                "name": "bone big",
+                "parent": "bone coin"
+              },
+              {
+                "name": "bone coin2",
+                "parent": "root",
+                "rotation": 13.19,
+                "x": 4.12,
+                "y": -63.2,
+                "scaleX": -1
+              },
+              {
+                "name": "bone small2",
+                "parent": "bone coin2"
+              },
+              {
+                "name": "bone big2",
+                "parent": "bone coin2"
+              }
+            ],
+            "slots": [
+              {
+                "name": "minigame_bt_0005_Rounded-Rectangle-679-copy",
+                "bone": "root",
+                "attachment": "minigame_bt_0005_Rounded-Rectangle-679-copy"
+              },
+              {
+                "name": "minigame_bt_0004_Layer-20",
+                "bone": "root",
+                "color": "ffffff6e",
+                "attachment": "minigame_bt_0004_Layer-20"
+              },
+              {
+                "name": "minigame_bt_0002_GAME-copy",
+                "bone": "root",
+                "attachment": "minigame_bt_0002_GAME-copy"
+              },
+              {
+                "name": "minigame_bt_0001_Layer-680-copy-4",
+                "bone": "root",
+                "attachment": "minigame_bt_0001_Layer-680-copy-4"
+              },
+              {
+                "name": "minigame_bt_0000_Shape-681-copy-2",
+                "bone": "root",
+                "attachment": "minigame_bt_0000_Shape-681-copy-2"
+              },
+              {
+                "name": "bigcoin",
+                "bone": "bone big",
+                "attachment": "bigcoin"
+              },
+              {
+                "name": "bigcoin2",
+                "bone": "bone big2",
+                "attachment": "bigcoin"
+              },
+              {
+                "name": "smallcoin",
+                "bone": "bone small",
+                "attachment": "smallcoin"
+              },
+              {
+                "name": "smallcoin2",
+                "bone": "bone small2",
+                "attachment": "smallcoin"
+              }
+            ],
+            "skins": [
+              {
+                "name": "default",
+                "attachments": {
+                  "bigcoin": {
+                    "bigcoin": {
+                      "x": 49.77,
+                      "y": 39.41,
+                      "width": 37,
+                      "height": 35
+                    }
+                  },
+                  "bigcoin2": {
+                    "bigcoin": {
+                      "x": 49.77,
+                      "y": 39.41,
+                      "width": 37,
+                      "height": 35
+                    }
+                  },
+                  "minigame_bt_0001_Layer-680-copy-4": {
+                    "minigame_bt_0001_Layer-680-copy-4": {
+                      "width": 128,
+                      "height": 117
+                    }
+                  },
+                  "minigame_bt_0002_GAME-copy": {
+                    "minigame_bt_0002_GAME-copy": {
+                      "y": 1.14,
+                      "width": 93,
+                      "height": 55
+                    }
+                  },
+                  "minigame_bt_0004_Layer-20": {
+                    "minigame_bt_0004_Layer-20": {
+                      "y": 19.08,
+                      "width": 100,
+                      "height": 41
+                    }
+                  },
+                  "minigame_bt_0005_Rounded-Rectangle-679-copy": {
+                    "minigame_bt_0005_Rounded-Rectangle-679-copy": {
+                      "width": 129,
+                      "height": 105
+                    }
+                  },
+                  "minigame_bt_0000_Shape-681-copy-2": {
+                    "minigame_bt_0000_Shape-681-copy-2": {
+                      "width": 146,
+                      "height": 52
+                    }
+                  },
+                  "smallcoin": {
+                    "smallcoin": {
+                      "x": 47.26,
+                      "y": 24.36,
+                      "width": 28,
+                      "height": 27
+                    }
+                  },
+                  "smallcoin2": {
+                    "smallcoin": {
+                      "x": 47.26,
+                      "y": 24.36,
+                      "width": 28,
+                      "height": 27
+                    }
+                  }
+                }
+              }
+            ],
+            "animations": {
+              "animation": {
+                "slots": {
+                  "minigame_bt_0001_Layer-680-copy-4": {
+                    "color": [
+                      {
+                        "color": "ffffffff",
+                        "curve": 0.25,
+                        "c3": 0.75
+                      },
+                      {
+                        "time": 0.6667,
+                        "color": "ffffff00",
+                        "curve": 0.25,
+                        "c3": 0.75
+                      },
+                      {
+                        "time": 1.3333,
+                        "color": "ffffffff",
+                        "curve": 0.25,
+                        "c3": 0.75
+                      },
+                      {
+                        "time": 2,
+                        "color": "ffffff00",
+                        "curve": 0.25,
+                        "c3": 0.75
+                      },
+                      {
+                        "time": 2.6667,
+                        "color": "ffffffff"
+                      }
+                    ]
+                  },
+                  "minigame_bt_0000_Shape-681-copy-2": {
+                    "color": [
+                      {
+                        "color": "ffffff00",
+                        "curve": 0.25,
+                        "c3": 0.75
+                      },
+                      {
+                        "time": 0.6667,
+                        "color": "ffffffff",
+                        "curve": 0.25,
+                        "c3": 0.75
+                      },
+                      {
+                        "time": 1.3333,
+                        "color": "ffffff00",
+                        "curve": 0.25,
+                        "c3": 0.75
+                      },
+                      {
+                        "time": 2,
+                        "color": "ffffffff",
+                        "curve": 0.25,
+                        "c3": 0.75
+                      },
+                      {
+                        "time": 2.6667,
+                        "color": "ffffff00"
+                      }
+                    ]
+                  }
+                },
+                "bones": {
+                  "root": {
+                    "scale": [
+                      {
+                        "curve": 0.25,
+                        "c3": 0.75
+                      },
+                      {
+                        "time": 1.3333,
+                        "x": 1.038,
+                        "y": 1.038,
+                        "curve": 0.25,
+                        "c3": 0.75
+                      },
+                      {
+                        "time": 2.6667
+                      }
+                    ]
+                  },
+                  "bone big": {
+                    "translate": [
+                      {
+                        "time": 0.3333,
+                        "curve": 0.25,
+                        "c3": 0.75
+                      },
+                      {
+                        "time": 0.5,
+                        "y": 14.91,
+                        "curve": 0.25,
+                        "c3": 0.75
+                      },
+                      {
+                        "time": 0.8333
+                      }
+                    ]
+                  },
+                  "bone small": {
+                    "translate": [
+                      {
+                        "time": 0.5,
+                        "curve": 0.25,
+                        "c3": 0.75
+                      },
+                      {
+                        "time": 0.6667,
+                        "y": 34.46,
+                        "curve": 0.25,
+                        "c3": 0.75
+                      },
+                      {
+                        "time": 1
+                      }
+                    ]
+                  },
+                  "bone coin": {
+                    "scale": [
+                      {
+                        "curve": 0.25,
+                        "c3": 0.75
+                      },
+                      {
+                        "time": 1.1667,
+                        "x": 1.076,
+                        "y": 1.076,
+                        "curve": 0.25,
+                        "c3": 0.75
+                      },
+                      {
+                        "time": 2.6667
+                      }
+                    ]
+                  },
+                  "bone small2": {
+                    "translate": [
+                      {
+                        "time": 1.5,
+                        "curve": 0.25,
+                        "c3": 0.75
+                      },
+                      {
+                        "time": 1.6667,
+                        "y": 34.46,
+                        "curve": 0.25,
+                        "c3": 0.75
+                      },
+                      {
+                        "time": 2
+                      }
+                    ]
+                  },
+                  "bone big2": {
+                    "translate": [
+                      {
+                        "time": 1.3333,
+                        "curve": 0.25,
+                        "c3": 0.75
+                      },
+                      {
+                        "time": 1.5,
+                        "y": 14.91,
+                        "curve": 0.25,
+                        "c3": 0.75
+                      },
+                      {
+                        "time": 1.8333
+                      }
+                    ]
+                  },
+                  "bone coin2": {
+                    "scale": [
+                      {
+                        "curve": 0.25,
+                        "c3": 0.75
+                      },
+                      {
+                        "time": 1.1667,
+                        "x": 1.076,
+                        "y": 1.076,
+                        "curve": 0.25,
+                        "c3": 0.75
+                      },
+                      {
+                        "time": 2.6667
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          }

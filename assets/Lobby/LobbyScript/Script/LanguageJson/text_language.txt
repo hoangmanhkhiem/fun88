@@ -1,0 +1,1548 @@
+{
+                "txt_login_name": {
+                        "vi":"Tên Đăng Nhập",
+                        "en":"Username"
+                },
+				"txt_search":{
+                        "vi":"Tìm kiếm...",   
+                        "en":"Search..."
+                },
+				"txt_search_for":{
+                        "vi":"Tìm theo:",   
+                        "en":"Search for:"
+                },
+				"txt_region":{
+                        "vi":"Khu Vực",   
+                        "en":"Region"
+                },
+				"txt_request_cashin_success":{
+                        "vi":"Gửi yêu cầu thành công!",   
+                        "en":"Send request successfully!"
+                },    
+				"txt_agency_name":{
+                        "vi":"Tên đại lý",   
+                        "en":"Agency name"
+                },
+"txt_receive_money":{
+                        "vi":"Số tiền nhận được:",
+                        "en":"Money get:"
+                },
+"txt_trans_id":{
+                        "vi":"Mã giao dịch",   
+                        "en":"Transaction ID"
+                },
+				"txt_agency_info":{
+                        "vi":"Thông Tin Đại Lý",   
+                        "en":"Agency Infomation"
+                },
+                  "txt_trans":{
+                        "vi":"Giao Dịch",   
+                        "en":"Transaction"
+                },
+				"txt_view":{
+                        "vi":"Xem",   
+                        "en":"View"
+                },
+                "txt_user_bank_account":{
+                        "vi":"Ngân hàng của tôi",   
+                        "en":"My bank account"
+                },
+                "txt_agency_bank_account":{
+                        "vi":"Ngân hàng đại lý",   
+                        "en":"Agency bank account"
+                },
+                "txt_confirm_info":{
+                        "vi":"Xác Nhận Thông Tin",   
+                        "en":"Confirm Transaction Infomation"
+                },
+                "txt_slot_bonus":{
+                        "vi":"Chọn một phần quà để nhận hệ số nhân\nkhi chơi  game Bonus anh nhé!",   
+                        "en":"Choose a gift to get a multiplier\nwhen you play Bonus game!"
+                },
+                "txt_slot_multiplier":{
+                        "vi":"Hệ số",   
+                        "en":"Multiplier"
+                },
+                "txt_slot_turn":{
+                        "vi":"Lượt",   
+                        "en":"Turn"
+                },
+                "txt_slot_line_bet":{
+                        "vi":"D.Đặt",   
+                        "en":"Lines Bet"
+                },
+				"txt_contact":{
+                        "vi":"Liên Hệ",   
+                        "en":"Contact"
+                },
+                "txt_stt":{
+                        "vi":"STT",   
+                        "en":"NO"
+                },
+"txt_status":{
+                        "vi":"Trạng Thái",   
+                        "en":"Status"
+                },
+                "txt_password":{
+                        "vi":"Mật khẩu",
+                        "en":"Password"
+                } ,
+                 "txt_confirm_password":{
+                        "vi":"Xác nhận mật khẩu",
+                        "en":"Confirm password"
+                } ,
+                 "txt_remember_password":{
+                        "vi":"Ghi nhớ mật khẩu",
+                        "en":"Remember"
+                },
+                 "txt_old_password_incorrect":{
+                        "vi":"Mật khẩu cũ không chính xác!",
+                        "en":"Old passwords incorrect!"
+                },
+                 "txt_change_password_success":{
+                        "vi":"Đổi mật khẩu thành công!",
+                        "en":"Change password successfully!"
+                },
+                 "txt_old_password_not_blank":{
+                        "vi":"Mật khẩu cũ không được để trống",
+                        "en":"Old password can not be blank!"
+                },
+                 "txt_new_password_not_blank":{
+                        "vi":"Mật khẩu mới không được để trống",
+                        "en":"New password can not be blank!"
+                },
+                 "txt_password_not_same":{
+                        "vi":"Mật khẩu mới và cũ không giống nhau!",
+                        "en":"New and old password are not the same!"
+                },
+                 "txt_capcha":{
+                        "vi":"Nhập mã xác thực",
+                        "en":"Passwords"
+                } ,
+                 "txt_login_facebook":{
+                        "vi":"Facebook",
+                        "en":"Facebook"
+                } ,
+                 "txt_register":{
+                        "vi":"ĐĂNG KÝ",
+                        "en":"REGISTER"
+                } ,
+                 "txt_login":{
+                        "vi":"ĐĂNG NHẬP",
+                        "en":"LOGIN"
+                } ,
+                 "txt_group":{
+                        "vi":"GROUP",
+                        "en":"GROUP"
+                } ,
+                 "txt_fanpage":{
+                        "vi":"FANPAGE",
+                        "en":"FANPAGE"
+                } ,
+                 "txt_event":{
+                        "vi":"Sự kiện",
+                        "en":"Event"
+                } ,
+                 "txt_lucky_spin":{
+                        "vi":"VQMM",
+                        "en":"Lucky spin"
+                } ,
+                 "txt_cashout":{
+                        "vi":"Đổi thẻ",
+                        "en":"Cashout"
+                },
+                 "txt_cashout_2":{
+                        "vi":"Rút Tiền",
+                        "en":"Cashout"
+                },
+                 "txt_cashout_3":{
+                        "vi":"Rút",
+                        "en":"Cash.out"
+                },
+                 "txt_card_amount":{
+                        "vi":"Mệnh giá thẻ",
+                        "en":"Card amount"
+                },
+                 "txt_card_pin":{
+                        "vi":"Mã thẻ",
+                        "en":"Card number"
+                },
+                 "txt_card_serial":{
+                        "vi":"Số Seri",
+                        "en":"Card Seri"
+                },
+                 "txt_giftcode":{
+                        "vi":"Mã Quà Tặng",
+                        "en":"Giftcode"
+                } ,
+                 "txt_giftcode_info":{
+                        "vi":"Mỗi mã quà tặng chỉ áp dụng cho một tài khoản",
+                        "en":"Each gift code applies to only one account"
+                } ,
+                 "txt_giftcode_input":{
+                        "vi":"Nhập mã quà tặng",
+                        "en":"Enter giftcode here"
+                } ,
+                 "txt_sms_plus":{
+                        "vi":"SMS Plus",
+                        "en":"SMS Plus"
+                } ,
+                 "txt_safe":{
+                        "vi":"Két an toàn",
+                        "en":"Safe"
+                } ,
+                 "txt_cancel":{
+                        "vi":"Hủy",
+                        "en":"Cancel"
+                } ,
+                 "txt_confirm":{
+                        "vi":"Xác Nhận",
+                        "en":"Confirm"
+                } ,
+                 "txt_continue":{
+                        "vi":"Tiếp tục",
+                        "en":"Continue"
+                },
+                 "txt_receive":{
+                        "vi":"Nhận",
+                        "en":"Receive"
+                },
+                 "txt_receive_reward":{
+                        "vi":"Nhận Thưởng",
+                        "en":"Receive"
+                },
+                 "txt_cash_out":{
+                        "vi":"Rút",
+                        "en":"Cash.out"
+                },
+                 "txt_cash_in":{
+                        "vi":"Nạp",
+                        "en":"Cash.in"
+                },
+                 "txt_nap_rut":{
+                        "vi":"Nạp Rút",
+                        "en":"Exchange"
+                },
+                 "txt_history_transaction":{
+                        "vi":"LỊCH SỬ GIAO DỊCH",
+                        "en":"HISTORY TRANSACTION"
+                },
+                 "txt_play":{
+                        "vi":"Chơi",
+                        "en":"Play"
+                },
+                 "txt_do_mission":{
+                        "vi":"Làm",
+                        "en":"Play"
+                },
+                 "txt_recharge":{
+                        "vi":"Nạp",
+                        "en":"Recharge"
+                },
+                 "txt_transfer":{
+                        "vi":"Chuyển khoản",
+                        "en":"Transfer"
+                },
+                "txt_transfer_quy":{
+                        "vi":"Ch.Quỹ",
+                        "en":"Transfer"
+                },
+                "txt_transfer_quy1":{
+                        "vi":"CHUYỂN QUỸ",
+                        "en":"TRANSFER"
+                },
+                 "txt_transfer_code":{
+                        "vi":"Mã GD",   
+                        "en":"Code"
+                },
+                 "txt_transfer_info_err":{
+                        "vi":"Mã GD",   
+                        "en":"Code"
+                },
+                 "txt_time":{
+                        "vi":"Thời Gian",   
+                        "en":"Time"
+                },
+                 "txt_service":{
+                        "vi":"Dịch vụ",   
+                        "en":"Service"
+                },
+                 "txt_incurred":{
+                        "vi":"Phát Sinh",   
+                        "en":"Incurred"
+                },
+                 "txt_balance":{
+                        "vi":"Số Dư",   
+                        "en":"Balance"
+                },
+                  "txt_balance2":{
+                        "vi":"Số Dư:",   
+                        "en":"Balance:"
+                },
+                 "txt_description":{
+                        "vi":"Mô Tả",   
+                        "en":"Description"
+                },
+                 "txt_safe":{
+                        "vi":"Két An Toàn",   
+                        "en":"Safe"
+                },
+                  "txt_phone_input":{
+                        "vi":"Nhập số điện thoại",   
+                        "en":"Enter phone number here"
+                },
+                  "txt_phone_input1":{
+                        "vi":"Số điện thoại không được bỏ trống!",   
+                        "en":"Phone number can not be blank!"
+                },
+                 "txt_captcha_input":{
+                        "vi":"Nhập mã xác thực",   
+                        "en":"Enter captcha here"
+                },
+                 "txt_get_otp":{
+                        "vi":"Mã OTP",   
+                        "en":"OTP Code"
+                },
+                 "txt_otp_code":{
+                        "vi":"Lấy OTP",   
+                        "en":"Get OTP"
+                },
+                 "txt_enter_otp":{
+                        "vi":"NHẬP OTP ĐỂ TIẾP TỤC",   
+                        "en":"ENTER OTP TO CONTINUE"
+                },
+                 "txt_otp_blank":{
+                        "vi":"Mã OTP không được để trống.",   
+                        "en":"OTP can not be blank!"
+                },
+                "txt_finish":{
+                        "vi":"Hoàn tất",   
+                        "en":"Finish"
+                },
+                "txt_finish_1":{
+                        "vi":"Hoàn Thành",   
+                        "en":"Done"
+                },
+                 "txt_bot_opt_guide":{
+                        "vi":"Bạn có thể ấn lấy OTP SMS phí 1.000đ/sms.",   
+                        "en":"You can press OTP SMS for 1,000 VND / SMS."
+                },
+                 "txt_security_info":{
+                        "vi":"Thông tin bảo mật",   
+                        "en":"Security Infomation"
+                },
+                 "txt_phone_number":{
+                        "vi":"Số điện thoại",   
+                        "en":"Phone Number"
+                },
+                 "txt_forgot_password":{
+                        "vi":"Quên mật khẩu",   
+                        "en":"Forget password"
+                },
+                "txt_sms_otp":{
+                        "vi":"SMS OTP: Vui lòng nhập mã OTP để thực hiện giao dịch",   
+                        "en":"SMS OTP: Please enter the OTP code to make the transaction"
+                },
+                 "txt_app_otp":{
+                        "vi":"APP OTP: Nếu bạn đã cài APP OTP vui lòng bật APP OTP để lấy mã xác thực, và chọn App OTP",   
+                        "en":"APP OTP: If you have installed APP OTP please enable APP OTP to get the authentication code, and select App OTP"
+                },
+                 "txt_profile":{
+                        "vi":"THÔNG TIN CÁ NHÂN",   
+                        "en":"Profile"
+                },
+                 "txt_profile_2":{
+                        "vi":"Hồ sơ",   
+                        "en":"Profile"
+                },
+                 "txt_profile_nickname":{
+                        "vi":"Nickname",   
+                        "en":"Nickname"
+                },
+                 "txt_profile_phone_number":{
+                        "vi":"Số điện thoại",   
+                        "en":"Phone number"
+                },
+                 "txt_profile_email":{
+                        "vi":"Email",   
+                        "en":"Email"
+                },
+                 "txt_profile_info_change":{
+                        "vi":"Thay đổi thông tin thành công!",   
+                        "en":"Successfully changed information!"
+                },
+                 "txt_email_format":{
+                        "vi":"Vui lòng điền đúng định dạng địa chỉ email!",   
+                        "en":"Please fill in the correct email address format"
+                },
+                 "txt_profile_address":{
+                        "vi":"Địa chỉ",   
+                        "en":"Address"
+                },
+                 "txt_profile_invite_code":{
+                        "vi":"Mã giới thiệu",   
+                        "en":"Invited code"
+                },
+                "txt_bank_account":{
+                        "vi":"TK Ngân Hàng",   
+                        "en":"Bank Account"
+                },
+                 "txt_change_password":{
+                        "vi":"Đổi mật khẩu",   
+                        "en":"Change password"
+                },
+                 "txt_achievements":{
+                        "vi":"Thành Tích",   
+                        "en":"Achievements"
+                },
+                 "txt_infomation":{
+                        "vi":"Giới Thiệu",   
+                        "en":"Infomation"
+                },
+                 "txt_join_date":{
+                        "vi":"Ngày tham gia",   
+                        "en":"Join Date"
+                },
+                 "txt_birthday":{
+                        "vi":"Ngày Sinh",   
+                        "en":"Birthday"
+                },
+                 "txt_rank_rock":{
+                        "vi":"Đá",   
+                        "en":"Rock"
+                },
+                 "txt_rank_copper":{
+                        "vi":"Đồng",   
+                        "en":"Copper"
+                },
+                 "txt_rank_silver":{
+                        "vi":"Bạc",   
+                        "en":"Silver"
+                },
+                  "txt_rank_gold":{
+                        "vi":"Vàng",   
+                        "en":"Gold"
+                },
+                 "txt_rank_diamond":{
+                        "vi":"Kim Cương",   
+                        "en":"Diamond"
+                },
+                 "txt_rank_diamond1":{
+                        "vi":"Kim Cương 1",   
+                        "en":"Diamond 1"
+                },
+                 "txt_rank_diamond2":{
+                        "vi":"Kim Cương 2",   
+                        "en":"Diamond 2"
+                },
+                 "txt_rank_diamond3":{
+                        "vi":"Kim Cương 3",   
+                        "en":"Diamond 3"
+                },
+                 "txt_rank_platinum":{
+                        "vi":"Bạch Kim",   
+                        "en":"Platium"
+                },
+                 "txt_rank_platinum1":{
+                        "vi":"Bạch Kim 1",   
+                        "en":"Platium 1"
+                },
+                 "txt_rank_platinum2":{
+                        "vi":"Bạch Kim 2",   
+                        "en":"Platium 2"
+                },
+                 "txt_current_level":{
+                        "vi":"Cấp Độ Hiện Tại Của Bạn",   
+                        "en":"Your Current Level"
+                },
+                 "txt_current_level_1":{
+                        "vi":"Cấp Độ Hiện Tại",   
+                        "en":"Current Level"
+                },
+                 "txt_next_vip_point":{
+                        "vi":"Điểm Vip Point cấp độ tiếp theo",   
+                        "en":"Next Level Vip Point"
+                },
+                 "txt_level":{
+                        "vi":"Cấp Độ",   
+                        "en":"Level"
+                },
+                 "txt_vip_point":{
+                        "vi":"Điểm Vip Point đã tích lũy",   
+                        "en":"Accumulation Vip Point"
+                },
+                 "txt_current_reward":{
+                        "vi":"PHẦN THƯỞNG HIỆN TẠI CỦA BẠN",   
+                        "en":"YOUR CURRENT REWARD"
+                },
+                 "txt_current_vip_point":{
+                        "vi":"Điểm Vip Point hiện có",   
+                        "en":"Current Vip Point"
+                },
+                 "txt_vip_point_note":{
+                        "vi":"Bạn có thể nhận được điểm thưởng từ những cấp độ đạt được Điểm thưởng để có thể quy đổi thành vật phẩm.",   
+                        "en":"You can earn bonus points from the levels that earn Rewards Points that you can redeem for items."
+                },
+                  "txt_create":{
+                        "vi":"Tạo Mới",   
+                        "en":"Create"
+                },
+                  "txt_select_bank":{
+                        "vi":"Chọn ngân hàng",   
+                        "en":"Select bank"
+                },
+                  "txt_select_card":{
+                        "vi":"Chọn thẻ cào",   
+                        "en":"Select Cards"
+                },
+                  "txt_select_bank1":{
+                        "vi":"Vui lòng chọn ngân hàng.",   
+                        "en":"Please select bank."
+                },
+                 "txt_account_owner":{
+                        "vi":"Chủ tài khoản",   
+                        "en":"Account owner"
+                },
+                 "txt_account_number":{
+                        "vi":"Số tài khoản",   
+                        "en":"Account number"
+                },
+                 "txt_branch":{
+                        "vi":"Chi nhánh",   
+                        "en":"Branch"
+                },
+                 "txt_bank":{
+                        "vi":"Ngân Hàng",   
+                        "en":"Bank"
+                },
+                 "txt_bank_info":{
+                        "vi":"THÔNG TIN NGÂN HÀNG",   
+                        "en":"Bank Infomation"
+                },
+                  "txt_add_bank_info":{
+                        "vi":"TẠO TÀI KHOẢN NH",   
+                        "en":"ADD BANK"
+                },
+                 "txt_update":{
+                        "vi":"Cập nhật",   
+                        "en":"Update"
+                },
+                 "txt_not_update":{
+                        "vi":"Chưa Cập nhật",   
+                        "en":"Not Update"
+                },
+                 "txt_bank_note":{
+                        "vi":"Chưa đăng ký thông tin ngân hàng.Vui lòng đăng ký để có thể rút tiền.",   
+                        "en":"Not registered bank information.Please register to be able to withdraw money."
+                },
+                 "txt_create_bank":{
+                        "vi":"Thêm Ngân Hàng",   
+                        "en":"Add Bank"
+                },
+                  "txt_money_amount":{
+                        "vi":"Số tiền",   
+                        "en":"Money Amount"
+                },
+                  "txt_money_amount_invalid":{
+                        "vi":"Số tiền giao dịch không hợp lệ!",   
+                        "en":"Money amount is invalid!"
+                },
+                 "txt_promotion":{
+                        "vi":"Khuyến Mãi",   
+                        "en":"Promotion"
+                },
+                "txt_shop":{
+                        "vi":"Cửa Hàng",   
+                        "en":"Shop"
+                },
+                 "txt_express247":{
+                        "vi":"Siêu Tốc \n 24/7",   
+                        "en":"Express\n24/7"
+                },
+                 "txt_enter_money_amount":{
+                        "vi":"Nhập số tiền",   
+                        "en":"Enter money amount"
+                },
+                 "txt_name":{
+                        "vi":"Họ và Tên",   
+                        "en":"Full Name"
+                },
+                 "txt_transfer_to_bank":{
+                        "vi":"CHUYỂN TIỀN VÀO TÀI KHOẢN",   
+                        "en":"TRANSFER TO BANK ACCOUNT"
+                },
+                 "txt_note":{
+                        "vi":"Lưu ý",   
+                        "en":"Note"
+                },
+                 "txt_bank_transfer_note":{
+                        "vi":"Chuyển khoản ngân hàng / QR - Banking",   
+                        "en":"Bank transfer /QR - Banking"
+                },
+                 "txt_bank_transfer_note_1":{
+                        "vi":"- Họ và tên ghi không dấu",   
+                        "en":"- Names are written without accents"
+                },
+                 "txt_bank_transfer_note_2":{
+                        "vi":"- Họ và tên có ít nhất 1 khoảng trắng",   
+                        "en":"- Full name with at least 1 space"
+                },
+                 "txt_bank_transfer_note_3":{
+                        "vi":"- Nạp tối thiểu 100.000 VND/giao dịch",   
+                        "en":"- Deposit at least 100,000 VND/transaction."
+                },
+                 "txt_bank_transfer_note_5":{
+                        "vi":"- Nạp tối thiểu 50.000 VND/giao dịch",   
+                        "en":"- Deposit at least 50,000 VND/transaction."
+                },
+                 "txt_bank_transfer_note_6":{
+                        "vi":"- Nạp tối thiểu 20.000 VND/giao dịch",   
+                        "en":"- Deposit at least 20,000 VND/transaction."
+                },
+                 "txt_bank_transfer_note_4":{
+                        "vi":"- Nạp tối đa 300.000.000 VND/giao dịch",   
+                        "en":"- Deposit up to 300,000,000 VND/transaction"
+                },
+                 "txt_bank_transfer_note_7":{
+                        "vi":"- Nạp tối đa 20.000.000 VND/giao dịch",   
+                        "en":"- Deposit up to 20,000,000 VND/transaction"
+                },
+                 "txt_bank_transfer_note_8":{
+                        "vi":"- Miễn phí nạp tiền.",   
+                        "en":"- Free transfer"
+                },
+                 "txt_bank_transfer_note_9":{
+                        "vi":"Nội dung chuyển khoản: nạp ",   
+                        "en":"Transfer message : nạp "
+                },
+                 "txt_bank_transfer_note_10":{
+                        "vi":"Họ và tên bắt buộc phải có 1 khoảng trắng.",   
+                        "en":"Full name with at least 1 space"
+                },
+                 "txt_transfer_note_11":{
+                        "vi":"Thông Tin Chuyển Khoản",
+                        "en":"Transfer Infomation"
+                },
+                 "txt_bank_transfer_momo":{
+                        "vi":"Chuyển MOMO",   
+                        "en":"MOMO Transfer"
+                },
+                 "txt_bank_transfer_momo_qr":{
+                        "vi":"Chuyển Khoản MOMO-QR",   
+                        "en":"MOMO Transfer QR"
+                },
+                 "txt_bank_transfer_zalo_qr":{
+                        "vi":"Chuyển Khoản ZALO-QR",   
+                        "en":"ZALO Transfer QR"
+                },
+                 "txt_note_bank_1":{
+                        "vi":"- Chuyển tiền cùng ngân hàng",   
+                        "en":"- Transfer with the same bank"
+                },
+                 "txt_note_bank_2":{
+                        "vi":"- Hạn mức theo quy định của NPH",   
+                        "en":"- Limit as prescribed by publisher"
+                },
+                 "txt_note_bank_3":{
+                        "vi":"- Vui lòng giữ lại thông tin chuyển tiền",   
+                        "en":"- Please keep your transfer information"
+                },
+                 "txt_note_bank_4":{
+                        "vi":"- Kích hoạt SDT để được chăm sóc tốt hơn",   
+                        "en":"- Activate SDT for better care"
+                },
+                 "txt_note_transfer_1":{
+                        "vi":"Nội dung chuyển tiền là: ",   
+                        "en":"The content of the transfer is:"
+                },
+                 "txt_note_transfer_2":{
+                        "vi":"Sau khi chuyển tiền xong, nhấn Xác Nhận để hệ thống xử lý.",   
+                        "en":"After transferring, click Confirm for the system to process."
+                },
+                 "txt_note_transfer_3":{
+                        "vi":"Vui lòng chuyển tiền đến đúng số tài khoản, tên tài khoản.",   
+                        "en":"Please transfer to the correct account number and account name."
+                },
+                 "txt_note_transfer_4":{
+                        "vi":"Vui lòng nhập đúng số tài khoản, tên tài khoản.",   
+                        "en":"Please transfer to the correct account number and account name."
+                },
+                 "txt_note_transfer_5":{
+                        "vi":"Yêu cầu rút tiền thành công.",   
+                        "en":"Your requirement is successfully."
+                },
+                 "txt_note_transfer_6":{
+                        "vi":"Rút tiền thành công, vui lòng chờ 1h-24h để nhân viên xử lý.",   
+                        "en":"Your requirement is successfully, Please wait for 1-4 hour of processing."
+                },
+                 "txt_note_transfer_7":{
+                        "vi":"Rút tiền không thành công.",   
+                        "en":"Your requirement is not successfully."
+                },
+                 "txt_note_transfer_8":{
+                        "vi":"Nạp tiền thành công",   
+                        "en":"Recharge successfully"
+                },
+                 "txt_note_transfer_9":{
+                        "vi":"Rút thành công ",   
+                        "en":"Withdraw successfully "
+                },
+                 "txt_note_transfer_10":{
+                        "vi":"về tài khoản TOKIO88.",   
+                        "en":"to TOKIO88 account."
+                },
+                 "txt_note_cashout_1":{
+                        "vi":"- Rút tối thiểu 100.000 VNĐ/giao dịch",   
+                        "en":"- Withdraw at least 100.000 VND/transaction."
+                },
+                 "txt_note_cashout_2":{
+                        "vi":"- Rút tối đa : 300.000.000 VNĐ/giao dịch",   
+                        "en":"- Withdraw maximum 300.000.000 VND/transaction."
+                },
+                 "txt_note_cashout_3":{
+                        "vi":"- Rút tối đa : 5 giao dịch /ngày",   
+                        "en":"- Withdraw maximum: 5 transaction/day"
+                },
+                "txt_express_transfer":{
+                        "vi":"CHUYỂN NHANH SIÊU TỐC 24/7",   
+                        "en":"EXPRESS TRANSFER 24/7"
+                },
+                "txt_normal_transfer":{
+                        "vi":"CHUYỂN THƯỜNG",   
+                        "en":"NORMAL TRANSFER"
+                },
+                 "txt_verify_phone_success":{
+                        "vi":"Chúc mừng!\nBạn đã xác thực số điện thoại thành công.",   
+                        "en":"Congratulation!You have verified phone number successfully!"
+                },
+                 "txt_error":{
+                        "vi":"Thất bại!\nVui lòng thử lại sau.",   
+                        "en":"Failed! Please try again later."
+                },
+                 "txt_sms_otp_sended":{
+                        "vi":"Mã OTP đã được gửi về số điện thoại của bạn!",   
+                        "en":"OTP is sended to your phone number!"
+                },
+                 "txt_otp_invalid":{
+                        "vi":"Mã OTP không hợp lệ!",   
+                        "en":"OTP is invalid!"
+                },
+                 "txt_active":{
+                        "vi":"Kích hoạt",   
+                        "en":"Active"
+                },
+                 "txt_otp_bot":{
+                        "vi":"Cập nhật chính xác các thông tin bảo mật để đảm bảo các quyền lợi:\n- Xác thực tài khoản\n- Hỗ trợ giải quyết các khiếu nại nhanh chóng\n- Kích hoạt các tính năng bảo mật\n\nCác bước thực hiện cập nhật thông tin:\n- Nhập số điện thoại và nhấn tiếp tục\n- Nhập mã bảo mật để xác thực.\n\nChú ý : Số điện thoại sau khi cập nhật sẽ không thể thay dổi",   
+                        "en":"Correctly update security information\nTo ensure the benefits:\n- Account verification\n- Support to quickly resolve complaints\n- Enable security features\nSteps to update information:\n- Enter the phone number and press continue\n- Enter the security code for authentication.\n\nNote: The phone number after the update will not be changed"
+                },
+                  "txt_number_player":{
+                        "vi":"Số người",   
+                        "en":"Number player"
+                },
+                "txt_min_bet":{
+                        "vi":"Tối thiểu",   
+                        "en":"Min bet"
+                },
+                "txt_min_transfer":{
+                        "vi":"Chuyển tiền tối thiểu ",   
+                        "en":"Minimum transfering "
+                },
+                "txt_room":{
+                        "vi":"Phòng",   
+                        "en":"Room"
+                },
+                "txt_win_lose":{
+                        "vi":"Thắng/Thua",   
+                        "en":"Win/Lose"
+                },
+                "txt_enter_room_id":{
+                        "vi":"Nhập ID bàn...",   
+                        "en":"Enter room id..."
+                },
+                 "txt_hide_full_room":{
+                        "vi":"Ẩn bàn full",   
+                        "en":"Hide full room"
+                },
+                 "txt_play_now":{
+                        "vi":"Chơi ngay",   
+                        "en":"Play now"
+                },
+                 "txt_create_table":{
+                        "vi":"Tạo bàn chơi",   
+                        "en":"Create table"
+                },
+                 "txt_history_bet":{
+                        "vi":"LS Đặt Cược",   
+                        "en":"History"
+                },
+                 "txt_rank":{
+                        "vi":"BẢNG XẾP HẠNG",   
+                        "en":"RANK"
+                },
+                "txt_rank2":{
+                        "vi":"Hạng",   
+                        "en":"Rank"
+                },
+                "txt_win":{
+                        "vi":"Thắng",   
+                        "en":"Win"
+                },
+                 "txt_account":{
+                        "vi":"Tài khoản",   
+                        "en":"Account"
+                },
+                 "txt_guide":{
+                        "vi":"Hướng Dẫn",   
+                        "en":"Guide"
+                },
+                 "txt_guide_baucua":{
+                        "vi":"Giới thiệu:  Bầu Cua là trò chơi dân gian khá phổ biến\nở Việt Nam với luật chơi đơn giản. Trong 1 phiên sẽ có 6 cửa đặt\ngồm : Tôm, Cua, Cá, Bầu, Hươu, Gà.\n\nTrong thời gian đặt cược, người chơi tiến hành chọn 1 hoặc\nnhiều cửa muốn đặt và số tiền muốn đặt ở các cửa đó. Khi hết\nthời gian đặt cược hệ thống sẽ đưa ra kết quả xúc xắc.\n\nDựa theo kết quả và phần đặt cửa của người chơi để tính ra số\ntiền mà người chơi nhận được.\n\nChúc các bạn chơi game vui vẻ.",   
+                        "en":"Introduction: Gourd Crab is a popular folk game\nin Vietnam with simple rules of the game. In 1 session there will be 6 doors placed\nIncluding: Shrimp, Crab, Fish, Gourd, Deer, Chicken.\n\nDuring betting time, players proceed to choose 1 or\nmany doors want to place and the amount of money you want to place in those doors. When it ends\ntime bet the system will show dice results.\n\nBased on the results and the player's bet to calculate the number\nmoney the player receives.\n\nWish you have fun playing the game."
+                },
+                 "txt_session":{
+                        "vi":"Phiên",   
+                        "en":"Session"
+                },
+                "txt_result":{
+                        "vi":"Kết quả",   
+                        "en":"Result"
+                },
+                 "txt_bet":{
+                        "vi":"Cược",   
+                        "en":"Bet"
+                },
+                 "txt_unknown_error":{
+                        "vi":"Lỗi không xác định",   
+                        "en":"Unknown error"
+                },
+                 "txt_action_success":{
+                        "vi":"Thao tác thành công!",   
+                        "en":"Action success!"
+                },
+                 "txt_change_password_note":{
+                        "vi":"Hệ thống đã ghi nhận thông báo của quý khách. Hệ thống đang tiến hành kiểm tra và hỗ trợ trong vòng 24h. Vui lòng kiểm tra Email và số điện thoại đã kích hoạt bảo mật!",   
+                        "en":"The system has recorded your message. The system is checking and supporting within 24 hours. Please check your email and phone number with security enabled"
+                },
+
+                 "txt_action_not_success":{
+                        "vi":"Thao tác không thành công,\nVui lòng thử lại sau!",   
+                        "en":"Action failed,\nPlease try again later!"
+                },
+                 "txt_unknown_error1":{
+                        "vi":"Có lỗi xảy ra!\nVui lòng thử lại sau.",   
+                        "en":"Error!\nPlease try again later."
+                },
+                 "txt_money_error":{
+                        "vi":"Số tiền đã nhập không hợp lệ.",   
+                        "en":"Input money is illegal."
+                },
+                 "txt_money_error2":{
+                        "vi":"Số tiền tối thiểu là: ",   
+                        "en":"Minimum money is:"
+                },
+                 "txt_tienlen_pass":{
+                        "vi":"Bỏ lượt",   
+                        "en":"Pass"
+                },
+                 "txt_tienlen_submit":{
+                        "vi":"Đánh bài",   
+                        "en":"Submit"
+                },
+                 "txt_sound":{
+                        "vi":"Âm Thanh",   
+                        "en":"Sound"
+                },
+                 "txt_music":{
+                        "vi":"Nhạc Nền",   
+                        "en":"Music"
+                },
+                 "txt_language":{
+                        "vi":"Ngôn Ngữ",   
+                        "en":"Language"
+                },
+                 "txt_logout":{
+                        "vi":"Đăng Xuất",   
+                        "en":"Logout"
+                },
+                 "txt_policy":{
+                        "vi":"Chính Sách và Điều Khoản",   
+                        "en":"Term and Policy"
+                },
+                 "txt_transfer1":{
+                        "vi":"Ch.Quỹ",   
+                        "en":"Transfer"
+                },
+                 "txt_history":{
+                        "vi":"Lịch Sử",   
+                        "en":"History"
+                },
+                  "txt_security":{
+                        "vi":"OTP",   
+                        "en":"OTP"
+                },
+                 "txt_security_success":{
+                        "vi":"Kích hoạt bảo mật thành công!",   
+                        "en":"Security activation successfully!"
+                },
+                 "txt_security_error":{
+                        "vi":"Kích hoạt bảo mật không thành công!",   
+                        "en":"Security activation failed!"
+                },
+                  "txt_setting":{
+                        "vi":"Cài Đặt",   
+                        "en":"Setting"
+                },
+                  "txt_mission":{
+                        "vi":"Nhiệm Vụ",   
+                        "en":"Mission"
+                },
+                  "txt_support":{
+                        "vi":"CSKH 24/7",   
+                        "en":"Support 24/7"
+                },
+                  "txt_mail":{
+                        "vi":"Hòm Thư",   
+                        "en":"Mailbox"
+                },
+                  "txt_agency":{
+                        "vi":"Đại Lý",   
+                        "en":"Agency"
+                },
+                  "txt_download_app":{
+                        "vi":"Tải App",   
+                        "en":"Download"
+                },
+                "txt_notify_change_language":{
+                        "vi":"Đổi ngôn ngữ thành công!",   
+                        "en":"Change language successfully!"
+                },
+                "txt_notify_fast_action":{
+                        "vi":"Thao tác quá nhanh!",   
+                        "en":"Too fast action!"
+                },
+                "txt_notify":{
+                        "vi":"Thông Báo",   
+                        "en":"Notification"
+                },
+                "txt_not_config":{
+                        "vi":"Cập Nhật",   
+                        "en":"Update"
+                },
+                "txt_coin":{
+                        "vi":"Xu",   
+                        "en":"Coin"
+                },
+                "txt_profile_note_bank1":{
+                        "vi":"- Bạn có thể có tối đa [5] tài khoản ngân hàng,hiện tại bạn đang có [%s] tài khoản.",   
+                        "en":"- You can have up to [5] bank accounts, currently you have [%s] account."
+                },
+                "txt_profile_note_bank2":{
+                        "vi":"- Từ tài khoản ngân hàng thứ [2] trở đi phải trùng tên chủ tài khoản với tài khoản đầu tiên.",   
+                        "en":"- From the second bank account [2], the name of the account holder must be the same as the first account."
+                },
+                "txt_profile_note_bank3":{
+                        "vi":"- Nếu bạn khóa danh sách tài khoản, bạn sẽ không thể thêm mới hoặc xóa tài khoản ngân hàng.",   
+                        "en":"- If you lock the account list, you will not be able to add new or delete bank accounts."
+                },
+                "txt_profile_note_bank4":{
+                        "vi":"- Chủ tài khoản và Chi Nhánh không được ghi dấu",   
+                        "en":"- Account holder and Affiliate are not marked"
+                },
+                "txt_payment":{
+                        "vi":"Thanh Toán",   
+                        "en":"Transfer"
+                },
+                "txt_from_account":{
+                        "vi":"Từ tài khoản",   
+                        "en":"From account"
+                },
+                "txt_main_account":{
+                        "vi":"Tài khoản chính",   
+                        "en":"Main account"
+                },
+                "txt_money_atleast_1K":{
+                        "vi":"Ít nhất 1,000 VNĐ",   
+                        "en":"At least 1,000 VNĐ"
+                },
+                "txt_money_amount_vnd":{
+                        "vi":"Số Tiền(VNĐ)",   
+                        "en":"Money Amount(VNĐ)"
+                },
+                "txt_money_transfer_note":{
+                        "vi":"Lưu ý: 1,000 VNĐ [Tài khoản chính] = 1 điểm [cá cược AG,IBC,WM,SBO,EBET,BẮN CÁ] khi cược.",   
+                        "en":"Note: 1,000 VND [Main account] = 1 point [betting AG,IBC,WM,SBO,EBET,BẮN CÁ] when betting."
+                },
+                "txt_all":{
+                        "vi":"Tất cả",   
+                        "en":"All"
+                },
+                "txt_tele_safe_note":{
+                        "vi":"Cài đặt và gắn kết tài khoản Telegram để hưởng nhiều quyền lợi hơn và ưu đãi:\n+ Nhận OTP nhanh chóng,an toàn và miễn phí.\n+ Nhận Giftcode và quà tặng không giới hạn.",   
+                        "en":"Install and connect your Telegram account to enjoy more benefits and offers:\n+ Get OTP fast, safe and free.\n+ Get unlimited Giftcodes and gifts."
+                },
+                "txt_agency_note":{
+                        "vi":"Để đăng ký làm đại lý của GO88.\nXin quý khách vui lòng liên hệ với các contact bên đây:",   
+                        "en":"To register as an agent of GO88.\nPlease feel free to contact the following contacts:"
+                },
+                "txt_agency_code":{
+                        "vi":"Mã đại lý(không bắt buộc)",   
+                        "en":"Agency code(optional)"
+                },
+				"txt_agency_note1":{
+                        "vi":"Bạn không thuộc nhóm đại lý này!",   
+                        "en":"You are not in this agent's group!"
+                },
+"txt_agency_code1":{
+                        "vi":"Mã đại lý",   
+                        "en":"Agency ID"
+                },
+                "txt_agency_code_1":{
+                        "vi":"Mã đại lý",   
+                        "en":"Reference code"
+                },
+                "txt_tab_game_all":{
+                        "vi":"Tất Cả",   
+                        "en":"All Game"
+                },
+                "txt_tab_game_sport":{
+                        "vi":"Thể Thao",   
+                        "en":"Sport"
+                },
+                "txt_tab_game_live":{
+                        "vi":"Live Casino",   
+                        "en":"Live Casino"
+                },
+                "txt_tab_game_slot":{
+                        "vi":"Nổ Hũ",   
+                        "en":"Slot Game"
+                },
+                "txt_tab_game_mini":{
+                        "vi":"Mini Game",   
+                        "en":"Mini Game"
+                },
+                "txt_tab_game_card":{
+                        "vi":"Game Bài",   
+                        "en":"Cards Game"
+                },
+                "txt_not_enough_money":{
+                        "vi":"Không đủ tiền để tham gia phòng này. Hãy nạp thêm tiền",   
+                        "en":"You do not have enough money. Please add more in shop"
+                },
+                "txt_coming_soon":{
+                        "vi":"Game sắp ra mắt!",   
+                        "en":"Coming soon!"
+                },
+                "txt_reparing":{
+                        "vi":"Game đang bảo trì!",   
+                        "en":"Game is maintenance"
+                },
+                "txt_session_end":{
+                        "vi":"Phiên làm việc hết hạn.\nVui lòng tải lại!",   
+                        "en":"Session ended.\nPlease reload game!"
+                },
+                "txt_login_error":{
+                        "vi":"Đăng nhập không thành công, vui lòng kiểm tra lại kết nối.",   
+                        "en":"Login error, Please check your network connection."
+                },
+                "txt_login_account_blocked":{
+                        "vi":"Tài khoản đã bị khoá.",   
+                        "en":"Your account is blocked."
+                },
+                "txt_login_account_not_exsist":{
+                        "vi":"Tài khoản không tồn tại.",   
+                        "en":"Account does not exist."
+                },
+                "txt_login_account_exsisted":{
+                        "vi":"Tài khoản đã tồn tại.",   
+                        "en":"Account existed."
+                },
+                "txt_login_account_not_get_info":{
+                        "vi":"Không thể lấy thông tin tài khoản này.",   
+                        "en":"Can not access this account's infomation."
+                },
+                "txt_login_account_name_not_the_same":{
+                        "vi":"Tên đăng nhập và mật khẩu không trùng khớp.",   
+                        "en":"Username and passwords is not the same."
+                },
+                "txt_login_account_name_not_the_same1":{
+                        "vi":"Tên đăng nhập và mật khẩu không được trùng khớp.",   
+                        "en":"Username and passwords can not be the same."
+                },
+                "txt_login_account_incorrect_otp":{
+                        "vi":"Mã OTP không chính xác.",   
+                        "en":"OTP code is incorrect."
+                },
+                "txt_login_account_expired_otp":{
+                        "vi":"Mã OTP đã hết hạn!",   
+                        "en":"OTP expired."
+                },
+                "txt_login_username_not_blank":{
+                        "vi":"Tên đăng nhập không được để trống.",   
+                        "en":"Username cannot be blank."
+                },
+                "txt_login_nickname_not_blank":{
+                        "vi":"Tên hiển thị không được để trống.",   
+                        "en":"Nickname cannot be blank."
+                },
+                "txt_login_nickname_error":{
+                        "vi":"Tên hiển thị không hợp lệ!",   
+                        "en":"Nickname invalid!"
+                },
+                "txt_login_nickname_exist":{
+                        "vi":"Tên hiển đã tồn tại!",   
+                        "en":"Nickname existed!"
+                },
+                "txt_login_nickname_error1":{
+                        "vi":"Tên hiển không được trùng với tên đăng nhập!",   
+                        "en":"Nickname and Username Cannot be the same!"
+                },
+                "txt_login_nickname_error2":{
+                        "vi":"Không chọn tên hiển thị nhạy cảm!",   
+                        "en":"Do not choose a sensitive nickname!"
+                },
+                "txt_login_username_error":{
+                        "vi":"Tên đăng nhập không hợp lệ!",   
+                        "en":"Username invalid."
+                },
+                "txt_login_account_not_blank":{
+                        "vi":"Chủ tài khoản bắt buộc phải có 1 khoảng trắng!",   
+                        "en":"Account name must have a blank!"
+                },
+                "txt_login_password_not_blank":{
+                        "vi":"Mật khẩu không được để trống.",   
+                        "en":"Passwords cannot be blank."
+                },
+                "txt_login_password_error":{
+                        "vi":"Mật khẩu không đúng!",   
+                        "en":"Passwords invalid!"
+                },
+                "txt_login_from_other":{
+                        "vi":"Tài khoản của bạn đã được đăng nhập từ một nơi khác!",   
+                        "en":"Your account is logged from other places!"
+                },
+                "txt_cash_out_min":{
+                        "vi":"Rút tối thiểu ",   
+                        "en":"Withdraw at least "
+                },
+                "txt_cash_in_min":{
+                        "vi":"Nạp tối thiểu ",   
+                        "en":"Recharge at least "
+                },
+                "txt_cash_in_max":{
+                        "vi":"Nạp tối đa ",   
+                        "en":"Recharge maximum "
+                },
+                "txt_cash_out_max":{
+                        "vi":"Rút tối đa ",   
+                        "en":"Withdraw maximum "
+                },
+                "txt_not_enough":{
+                        "vi":"Số dư không đủ.",   
+                        "en":"Money is not enough."
+                },
+                "txt_need_login":{
+                        "vi":"Bạn chưa đăng nhập.",   
+                        "en":"You need login."
+                },
+                "txt_function_in_development":{
+                        "vi":"Tính năng đang phát triển.",   
+                        "en":"Functions in development."
+                },
+                "txt_ask_logout":{
+                        "vi":"Bạn có muốn đăng xuất khỏi tài khoản?",   
+                        "en":"Do you want to logout?"
+                },
+                "txt_loading":{
+                        "vi":"Đang kết nối...",   
+                        "en":"Conecting..."
+                },
+                "txt_loading1":{
+                        "vi":"Đang tải...",   
+                        "en":"Loading..."
+                },
+                "txt_check_connect":{
+                        "vi":"Kết nối mạng không ổn định!\n Vui lòng thử lại sau.",   
+                        "en":"Connection is unstable!\nPlease try again later."
+                },
+                "txt_input_all":{
+                        "vi":"Vui lòng điền đầy đủ thông tin!",   
+                        "en":"Please enter full information!"
+                },
+                "txt_input_error":{
+                        "vi":"Thông tin không chính xác!\nVui lòng kiểm tra lại.",
+                        "en":"Infomation incorrect!\nPlease check again."
+                },
+                "txt_room_err1":{
+                        "vi":"Lỗi kiểm tra thông tin!",   
+                        "en":"Infomation checking error!"
+                },
+                "txt_room_err2":{
+                        "vi":"Không tìm được phòng thích hợp. Vui lòng thử lại sau!",   
+                        "en":"Couldn't find a suitable room. Please try again later!"
+                },
+                "txt_room_err3":{
+                        "vi":"Bạn không đủ tiền vào phòng chơi này!",   
+                        "en":"You don't have enough money to join this room!"
+                },
+                "txt_room_err5":{
+                        "vi":"Mỗi lần vào phòng phải cách nhau 10 giây!",   
+                        "en":"Each time entering the room must be 10 seconds apart!"
+                },
+                "txt_room_err6":{
+                        "vi":"Hệ thống bảo trì!",   
+                        "en":"The system is maintenance"
+                },
+                "txt_profile_note":{
+                        "vi":"Chức năng này chỉ áp dụng cho những tài khoản đã đăng ký bảo mật SMS PLUS",   
+                        "en":"This function only applies to accounts registered with SMS PLUS security"
+                },
+                "txt_profile_click":{
+                        "vi":"Click vào đây!",   
+                        "en":"Click here!"
+                },
+                "txt_room_err7":{
+                        "vi":"Không tìm thấy phòng chơi!",   
+                        "en":"Couldn't find room "
+                },
+                "txt_room_err8":{
+                        "vi":"Mật khẩu phòng chơi không đúng!",   
+                        "en":"Passwors is incorrect!"
+                },
+                "txt_room_err9":{
+                        "vi":"Phòng chơi đã đủ người!",   
+                        "en":"Room is full!"
+                },
+                "txt_room_err10":{
+                        "vi":"Bạn bị chủ phòng không cho vào bàn!",   
+                        "en":"You are not allowed to enter the table by the owner of the room!"
+                },
+                 "txt_room_err11":{
+                        "vi":"Mật khẩu phòng chơi khộng đúng!",   
+                        "en":"Room password incorrect!"
+                },
+                 "txt_room_err12":{
+                        "vi":"Không thể tạo bàn trong game này!",   
+                        "en":"Cannot create room in this game!"
+                },
+                 "txt_room_err13":{
+                        "vi":"Bạn bị mời ra khỏi phòng vì quá lâu không tương tác!",   
+                        "en":"You were kicked out of the room for being inactive for a long time!"
+                },
+                 "txt_room_leave":{
+                        "vi":"Đăng ký rời phòng!",   
+                        "en":"Request leave room!"
+                },
+                 "txt_room_cancel_leave":{
+                        "vi":"Huỷ đăng ký rời phòng!",   
+                        "en":"Cancel request leave room!"
+                },
+                "txt_otp_delay_time":{
+                        "vi":"Mỗi thao tác lấy SMS OTP phải cách nhau ít nhất 5 phút!",   
+                        "en":"Each OTP must be take 5 minutes a part!"
+                },
+                "txt_otp_send":{
+                        "vi":"Mã OTP đã được gửi đi!",   
+                        "en":"OTP sended!"
+                },
+                "txt_error_exchange":{
+                        "vi":"Giao dịch thất bại!",   
+                        "en":"Exchange failed!"
+                },
+                "txt_content_copied":{
+                        "vi":"Sao chép nội dung: ",   
+                        "en":"Content copied: "
+                },
+                "txt_giftcode_blank":{
+                        "vi":"Mã quà tặng không được để trống!",   
+                        "en":"Giftcode can not be blank!"
+                },
+                "txt_giftcode_success":{
+                        "vi":"Nhận thưởng thành công!",   
+                        "en":"Receive gift successfully!"
+                },
+                "txt_giftcode_expired":{
+                        "vi":"Giftcode hết hạn sử dụng!",   
+                        "en":"Giftcode expired!"
+                },
+                "txt_giftcode_not_suitable":{
+                        "vi":"Giftcode không phù hợp đối tượng!",   
+                        "en":"Giftcode is not suitable!"
+                },
+                "txt_giftcode_used":{
+                        "vi":"Bạn đã sử dụng giftcode này!",   
+                        "en":"You have used this giftcode!"
+                },
+                "txt_giftcode_used_event":{
+                        "vi":"Giftcode đã sử dụng trong mùa event!",   
+                        "en":"Giftcode used during the event season!"
+                },
+                "txt_giftcode_check_phone":{
+                        "vi":"Vui lòng kích hoạt số điện thoại!",   
+                        "en":"Please activate the phone number!"
+                },
+                "txt_giftcode_incorrect":{
+                        "vi":"Giftcode không đúng!",   
+                        "en":"Giftcode incorrect!"
+                },
+                "txt_phone_number_incorrect":{
+                        "vi":"Số điện thoại không hợp lệ!",   
+                        "en":"Phone number is invalid!"
+                },
+                "txt_phone_number_incorrect2":{
+                        "vi":"Số điện thoại mới không được trùng với số điện thoại cũ!",   
+                        "en":"New phone number must be different with old phone number!"
+                },
+                "txt_password_incorrect3":{
+                        "vi":"Mật khẩu không trùng khớp!",   
+                        "en":"Passwords are not the same!"
+                },
+                "txt_phone_number_incorrect1":{
+                        "vi":"Số điện thoại được đăng ký bởi tài khoản khác!",   
+                        "en":"Phone number is verify with other account!"
+                },
+                "txt_reward":{
+                        "vi":"Chúc mừng bạn đã nhận được:",   
+                        "en":"Congratulations on getting:"
+                },
+                "txt_bet_error":{
+                        "vi":"Tiền cược phải là số dương!",   
+                        "en":"Money bet must be positive numbers"
+                },
+                "txt_bet_error1":{
+                        "vi":"Không thể đặt quá hạn mức của cửa!",   
+                        "en":"Cannot bet more than gate's maximum amount!"
+                },
+                "txt_bet_error2":{
+                        "vi":"Đặt cược thất bại!",   
+                        "en":"Bet error!"
+                },
+                "txt_bet_success":{
+                        "vi":"Đặt cược thành công!",   
+                        "en":"Bet successfully!"
+                },
+                "txt_bet_error3":{
+                        "vi":"Chưa đến thời gian đặt cược!",   
+                        "en":"It's not time to bet yet!"
+                },
+                "txt_bet_error4":{
+                        "vi":"Chưa đặt cược!",   
+                        "en":"Not bet yet!"
+                },
+                "txt_bet_error5":{
+                        "vi":"Bạn chưa đặt cược trước đó!",   
+                        "en":"Not bet yet!"
+                },
+                "txt_bet_error6":{
+                        "vi":"Bạn chỉ có thể đặt lại cho lần cược đầu tiên!",   
+                        "en":"You can rebet only for the first beting!"
+                },
+                "txt_bet_error7":{
+                        "vi":"Số tiền cược không hợp lệ!",   
+                        "en":"Bet amount invalid!"
+                },
+                "txt_bet_error8":{
+                        "vi":"Đã hết thời gian đặt cược!",   
+                        "en":"Time to bet is ended!"
+                },
+                "txt_bet_error9":{
+                        "vi":"Vui lòng chọn mức cược!",   
+                        "en":"Please select bet amount!"
+                },
+                "txt_bet_invite":{
+                        "vi":"Mời đặt cược!",   
+                        "en":"Start bet!"
+                },
+                "txt_taixiu_finish":{
+                        "vi":"Bắt đầu trả thưởng!",   
+                        "en":"Start reward!"
+                },
+                "txt_slot_error":{
+                        "vi":"Không hỗ trợ chức năng này ở chế độ chơi thử!",   
+                        "en":"This function do not supported in trial mode!"
+                },
+                "txt_taixiu_refund":{
+                        "vi":"Trả tiền cân cửa!",   
+                        "en":"Refund and Balance"
+                },
+                "txt_taixiu_refund1":{
+                        "vi":"Trả lại",   
+                        "en":"Refund"
+                },
+                "txt_taixiu_new_session":{
+                        "vi":"Bắt đầu phiên mới!",   
+                        "en":"Start new session!"
+                },
+                "txt_taixiu_chat_error":{
+                        "vi":"Bạn không có quyền chat!",   
+                        "en":"You do not have permisstion to chat!"
+                },
+                "txt_taixiu_chat_error1":{
+                        "vi":"Tạm thời bị cấm chat!",   
+                        "en":"You cannot chat for a time!"
+                },
+                "txt_taixiu_chat_error2":{
+                        "vi":"Nội dung chat quá dài!",   
+                        "en":"Message too long!"
+                },
+                "txt_taixiu_chat_error4":{
+                        "vi":"Bạn không thể đặt hai cửa!",   
+                        "en":"Cannot bet two gate for one session!"
+                },
+                "txt_taixiu_chat_error3":{
+                        "vi":"Bạn không thể chat vào lúc này!",   
+                        "en":"Cannot chat at the moment!"
+                },
+                "txt_taixiu_choose_gate":{
+                        "vi":"Vui lòng chọn cửa!",   
+                        "en":"Please choose gate!"
+                },
+                "txt_out_game":{
+                        "vi":"Bạn đã ra rời game quá lâu!",   
+                        "en":"You had leave out to long!"
+                },
+                "txt_check_phone_number":{
+                        "vi":"Vui lòng nhập đúng định dạng số điện thoại!",   
+                        "en":"Please enter correct phone number format!"
+                },
+                "txt_check_teleSafe":{
+                        "vi":"Vui lòng hoàn thành xác thực sô điện thoại của bạn trên ứng dụng Telegram.",   
+                        "en":"Please complete verify phone number on Telegram app."
+                },
+                "txt_new_mail":{
+                        "vi":"Bạn có một thư mới!\nXem ngay bây giờ?",   
+                        "en":"You have a new mail!\nCheck it now?"
+                },
+                "txt_change_info":{
+                        "vi":"Cập Nhật Thông Tin",   
+                        "en":"Update Infomation"
+                },
+                "txt_error_birthday":{
+                        "vi":"Vui lòng nhập đúng định dạng ngày sinh!\n(yyyy-mm-dd)",   
+                        "en":"Please input birthday format!\n(yyyy-mm-dd)"
+                },
+                "txt_birthday":{
+                        "vi":"Ngày Sinh",   
+                        "en":"Birthday"
+                },
+                "txt_address":{
+                        "vi":"Địa Chỉ",   
+                        "en":"Address"
+                },
+                "txt_gender":{
+                        "vi":"Giới Tính",   
+                        "en":"Gender"
+                },
+                "txt_gender_male":{
+                        "vi":"Nam",   
+                        "en":"Male"
+                },
+                "txt_gender_female":{
+                        "vi":"Nữ",   
+                        "en":"Female"
+                },
+                "txt_gender_other":{
+                        "vi":"Khác",   
+                        "en":"Other"
+                },
+                "txt_refund":{
+                        "vi":"Hoàn Cược",   
+                        "en":"Cash Back"
+                },
+                "txt_refund_success":{
+                        "vi":"Chúc mừng!\n Bạn đã nhận hoàn cược thành công.Vui lòng kiểm tra hòm thư để biết thêm chi tiết.",   
+                        "en":"Congratulation!\n You had get refund successfully.Please check mail to get infomation."
+                },
+                "txt_refund_receive":{
+                        "vi":"Đã Nhận",   
+                        "en":"Received"
+                },
+                "txt_refund_error":{
+                        "vi":"Không có thông tin",   
+                        "en":"No Infomation"
+                },
+               
+                "txt_refund_confirm":{
+                        "vi":"Bạn có muốn nhận tiền hoàn cược của ngày:",   
+                        "en":"Do you want to get refund of day:"
+                },
+                "txt_failed":{
+                        "vi":"Thất bại",   
+                        "en":"Failed"
+                },
+                "txt_success":{
+                        "vi":"Thành công",   
+                        "en":"Success"
+                },
+                "txt_request_cashout":{
+                        "vi":"Đã gửi yêu cầu",   
+                        "en":"Request sended"
+                },
+                "txt_pending":{
+                        "vi":"Chưa Xử Lý",   
+                        "en":"Pending"
+                },
+                "txt_attendance":{
+                        "vi":"Điểm Danh",   
+                        "en":"Attendance"
+                },
+                "txt_receive2":{
+                        "vi":"Đang Xử Lý",   
+                        "en":"Received"
+                },
+                "txt_progress":{
+                        "vi":"Tiến Trình",   
+                        "en":"Progress"
+                },
+                "txt_end_after":{
+                        "vi":"Kết thúc sau:",   
+                        "en":"End after:"
+                },
+                "txt_caothap_play":{
+                        "vi":"Nhấn nút \"Play\" để bắt đầu",   
+                        "en":"Press \"Play\" to start"
+                },
+                "txt_mail_title":{
+                        "vi":"Tiêu đề: ",   
+                        "en":"Title: "
+                },
+                "txt_mail_content":{
+                        "vi":"Nội dung: ",   
+                        "en":"Content: "
+                },
+                "txt_mail_time_send":{
+                        "vi":"Ngày gửi: ",   
+                        "en":"Time: "
+                },
+                "txt_mail_from":{
+                        "vi":"Người gửi: ",   
+                        "en":"From: "
+                },
+                "txt_tips_1":{
+                        "vi":"Đừng quên đăng nhập hàng ngày để nhận thưởng Điểm Danh bạn nhé!",   
+                        "en":"Dont forget login every day to get free attendance bonus!"
+                },
+                "txt_tips_2":{
+                        "vi":"Tiến Lên Miền Nam: Chống gian lận,an toàn tuyệt đối",   
+                        "en":"Killer 13: Anti cheating,absolute safety"
+                },
+                "txt_tips_3":{
+                        "vi":"Nạp đầu nhận thưởng lên tới 790K",   
+                        "en":"First cash-in can receive bonus up to 790K"
+                },
+                "txt_tips_4":{
+                        "vi":"Bộ phận chăm sóc khách hàng luôn online 24/24 bạn nhé!",   
+                        "en":"Customer care team support online 24/24!"
+                },
+                "txt_tips_5":{
+                        "vi":"TOKIO88 nạp rút nhanh chóng và an toàn!",   
+                        "en":"TOKIO88 quick cashin,cashout and alway safety!"
+                },
+                "txt_congratualtion":{
+                        "vi":"Chúc mừng",   
+                        "en":"Congratulation"
+                },
+                "txt_to_account":{
+                        "vi":"Tới",   
+                        "en":"To"
+                }
+            }

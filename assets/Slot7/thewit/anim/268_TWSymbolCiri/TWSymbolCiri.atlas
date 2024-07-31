@@ -1,0 +1,118 @@
+
+TWSymbolCiri.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Frame
+  rotate: true
+  xy: 2, 49
+  size: 12, 149
+  orig: 12, 149
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 167, 175
+  size: 78, 79
+  orig: 78, 79
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 168
+  size: 163, 86
+  orig: 163, 86
+  offset: 0, 0
+  index: -1
+bongtay
+  rotate: false
+  xy: 185, 141
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+buitoc
+  rotate: true
+  xy: 2, 2
+  size: 45, 63
+  orig: 45, 63
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 179, 32
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+goc khung
+  rotate: true
+  xy: 153, 44
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 63
+  size: 111, 103
+  orig: 111, 103
+  offset: 0, 0
+  index: -1
+ngontro
+  rotate: false
+  xy: 185, 92
+  size: 43, 16
+  orig: 43, 16
+  offset: 0, 0
+  index: -1
+sparkle
+  rotate: true
+  xy: 115, 95
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+spotlight
+  rotate: false
+  xy: 217, 43
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+tay
+  rotate: false
+  xy: 181, 68
+  size: 61, 22
+  orig: 61, 22
+  offset: 0, 0
+  index: -1
+tocmai1
+  rotate: true
+  xy: 185, 110
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+tocmai2
+  rotate: false
+  xy: 241, 107
+  size: 13, 66
+  orig: 13, 66
+  offset: 0, 0
+  index: -1
+tocmaiphai
+  rotate: true
+  xy: 115, 73
+  size: 20, 64
+  orig: 20, 64
+  offset: 0, 0
+  index: -1
+tocmaitrai
+  rotate: true
+  xy: 67, 18
+  size: 29, 78
+  orig: 29, 78
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,65 @@
+{
+"skeleton": { "hash": "0HUt4W7POvIC8ZUKlGyb5y2pHGk", "spine": "3.6.53", "width": 0, "height": 0, "images": "../" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Coin", "bone": "root" }
+],
+"skins": {
+	"default": {
+		"Coin": {
+			"Thang/Coin/images/Coin_01": { "width": 65, "height": 65 },
+			"Thang/Coin/images/Coin_03": { "width": 65, "height": 65 },
+			"Thang/Coin/images/Coin_04": { "x": 4.52, "width": 65, "height": 65 },
+			"Thang/Coin/images/Coin_05": { "width": 65, "height": 65 },
+			"Thang/Coin/images/Coin_06": { "x": -3.83, "width": 65, "height": 65 },
+			"Thang/Coin/images/Coin_07": { "width": 65, "height": 65 },
+			"Thang/Coin/images/Coin_08": { "width": 65, "height": 65 },
+			"Thang/Coin/images/Coin_09": { "width": 65, "height": 65 }
+		}
+	}
+},
+"animations": {
+	"Idle": {
+		"slots": {
+			"Coin": {
+				"attachment": [
+					{ "time": 0, "name": "Thang/Coin/images/Coin_01" },
+					{ "time": 0.0667, "name": "Thang/Coin/images/Coin_03" },
+					{ "time": 0.1333, "name": "Thang/Coin/images/Coin_04" },
+					{ "time": 0.2, "name": "Thang/Coin/images/Coin_05" },
+					{ "time": 0.2667, "name": "Thang/Coin/images/Coin_06" },
+					{ "time": 0.3333, "name": "Thang/Coin/images/Coin_07" },
+					{ "time": 0.4, "name": "Thang/Coin/images/Coin_08" },
+					{ "time": 0.4667, "name": "Thang/Coin/images/Coin_09" },
+					{ "time": 0.5333, "name": "Thang/Coin/images/Coin_01" },
+					{ "time": 0.6, "name": "Thang/Coin/images/Coin_03" },
+					{ "time": 0.6667, "name": "Thang/Coin/images/Coin_04" },
+					{ "time": 0.7333, "name": "Thang/Coin/images/Coin_05" },
+					{ "time": 0.8, "name": "Thang/Coin/images/Coin_06" },
+					{ "time": 0.8667, "name": "Thang/Coin/images/Coin_07" },
+					{ "time": 0.9333, "name": "Thang/Coin/images/Coin_08" },
+					{ "time": 1, "name": "Thang/Coin/images/Coin_09" },
+					{ "time": 1.0667, "name": "Thang/Coin/images/Coin_01" },
+					{ "time": 1.1333, "name": "Thang/Coin/images/Coin_03" },
+					{ "time": 1.2, "name": "Thang/Coin/images/Coin_04" },
+					{ "time": 1.2667, "name": "Thang/Coin/images/Coin_05" },
+					{ "time": 1.3333, "name": "Thang/Coin/images/Coin_06" },
+					{ "time": 1.4, "name": "Thang/Coin/images/Coin_07" },
+					{ "time": 1.4667, "name": "Thang/Coin/images/Coin_08" },
+					{ "time": 1.5333, "name": "Thang/Coin/images/Coin_09" },
+					{ "time": 1.6, "name": "Thang/Coin/images/Coin_01" },
+					{ "time": 1.6667, "name": "Thang/Coin/images/Coin_03" },
+					{ "time": 1.7333, "name": "Thang/Coin/images/Coin_04" },
+					{ "time": 1.8, "name": "Thang/Coin/images/Coin_05" },
+					{ "time": 1.8667, "name": "Thang/Coin/images/Coin_06" },
+					{ "time": 1.9333, "name": "Thang/Coin/images/Coin_07" },
+					{ "time": 2, "name": "Thang/Coin/images/Coin_08" },
+					{ "time": 2.0667, "name": "Thang/Coin/images/Coin_09" }
+				]
+			}
+		}
+	}
+}
+}

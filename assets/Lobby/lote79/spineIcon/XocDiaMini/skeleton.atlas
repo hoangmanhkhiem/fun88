@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 31229
+  rotate: false
+  xy: 2, 2
+  size: 261, 250
+  orig: 261, 250
+  offset: 0, 0
+  index: -1
+Group 31230
+  rotate: false
+  xy: 816, 203
+  size: 199, 49
+  orig: 199, 49
+  offset: 0, 0
+  index: -1
+Layer 555
+  rotate: false
+  xy: 265, 26
+  size: 237, 226
+  orig: 237, 226
+  offset: 0, 0
+  index: -1
+dia copy
+  rotate: false
+  xy: 504, 118
+  size: 165, 134
+  orig: 165, 134
+  offset: 0, 0
+  index: -1
+nap
+  rotate: false
+  xy: 671, 123
+  size: 143, 129
+  orig: 143, 129
+  offset: 0, 0
+  index: -1

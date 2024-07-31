@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "737dfcdc-e548-443a-9650-e58837e0fb3d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 1024,
+  "platformSettings": {},
+  "subMetas": {
+    "livecasino2": {
+      "ver": "1.0.4",
+      "uuid": "e2d47e84-7ec0-4a11-8018-5ad9c8dc9c9d",
+      "rawTextureUuid": "737dfcdc-e548-443a-9650-e58837e0fb3d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -200.5,
+      "offsetY": 100.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 621,
+      "height": 821,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

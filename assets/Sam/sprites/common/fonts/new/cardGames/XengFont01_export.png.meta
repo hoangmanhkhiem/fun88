@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "2581f186-e51c-4afc-b0ce-348e51f10a4b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 475,
+  "height": 480,
+  "platformSettings": {},
+  "subMetas": {
+    "XengFont01_export": {
+      "ver": "1.0.4",
+      "uuid": "f3a8efab-aeb5-4be3-acb0-b31a74d45cea",
+      "rawTextureUuid": "2581f186-e51c-4afc-b0ce-348e51f10a4b",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 475,
+      "height": 480,
+      "rawWidth": 475,
+      "rawHeight": 480,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,349 @@
+
+TL_Symbol_Wind.png
+size: 973,259
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+New folder/Elements - Smoke 003 Up noCT noRSZ_00000
+  rotate: false
+  xy: 2, 2
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+New folder/Elements - Smoke 003 Up noCT noRSZ_00001
+  rotate: false
+  xy: 63, 2
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+New folder/Elements - Smoke 003 Up noCT noRSZ_00002
+  rotate: false
+  xy: 124, 2
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+New folder/Elements - Smoke 003 Up noCT noRSZ_00003
+  rotate: false
+  xy: 185, 2
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+New folder/Elements - Smoke 003 Up noCT noRSZ_00004
+  rotate: false
+  xy: 246, 2
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+New folder/Elements - Smoke 003 Up noCT noRSZ_00005
+  rotate: false
+  xy: 307, 2
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+New folder/Elements - Smoke 003 Up noCT noRSZ_00006
+  rotate: false
+  xy: 368, 2
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+New folder/Elements - Smoke 003 Up noCT noRSZ_00007
+  rotate: false
+  xy: 378, 190
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+New folder/Elements - Smoke 003 Up noCT noRSZ_00008
+  rotate: false
+  xy: 378, 121
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+New folder/Elements - Smoke 003 Up noCT noRSZ_00009
+  rotate: false
+  xy: 429, 3
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+New folder/Elements - Smoke 003 Up noCT noRSZ_00010
+  rotate: false
+  xy: 439, 190
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+New folder/Elements - Smoke 003 Up noCT noRSZ_00011
+  rotate: false
+  xy: 439, 121
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+New folder/Elements - Smoke 003 Up noCT noRSZ_00012
+  rotate: false
+  xy: 490, 52
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+New folder/Elements - Smoke 003 Up noCT noRSZ_00013
+  rotate: false
+  xy: 500, 190
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+New folder/Elements - Smoke 003 Up noCT noRSZ_00014
+  rotate: false
+  xy: 500, 121
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+New folder/Elements - Smoke 003 Up noCT noRSZ_00015
+  rotate: false
+  xy: 551, 52
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+New folder/Elements - Smoke 003 Up noCT noRSZ_00016
+  rotate: false
+  xy: 561, 190
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+New folder/Elements - Smoke 003 Up noCT noRSZ_00017
+  rotate: false
+  xy: 561, 121
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+New folder/Elements - Smoke 003 Up noCT noRSZ_00018
+  rotate: false
+  xy: 612, 52
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+New folder/Elements - Smoke 003 Up noCT noRSZ_00019
+  rotate: false
+  xy: 622, 190
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+New folder/Elements - Smoke 003 Up noCT noRSZ_00020
+  rotate: false
+  xy: 622, 121
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+New folder/Elements - Smoke 003 Up noCT noRSZ_00021
+  rotate: false
+  xy: 673, 52
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+New folder/Elements - Smoke 003 Up noCT noRSZ_00022
+  rotate: false
+  xy: 683, 190
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+New folder/Elements - Smoke 003 Up noCT noRSZ_00023
+  rotate: false
+  xy: 683, 121
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+New folder/Elements - Smoke 003 Up noCT noRSZ_00024
+  rotate: false
+  xy: 734, 52
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+effect/Elements - Simple Fire 003 Radial noRSZ_00000
+  rotate: false
+  xy: 378, 72
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+effect/Elements - Simple Fire 003 Radial noRSZ_00001
+  rotate: false
+  xy: 434, 72
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+effect/Elements - Simple Fire 003 Radial noRSZ_00002
+  rotate: false
+  xy: 490, 3
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+effect/Elements - Simple Fire 003 Radial noRSZ_00003
+  rotate: false
+  xy: 546, 3
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+effect/Elements - Simple Fire 003 Radial noRSZ_00004
+  rotate: false
+  xy: 602, 3
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+effect/Elements - Simple Fire 003 Radial noRSZ_00005
+  rotate: false
+  xy: 658, 3
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+effect/Elements - Simple Fire 003 Radial noRSZ_00006
+  rotate: false
+  xy: 714, 3
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+effect/Elements - Simple Fire 003 Radial noRSZ_00007
+  rotate: false
+  xy: 770, 3
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+effect/Elements - Simple Fire 003 Radial noRSZ_00008
+  rotate: true
+  xy: 744, 203
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+effect/Elements - Simple Fire 003 Radial noRSZ_00009
+  rotate: true
+  xy: 744, 147
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+effect/Elements - Simple Fire 003 Radial noRSZ_00010
+  rotate: true
+  xy: 793, 203
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+effect/Elements - Simple Fire 003 Radial noRSZ_00011
+  rotate: true
+  xy: 793, 147
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+effect/Elements - Simple Fire 003 Radial noRSZ_00012
+  rotate: true
+  xy: 795, 91
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+effect/Elements - Simple Fire 003 Radial noRSZ_00013
+  rotate: true
+  xy: 826, 35
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+effect/Elements - Simple Fire 003 Radial noRSZ_00014
+  rotate: true
+  xy: 842, 203
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+effect/Elements - Simple Fire 003 Radial noRSZ_00015
+  rotate: true
+  xy: 842, 147
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+effect/Elements - Simple Fire 003 Radial noRSZ_00016
+  rotate: true
+  xy: 844, 91
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+effect/Elements - Simple Fire 003 Radial noRSZ_00017
+  rotate: true
+  xy: 875, 35
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+effect/Elements - Simple Fire 003 Radial noRSZ_00018
+  rotate: false
+  xy: 891, 210
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+effect/Elements - Simple Fire 003 Radial noRSZ_00019
+  rotate: true
+  xy: 891, 154
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+effect/Elements - Simple Fire 003 Radial noRSZ_00020
+  rotate: true
+  xy: 893, 98
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+effect/Elements - Simple Fire 003 Radial noRSZ_00021
+  rotate: true
+  xy: 924, 42
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+ngocphong
+  rotate: false
+  xy: 2, 71
+  size: 186, 186
+  orig: 186, 186
+  offset: 0, 0
+  index: -1
+xoay
+  rotate: false
+  xy: 190, 71
+  size: 186, 186
+  orig: 186, 186
+  offset: 0, 0
+  index: -1

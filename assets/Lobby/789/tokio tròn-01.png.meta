@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "81700fbd-23c8-44ec-ae15-b38917de6cdd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 200,
+  "height": 201,
+  "platformSettings": {},
+  "subMetas": {
+    "tokio tròn-01": {
+      "ver": "1.0.4",
+      "uuid": "77531243-ba93-49c3-8e61-8c8aa23acfb6",
+      "rawTextureUuid": "81700fbd-23c8-44ec-ae15-b38917de6cdd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -1,
+      "trimX": 4,
+      "trimY": 6,
+      "width": 191,
+      "height": 191,
+      "rawWidth": 200,
+      "rawHeight": 201,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

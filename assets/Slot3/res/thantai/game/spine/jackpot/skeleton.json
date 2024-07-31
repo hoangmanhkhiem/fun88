@@ -1,0 +1,156 @@
+{
+"skeleton": { "hash": "vvwpSWssr1a4U/liqUhvt89kfic", "spine": "3.7.94", "width": 2296.02, "height": 2305.51, "images": "./img/", "audio": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": -1, "y": -61.27 },
+	{ "name": "Layer 2 copy", "parent": "bone", "x": 5.22, "y": 275.57 },
+	{ "name": "Group 136", "parent": "bone", "x": 17.85, "y": 404.79 },
+	{ "name": "bg_coins_front", "parent": "bone", "x": 11.56, "y": 586.43 },
+	{
+		"name": "Layer 1",
+		"parent": "bone",
+		"rotation": -50.97,
+		"x": 16.49,
+		"y": 568.53,
+		"scaleX": 1.5,
+		"scaleY": 1.5
+	},
+	{ "name": "Layer 7 copy 2", "parent": "bone", "length": 194.19, "rotation": 89.67, "x": 12.77, "y": 364.35 },
+	{ "name": "bg_coins_front2", "parent": "bone", "x": 11.56, "y": 586.43 },
+	{ "name": "bg_coins_front3", "parent": "bone", "x": 11.56, "y": 586.43 }
+],
+"slots": [
+	{ "name": "Layer 1", "bone": "Layer 1", "attachment": "Layer 1", "blend": "additive" },
+	{ "name": "Layer 2 copy", "bone": "Layer 2 copy", "attachment": "Layer 2 copy" },
+	{ "name": "bg_coins_front", "bone": "bg_coins_front", "attachment": "bg_coins_front" },
+	{ "name": "bg_coins_front2", "bone": "bg_coins_front2", "attachment": "bg_coins_front" },
+	{ "name": "bg_coins_front3", "bone": "bg_coins_front3", "attachment": "bg_coins_front" },
+	{ "name": "Layer 7 copy 2", "bone": "Layer 7 copy 2", "attachment": "Layer 7 copy 2" },
+	{ "name": "Group 136", "bone": "Group 136", "attachment": "Group 136" },
+	{ "name": "Group 137", "bone": "Group 136", "attachment": "Group 136", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"Group 136": {
+			"Group 136": { "x": -16.85, "y": -0.71, "width": 641, "height": 251 }
+		},
+		"Group 137": {
+			"Group 136": { "x": -16.85, "y": -0.71, "width": 641, "height": 251 }
+		},
+		"Layer 1": {
+			"Layer 1": { "x": -20.37, "y": -40.94, "width": 1112, "height": 1069 }
+		},
+		"Layer 2 copy": {
+			"Layer 2 copy": { "x": -4.22, "y": -6, "width": 497, "height": 225 }
+		},
+		"Layer 7 copy 2": {
+			"Layer 7 copy 2": { "x": 236.87, "y": 13.14, "rotation": -89.67, "width": 528, "height": 525 }
+		},
+		"bg_coins_front": {
+			"bg_coins_front": { "x": -10.56, "y": 14.86, "width": 951, "height": 681 }
+		},
+		"bg_coins_front2": {
+			"bg_coins_front": { "x": -10.56, "y": 14.86, "width": 951, "height": 681 }
+		},
+		"bg_coins_front3": {
+			"bg_coins_front": { "x": -10.56, "y": 14.86, "width": 951, "height": 681 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"Group 137": {
+				"color": [
+					{ "time": 0, "color": "ffffff04" },
+					{ "time": 0.5, "color": "fffffffe" },
+					{ "time": 1, "color": "ffffff04" }
+				]
+			},
+			"bg_coins_front": {
+				"color": [
+					{ "time": 0, "color": "fffffffc", "curve": "stepped" },
+					{ "time": 0.3, "color": "fffffffc" },
+					{ "time": 0.4333, "color": "ffffff03" }
+				]
+			},
+			"bg_coins_front2": {
+				"color": [
+					{ "time": 0, "color": "fffffffc", "curve": "stepped" },
+					{ "time": 0.5333, "color": "fffffffc" },
+					{ "time": 0.6667, "color": "ffffff03" }
+				]
+			},
+			"bg_coins_front3": {
+				"color": [
+					{ "time": 0, "color": "fffffffc", "curve": "stepped" },
+					{ "time": 0.8, "color": "fffffffc" },
+					{ "time": 0.9333, "color": "ffffff03" }
+				]
+			}
+		},
+		"bones": {
+			"Layer 7 copy 2": {
+				"rotate": [
+					{ "time": 0, "angle": 6.62 },
+					{ "time": 0.5, "angle": -7.74 },
+					{ "time": 1, "angle": 6.62 }
+				]
+			},
+			"Group 136": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": 0, "y": 25.39 },
+					{ "time": 1, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.5, "x": 1.2, "y": 1.2 },
+					{ "time": 1, "x": 1, "y": 1 }
+				]
+			},
+			"bg_coins_front": {
+				"rotate": [
+					{ "time": 0, "angle": -0.48 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": 2, "y": 2 }
+				]
+			},
+			"Layer 1": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.3333, "angle": -120 },
+					{ "time": 0.6667, "angle": 120 },
+					{ "time": 1, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 1, "x": 1.2, "y": 1.2 }
+				]
+			},
+			"bg_coins_front2": {
+				"rotate": [
+					{ "time": 0, "angle": -0.48 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.2333, "x": 0, "y": 0 },
+					{ "time": 0.7333, "x": 2, "y": 2 }
+				]
+			},
+			"bg_coins_front3": {
+				"rotate": [
+					{ "time": 0, "angle": -0.48 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.5, "x": 0, "y": 0 },
+					{ "time": 1, "x": 2, "y": 2 }
+				]
+			}
+		}
+	}
+}
+}

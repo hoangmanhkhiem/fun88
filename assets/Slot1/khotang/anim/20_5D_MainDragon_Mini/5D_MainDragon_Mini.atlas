@@ -1,0 +1,279 @@
+
+5D_MainDragon_Mini.png
+size: 898,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Beard/Dragon Beard 01
+  rotate: true
+  xy: 341, 2
+  size: 76, 50
+  orig: 210, 210
+  offset: 15, 153
+  index: -1
+Beard/Dragon Beard 02
+  rotate: true
+  xy: 498, 82
+  size: 76, 50
+  orig: 210, 210
+  offset: 15, 153
+  index: -1
+Beard/Dragon Beard 03
+  rotate: true
+  xy: 350, 81
+  size: 77, 49
+  orig: 210, 210
+  offset: 15, 153
+  index: -1
+Beard/Dragon Beard 04
+  rotate: true
+  xy: 199, 80
+  size: 78, 49
+  orig: 210, 210
+  offset: 14, 153
+  index: -1
+Beard/Dragon Beard 05
+  rotate: true
+  xy: 250, 80
+  size: 78, 49
+  orig: 210, 210
+  offset: 14, 153
+  index: -1
+Beard/Dragon Beard 06
+  rotate: true
+  xy: 393, 2
+  size: 77, 49
+  orig: 210, 210
+  offset: 14, 153
+  index: -1
+Beard/Dragon Beard 07
+  rotate: true
+  xy: 401, 81
+  size: 77, 48
+  orig: 210, 210
+  offset: 14, 154
+  index: -1
+Beard/Dragon Beard 08
+  rotate: true
+  xy: 301, 80
+  size: 78, 47
+  orig: 210, 210
+  offset: 14, 154
+  index: -1
+Beard/Dragon Beard 09
+  rotate: true
+  xy: 444, 2
+  size: 77, 46
+  orig: 210, 210
+  offset: 15, 154
+  index: -1
+Beard/Dragon Beard 10
+  rotate: true
+  xy: 451, 81
+  size: 77, 45
+  orig: 210, 210
+  offset: 15, 155
+  index: -1
+Beard/Dragon Beard 11
+  rotate: true
+  xy: 492, 2
+  size: 77, 43
+  orig: 210, 210
+  offset: 15, 155
+  index: -1
+Beard/Dragon Beard 12
+  rotate: true
+  xy: 586, 4
+  size: 76, 43
+  orig: 210, 210
+  offset: 16, 155
+  index: -1
+Beard/Dragon Beard 13
+  rotate: true
+  xy: 550, 82
+  size: 76, 45
+  orig: 210, 210
+  offset: 16, 155
+  index: -1
+Beard/Dragon Beard 14
+  rotate: true
+  xy: 537, 4
+  size: 76, 47
+  orig: 210, 210
+  offset: 17, 155
+  index: -1
+Beard/Dragon Beard 15
+  rotate: true
+  xy: 650, 84
+  size: 74, 47
+  orig: 210, 210
+  offset: 18, 155
+  index: -1
+Beard/Dragon Beard 16
+  rotate: true
+  xy: 184, 2
+  size: 73, 49
+  orig: 210, 210
+  offset: 19, 155
+  index: -1
+Beard/Dragon Beard 17
+  rotate: true
+  xy: 699, 87
+  size: 71, 49
+  orig: 210, 210
+  offset: 20, 155
+  index: -1
+Beard/Dragon Beard 18
+  rotate: true
+  xy: 737, 14
+  size: 71, 49
+  orig: 210, 210
+  offset: 20, 155
+  index: -1
+Beard/Dragon Beard 19
+  rotate: true
+  xy: 788, 16
+  size: 70, 49
+  orig: 210, 210
+  offset: 22, 155
+  index: -1
+Beard/Dragon Beard 20
+  rotate: true
+  xy: 750, 88
+  size: 70, 50
+  orig: 210, 210
+  offset: 22, 154
+  index: -1
+Beard/Dragon Beard 21
+  rotate: true
+  xy: 684, 10
+  size: 72, 51
+  orig: 210, 210
+  offset: 20, 153
+  index: -1
+Beard/Dragon Beard 22
+  rotate: true
+  xy: 597, 83
+  size: 75, 51
+  orig: 210, 210
+  offset: 18, 153
+  index: -1
+Beard/Dragon Beard 23
+  rotate: true
+  xy: 631, 6
+  size: 75, 51
+  orig: 210, 210
+  offset: 18, 153
+  index: -1
+Beard/Dragon Beard 24
+  rotate: true
+  xy: 235, 2
+  size: 76, 51
+  orig: 210, 210
+  offset: 17, 153
+  index: -1
+Beard/Dragon Beard 25
+  rotate: true
+  xy: 288, 2
+  size: 76, 51
+  orig: 210, 210
+  offset: 17, 153
+  index: -1
+ChanMay
+  rotate: true
+  xy: 160, 77
+  size: 81, 37
+  orig: 81, 37
+  offset: 0, 0
+  index: -1
+LongDau1
+  rotate: true
+  xy: 854, 57
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+LongDau2
+  rotate: false
+  xy: 839, 11
+  size: 26, 44
+  orig: 26, 45
+  offset: 0, 1
+  index: -1
+LongDau3
+  rotate: false
+  xy: 830, 88
+  size: 22, 36
+  orig: 25, 37
+  offset: 1, 1
+  index: -1
+LongDau4
+  rotate: true
+  xy: 839, 126
+  size: 32, 49
+  orig: 33, 49
+  offset: 0, 0
+  index: -1
+LongDau5
+  rotate: false
+  xy: 802, 88
+  size: 26, 36
+  orig: 26, 40
+  offset: 0, 3
+  index: -1
+LongDau6
+  rotate: true
+  xy: 854, 92
+  size: 32, 42
+  orig: 33, 47
+  offset: 0, 2
+  index: -1
+LongDau7
+  rotate: true
+  xy: 139, 3
+  size: 39, 43
+  orig: 42, 45
+  offset: 2, 1
+  index: -1
+MienDuoi
+  rotate: true
+  xy: 79, 44
+  size: 114, 79
+  orig: 118, 84
+  offset: 1, 0
+  index: -1
+Mui
+  rotate: false
+  xy: 802, 137
+  size: 34, 21
+  orig: 36, 23
+  offset: 1, 1
+  index: -1
+RauMui
+  rotate: false
+  xy: 79, 20
+  size: 58, 22
+  orig: 60, 24
+  offset: 1, 1
+  index: -1
+SungPhai
+  rotate: true
+  xy: 68, 3
+  size: 15, 61
+  orig: 16, 62
+  offset: 1, 1
+  index: -1
+SungTrai
+  rotate: true
+  xy: 2, 3
+  size: 15, 64
+  orig: 15, 66
+  offset: 0, 1
+  index: -1
+dau
+  rotate: true
+  xy: 2, 20
+  size: 138, 75
+  orig: 138, 78
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+led.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+led2/led2_01
+  rotate: true
+  xy: 1616, 796
+  size: 64, 61
+  orig: 720, 320
+  offset: 47, 241
+  index: -1
+led2/led2_02
+  rotate: false
+  xy: 810, 664
+  size: 105, 67
+  orig: 720, 320
+  offset: 45, 238
+  index: -1
+led2/led2_03
+  rotate: false
+  xy: 877, 733
+  size: 163, 67
+  orig: 720, 320
+  offset: 45, 238
+  index: -1
+led2/led2_04
+  rotate: false
+  xy: 640, 733
+  size: 235, 67
+  orig: 720, 320
+  offset: 45, 238
+  index: -1
+led2/led2_05
+  rotate: false
+  xy: 2, 2
+  size: 317, 67
+  orig: 720, 320
+  offset: 45, 238
+  index: -1
+led2/led2_06
+  rotate: false
+  xy: 2, 71
+  size: 404, 69
+  orig: 720, 320
+  offset: 45, 236
+  index: -1
+led2/led2_07
+  rotate: false
+  xy: 1129, 765
+  size: 485, 95
+  orig: 720, 320
+  offset: 45, 210
+  index: -1
+led2/led2_08
+  rotate: false
+  xy: 1129, 862
+  size: 549, 145
+  orig: 720, 320
+  offset: 45, 160
+  index: -1
+led2/led2_09
+  rotate: false
+  xy: 554, 802
+  size: 573, 205
+  orig: 720, 320
+  offset: 61, 100
+  index: -1
+led2/led2_10
+  rotate: false
+  xy: 2, 748
+  size: 550, 259
+  orig: 720, 320
+  offset: 105, 46
+  index: -1
+led2/led2_11
+  rotate: false
+  xy: 2, 449
+  size: 490, 297
+  orig: 720, 320
+  offset: 172, 8
+  index: -1
+led2/led2_12
+  rotate: false
+  xy: 2, 142
+  size: 408, 305
+  orig: 720, 320
+  offset: 255, 0
+  index: -1
+led2/led2_13
+  rotate: false
+  xy: 1680, 702
+  size: 316, 305
+  orig: 720, 320
+  offset: 347, 0
+  index: -1
+led2/led2_14
+  rotate: false
+  xy: 412, 162
+  size: 223, 285
+  orig: 720, 320
+  offset: 440, 0
+  index: -1
+led2/led2_15
+  rotate: false
+  xy: 494, 510
+  size: 144, 236
+  orig: 720, 320
+  offset: 519, 0
+  index: -1
+led2/led2_16
+  rotate: false
+  xy: 640, 560
+  size: 95, 171
+  orig: 720, 320
+  offset: 568, 0
+  index: -1
+led2/led2_17
+  rotate: false
+  xy: 737, 622
+  size: 71, 109
+  orig: 720, 320
+  offset: 592, 0
+  index: -1
+led2/led2_18
+  rotate: false
+  xy: 321, 6
+  size: 63, 63
+  orig: 720, 320
+  offset: 599, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin
+  rotate: false
+  xy: 2, 171
+  size: 1085, 647
+  orig: 1085, 647
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 2, 2
+  size: 821, 167
+  orig: 821, 167
+  offset: 0, 0
+  index: -1
+line2
+  rotate: false
+  xy: 1089, 335
+  size: 790, 483
+  orig: 790, 483
+  offset: 0, 0
+  index: -1
+tien
+  rotate: false
+  xy: 1881, 717
+  size: 42, 101
+  orig: 42, 101
+  offset: 0, 0
+  index: -1
+txt
+  rotate: false
+  xy: 1089, 200
+  size: 747, 133
+  orig: 747, 133
+  offset: 0, 0
+  index: -1

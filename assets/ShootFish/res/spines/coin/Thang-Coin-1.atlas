@@ -1,0 +1,90 @@
+
+Thang-Coin-1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Thang/Coin-1/1
+  rotate: false
+  xy: 472, 574
+  size: 195, 178
+  orig: 270, 308
+  offset: 34, 56
+  index: -1
+Thang/Coin-1/10
+  rotate: true
+  xy: 2, 440
+  size: 244, 234
+  orig: 270, 308
+  offset: 13, 46
+  index: -1
+Thang/Coin-1/11
+  rotate: false
+  xy: 2, 231
+  size: 233, 207
+  orig: 270, 308
+  offset: 8, 53
+  index: -1
+Thang/Coin-1/12
+  rotate: false
+  xy: 472, 754
+  size: 224, 213
+  orig: 270, 308
+  offset: 20, 55
+  index: -1
+Thang/Coin-1/2
+  rotate: false
+  xy: 247, 535
+  size: 183, 178
+  orig: 270, 308
+  offset: 38, 55
+  index: -1
+Thang/Coin-1/3
+  rotate: true
+  xy: 238, 365
+  size: 168, 178
+  orig: 270, 308
+  offset: 49, 56
+  index: -1
+Thang/Coin-1/4
+  rotate: false
+  xy: 669, 583
+  size: 153, 169
+  orig: 270, 308
+  offset: 55, 60
+  index: -1
+Thang/Coin-1/5
+  rotate: false
+  xy: 206, 38
+  size: 163, 191
+  orig: 270, 308
+  offset: 56, 47
+  index: -1
+Thang/Coin-1/6
+  rotate: false
+  xy: 698, 756
+  size: 193, 211
+  orig: 270, 308
+  offset: 48, 37
+  index: -1
+Thang/Coin-1/7
+  rotate: false
+  xy: 2, 2
+  size: 202, 227
+  orig: 270, 308
+  offset: 37, 27
+  index: -1
+Thang/Coin-1/8
+  rotate: false
+  xy: 247, 715
+  size: 223, 252
+  orig: 270, 308
+  offset: 26, 14
+  index: -1
+Thang/Coin-1/9
+  rotate: false
+  xy: 2, 686
+  size: 243, 281
+  orig: 270, 308
+  offset: 18, 17
+  index: -1

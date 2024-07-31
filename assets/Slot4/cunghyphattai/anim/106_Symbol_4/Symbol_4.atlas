@@ -1,0 +1,146 @@
+
+Symbol_4.png
+size: 476,218
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Left
+  rotate: true
+  xy: 408, 188
+  size: 28, 66
+  orig: 28, 66
+  offset: 0, 0
+  index: -1
+Arm_Left1
+  rotate: true
+  xy: 408, 158
+  size: 28, 66
+  orig: 28, 66
+  offset: 0, 0
+  index: -1
+Arm_Right
+  rotate: false
+  xy: 332, 138
+  size: 74, 78
+  orig: 74, 78
+  offset: 0, 0
+  index: -1
+Arm_Right1
+  rotate: false
+  xy: 332, 58
+  size: 74, 78
+  orig: 74, 78
+  offset: 0, 0
+  index: -1
+Back
+  rotate: true
+  xy: 408, 71
+  size: 52, 24
+  orig: 52, 24
+  offset: 0, 0
+  index: -1
+Back1
+  rotate: true
+  xy: 434, 71
+  size: 52, 24
+  orig: 52, 24
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 215, 119
+  size: 115, 97
+  orig: 115, 97
+  offset: 0, 0
+  index: -1
+Body1
+  rotate: false
+  xy: 215, 20
+  size: 115, 97
+  orig: 115, 97
+  offset: 0, 0
+  index: -1
+Coin_1
+  rotate: false
+  xy: 420, 50
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+Coin_11
+  rotate: false
+  xy: 420, 29
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+Coin_2
+  rotate: false
+  xy: 420, 8
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+Coin_21
+  rotate: true
+  xy: 452, 40
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+Gold
+  rotate: false
+  xy: 332, 25
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+Gold1
+  rotate: false
+  xy: 408, 125
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+Gold_Top
+  rotate: true
+  xy: 456, 129
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+Gold_Top1
+  rotate: false
+  xy: 215, 2
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+Light1
+  rotate: false
+  xy: 2, 5
+  size: 211, 211
+  orig: 211, 211
+  offset: 0, 0
+  index: -1
+String
+  rotate: false
+  xy: 244, 6
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+String1
+  rotate: false
+  xy: 271, 6
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 380, 18
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1

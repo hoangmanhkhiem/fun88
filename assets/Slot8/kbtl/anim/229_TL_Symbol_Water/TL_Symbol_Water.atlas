@@ -1,0 +1,300 @@
+
+TL_Symbol_Water.png
+size: 710,398
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Elements - Liquid 016 Splash Hit Ray Up noCT noRSZ_00000
+  rotate: true
+  xy: 658, 299
+  size: 97, 24
+  orig: 97, 24
+  offset: 0, 0
+  index: -1
+Elements - Liquid 016 Splash Hit Ray Up noCT noRSZ_00001
+  rotate: true
+  xy: 684, 299
+  size: 97, 24
+  orig: 97, 24
+  offset: 0, 0
+  index: -1
+Elements - Liquid 016 Splash Hit Ray Up noCT noRSZ_00002
+  rotate: false
+  xy: 108, 89
+  size: 97, 24
+  orig: 97, 24
+  offset: 0, 0
+  index: -1
+Elements - Liquid 016 Splash Hit Ray Up noCT noRSZ_00003
+  rotate: true
+  xy: 658, 200
+  size: 97, 24
+  orig: 97, 24
+  offset: 0, 0
+  index: -1
+Elements - Liquid 016 Splash Hit Ray Up noCT noRSZ_00004
+  rotate: true
+  xy: 684, 200
+  size: 97, 24
+  orig: 97, 24
+  offset: 0, 0
+  index: -1
+Elements - Liquid 016 Splash Hit Ray Up noCT noRSZ_00005
+  rotate: false
+  xy: 207, 105
+  size: 97, 24
+  orig: 97, 24
+  offset: 0, 0
+  index: -1
+Elements - Liquid 016 Splash Hit Ray Up noCT noRSZ_00006
+  rotate: false
+  xy: 306, 105
+  size: 97, 24
+  orig: 97, 24
+  offset: 0, 0
+  index: -1
+Elements - Liquid 016 Splash Hit Ray Up noCT noRSZ_00007
+  rotate: false
+  xy: 405, 105
+  size: 97, 24
+  orig: 97, 24
+  offset: 0, 0
+  index: -1
+Elements - Liquid 016 Splash Hit Ray Up noCT noRSZ_00008
+  rotate: false
+  xy: 504, 105
+  size: 97, 24
+  orig: 97, 24
+  offset: 0, 0
+  index: -1
+Elements - Liquid 016 Splash Hit Ray Up noCT noRSZ_00009
+  rotate: false
+  xy: 207, 79
+  size: 97, 24
+  orig: 97, 24
+  offset: 0, 0
+  index: -1
+Elements - Liquid 016 Splash Hit Ray Up noCT noRSZ_00010
+  rotate: false
+  xy: 306, 79
+  size: 97, 24
+  orig: 97, 24
+  offset: 0, 0
+  index: -1
+Elements - Liquid 016 Splash Hit Ray Up noCT noRSZ_00011
+  rotate: false
+  xy: 405, 79
+  size: 97, 24
+  orig: 97, 24
+  offset: 0, 0
+  index: -1
+Elements - Liquid 016 Splash Hit Ray Up noCT noRSZ_00012
+  rotate: false
+  xy: 504, 79
+  size: 97, 24
+  orig: 97, 24
+  offset: 0, 0
+  index: -1
+Elements - Liquid 072 Charge Radial Loop MIX noCT noRSZ_00000
+  rotate: false
+  xy: 2, 180
+  size: 104, 93
+  orig: 104, 93
+  offset: 0, 0
+  index: -1
+Elements - Liquid 072 Charge Radial Loop MIX noCT noRSZ_00002
+  rotate: false
+  xy: 128, 303
+  size: 104, 93
+  orig: 104, 93
+  offset: 0, 0
+  index: -1
+Elements - Liquid 072 Charge Radial Loop MIX noCT noRSZ_00003
+  rotate: false
+  xy: 2, 85
+  size: 104, 93
+  orig: 104, 93
+  offset: 0, 0
+  index: -1
+Elements - Liquid 072 Charge Radial Loop MIX noCT noRSZ_00004
+  rotate: false
+  xy: 234, 303
+  size: 104, 93
+  orig: 104, 93
+  offset: 0, 0
+  index: -1
+Elements - Liquid 072 Charge Radial Loop MIX noCT noRSZ_00005
+  rotate: false
+  xy: 340, 303
+  size: 104, 93
+  orig: 104, 93
+  offset: 0, 0
+  index: -1
+Elements - Liquid 072 Charge Radial Loop MIX noCT noRSZ_00006
+  rotate: false
+  xy: 446, 303
+  size: 104, 93
+  orig: 104, 93
+  offset: 0, 0
+  index: -1
+Elements - Liquid 072 Charge Radial Loop MIX noCT noRSZ_00007
+  rotate: false
+  xy: 552, 303
+  size: 104, 93
+  orig: 104, 93
+  offset: 0, 0
+  index: -1
+Elements - Liquid 072 Charge Radial Loop MIX noCT noRSZ_00008
+  rotate: false
+  xy: 128, 208
+  size: 104, 93
+  orig: 104, 93
+  offset: 0, 0
+  index: -1
+Elements - Liquid 072 Charge Radial Loop MIX noCT noRSZ_00009
+  rotate: false
+  xy: 234, 208
+  size: 104, 93
+  orig: 104, 93
+  offset: 0, 0
+  index: -1
+Elements - Liquid 072 Charge Radial Loop MIX noCT noRSZ_00010
+  rotate: false
+  xy: 340, 208
+  size: 104, 93
+  orig: 104, 93
+  offset: 0, 0
+  index: -1
+Elements - Liquid 072 Charge Radial Loop MIX noCT noRSZ_00011
+  rotate: false
+  xy: 446, 208
+  size: 104, 93
+  orig: 104, 93
+  offset: 0, 0
+  index: -1
+Elements - Liquid 072 Charge Radial Loop MIX noCT noRSZ_00012
+  rotate: false
+  xy: 552, 208
+  size: 104, 93
+  orig: 104, 93
+  offset: 0, 0
+  index: -1
+Group 1
+  rotate: false
+  xy: 2, 8
+  size: 73, 75
+  orig: 73, 75
+  offset: 0, 0
+  index: -1
+Group 10
+  rotate: false
+  xy: 227, 2
+  size: 73, 75
+  orig: 73, 75
+  offset: 0, 0
+  index: -1
+Group 11
+  rotate: false
+  xy: 302, 2
+  size: 73, 75
+  orig: 73, 75
+  offset: 0, 0
+  index: -1
+Group 12
+  rotate: false
+  xy: 377, 2
+  size: 73, 75
+  orig: 73, 75
+  offset: 0, 0
+  index: -1
+Group 13
+  rotate: false
+  xy: 452, 2
+  size: 73, 75
+  orig: 73, 75
+  offset: 0, 0
+  index: -1
+Group 14
+  rotate: false
+  xy: 527, 2
+  size: 73, 75
+  orig: 73, 75
+  offset: 0, 0
+  index: -1
+Group 15
+  rotate: false
+  xy: 602, 2
+  size: 73, 75
+  orig: 73, 75
+  offset: 0, 0
+  index: -1
+Group 2
+  rotate: false
+  xy: 201, 131
+  size: 73, 75
+  orig: 73, 75
+  offset: 0, 0
+  index: -1
+Group 3
+  rotate: false
+  xy: 276, 131
+  size: 73, 75
+  orig: 73, 75
+  offset: 0, 0
+  index: -1
+Group 4
+  rotate: false
+  xy: 351, 131
+  size: 73, 75
+  orig: 73, 75
+  offset: 0, 0
+  index: -1
+Group 5
+  rotate: false
+  xy: 426, 131
+  size: 73, 75
+  orig: 73, 75
+  offset: 0, 0
+  index: -1
+Group 6
+  rotate: false
+  xy: 501, 131
+  size: 73, 75
+  orig: 73, 75
+  offset: 0, 0
+  index: -1
+Group 7
+  rotate: false
+  xy: 576, 131
+  size: 73, 75
+  orig: 73, 75
+  offset: 0, 0
+  index: -1
+Group 8
+  rotate: false
+  xy: 77, 2
+  size: 73, 75
+  orig: 73, 75
+  offset: 0, 0
+  index: -1
+Group 9
+  rotate: false
+  xy: 152, 2
+  size: 73, 75
+  orig: 73, 75
+  offset: 0, 0
+  index: -1
+ngoc
+  rotate: false
+  xy: 2, 275
+  size: 124, 121
+  orig: 124, 121
+  offset: 0, 0
+  index: -1
+nuoc
+  rotate: false
+  xy: 108, 115
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1

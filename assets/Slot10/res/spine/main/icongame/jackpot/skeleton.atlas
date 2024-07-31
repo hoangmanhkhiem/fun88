@@ -1,0 +1,139 @@
+
+skeleton.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin
+  rotate: false
+  xy: 2, 118
+  size: 115, 114
+  orig: 115, 114
+  offset: 0, 0
+  index: -1
+coin_00000
+  rotate: false
+  xy: 2, 2
+  size: 115, 114
+  orig: 115, 114
+  offset: 0, 0
+  index: -1
+coin_00001
+  rotate: false
+  xy: 119, 118
+  size: 115, 114
+  orig: 115, 114
+  offset: 0, 0
+  index: -1
+coin_00002
+  rotate: false
+  xy: 119, 2
+  size: 115, 114
+  orig: 115, 114
+  offset: 0, 0
+  index: -1
+coin_00003
+  rotate: false
+  xy: 236, 118
+  size: 115, 114
+  orig: 115, 114
+  offset: 0, 0
+  index: -1
+coin_00004
+  rotate: false
+  xy: 236, 2
+  size: 115, 114
+  orig: 115, 114
+  offset: 0, 0
+  index: -1
+coin_00005
+  rotate: false
+  xy: 353, 118
+  size: 115, 114
+  orig: 115, 114
+  offset: 0, 0
+  index: -1
+coin_00006
+  rotate: false
+  xy: 353, 2
+  size: 115, 114
+  orig: 115, 114
+  offset: 0, 0
+  index: -1
+coin_00007
+  rotate: false
+  xy: 470, 118
+  size: 115, 114
+  orig: 115, 114
+  offset: 0, 0
+  index: -1
+coin_00008
+  rotate: false
+  xy: 470, 2
+  size: 115, 114
+  orig: 115, 114
+  offset: 0, 0
+  index: -1
+coin_00009
+  rotate: false
+  xy: 587, 118
+  size: 115, 114
+  orig: 115, 114
+  offset: 0, 0
+  index: -1
+coin_00010
+  rotate: false
+  xy: 587, 2
+  size: 115, 114
+  orig: 115, 114
+  offset: 0, 0
+  index: -1
+coin_00011
+  rotate: false
+  xy: 704, 118
+  size: 115, 114
+  orig: 115, 114
+  offset: 0, 0
+  index: -1
+coin_00012
+  rotate: false
+  xy: 704, 2
+  size: 115, 114
+  orig: 115, 114
+  offset: 0, 0
+  index: -1
+coin_00013
+  rotate: false
+  xy: 821, 118
+  size: 115, 114
+  orig: 115, 114
+  offset: 0, 0
+  index: -1
+coin_00014
+  rotate: false
+  xy: 821, 2
+  size: 115, 114
+  orig: 115, 114
+  offset: 0, 0
+  index: -1
+coin_00015
+  rotate: false
+  xy: 938, 118
+  size: 115, 114
+  orig: 115, 114
+  offset: 0, 0
+  index: -1
+coin_00016
+  rotate: false
+  xy: 938, 2
+  size: 115, 114
+  orig: 115, 114
+  offset: 0, 0
+  index: -1
+jp
+  rotate: false
+  xy: 1055, 199
+  size: 174, 33
+  orig: 174, 33
+  offset: 0, 0
+  index: -1

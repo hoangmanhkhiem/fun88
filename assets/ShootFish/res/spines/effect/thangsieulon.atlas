@@ -1,0 +1,48 @@
+
+thangsieulon.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 3
+  rotate: false
+  xy: 461, 752
+  size: 318, 99
+  orig: 318, 99
+  offset: 0, 0
+  index: -1
+Group 4
+  rotate: false
+  xy: 2, 2
+  size: 267, 120
+  orig: 267, 120
+  offset: 0, 0
+  index: -1
+Layer 588 copy
+  rotate: false
+  xy: 2, 386
+  size: 457, 465
+  orig: 457, 465
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 364, 299
+  size: 86, 85
+  orig: 86, 85
+  offset: 0, 0
+  index: -1
+bb
+  rotate: false
+  xy: 461, 591
+  size: 101, 159
+  orig: 101, 159
+  offset: 0, 0
+  index: -1
+ca
+  rotate: false
+  xy: 2, 124
+  size: 360, 260
+  orig: 360, 260
+  offset: 0, 0
+  index: -1

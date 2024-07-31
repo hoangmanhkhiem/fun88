@@ -1,0 +1,125 @@
+
+chimluaanim.png
+size: 904,556
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Canh1
+  rotate: true
+  xy: 288, 120
+  size: 433, 240
+  orig: 433, 240
+  offset: 0, 0
+  index: -1
+Fire__0000_12
+  rotate: true
+  xy: 2, 12
+  size: 72, 147
+  orig: 72, 147
+  offset: 0, 0
+  index: -1
+Fire__0001_11
+  rotate: true
+  xy: 151, 12
+  size: 72, 147
+  orig: 72, 147
+  offset: 0, 0
+  index: -1
+Fire__0002_10
+  rotate: true
+  xy: 415, 46
+  size: 72, 147
+  orig: 72, 147
+  offset: 0, 0
+  index: -1
+Fire__0003_9
+  rotate: false
+  xy: 530, 200
+  size: 72, 147
+  orig: 72, 147
+  offset: 0, 0
+  index: -1
+Fire__0004_8
+  rotate: true
+  xy: 530, 126
+  size: 72, 147
+  orig: 72, 147
+  offset: 0, 0
+  index: -1
+Fire__0005_7
+  rotate: false
+  xy: 604, 200
+  size: 72, 147
+  orig: 72, 147
+  offset: 0, 0
+  index: -1
+Fire__0006_6
+  rotate: false
+  xy: 678, 200
+  size: 72, 147
+  orig: 72, 147
+  offset: 0, 0
+  index: -1
+Fire__0007_5
+  rotate: true
+  xy: 564, 52
+  size: 72, 147
+  orig: 72, 147
+  offset: 0, 0
+  index: -1
+Fire__0008_4
+  rotate: true
+  xy: 679, 126
+  size: 72, 147
+  orig: 72, 147
+  offset: 0, 0
+  index: -1
+Fire__0009_3
+  rotate: false
+  xy: 752, 200
+  size: 72, 147
+  orig: 72, 147
+  offset: 0, 0
+  index: -1
+Fire__0010_2
+  rotate: false
+  xy: 826, 200
+  size: 72, 147
+  orig: 72, 147
+  offset: 0, 0
+  index: -1
+Fire__0011_1
+  rotate: false
+  xy: 828, 51
+  size: 72, 147
+  orig: 72, 147
+  offset: 0, 0
+  index: -1
+duoi2
+  rotate: false
+  xy: 530, 349
+  size: 359, 204
+  orig: 359, 204
+  offset: 0, 0
+  index: -1
+ef4
+  rotate: false
+  xy: 713, 50
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+longdau
+  rotate: true
+  xy: 300, 2
+  size: 116, 113
+  orig: 116, 113
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 2, 86
+  size: 284, 467
+  orig: 284, 467
+  offset: 0, 0
+  index: -1

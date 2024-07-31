@@ -1,0 +1,132 @@
+
+ic_tx.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG2
+  rotate: false
+  xy: 2, 2
+  size: 238, 226
+  orig: 238, 226
+  offset: 0, 0
+  index: -1
+coin1
+  rotate: false
+  xy: 363, 204
+  size: 88, 52
+  orig: 88, 52
+  offset: 0, 0
+  index: -1
+coin2
+  rotate: true
+  xy: 453, 195
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+coin3
+  rotate: false
+  xy: 868, 273
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+elect/elec1_00000
+  rotate: false
+  xy: 664, 226
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+elect/elec1_00002
+  rotate: false
+  xy: 920, 380
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+elect/elec1_00004
+  rotate: false
+  xy: 918, 278
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+elect/elec1_00006
+  rotate: false
+  xy: 766, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+elect/elec1_00009
+  rotate: false
+  xy: 664, 124
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+elect/elec1_00011
+  rotate: false
+  xy: 766, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+khungg
+  rotate: false
+  xy: 2, 230
+  size: 261, 250
+  orig: 261, 250
+  offset: 0, 0
+  index: -1
+set1
+  rotate: false
+  xy: 265, 258
+  size: 269, 222
+  orig: 269, 222
+  offset: 0, 0
+  index: -1
+sieutoc
+  rotate: false
+  xy: 536, 396
+  size: 271, 84
+  orig: 271, 84
+  offset: 0, 0
+  index: -1
+sieutocblur
+  rotate: false
+  xy: 536, 328
+  size: 272, 66
+  orig: 272, 66
+  offset: 0, 0
+  index: -1
+tai
+  rotate: false
+  xy: 265, 183
+  size: 96, 73
+  orig: 96, 73
+  offset: 0, 0
+  index: -1
+xiu
+  rotate: false
+  xy: 809, 404
+  size: 109, 76
+  orig: 109, 76
+  offset: 0, 0
+  index: -1
+xx1
+  rotate: false
+  xy: 810, 308
+  size: 106, 94
+  orig: 106, 94
+  offset: 0, 0
+  index: -1
+xx2
+  rotate: true
+  xy: 536, 202
+  size: 124, 126
+  orig: 124, 126
+  offset: 0, 0
+  index: -1

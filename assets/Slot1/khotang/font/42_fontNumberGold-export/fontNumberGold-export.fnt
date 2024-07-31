@@ -1,0 +1,20 @@
+info face=font size=80 bold=1 italic=0 charset= unicode= stretchH=100 smooth=1 aa=1 padding=2,2,2,2 spacing=0,0 outline=0
+common lineHeight=80 base=63 scaleW=84 scaleH=362 pages=1 packed=0
+page id=0 file=fontNumberGold-export.png
+chars count=16
+char id=44 x=31 y=208 width=23 height=37 xoffset=0 yoffset=51 xadvance=24 page=0 chnl=15
+char id=55 x=51 y=0 width=44 height=67 xoffset=0 yoffset=12 xadvance=45 page=0 chnl=15
+char id=45 x=0 y=208 width=30 height=27 xoffset=0 yoffset=39 xadvance=31 page=0 chnl=15
+char id=56 x=0 y=68 width=48 height=69 xoffset=0 yoffset=11 xadvance=49 page=0 chnl=15
+char id=46 x=55 y=208 width=22 height=29 xoffset=0 yoffset=51 xadvance=23 page=0 chnl=15
+char id=57 x=96 y=138 width=47 height=69 xoffset=0 yoffset=11 xadvance=48 page=0 chnl=15
+char id=48 x=0 y=138 width=47 height=69 xoffset=0 yoffset=11 xadvance=48 page=0 chnl=15
+char id=49 x=144 y=121 width=34 height=67 xoffset=0 yoffset=12 xadvance=35 page=0 chnl=15
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=40 page=0 chnl=15
+char id=50 x=97 y=69 width=45 height=68 xoffset=0 yoffset=11 xadvance=46 page=0 chnl=15
+char id=51 x=48 y=138 width=47 height=69 xoffset=0 yoffset=11 xadvance=48 page=0 chnl=15
+char id=52 x=0 y=0 width=50 height=67 xoffset=0 yoffset=12 xadvance=51 page=0 chnl=15
+char id=53 x=97 y=0 width=46 height=68 xoffset=0 yoffset=12 xadvance=47 page=0 chnl=15
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=5 page=0 chnl=15
+char id=43 x=143 y=69 width=42 height=51 xoffset=0 yoffset=22 xadvance=43 page=0 chnl=15
+char id=54 x=49 y=68 width=47 height=69 xoffset=0 yoffset=11 xadvance=48 page=0 chnl=15

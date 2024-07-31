@@ -1,0 +1,160 @@
+
+IconTaiXiu_Live.png
+size: 1575,1573
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 794, 113
+  size: 175, 38
+  orig: 175, 38
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 1125, 140
+  size: 357, 242
+  orig: 357, 242
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 1283, 725
+  size: 265, 408
+  orig: 265, 408
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 1283, 1135
+  size: 290, 436
+  orig: 290, 436
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 1472, 548
+  size: 175, 38
+  orig: 175, 38
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 259, 6
+  size: 110, 77
+  orig: 110, 77
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 371, 13
+  size: 104, 70
+  orig: 104, 70
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 477, 25
+  size: 103, 58
+  orig: 103, 58
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 1272, 509
+  size: 198, 214
+  orig: 198, 214
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 1087, 35
+  size: 103, 106
+  orig: 103, 106
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 1289, 68
+  size: 66, 70
+  orig: 66, 70
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 1195, 43
+  size: 92, 95
+  orig: 92, 95
+  offset: 0, 0
+  index: -1
+A1
+  rotate: false
+  xy: 2, 829
+  size: 790, 742
+  orig: 790, 742
+  offset: 0, 0
+  index: -1
+A2
+  rotate: false
+  xy: 2, 85
+  size: 790, 742
+  orig: 790, 742
+  offset: 0, 0
+  index: -1
+BanTay
+  rotate: false
+  xy: 794, 511
+  size: 361, 371
+  orig: 361, 371
+  offset: 0, 0
+  index: -1
+CanhTay
+  rotate: false
+  xy: 1369, 104
+  size: 168, 403
+  orig: 168, 403
+  offset: 0, 0
+  index: -1
+Dau
+  rotate: false
+  xy: 794, 153
+  size: 329, 356
+  orig: 329, 356
+  offset: 0, 0
+  index: -1
+MatNham
+  rotate: true
+  xy: 1512, 674
+  size: 49, 34
+  orig: 49, 34
+  offset: 0, 0
+  index: -1
+Tay2
+  rotate: false
+  xy: 1157, 499
+  size: 113, 383
+  orig: 113, 383
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 794, 884
+  size: 487, 687
+  orig: 487, 687
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 971, 48
+  size: 103, 114
+  orig: 103, 114
+  offset: 0, 0
+  index: -1
+logoName
+  rotate: false
+  xy: 2, 7
+  size: 255, 76
+  orig: 255, 76
+  offset: 0, 0
+  index: -1

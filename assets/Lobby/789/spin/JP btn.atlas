@@ -1,0 +1,174 @@
+
+JP btn.png
+size: 142,495
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: true
+  xy: 33, 28
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+BG
+  rotate: true
+  xy: 2, 165
+  size: 142, 78
+  orig: 142, 85
+  offset: 0, 3
+  index: -1
+C
+  rotate: false
+  xy: 122, 96
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+E1
+  rotate: true
+  xy: 63, 6
+  size: 20, 21
+  orig: 38, 38
+  offset: 12, 7
+  index: -1
+E10
+  rotate: false
+  xy: 42, 125
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+E11
+  rotate: false
+  xy: 82, 86
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+E2
+  rotate: false
+  xy: 104, 13
+  size: 26, 24
+  orig: 38, 38
+  offset: 6, 7
+  index: -1
+E3
+  rotate: false
+  xy: 79, 58
+  size: 27, 26
+  orig: 38, 38
+  offset: 6, 6
+  index: -1
+E4
+  rotate: true
+  xy: 2, 23
+  size: 28, 29
+  orig: 38, 38
+  offset: 6, 4
+  index: -1
+E5
+  rotate: true
+  xy: 2, 53
+  size: 31, 33
+  orig: 38, 38
+  offset: 6, 2
+  index: -1
+E6
+  rotate: true
+  xy: 42, 52
+  size: 34, 35
+  orig: 38, 38
+  offset: 4, 1
+  index: -1
+E7
+  rotate: false
+  xy: 42, 88
+  size: 37, 35
+  orig: 38, 38
+  offset: 1, 1
+  index: -1
+E8
+  rotate: false
+  xy: 2, 86
+  size: 38, 37
+  orig: 38, 38
+  offset: 0, 1
+  index: -1
+E9
+  rotate: false
+  xy: 2, 125
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+J
+  rotate: false
+  xy: 122, 66
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+JACKPOT
+  rotate: true
+  xy: 82, 181
+  size: 126, 28
+  orig: 126, 28
+  offset: 0, 0
+  index: -1
+JACKPOT2
+  rotate: true
+  xy: 112, 181
+  size: 126, 28
+  orig: 126, 28
+  offset: 0, 0
+  index: -1
+K
+  rotate: true
+  xy: 33, 7
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+O
+  rotate: false
+  xy: 79, 28
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+P
+  rotate: true
+  xy: 2, 2
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+T
+  rotate: true
+  xy: 108, 39
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+Untitled-1_0000_Layer-680-copy-4
+  rotate: false
+  xy: 2, 309
+  size: 137, 85
+  orig: 137, 85
+  offset: 0, 0
+  index: -1
+lan
+  rotate: false
+  xy: 2, 396
+  size: 121, 97
+  orig: 121, 97
+  offset: 0, 0
+  index: -1
+phao
+  rotate: false
+  xy: 82, 126
+  size: 57, 53
+  orig: 57, 53
+  offset: 0, 0
+  index: -1

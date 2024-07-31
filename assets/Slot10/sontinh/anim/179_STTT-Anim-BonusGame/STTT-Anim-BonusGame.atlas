@@ -1,0 +1,153 @@
+
+STTT-Anim-BonusGame.png
+size: 1478,393
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bangthongbao
+  rotate: false
+  xy: 2, 199
+  size: 940, 192
+  orig: 940, 192
+  offset: 0, 0
+  index: -1
+canh1
+  rotate: true
+  xy: 883, 8
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+canh2
+  rotate: true
+  xy: 825, 33
+  size: 64, 54
+  orig: 64, 54
+  offset: 0, 0
+  index: -1
+canh3
+  rotate: false
+  xy: 645, 9
+  size: 98, 55
+  orig: 98, 55
+  offset: 0, 0
+  index: -1
+canhTo
+  rotate: true
+  xy: 1307, 19
+  size: 132, 93
+  orig: 132, 93
+  offset: 0, 0
+  index: -1
+dot
+  rotate: false
+  xy: 58, 8
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+may
+  rotate: false
+  xy: 78, 6
+  size: 394, 189
+  orig: 394, 189
+  offset: 0, 0
+  index: -1
+may2
+  rotate: true
+  xy: 946, 28
+  size: 363, 207
+  orig: 363, 207
+  offset: 0, 0
+  index: -1
+ruong-napdong
+  rotate: true
+  xy: 2, 68
+  size: 127, 51
+  orig: 127, 51
+  offset: 0, 0
+  index: -1
+ruong-napmo
+  rotate: true
+  xy: 1404, 134
+  size: 107, 66
+  orig: 107, 66
+  offset: 0, 0
+  index: -1
+ruong-outerGlow
+  rotate: true
+  xy: 1157, 2
+  size: 149, 146
+  orig: 149, 146
+  offset: 0, 0
+  index: -1
+ruong-parkle
+  rotate: false
+  xy: 747, 22
+  size: 74, 75
+  orig: 74, 75
+  offset: 0, 0
+  index: -1
+ruong-sangtrang
+  rotate: false
+  xy: 736, 101
+  size: 93, 94
+  orig: 93, 94
+  offset: 0, 0
+  index: -1
+ruong-sangxanh
+  rotate: false
+  xy: 476, 29
+  size: 165, 166
+  orig: 165, 166
+  offset: 0, 0
+  index: -1
+ruong-socdoc
+  rotate: true
+  xy: 2, 17
+  size: 7, 52
+  orig: 7, 52
+  offset: 0, 0
+  index: -1
+ruong-treasure3
+  rotate: true
+  xy: 1404, 33
+  size: 97, 72
+  orig: 97, 72
+  offset: 0, 0
+  index: -1
+rương-sangtron
+  rotate: true
+  xy: 1157, 155
+  size: 236, 243
+  orig: 236, 243
+  offset: 0, 0
+  index: -1
+rương-treasue1
+  rotate: true
+  xy: 883, 76
+  size: 119, 40
+  orig: 119, 40
+  offset: 0, 0
+  index: -1
+rương-treasue2
+  rotate: true
+  xy: 833, 105
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+sang
+  rotate: true
+  xy: 1404, 245
+  size: 146, 72
+  orig: 146, 72
+  offset: 0, 0
+  index: -1
+tt duoi
+  rotate: true
+  xy: 645, 68
+  size: 127, 87
+  orig: 127, 87
+  offset: 0, 0
+  index: -1

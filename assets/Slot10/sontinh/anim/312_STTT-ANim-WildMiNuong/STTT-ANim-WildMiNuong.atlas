@@ -1,0 +1,160 @@
+
+STTT-ANim-WildMiNuong.png
+size: 602,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Text copy
+  rotate: false
+  xy: 387, 4
+  size: 129, 29
+  orig: 129, 29
+  offset: 0, 0
+  index: -1
+bg50
+  rotate: true
+  xy: 434, 47
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 151, 17
+  size: 91, 82
+  orig: 91, 82
+  offset: 0, 0
+  index: -1
+bongtai
+  rotate: false
+  xy: 496, 55
+  size: 17, 53
+  orig: 17, 53
+  offset: 0, 0
+  index: -1
+bongtaisau
+  rotate: true
+  xy: 291, 3
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+bright
+  rotate: true
+  xy: 193, 8
+  size: 5, 23
+  orig: 5, 23
+  offset: 0, 0
+  index: -1
+canhhoa1
+  rotate: false
+  xy: 541, 3
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+canhhoa2
+  rotate: false
+  xy: 517, 37
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+canhtay
+  rotate: false
+  xy: 517, 63
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 291, 20
+  size: 65, 88
+  orig: 65, 88
+  offset: 0, 0
+  index: -1
+daychuyen
+  rotate: true
+  xy: 237, 17
+  size: 91, 50
+  orig: 91, 50
+  offset: 0, 0
+  index: -1
+khung1-4
+  rotate: true
+  xy: 360, 37
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+long1
+  rotate: false
+  xy: 543, 32
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+long2
+  rotate: false
+  xy: 520, 2
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+long3
+  rotate: true
+  xy: 360, 2
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+mat 2
+  rotate: false
+  xy: 158, 3
+  size: 31, 10
+  orig: 31, 10
+  offset: 0, 0
+  index: -1
+mat1
+  rotate: false
+  xy: 313, 4
+  size: 31, 12
+  orig: 31, 12
+  offset: 0, 0
+  index: -1
+mat3
+  rotate: false
+  xy: 123, 2
+  size: 31, 10
+  orig: 31, 10
+  offset: 0, 0
+  index: -1
+text-hong
+  rotate: true
+  xy: 123, 16
+  size: 92, 24
+  orig: 92, 24
+  offset: 0, 0
+  index: -1
+toc1
+  rotate: true
+  xy: 564, 69
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+toc2
+  rotate: true
+  xy: 564, 33
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+toc3
+  rotate: false
+  xy: 2, 5
+  size: 117, 103
+  orig: 117, 103
+  offset: 0, 0
+  index: -1

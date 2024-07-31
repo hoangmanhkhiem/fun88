@@ -1,0 +1,143 @@
+﻿script(src='https://connect.facebook.net/en_US/sdk.js')
+//<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+//<script src="https://www.google.com/recaptcha/api.js?render=6LcueaUaAAAAAP82iTUYoLCrCVM-V9NqkdoyT9v-"></script>
+html
+  head
+    link(rel='icon' href='app/editor/static/preview-templates/favicon.ico')
+    meta(charset='utf-8')
+    title=title
+    meta(name='viewport' content='width=device-width,user-scalable=no,initial-scale=1, minimum-scale=1,maximum-scale=1')
+    meta(name='apple-mobile-web-app-capable' content='yes')
+    meta(name='full-screen' content='yes')
+    meta(name='screen-orientation' content='portrait')
+    meta(name='x5-fullscreen' content='true')
+    meta(name='360-fullscreen' content='true')
+    
+    meta(name='renderer' content='webkit')
+    meta(name='force-rendering' content='webkit')
+    meta(http-equiv='X-UA-Compatible' content='IE=edge,chrome=1')
+
+    link(rel='stylesheet' href='app/editor/static/preview-templates/style.css')
+    style.
+      #adContainer {
+      z-index: 1;
+      display: none;
+      justify-content: center;
+      /* align-items: flex-end; */
+      /* height: 100%; */
+      }
+      #ad-banner-container {
+      z-index: 1;
+      display: flex;
+      justify-content: center;
+      /* align-items: flex-end; */
+      /* height: 100%; */
+      }
+      #ad-container {
+      z-index: 1;
+      /* display: flex; */
+      top:0;
+      justify-content: center;
+      /* align-items: flex-end; */
+      /* height: 100%; */
+      }
+      #ads-page-content {
+      position: relative;
+      /* this element's width controls the effective height */
+      /* of the video container's padding-bottom */
+      max-width: 640px;
+      margin: 10px auto;
+      }
+      #ads-video-container {
+      position: relative;
+      /* forces the container to match a 16x9 aspect ratio */
+      /* replace with 75% for a 4:3 aspect ratio, if needed */
+      padding-bottom: 56.25%;
+      }
+      #ads-video-element {
+      /* forces the contents to fill the container */
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      }
+      #ads-ad-container {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      }
+      #uplay-iframe {
+      display: block;
+      z-index: 2;
+      border: none;
+      border-radius: 5px;
+      max-height: 98%;
+      }
+      #uplay-iframe-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position: fixed; /* Stay in place */
+      z-index: 2; /* Sit on top */
+      left: 0;
+      top: 0;
+      width: 100%; /* Full width */
+      height: 100%; /* Full height */
+      overflow: auto; /* Enable scroll if needed */
+      background-color: rgb(0,0,0); /* Fallback color */
+      background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+      }
+      #uplay-iframe-container.hide {
+      display: none;
+      }
+      #uplay-login-control {
+      z-index: 5;
+      height: 50px;
+      width: 50px;
+      border-radius: 50%;
+      }
+      #uplay-login-control.unlogged {
+      background-color: red;
+      }
+      #uplay-login-control.logged {
+      background-color: green;
+      }
+    block head
+
+  body
+
+    block toolbar
+      include ./toolbar.jade
+
+    div.content#content
+      div.contentWrap
+        div.wrapper#GameDiv
+          canvas#GameCanvas
+          div#splash
+            div.progress-bar.stripes
+              span
+          div#bulletin
+            div.inner#sceneIsEmpty= tip_sceneIsEmpty
+    div#recompiling
+      span Recompiling scripts, please wait for refresh...
+
+    script(type='text/javascript' charset='utf-8' src='settings.js')
+    script(type='text/javascript' charset='utf-8' src='preview-scripts/__quick_compile__.js')
+    script(type='text/javascript' charset='utf-8' src='app/editor/static/preview-templates/boot.js')
+    script(type='text/javascript' charset='utf-8' src='/socket.io/socket.io.js')
+
+    script(type='text/javascript').
+      window.__socket_io__ = window.io;
+
+
+    if enableDebugger
+      script(type='text/javascript' charset='utf-8' src='app/node_modules/vconsole/dist/vconsole.min.js')
+    script(type='text/javascript' charset='utf-8' src='app/engine/bin/' + cocos2d)
+
+    if enableDebugger
+      script(type='text/javascript').
+        vConsole = new VConsole();
+
+

@@ -1,0 +1,223 @@
+
+BONUSGAME.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+-e-Layer 577
+  rotate: true
+  xy: 316, 17
+  size: 130, 232
+  orig: 130, 232
+  offset: 0, 0
+  index: -1
+phaohoa_00001
+  rotate: false
+  xy: 1979, 962
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+phaohoa_00002
+  rotate: false
+  xy: 1637, 376
+  size: 152, 153
+  orig: 152, 153
+  offset: 0, 0
+  index: -1
+phaohoa_00003
+  rotate: true
+  xy: 1431, 531
+  size: 245, 239
+  orig: 245, 239
+  offset: 0, 0
+  index: -1
+phaohoa_00004
+  rotate: false
+  xy: 2, 710
+  size: 312, 312
+  orig: 312, 312
+  offset: 0, 0
+  index: -1
+phaohoa_00005
+  rotate: false
+  xy: 2, 396
+  size: 312, 312
+  orig: 312, 312
+  offset: 0, 0
+  index: -1
+phaohoa_00006
+  rotate: false
+  xy: 316, 710
+  size: 312, 312
+  orig: 312, 312
+  offset: 0, 0
+  index: -1
+phaohoa_00007
+  rotate: false
+  xy: 2, 82
+  size: 312, 312
+  orig: 312, 312
+  offset: 0, 0
+  index: -1
+phaohoa_00008
+  rotate: false
+  xy: 316, 396
+  size: 312, 312
+  orig: 312, 312
+  offset: 0, 0
+  index: -1
+phaohoa_00009
+  rotate: false
+  xy: 630, 710
+  size: 312, 312
+  orig: 312, 312
+  offset: 0, 0
+  index: -1
+phaohoa_00010
+  rotate: false
+  xy: 1468, 781
+  size: 256, 241
+  orig: 256, 241
+  offset: 0, 0
+  index: -1
+phaohoa_00011
+  rotate: false
+  xy: 944, 777
+  size: 266, 245
+  orig: 266, 245
+  offset: 0, 0
+  index: -1
+phaohoa_00012
+  rotate: false
+  xy: 316, 149
+  size: 270, 245
+  orig: 270, 245
+  offset: 0, 0
+  index: -1
+phaohoa_00013
+  rotate: false
+  xy: 630, 465
+  size: 269, 243
+  orig: 269, 243
+  offset: 0, 0
+  index: -1
+phaohoa_00014
+  rotate: false
+  xy: 1726, 774
+  size: 251, 248
+  orig: 251, 248
+  offset: 0, 0
+  index: -1
+phaohoa_00015
+  rotate: true
+  xy: 1154, 282
+  size: 247, 246
+  orig: 247, 246
+  offset: 0, 0
+  index: -1
+phaohoa_00016
+  rotate: true
+  xy: 630, 225
+  size: 238, 251
+  orig: 238, 251
+  offset: 0, 0
+  index: -1
+phaohoa_00017
+  rotate: true
+  xy: 1212, 778
+  size: 244, 254
+  orig: 244, 254
+  offset: 0, 0
+  index: -1
+phaohoa_00018
+  rotate: true
+  xy: 944, 531
+  size: 244, 251
+  orig: 244, 251
+  offset: 0, 0
+  index: -1
+phaohoa_00019
+  rotate: true
+  xy: 901, 282
+  size: 247, 251
+  orig: 247, 251
+  offset: 0, 0
+  index: -1
+phaohoa_00020
+  rotate: true
+  xy: 978, 30
+  size: 250, 239
+  orig: 250, 239
+  offset: 0, 0
+  index: -1
+phaohoa_00021
+  rotate: true
+  xy: 1219, 30
+  size: 250, 241
+  orig: 250, 241
+  offset: 0, 0
+  index: -1
+phaohoa_00022
+  rotate: false
+  xy: 1402, 286
+  size: 233, 243
+  orig: 233, 243
+  offset: 0, 0
+  index: -1
+phaohoa_00023
+  rotate: true
+  xy: 1672, 539
+  size: 233, 243
+  orig: 233, 243
+  offset: 0, 0
+  index: -1
+phaohoa_00024
+  rotate: false
+  xy: 1197, 531
+  size: 232, 244
+  orig: 232, 244
+  offset: 0, 0
+  index: -1
+phaohoa_00025
+  rotate: true
+  xy: 588, 2
+  size: 221, 207
+  orig: 221, 207
+  offset: 0, 0
+  index: -1
+phaohoa_00026
+  rotate: true
+  xy: 797, 3
+  size: 220, 179
+  orig: 220, 179
+  offset: 0, 0
+  index: -1
+phaohoa_00027
+  rotate: true
+  xy: 1462, 90
+  size: 194, 171
+  orig: 194, 171
+  offset: 0, 0
+  index: -1
+phaohoa_00028
+  rotate: true
+  xy: 1462, 90
+  size: 194, 171
+  orig: 194, 171
+  offset: 0, 0
+  index: -1
+phaohoa_00029
+  rotate: true
+  xy: 1917, 615
+  size: 157, 102
+  orig: 157, 102
+  offset: 0, 0
+  index: -1
+phaohoa_00030
+  rotate: false
+  xy: 2, 19
+  size: 134, 61
+  orig: 134, 61
+  offset: 0, 0
+  index: -1

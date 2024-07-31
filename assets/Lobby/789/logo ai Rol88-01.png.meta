@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "abb095cb-93df-47a9-a569-f9cd48f411de",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 700,
+  "height": 700,
+  "platformSettings": {},
+  "subMetas": {
+    "logo ai Rol88-01": {
+      "ver": "1.0.4",
+      "uuid": "f870711e-9954-424a-b568-46629f203375",
+      "rawTextureUuid": "abb095cb-93df-47a9-a569-f9cd48f411de",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 1,
+      "trimX": 36,
+      "trimY": 43,
+      "width": 628,
+      "height": 612,
+      "rawWidth": 700,
+      "rawHeight": 700,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

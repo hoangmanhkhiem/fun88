@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ff61cad3-846f-4cfd-9dec-cb393d9be63c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1478,
+  "height": 393,
+  "platformSettings": {},
+  "subMetas": {
+    "STTT-Anim-BonusGame": {
+      "ver": "1.0.4",
+      "uuid": "6383d0e7-5885-4bf2-bd3c-226e0d74613a",
+      "rawTextureUuid": "ff61cad3-846f-4cfd-9dec-cb393d9be63c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 3,
+      "width": 1472,
+      "height": 387,
+      "rawWidth": 1478,
+      "rawHeight": 393,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

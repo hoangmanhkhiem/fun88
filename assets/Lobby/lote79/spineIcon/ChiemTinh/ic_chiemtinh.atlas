@@ -1,0 +1,41 @@
+
+ic_chiemtinh.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+K
+  rotate: false
+  xy: 519, 314
+  size: 183, 98
+  orig: 183, 98
+  offset: 0, 0
+  index: -1
+K1
+  rotate: true
+  xy: 2, 130
+  size: 282, 515
+  orig: 282, 515
+  offset: 0, 0
+  index: -1
+mat nham
+  rotate: false
+  xy: 2, 2
+  size: 127, 41
+  orig: 127, 41
+  offset: 0, 0
+  index: -1
+mieng
+  rotate: false
+  xy: 278, 60
+  size: 89, 68
+  orig: 89, 68
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 2, 45
+  size: 274, 83
+  orig: 274, 83
+  offset: 0, 0
+  index: -1

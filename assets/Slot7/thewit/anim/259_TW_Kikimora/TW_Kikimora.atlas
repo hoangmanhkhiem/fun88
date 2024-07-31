@@ -1,0 +1,118 @@
+
+TW_Kikimora.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BLFoot
+  rotate: false
+  xy: 363, 128
+  size: 65, 140
+  orig: 65, 140
+  offset: 0, 0
+  index: -1
+BRFoot
+  rotate: false
+  xy: 482, 422
+  size: 18, 83
+  orig: 18, 83
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 274
+  size: 370, 231
+  orig: 370, 231
+  offset: 0, 0
+  index: -1
+FLFoot
+  rotate: false
+  xy: 189, 40
+  size: 100, 232
+  orig: 100, 232
+  offset: 0, 0
+  index: -1
+FRFoot
+  rotate: false
+  xy: 291, 68
+  size: 70, 204
+  orig: 70, 204
+  offset: 0, 0
+  index: -1
+Tooth1
+  rotate: false
+  xy: 291, 20
+  size: 86, 46
+  orig: 86, 46
+  offset: 0, 0
+  index: -1
+Tooth2
+  rotate: false
+  xy: 363, 74
+  size: 95, 52
+  orig: 95, 52
+  offset: 0, 0
+  index: -1
+Tooth3
+  rotate: true
+  xy: 430, 155
+  size: 113, 54
+  orig: 113, 54
+  offset: 0, 0
+  index: -1
+Tooth4
+  rotate: true
+  xy: 468, 54
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+Tooth5
+  rotate: true
+  xy: 460, 104
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+Tooth6
+  rotate: false
+  xy: 379, 23
+  size: 87, 49
+  orig: 87, 49
+  offset: 0, 0
+  index: -1
+Tooth7
+  rotate: true
+  xy: 147, 32
+  size: 58, 36
+  orig: 58, 36
+  offset: 0, 0
+  index: -1
+Tooth8
+  rotate: false
+  xy: 185, 2
+  size: 56, 36
+  orig: 56, 36
+  offset: 0, 0
+  index: -1
+blood
+  rotate: false
+  xy: 2, 92
+  size: 185, 180
+  orig: 185, 180
+  offset: 0, 0
+  index: -1
+cut
+  rotate: false
+  xy: 374, 270
+  size: 106, 235
+  orig: 106, 235
+  offset: 0, 0
+  index: -1
+grow
+  rotate: true
+  xy: 2, 15
+  size: 75, 143
+  orig: 75, 143
+  offset: 0, 0
+  index: -1

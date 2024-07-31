@@ -1,0 +1,223 @@
+
+STTT_Symbol_ThuyTinh_Wild_3o.png
+size: 992,504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm Left
+  rotate: true
+  xy: 271, 166
+  size: 44, 100
+  orig: 44, 100
+  offset: 0, 0
+  index: -1
+Arm Right
+  rotate: false
+  xy: 424, 18
+  size: 76, 104
+  orig: 76, 104
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 633, 272
+  size: 178, 230
+  orig: 178, 230
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 109, 6
+  size: 114, 174
+  orig: 114, 174
+  offset: 0, 0
+  index: -1
+Ear
+  rotate: true
+  xy: 159, 152
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+Fabric
+  rotate: false
+  xy: 536, 260
+  size: 95, 242
+  orig: 95, 242
+  offset: 0, 0
+  index: -1
+Face
+  rotate: true
+  xy: 536, 215
+  size: 43, 61
+  orig: 43, 61
+  offset: 0, 0
+  index: -1
+Forearm Left
+  rotate: false
+  xy: 661, 221
+  size: 102, 49
+  orig: 102, 49
+  offset: 0, 0
+  index: -1
+Forearm Right
+  rotate: false
+  xy: 2, 2
+  size: 105, 117
+  orig: 105, 117
+  offset: 0, 0
+  index: -1
+Frame Light
+  rotate: true
+  xy: 765, 239
+  size: 31, 225
+  orig: 31, 225
+  offset: 0, 0
+  index: -1
+Gem Sparkle
+  rotate: false
+  xy: 876, 11
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: true
+  xy: 285, 14
+  size: 106, 137
+  orig: 106, 137
+  offset: 0, 0
+  index: -1
+Horn Left
+  rotate: false
+  xy: 813, 275
+  size: 60, 34
+  orig: 60, 34
+  offset: 0, 0
+  index: -1
+Horn Right
+  rotate: false
+  xy: 599, 218
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+Leg Right
+  rotate: false
+  xy: 809, 46
+  size: 65, 191
+  orig: 65, 191
+  offset: 0, 0
+  index: -1
+Loincloth
+  rotate: true
+  xy: 813, 311
+  size: 191, 177
+  orig: 191, 177
+  offset: 0, 0
+  index: -1
+Moon
+  rotate: false
+  xy: 876, 143
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+Shoulder
+  rotate: false
+  xy: 383, 124
+  size: 130, 86
+  orig: 130, 86
+  offset: 0, 0
+  index: -1
+Sparkle
+  rotate: true
+  xy: 933, 18
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+Trident
+  rotate: true
+  xy: 52, 145
+  size: 357, 105
+  orig: 357, 105
+  offset: 0, 0
+  index: -1
+Trident Holder
+  rotate: false
+  xy: 52, 122
+  size: 127, 21
+  orig: 127, 21
+  offset: 0, 0
+  index: -1
+Wave/Wave Big
+  rotate: false
+  xy: 271, 212
+  size: 263, 290
+  orig: 263, 290
+  offset: 0, 0
+  index: -1
+Wave/Wave Long
+  rotate: true
+  xy: 159, 163
+  size: 339, 110
+  orig: 339, 110
+  offset: 0, 0
+  index: -1
+Wave/Wave Small
+  rotate: true
+  xy: 670, 2
+  size: 217, 137
+  orig: 217, 137
+  offset: 0, 0
+  index: -1
+Wild
+  rotate: true
+  xy: 556, 21
+  size: 192, 55
+  orig: 192, 55
+  offset: 0, 0
+  index: -1
+Wild Bright
+  rotate: true
+  xy: 613, 24
+  size: 192, 55
+  orig: 192, 55
+  offset: 0, 0
+  index: -1
+non
+  rotate: true
+  xy: 876, 73
+  size: 68, 75
+  orig: 68, 75
+  offset: 0, 0
+  index: -1
+thanh-doc
+  rotate: false
+  xy: 2, 121
+  size: 23, 381
+  orig: 23, 381
+  offset: 0, 0
+  index: -1
+thanh-docBright
+  rotate: false
+  xy: 27, 121
+  size: 23, 381
+  orig: 23, 381
+  offset: 0, 0
+  index: -1
+thanh-ngang
+  rotate: false
+  xy: 181, 122
+  size: 200, 39
+  orig: 200, 39
+  offset: 0, 0
+  index: -1
+thanh-ngangBright
+  rotate: true
+  xy: 515, 10
+  size: 200, 39
+  orig: 200, 39
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+TWSymbolScatter.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 170, 51
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+binh
+  rotate: true
+  xy: 251, 182
+  size: 71, 187
+  orig: 71, 187
+  offset: 0, 0
+  index: -1
+binh 2
+  rotate: true
+  xy: 251, 95
+  size: 85, 162
+  orig: 85, 162
+  offset: 0, 0
+  index: -1
+c
+  rotate: false
+  xy: 170, 97
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+de
+  rotate: false
+  xy: 213, 43
+  size: 147, 50
+  orig: 147, 50
+  offset: 0, 0
+  index: -1
+domdom
+  rotate: false
+  xy: 449, 48
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+e
+  rotate: true
+  xy: 402, 41
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+efect_light
+  rotate: true
+  xy: 415, 74
+  size: 80, 86
+  orig: 80, 86
+  offset: 0, 0
+  index: -1
+eff heal
+  rotate: true
+  xy: 177, 2
+  size: 39, 116
+  orig: 39, 116
+  offset: 0, 0
+  index: -1
+glow de copy
+  rotate: false
+  xy: 2, 50
+  size: 166, 94
+  orig: 166, 94
+  offset: 0, 0
+  index: -1
+nuoc
+  rotate: false
+  xy: 440, 156
+  size: 61, 97
+  orig: 61, 97
+  offset: 0, 0
+  index: -1
+r
+  rotate: true
+  xy: 295, 2
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 214, 98
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+scatter
+  rotate: false
+  xy: 2, 3
+  size: 173, 45
+  orig: 173, 45
+  offset: 0, 0
+  index: -1
+scatter copy
+  rotate: false
+  xy: 2, 146
+  size: 247, 107
+  orig: 247, 107
+  offset: 0, 0
+  index: -1
+t
+  rotate: false
+  xy: 362, 47
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+trang tri de
+  rotate: false
+  xy: 339, 25
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+trang tri de 2
+  rotate: false
+  xy: 415, 159
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1

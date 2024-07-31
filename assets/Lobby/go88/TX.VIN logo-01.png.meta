@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "40ba7052-c000-42ab-afd0-8633b3898079",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1920,
+  "height": 1080,
+  "platformSettings": {},
+  "subMetas": {
+    "TX.VIN logo-01": {
+      "ver": "1.0.4",
+      "uuid": "5dc29385-4e48-41fb-aad2-ee30bb48368f",
+      "rawTextureUuid": "40ba7052-c000-42ab-afd0-8633b3898079",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 25.5,
+      "offsetY": 52,
+      "trimX": 363,
+      "trimY": 223,
+      "width": 1245,
+      "height": 530,
+      "rawWidth": 1920,
+      "rawHeight": 1080,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

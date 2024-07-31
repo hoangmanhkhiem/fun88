@@ -1,0 +1,314 @@
+
+Girl2.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BanTayLacBau
+  rotate: false
+  xy: 2, 11
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+BanTayPhai
+  rotate: false
+  xy: 1099, 9
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+BanTayTraiCamBai
+  rotate: false
+  xy: 1050, 2
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+CanhTayPhai22
+  rotate: false
+  xy: 1149, 20
+  size: 61, 34
+  orig: 61, 34
+  offset: 0, 0
+  index: -1
+Chen
+  rotate: false
+  xy: 606, 90
+  size: 229, 164
+  orig: 229, 164
+  offset: 0, 0
+  index: -1
+ChiaBaiPhai
+  rotate: true
+  xy: 1557, 203
+  size: 51, 105
+  orig: 51, 105
+  offset: 0, 0
+  index: -1
+Dau1
+  rotate: false
+  xy: 837, 99
+  size: 92, 155
+  orig: 92, 155
+  offset: 0, 0
+  index: -1
+Dau2
+  rotate: false
+  xy: 931, 102
+  size: 94, 152
+  orig: 94, 152
+  offset: 0, 0
+  index: -1
+Dau3
+  rotate: false
+  xy: 1027, 111
+  size: 92, 143
+  orig: 92, 143
+  offset: 0, 0
+  index: -1
+Dia
+  rotate: false
+  xy: 304, 11
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+LaBai
+  rotate: true
+  xy: 1814, 184
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+MatNham
+  rotate: true
+  xy: 1202, 63
+  size: 41, 18
+  orig: 41, 18
+  offset: 0, 0
+  index: -1
+MatTrungBinh
+  rotate: false
+  xy: 965, 7
+  size: 41, 18
+  orig: 41, 18
+  offset: 0, 0
+  index: -1
+Mieng2
+  rotate: false
+  xy: 1482, 165
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+Mieng3
+  rotate: false
+  xy: 1008, 6
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+Mieng4
+  rotate: true
+  xy: 1426, 153
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+Nguc1
+  rotate: false
+  xy: 1050, 50
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+Nguc2
+  rotate: false
+  xy: 1099, 47
+  size: 45, 57
+  orig: 45, 57
+  offset: 0, 0
+  index: -1
+Non
+  rotate: true
+  xy: 965, 27
+  size: 73, 42
+  orig: 73, 42
+  offset: 0, 0
+  index: -1
+Ta_1
+  rotate: false
+  xy: 1230, 125
+  size: 91, 34
+  orig: 91, 34
+  offset: 0, 0
+  index: -1
+Ta_2
+  rotate: false
+  xy: 1449, 162
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+Ta_3
+  rotate: false
+  xy: 1557, 182
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+Ta_4
+  rotate: false
+  xy: 1514, 168
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+Ta_5
+  rotate: false
+  xy: 1535, 169
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+Ta_6
+  rotate: false
+  xy: 1579, 186
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+TayPhai
+  rotate: false
+  xy: 1323, 115
+  size: 91, 34
+  orig: 91, 34
+  offset: 0, 0
+  index: -1
+TaySSPhai
+  rotate: true
+  xy: 660, 4
+  size: 84, 90
+  orig: 84, 90
+  offset: 0, 0
+  index: -1
+TaySSTrai
+  rotate: true
+  xy: 752, 4
+  size: 84, 90
+  orig: 84, 90
+  offset: 0, 0
+  index: -1
+Than
+  rotate: false
+  xy: 1121, 138
+  size: 107, 116
+  orig: 107, 116
+  offset: 0, 0
+  index: -1
+TocMai
+  rotate: true
+  xy: 1757, 181
+  size: 31, 55
+  orig: 31, 55
+  offset: 0, 0
+  index: -1
+Trai1
+  rotate: false
+  xy: 1859, 219
+  size: 96, 35
+  orig: 96, 35
+  offset: 0, 0
+  index: -1
+Trai111
+  rotate: false
+  xy: 1328, 151
+  size: 96, 35
+  orig: 96, 35
+  offset: 0, 0
+  index: -1
+Trai1A
+  rotate: false
+  xy: 1121, 106
+  size: 96, 30
+  orig: 96, 30
+  offset: 0, 0
+  index: -1
+Trai2
+  rotate: false
+  xy: 1757, 214
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+Trai2A
+  rotate: false
+  xy: 1957, 182
+  size: 83, 72
+  orig: 83, 72
+  offset: 0, 0
+  index: -1
+Trai3
+  rotate: false
+  xy: 1328, 188
+  size: 115, 66
+  orig: 115, 66
+  offset: 0, 0
+  index: -1
+Trai3A
+  rotate: true
+  xy: 1664, 203
+  size: 51, 91
+  orig: 51, 91
+  offset: 0, 0
+  index: -1
+Trai4
+  rotate: false
+  xy: 844, 5
+  size: 66, 92
+  orig: 66, 92
+  offset: 0, 0
+  index: -1
+Trai4A
+  rotate: false
+  xy: 1009, 27
+  size: 39, 73
+  orig: 39, 73
+  offset: 0, 0
+  index: -1
+Trai5
+  rotate: true
+  xy: 1445, 196
+  size: 58, 110
+  orig: 58, 110
+  offset: 0, 0
+  index: -1
+Trai6
+  rotate: false
+  xy: 1230, 161
+  size: 96, 93
+  orig: 96, 93
+  offset: 0, 0
+  index: -1
+TraiTim
+  rotate: false
+  xy: 1146, 56
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1
+VaiPhai
+  rotate: false
+  xy: 606, 2
+  size: 52, 86
+  orig: 52, 86
+  offset: 0, 0
+  index: -1
+VaiTrai
+  rotate: false
+  xy: 912, 14
+  size: 51, 83
+  orig: 51, 83
+  offset: 0, 0
+  index: -1

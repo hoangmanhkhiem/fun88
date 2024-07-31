@@ -1,0 +1,104 @@
+
+anim.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 2
+  rotate: false
+  xy: 2476, 328
+  size: 544, 233
+  orig: 544, 233
+  offset: 0, 0
+  index: -1
+Group 3
+  rotate: false
+  xy: 3038, 555
+  size: 759, 77
+  orig: 759, 77
+  offset: 0, 0
+  index: -1
+Rectangle 3
+  rotate: false
+  xy: 1551, 38
+  size: 896, 56
+  orig: 896, 56
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2476, 563
+  size: 560, 456
+  orig: 560, 456
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 1551, 96
+  size: 923, 923
+  orig: 923, 923
+  offset: 0, 0
+  index: -1
+hom
+  rotate: false
+  xy: 3791, 797
+  size: 253, 222
+  orig: 253, 222
+  offset: 0, 0
+  index: -1
+ip1
+  rotate: false
+  xy: 3022, 331
+  size: 216, 222
+  orig: 216, 222
+  offset: 0, 0
+  index: -1
+ip2
+  rotate: true
+  xy: 3240, 345
+  size: 208, 223
+  orig: 208, 223
+  offset: 0, 0
+  index: -1
+layer1
+  rotate: false
+  xy: 2, 2
+  size: 1547, 1017
+  orig: 1547, 1017
+  offset: 0, 0
+  index: -1
+lixi
+  rotate: true
+  xy: 3465, 366
+  size: 187, 239
+  orig: 187, 239
+  offset: 0, 0
+  index: -1
+lixigiovang
+  rotate: false
+  xy: 3038, 634
+  size: 713, 169
+  orig: 713, 169
+  offset: 0, 0
+  index: -1
+t1
+  rotate: false
+  xy: 2907, 270
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+vang
+  rotate: false
+  xy: 2476, 33
+  size: 429, 293
+  orig: 429, 293
+  offset: 0, 0
+  index: -1
+vang2
+  rotate: false
+  xy: 3038, 805
+  size: 751, 214
+  orig: 751, 214
+  offset: 0, 0
+  index: -1
